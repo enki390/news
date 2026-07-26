@@ -15,55 +15,78 @@ RETENTION_DAYS = 30
 
 ALLOWED_CATEGORIES = ["경제", "세계", "IT/과학"]
 
-# Category-specific RSS Feeds (Targeting 3 Categories: 경제, 세계, IT/과학)
+# Category-specific RSS Feeds across Diverse Major Korean Outlets
 CATEGORY_FEEDS = [
     # 1. 경제
+    {"category": "경제", "name": "매일경제", "url": "https://www.mk.co.kr/rss/30000001/"},
+    {"category": "경제", "name": "한겨레", "url": "https://www.hani.co.kr/rss/economy/"},
+    {"category": "경제", "name": "동아일보", "url": "https://rss.donga.com/economy.xml"},
+    {"category": "경제", "name": "경향신문", "url": "https://www.khan.co.kr/rss/rssdata/economy.xml"},
+    {"category": "경제", "name": "연합뉴스", "url": "https://www.yna.co.kr/rss/economy.xml"},
     {"category": "경제", "name": "Google News 경제", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ko&gl=KR&ceid=KR:ko"},
-    {"category": "경제", "name": "연합뉴스 경제", "url": "https://www.yna.co.kr/rss/economy.xml"},
-    
+
     # 2. 세계
+    {"category": "세계", "name": "한겨레", "url": "https://www.hani.co.kr/rss/international/"},
+    {"category": "세계", "name": "경향신문", "url": "https://www.khan.co.kr/rss/rssdata/kh_world.xml"},
+    {"category": "세계", "name": "연합뉴스", "url": "https://www.yna.co.kr/rss/international.xml"},
     {"category": "세계", "name": "Google News 세계", "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko"},
-    {"category": "세계", "name": "연합뉴스 국제/세계", "url": "https://www.yna.co.kr/rss/international.xml"},
 
     # 3. IT/과학
-    {"category": "IT/과학", "name": "Google News IT/과학", "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE_TECHNOLOGY?hl=ko&gl=KR&ceid=KR:ko"},
-    {"category": "IT/과학", "name": "연합뉴스 IT/과학", "url": "https://www.yna.co.kr/rss/industry.xml"}
+    {"category": "IT/과학", "name": "매일경제", "url": "https://www.mk.co.kr/rss/50300009/"},
+    {"category": "IT/과학", "name": "한겨레", "url": "https://www.hani.co.kr/rss/science/"},
+    {"category": "IT/과학", "name": "경향신문", "url": "https://www.khan.co.kr/rss/rssdata/it.xml"},
+    {"category": "IT/과학", "name": "연합뉴스", "url": "https://www.yna.co.kr/rss/industry.xml"},
+    {"category": "IT/과학", "name": "Google News IT/과학", "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE_TECHNOLOGY?hl=ko&gl=KR&ceid=KR:ko"}
 ]
 
 def clean_html(text):
-    """Remove HTML tags and clean up whitespace."""
+    """Remove HTML tags, strip Google News RSS snippet junk, and clean up whitespace."""
     if not text:
         return ""
     soup = BeautifulSoup(text, "html.parser")
+    
+    # Remove lists of links inside Google News RSS descriptions
+    for tag in soup.find_all(['ol', 'ul', 'table']):
+        tag.decompose()
+        
     cleaned = soup.get_text(separator=" ").strip()
     cleaned = re.sub(r'\s+', ' ', cleaned)
-    return cleaned
+    
+    # Filter out concatenated news titles pattern like "... 아주경제 ... YTN ... 뉴시스 ..."
+    cleaned = re.sub(r'(\s+[가-힣A-Za-z0-9]+일보|\s+YTN|\s+MBC|\s+KBS|\s+SBS|\s+뉴시스|\s+아주경제|\s+뉴스1|\s+연합뉴스).*$', '', cleaned)
+    return cleaned.strip()
 
 def parse_publisher_from_title(title, default_name="언론사"):
     """Extract publisher name if included in title like 'Headline - Publisher'."""
     if " - " in title:
         parts = title.rsplit(" - ", 1)
-        return parts[0].strip(), parts[1].strip()
+        headline = parts[0].strip()
+        pub = parts[1].strip()
+        if len(pub) <= 15:
+            return headline, pub
     return title.strip(), default_name
 
 def fetch_rss_headlines():
     """Fetch headlines from configured category-specific RSS feeds."""
     raw_articles = []
-    print("[1/5] Collecting headlines across target 3 categories (경제, 세계, IT/과학)...")
+    print("[1/5] Collecting headlines across target 3 categories from diverse major Korean outlets...")
 
     for feed_info in CATEGORY_FEEDS:
         try:
             print(f"  - Fetching [{feed_info['category']}] {feed_info['name']}...")
             feed = feedparser.parse(feed_info['url'])
             for entry in feed.entries[:15]:  # Top 15 per feed
-                title = clean_html(entry.get('title', ''))
+                title = entry.get('title', '')
                 link = entry.get('link', '')
-                summary = clean_html(entry.get('summary', entry.get('description', '')))
+                summary_raw = entry.get('summary', entry.get('description', ''))
                 
                 if not title or not link:
                     continue
 
                 clean_title, pub_name = parse_publisher_from_title(title, feed_info['name'])
+                summary = clean_html(summary_raw)
+                if not summary or len(summary) < 10:
+                    summary = f"{clean_title} 관련 주요 보도 내용입니다."
                 
                 raw_articles.append({
                     "title": clean_title,
@@ -129,9 +152,9 @@ def summarize_with_gemini(cluster, api_key):
 [작성 지침]
 1. headline: 이슈 전체를 종합하는 명확한 대표 헤드라인 (1줄)
 2. category: 반드시 ["경제", "세계", "IT/과학"] 중 가장 부합하는 1개 선택 (권장: "{target_cat}")
-3. overview: 전체 뉴스 핵심 내용을 2~3문장으로 깔끔히 종합 요약
+3. overview: 원본 기사들의 핵심 내용을 자연스럽고 명확한 한국어 2~3문장으로 종합한 AI 요약 문장 (단순 헤드라인 나열 금지)
 4. narrative: 뉴스의 사건 흐름을 기승전결(기-발단, 승-전개, 전-쟁점, 결-결과)로 명확히 정리한 객체
-   - intro: [기: 발단 및 배경] 사건/이슈가 시작된 배경과 기선 (2~3문장)
+   - intro: [기: 발단 및 배경] 사건/이슈가 시작된 배경과 발생 경위 (2~3문장)
    - development: [승: 전개 상황] 뉴스 사건의 경과 및 주요 진행 상태 (2~3문장)
    - turn: [전: 핵심 쟁점] 언론과 시장에서 주목하는 주요 갈등/쟁점/변수 (2~3문장)
    - conclusion: [결: 현재 결과] 사건의 현재 결과 및 정리된 상황 (2~3문장)
@@ -182,7 +205,7 @@ def summarize_with_gemini(cluster, api_key):
     return None
 
 def build_fallback_summary(cluster):
-    """Fallback summarizer creating complete structured narrative, differences, key terms, and impact."""
+    """Fallback summarizer creating complete, clean structured narrative, differences, key terms, and impact."""
     primary = cluster[0]
     headline = primary['title']
     cat = primary.get('target_category', '경제')
@@ -198,50 +221,79 @@ def build_fallback_summary(cluster):
             pub_set.add(pub_name)
             publishers_info.append(art)
 
-    overview = primary['summary'] if len(primary['summary']) > 40 else f"{headline}에 대한 각 언론사의 주요 종합 보도 내용입니다."
+    pub_list_str = ", ".join(list(pub_set)[:4])
     
+    # Synthesize clean overview
+    clean_snippet = primary['summary']
+    if len(clean_snippet) > 150:
+        clean_snippet = clean_snippet[:150] + "..."
+    
+    overview = f"본 이슈는 '{headline}'에 대한 주요 보도 내용을 종합한 것입니다. {pub_list_str} 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다."
+
     narrative = {
-        "intro": f"{headline} 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-        "development": f"관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-        "turn": f"구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-        "conclusion": f"현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
+        "intro": f"최근 '{headline}' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+        "development": f"이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 {pub_list_str} 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+        "turn": f"실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+        "conclusion": f"현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
     }
 
     differences = []
     for art in publishers_info[:4]:
         differences.append({
             "publisher": art['publisher'],
-            "point": f"{art['publisher']}에서는 \"{art['title']}\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
+            "point": f"{art['publisher']}에서는 \"{art['title']}\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
         })
 
+    # Extract terms and build term dictionary lookup
     words = re.findall(r'[가-힣A-Za-z0-9]{2,}', headline)
     keywords = list(dict.fromkeys(words))[:5]
     
-    # Extract terms dynamically or generate fallback easy term explanations
-    key_terms = []
-    if len(words) >= 2:
-        key_terms.append({
-            "term": words[0],
-            "explanation": f"본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-        })
-        key_terms.append({
-            "term": words[1],
-            "explanation": f"관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-        })
-    else:
-        key_terms.append({
-            "term": "시장 영향성",
-            "explanation": "해당 뉴스가 관련 산업계 및 일반 소비자의 경제적 결정에 주시되는 정도를 나타내는 지표입니다."
-        })
+    term_dict = {
+        "관세": "수입품에 부과되는 세금으로, 무역 정세와 물가 및 기업 수출 전반에 영향을 주는 정책입니다.",
+        "트럼프": "미국 주요 정치 지도자로, 그의 공약이나 발언은 글로벌 통상 및 금융 시장의 주요 변수입니다.",
+        "금리": "돈의 빌림값(이자율)을 의미하며, 중앙은행의 금리 결정은 시중 자금 흐름과 부동산·증시에 직결됩니다.",
+        "환율": "국가 간 통화 교환 비율로, 원/달러 환율 상승(원화 약세)은 수입 물가 상승과 수출 기업 실적에 영향을 줍니다.",
+        "AI": "인공지능(Artificial Intelligence) 기술로, 빅테크 기업들의 투자 경쟁과 산업 생산성 혁신의 핵심 동력입니다.",
+        "반도체": "전자기기의 핵심 부품으로, 한국 경제 및 IT 산업의 대표적인 수출 동량 품목입니다.",
+        "데이터센터": "대규모 데이터를 저장·처리하는 필수 인프라로, 전력 수급 및 IT 서버 장비 수요와 직결됩니다.",
+        "증시": "주식이 거래되는 시장으로, 기업의 실적 전망과 경제 지표에 따라 민감하게 반응합니다."
+    }
 
-    impact = f"본 이슈는 {cat} 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
+    key_terms = []
+    for w in words:
+        for term_key, exp in term_dict.items():
+            if term_key in w and not any(kt['term'] == term_key for kt in key_terms):
+                key_terms.append({"term": term_key, "explanation": exp})
+
+    if len(key_terms) < 2:
+        if len(words) >= 2:
+            key_terms.append({
+                "term": words[0],
+                "explanation": f"본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+            })
+            key_terms.append({
+                "term": words[1],
+                "explanation": f"관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+            })
+        else:
+            key_terms.append({
+                "term": "시장 변동성",
+                "explanation": "해당 이슈가 관련 분야 전반의 가격 지표 및 소비자 심리에 미치는 변화의 폭입니다."
+            })
+
+    if cat == "경제":
+        impact = f"본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
+    elif cat == "세계":
+        impact = f"본 글로벌 이슈는 국가 간 통상 교섭 및 지정학적 관계에 직접적인 영향을 미치며, 국내 외환 및 수출 시장에도 연쇄 변수로 작용할 전망입니다."
+    else:
+        impact = f"본 IT/과학 기술 이슈는 관련 기술 표준화 및 빅테크 주도권 경쟁을 가속화하고, 향후 차세대 산업 생태계 개편으로 이어질 것으로 기대됩니다."
 
     return {
         "headline": headline,
         "category": cat,
         "overview": overview,
         "narrative": narrative,
-        "details": f"본 뉴스는 {', '.join(pub_set)} 등 다수의 매체에서 집중 조명하였습니다.",
+        "details": f"본 뉴스는 {pub_list_str} 등 다수의 매체에서 집중 조명하였습니다.",
         "differences": differences,
         "key_terms": key_terms,
         "impact": impact,

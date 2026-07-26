@@ -1,212 +1,85 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T21:34:16.015257+09:00",
+  "generated_at": "2026-07-26T21:41:42.093683+09:00",
   "total_count": 20,
   "news_items": [
     {
       "id": "news-20260726-001",
-      "headline": "버넘 英총리 국익 위해서라면 트럼프 공개 비판도 불사할 것",
-      "category": "세계",
+      "headline": "참모진들도 전면전 ‘우려’…트럼프, 이란 공격 일단중지 후 협상 시도",
+      "category": "경제",
       "summary": {
-        "overview": "버넘 英총리 국익 위해서라면 트럼프 공개 비판도 불사할 것 아주경제 버넘 \"영국 이익에 부합하면 트럼프 공개비판도 불사\" v.daum.net 브렉시트 후 7번째 영국 총리 버넘...\"국민 숨통 틔우겠다\" YTN 英매체 \"이란, 런던 공작원 활용 영국 공격 가능\" 뉴시스 번햄, \"영국 국익 위해 필요시 트럼프에 맞설 것\" - BBC 보도 Investing.com 한국어",
+        "overview": "본 이슈는 '참모진들도 전면전 ‘우려’…트럼프, 이란 공격 일단중지 후 협상 시도'에 대한 주요 보도 내용을 종합한 것입니다. 경향신문, 한겨레, 매일경제, MBC 뉴스 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
         "narrative": {
-          "intro": "버넘 英총리 국익 위해서라면 트럼프 공개 비판도 불사할 것 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
+          "intro": "최근 '참모진들도 전면전 ‘우려’…트럼프, 이란 공격 일단중지 후 협상 시도' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 경향신문, 한겨레, 매일경제, MBC 뉴스 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
         },
-        "details": "본 뉴스는 아주경제, 연합뉴스 국제/세계 등 다수의 매체에서 집중 조명하였습니다.",
+        "details": "본 뉴스는 경향신문, 한겨레, 매일경제, MBC 뉴스 등 다수의 매체에서 집중 조명하였습니다.",
         "differences": [
           {
-            "publisher": "아주경제",
-            "point": "아주경제에서는 \"버넘 英총리 국익 위해서라면 트럼프 공개 비판도 불사할 것\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
+            "publisher": "매일경제",
+            "point": "매일경제에서는 \"참모진들도 전면전 ‘우려’…트럼프, 이란 공격 일단중지 후 협상 시도\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
           },
           {
-            "publisher": "연합뉴스 국제/세계",
-            "point": "연합뉴스 국제/세계에서는 \"버넘 \"영국 이익에 부합하면 트럼프 공개비판도 불사\"\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "버넘",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"패트리엇 고갈 우려·호르무즈 협상에…트럼프, 이란 공격 2주 만에 보류했다\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
           },
           {
-            "term": "총리",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 세계 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "아주경제",
-          "title": "버넘 英총리 국익 위해서라면 트럼프 공개 비판도 불사할 것",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrOWxLUl9ENF8zbjVya3hxLXJPSXlhR1FFdjhIRncwUWVyZVg1M09Ha3dkYWxzb3RGRXUyQmRkM1NYelFyOGo2T3ZuaWxjN2czRmVvYWZhemxJd9IBWEFVX3lxTE5fQnQ4TTFWdVZUX0RzZmdyV1FBUzhOMW5FbGs1a1dpTERacFh3eUExU0EwbDBSRjJlTFlXOGs1NmNScFBNYnZsaVhTWl9YOUZVejlRMDVJdlI?oc=5"
-        },
-        {
-          "name": "연합뉴스 국제/세계",
-          "title": "버넘 \"영국 이익에 부합하면 트럼프 공개비판도 불사\"",
-          "url": "https://www.yna.co.kr/view/AKR20260726042000085"
-        }
-      ],
-      "keywords": [
-        "버넘",
-        "총리",
-        "국익",
-        "위해서라면",
-        "트럼프"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-001/600/400"
-    },
-    {
-      "id": "news-20260726-002",
-      "headline": "트럼프, 14일 만에 이란 공습 중단 지시...\"이란 협상 태도 진지해져\"",
-      "category": "세계",
-      "summary": {
-        "overview": "트럼프, 14일 만에 이란 공습 중단 지시...\"이란 협상 태도 진지해져\" 뉴스핌 돌연 ‘공습 중단’ 내막…“미사일이 없어!” 미군 ‘비상’ [지금뉴스] KBS 뉴스 이란군 대변인 \"미국이 공습 멈춰 보복 작전 중단\" v.daum.net \"트럼프, 이란에 추가 공습하지 말라고 지시…외교에 더 여지\" 연합인포맥스 이란 외무 \"美, 호르무즈서 더 느리고 위험한 항로 이용 강요\" 연합뉴스",
-        "narrative": {
-          "intro": "트럼프, 14일 만에 이란 공습 중단 지시...\"이란 협상 태도 진지해져\" 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 뉴스핌, 연합뉴스 국제/세계 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "뉴스핌",
-            "point": "뉴스핌에서는 \"트럼프, 14일 만에 이란 공습 중단 지시...\"이란 협상 태도 진지해져\"\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
+            "publisher": "경향신문",
+            "point": "경향신문에서는 \"이란 “미국이 공격 멈춰 우리도 보복 중단”···중동 긴장 일단 ‘숨 고르기’\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
           },
           {
-            "publisher": "연합뉴스 국제/세계",
-            "point": "연합뉴스 국제/세계에서는 \"이란군 대변인 \"미국이 공습 멈춰 보복 작전 중단\"\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
+            "publisher": "MBC 뉴스",
+            "point": "MBC 뉴스에서는 \"우크라, 카스피해에서 이란 상선 공격‥\"1명 사망\"\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
           }
         ],
         "key_terms": [
           {
             "term": "트럼프",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
+            "explanation": "미국 주요 정치 지도자로, 그의 공약이나 발언은 글로벌 통상 및 금융 시장의 주요 변수입니다."
           },
           {
-            "term": "14일",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
+            "term": "참모진들도",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "전면전",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
           }
         ],
-        "impact": "본 이슈는 세계 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
       },
       "publishers": [
         {
-          "name": "뉴스핌",
-          "title": "트럼프, 14일 만에 이란 공습 중단 지시...\"이란 협상 태도 진지해져\"",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mZUlJbjFyV3hhay1IOGpORm5pNW81WUg2enQzbGZ3SDVuYWV0dzg3c3B3V3FRNkZYRmZpT0NrMnFRZ0dYS3hoVUpxS2NtWUJldFJxRDQ3YlJ3cVVo?oc=5"
+          "name": "매일경제",
+          "title": "참모진들도 전면전 ‘우려’…트럼프, 이란 공격 일단중지 후 협상 시도",
+          "url": "https://www.mk.co.kr/news/world/12107849"
         },
         {
-          "name": "연합뉴스 국제/세계",
-          "title": "이란군 대변인 \"미국이 공습 멈춰 보복 작전 중단\"",
-          "url": "https://www.yna.co.kr/view/AKR20260726051900079"
-        }
-      ],
-      "keywords": [
-        "트럼프",
-        "14일",
-        "만에",
-        "이란",
-        "공습"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-002/600/400"
-    },
-    {
-      "id": "news-20260726-003",
-      "headline": "기후변화가 키운 대형 산불…프랑스·스페인서 30만명 대피",
-      "category": "세계",
-      "summary": {
-        "overview": "기후변화가 키운 대형 산불…프랑스·스페인서 30만명 대피 경향신문 와인 산지 보르도까지 산불 위협‥프랑스·스페인, 30만 명 대피 v.daum.net 산불과 산불 엉겨붙는 유럽, 폭염에 불이 안 꺼진다…30만명 대피 한겨레 佛 대서양변 남서부 산불, 보르도시 육박… 대피 주민 25만명 뉴시스 ‘여름휴가 프랑스·스페인 취소하세요’…최악 산불에 26만명 대피 문화일보",
-        "narrative": {
-          "intro": "기후변화가 키운 대형 산불…프랑스·스페인서 30만명 대피 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
+          "name": "한겨레",
+          "title": "패트리엇 고갈 우려·호르무즈 협상에…트럼프, 이란 공격 2주 만에 보류했다",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1270044.html"
         },
-        "details": "본 뉴스는 경향신문, 연합뉴스 국제/세계 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "경향신문",
-            "point": "경향신문에서는 \"기후변화가 키운 대형 산불…프랑스·스페인서 30만명 대피\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          },
-          {
-            "publisher": "연합뉴스 국제/세계",
-            "point": "연합뉴스 국제/세계에서는 \"프랑스 산불, 와인 산지 보르도까지 위협…30만명 넘게 대피\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "기후변화가",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "키운",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 세계 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "‘패트리엇 고갈 우려’에 확전 보류한 트럼프…오만 중재도 기대",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1269981.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "오만 중재 나서자, 트럼프 “이란 공습 멈춰”…확전 분수령 D-4",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1269939.html"
+        },
         {
           "name": "경향신문",
-          "title": "기후변화가 키운 대형 산불…프랑스·스페인서 30만명 대피",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vSV9CZWVqSFIyd1I3YWZ0eTZNLXBaUHFaQXp5bTdVYUlTRHJWUmpQZlNIVm4tVEJwdG15OTFWeTZkaVpWYVNsZzNWTDhxM2VMWUhra1lhNTR6QdIBX0FVX3lxTFB3S250NERKTFdCZTBsTkF1b3pRQnNBbFRCbHBmRUpPY0wycG9pMUVEOUNlb1JmUnJQLVRzRncyNzBvVlg3WjI3bGRSSGRiU2lnd1czMlgzUzdKSGx5Smhv?oc=5"
+          "title": "이란 “미국이 공격 멈춰 우리도 보복 중단”···중동 긴장 일단 ‘숨 고르기’",
+          "url": "https://www.khan.co.kr/article/202607262117001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
-          "name": "연합뉴스 국제/세계",
-          "title": "프랑스 산불, 와인 산지 보르도까지 위협…30만명 넘게 대피",
-          "url": "https://www.yna.co.kr/view/AKR20260726047700085"
-        }
-      ],
-      "keywords": [
-        "기후변화가",
-        "키운",
-        "대형",
-        "산불",
-        "프랑스"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-003/600/400"
-    },
-    {
-      "id": "news-20260726-004",
-      "headline": "독일 성소수자 행사장 차량 돌진‥최소 1명 사망, 14명 부상",
-      "category": "세계",
-      "summary": {
-        "overview": "독일 성소수자 행사장 차량 돌진‥최소 1명 사망, 14명 부상 MBC 뉴스 독일 성소수자 행사장 차량 돌진 16명 사상…경찰 \"용의자 추적 중\" v.daum.net 베를린 차량 테러범, IS 합류 시도했다 수감생활…두달 전 출소 KBS 뉴스 독일 성소수자 축제 차량돌진 17명 사상 \"이슬람 극단주의 테러\" 조선일보 獨베를린 성소수자 집회에 승용차 돌진, 1명 죽고 최소 15명 부상 뉴시스",
-        "narrative": {
-          "intro": "독일 성소수자 행사장 차량 돌진‥최소 1명 사망, 14명 부상 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 MBC 뉴스 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "MBC 뉴스",
-            "point": "MBC 뉴스에서는 \"독일 성소수자 행사장 차량 돌진‥최소 1명 사망, 14명 부상\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "독일",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "성소수자",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 세계 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "독일 성소수자 행사장 차량 돌진‥최소 1명 사망, 14명 부상",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1VkswQm1ZVUQtbnROeDJWNS04TWVVdkpUQ21IaDAyX1JuM3k3TnBWN3JVNWNINjNXZk9fZG0zUHNtTVBGT21ReXA4UkJYLWVIRmk4Wl9jajBKdmxFZm5hOGZRWmpIVHZzc212NmhUUDh5YXlI0gF0QVVfeXFMTVkwMDMxN201ZzFkcTJ4dDBlZnlHVll2YjYtRWZrenB2YjFZdENacGljZDlUVVhZLXg5dkJEekNoSVpKRFUyVnJJSkxlS3lQQXpYSG5Zd09Lb1oxV3BkWVdKV3VOdUZvUk1mbGMzTHd6ajl6S2w?oc=5"
+          "name": "한겨레",
+          "title": "패트리엇 고갈 우려·호르무즈 협상에…트럼프, 이란 공격 2주 만에 보류했다",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkhobDVrOU1Xa1B2dTMzcEFtajhwOWhCRzUyLUlhWlpDZWNmWE82Rm9UakxvcFVLRnJQSUJiaEJ4UXlWdHpjQTZyQi1ZZTlqbms1SjRTOXR1SXk2TmlsbWpTa3VURnZ0Vjc2emR4ZWEyTFpieFZqOUFkTzFIcDhVTWtn?oc=5"
         },
         {
           "name": "MBC 뉴스",
@@ -215,614 +88,410 @@
         }
       ],
       "keywords": [
-        "독일",
-        "성소수자",
-        "행사장",
-        "차량",
-        "돌진"
+        "참모진들도",
+        "전면전",
+        "우려",
+        "트럼프",
+        "이란"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-001/600/400"
+    },
+    {
+      "id": "news-20260726-002",
+      "headline": "케이티 페리 “이란 전쟁 영상에 내 노래 무단 사용…경악과 분노”",
+      "category": "경제",
+      "summary": {
+        "overview": "본 이슈는 '케이티 페리 “이란 전쟁 영상에 내 노래 무단 사용…경악과 분노”'에 대한 주요 보도 내용을 종합한 것입니다. 한겨레, 채널A, 연합뉴스, 경향신문 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '케이티 페리 “이란 전쟁 영상에 내 노래 무단 사용…경악과 분노”' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 한겨레, 채널A, 연합뉴스, 경향신문 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 한겨레, 채널A, 연합뉴스, 경향신문 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "매일경제",
+            "point": "매일경제에서는 \"케이티 페리 “이란 전쟁 영상에 내 노래 무단 사용…경악과 분노”\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"“두 전쟁 합쳐졌다”…우크라, 이란 선박 공격하며 ‘참전’ 이유는\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "경향신문",
+            "point": "경향신문에서는 \"‘협상파’ 이란 대통령, 국영방송과 공개 설전···전쟁 장기화에 파열음\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "연합뉴스",
+            "point": "연합뉴스에서는 \"백악관 이란전쟁 영상에 히트곡 쓰인 케이티 페리 \"용납 못 해\"\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "케이티",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "페리",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "케이티 페리 “이란 전쟁 영상에 내 노래 무단 사용…경악과 분노”",
+          "url": "https://www.mk.co.kr/news/world/12107813"
+        },
+        {
+          "name": "한겨레",
+          "title": "“두 전쟁 합쳐졌다”…우크라, 이란 선박 공격하며 ‘참전’ 이유는",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1269969.html"
+        },
+        {
+          "name": "경향신문",
+          "title": "‘협상파’ 이란 대통령, 국영방송과 공개 설전···전쟁 장기화에 파열음",
+          "url": "https://www.khan.co.kr/article/202607261511011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "백악관 이란전쟁 영상에 히트곡 쓰인 케이티 페리 \"용납 못 해\"",
+          "url": "https://www.yna.co.kr/view/AKR20260726039600009"
+        },
+        {
+          "name": "채널A",
+          "title": "이란 “미국과 전쟁 기간 중 석유 180억 달러 판매…예산 목표 수입 60% 확보”",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nUTNRS0gxUG1FSndCMGxSNFNweVVRcmZWVDg4b0VxRm5yZzRaRzYyZm93NjJSWW9kMlY2ZzluQnIybFlGUFlia1NuTFBRdkxkbUhiN1pGSDJPQmxqRWfSAWNBVV95cUxOSVppRWRtSjV6U2pCSFg0T2VkWl9feWdWUEhXU3V0NGJaOFdMSnduZ1g5aUx2c1ctc2tpOVhiTnR2Qmt4ODZGdXUxNDl2TDJwc2txRHhiSkY0eUI3S0E1Y1llV2s?oc=5"
+        }
+      ],
+      "keywords": [
+        "케이티",
+        "페리",
+        "이란",
+        "전쟁",
+        "영상에"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-002/600/400"
+    },
+    {
+      "id": "news-20260726-003",
+      "headline": "산불과 산불 엉겨붙는 유럽, 폭염에 불이 안 꺼진다…30만명 대피",
+      "category": "세계",
+      "summary": {
+        "overview": "본 이슈는 '산불과 산불 엉겨붙는 유럽, 폭염에 불이 안 꺼진다…30만명 대피'에 대한 주요 보도 내용을 종합한 것입니다. 경향신문, 한겨레, 연합뉴스 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '산불과 산불 엉겨붙는 유럽, 폭염에 불이 안 꺼진다…30만명 대피' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 경향신문, 한겨레, 연합뉴스 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 경향신문, 한겨레, 연합뉴스 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"산불과 산불 엉겨붙는 유럽, 폭염에 불이 안 꺼진다…30만명 대피\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "경향신문",
+            "point": "경향신문에서는 \"기후변화가 키운 대형 산불…프랑스·스페인서 30만명 대피\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "연합뉴스",
+            "point": "연합뉴스에서는 \"프랑스 산불, 와인 산지 보르도까지 위협…30만명 넘게 대피\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "산불과",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "산불",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 글로벌 이슈는 국가 간 통상 교섭 및 지정학적 관계에 직접적인 영향을 미치며, 국내 외환 및 수출 시장에도 연쇄 변수로 작용할 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "산불과 산불 엉겨붙는 유럽, 폭염에 불이 안 꺼진다…30만명 대피",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1269973.html"
+        },
+        {
+          "name": "경향신문",
+          "title": "기후변화가 키운 대형 산불…프랑스·스페인서 30만명 대피",
+          "url": "https://www.khan.co.kr/article/202607262107005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "“이건 단순 자연재해 아니다”···프랑스 투르드프랑스 단축·스페인 국가비상사태 선포 ‘최악 산불’로 30만명 망연자실",
+          "url": "https://www.khan.co.kr/article/202607261533001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "프랑스 산불, 와인 산지 보르도까지 위협…30만명 넘게 대피",
+          "url": "https://www.yna.co.kr/view/AKR20260726047700085"
+        },
+        {
+          "name": "경향신문",
+          "title": "기후변화가 키운 대형 산불…프랑스·스페인서 30만명 대피",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vSV9CZWVqSFIyd1I3YWZ0eTZNLXBaUHFaQXp5bTdVYUlTRHJWUmpQZlNIVm4tVEJwdG15OTFWeTZkaVpWYVNsZzNWTDhxM2VMWUhra1lhNTR6QdIBX0FVX3lxTFB3S250NERKTFdCZTBsTkF1b3pRQnNBbFRCbHBmRUpPY0wycG9pMUVEOUNlb1JmUnJQLVRzRncyNzBvVlg3WjI3bGRSSGRiU2lnd1czMlgzUzdKSGx5Smhv?oc=5"
+        }
+      ],
+      "keywords": [
+        "산불과",
+        "산불",
+        "엉겨붙는",
+        "유럽",
+        "폭염에"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-003/600/400"
+    },
+    {
+      "id": "news-20260726-004",
+      "headline": "삼전닉스, 메모리 공급사 넘어 인프라 협력…‘AI 동맹’ 파트너 격상",
+      "category": "경제",
+      "summary": {
+        "overview": "본 이슈는 '삼전닉스, 메모리 공급사 넘어 인프라 협력…‘AI 동맹’ 파트너 격상'에 대한 주요 보도 내용을 종합한 것입니다. 한겨레, 동아일보, 연합인포맥스 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '삼전닉스, 메모리 공급사 넘어 인프라 협력…‘AI 동맹’ 파트너 격상' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 한겨레, 동아일보, 연합인포맥스 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 한겨레, 동아일보, 연합인포맥스 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"삼전닉스, 메모리 공급사 넘어 인프라 협력…‘AI 동맹’ 파트너 격상\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "동아일보",
+            "point": "동아일보에서는 \"韓, 빅테크와 9500억 달러 AI 동맹…‘대체불가 핵심’ 부상\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "연합인포맥스",
+            "point": "연합인포맥스에서는 \"삼성전자·브로드컴, 2030년까지 2천억달러 규모 AI 반도체 협력\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "AI",
+            "explanation": "인공지능(Artificial Intelligence) 기술로, 빅테크 기업들의 투자 경쟁과 산업 생산성 혁신의 핵심 동력입니다."
+          },
+          {
+            "term": "삼전닉스",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "메모리",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "삼전닉스, 메모리 공급사 넘어 인프라 협력…‘AI 동맹’ 파트너 격상",
+          "url": "https://www.hani.co.kr/arti/economy/marketing/1269999.html"
+        },
+        {
+          "name": "동아일보",
+          "title": "韓, 빅테크와 9500억 달러 AI 동맹…‘대체불가 핵심’ 부상",
+          "url": "https://www.donga.com/news/Economy/article/all/20260726/134366023/1"
+        },
+        {
+          "name": "동아일보",
+          "title": "이재용-샘 올트먼 오픈AI 美본사서 회동…AI 협력 논의한 듯",
+          "url": "https://www.donga.com/news/Economy/article/all/20260726/134365982/2"
+        },
+        {
+          "name": "연합인포맥스",
+          "title": "삼성전자·브로드컴, 2030년까지 2천억달러 규모 AI 반도체 협력",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hVDlMSndhUE5adGRxM1ROZ2k2cGM5OUV5NUxBVnJaZVhidU5tcjZFcThUUWV3Vk0wRWhBZnhnYWhuYnhybUlzalNFcFgxUVM4YkRjWGJhRWVtQzZjR0dVclAyUVMxVUJPUVc3QjlaUi0?oc=5"
+        }
+      ],
+      "keywords": [
+        "삼전닉스",
+        "메모리",
+        "공급사",
+        "넘어",
+        "인프라"
       ],
       "image_url": "https://picsum.photos/seed/news-20260726-004/600/400"
     },
     {
       "id": "news-20260726-005",
-      "headline": "이 대통령, 젠슨 황·이재용 등과 ‘샌프란시스코 깐부 회동’",
-      "category": "경제",
+      "headline": "젤렌스키 “러시아, 북한 추가 파병 3만명 원해…6월부터 준비”",
+      "category": "세계",
       "summary": {
-        "overview": "이 대통령, 젠슨 황·이재용 등과 ‘샌프란시스코 깐부 회동’ 한겨레 [기획] 젠슨황부터 올트먼까지… 삼전닉스, 반도체 초격차 굳힌다 v.daum.net 이 대통령, \"대한민국 없이는 인공지능 가능하지 않은 상황 꼭 만들고 싶어\" 대한민국 정책브리핑 “우리는 식구” ‘샌프란 깐부 회동’…젠슨 황·샘 알트만 일대일 면담 KBS 뉴스 젠슨황의 ‘골든벨’ 제안에…배경훈 “공무원이라 안돼” 폭소 동아일보",
+        "overview": "본 이슈는 '젤렌스키 “러시아, 북한 추가 파병 3만명 원해…6월부터 준비”'에 대한 주요 보도 내용을 종합한 것입니다. 경향신문, 한겨레, 조선일보 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
         "narrative": {
-          "intro": "이 대통령, 젠슨 황·이재용 등과 ‘샌프란시스코 깐부 회동’ 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
+          "intro": "최근 '젤렌스키 “러시아, 북한 추가 파병 3만명 원해…6월부터 준비”' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 경향신문, 한겨레, 조선일보 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
         },
-        "details": "본 뉴스는 한겨레 등 다수의 매체에서 집중 조명하였습니다.",
+        "details": "본 뉴스는 경향신문, 한겨레, 조선일보 등 다수의 매체에서 집중 조명하였습니다.",
         "differences": [
           {
             "publisher": "한겨레",
-            "point": "한겨레에서는 \"이 대통령, 젠슨 황·이재용 등과 ‘샌프란시스코 깐부 회동’\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
+            "point": "한겨레에서는 \"젤렌스키 “러시아, 북한 추가 파병 3만명 원해…6월부터 준비”\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "경향신문",
+            "point": "경향신문에서는 \"젤렌스키 “러시아, 북한에 3만명 추가 파병 요청”\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "조선일보",
+            "point": "조선일보에서는 \"젤렌스키 \"러, 北병력 3만 추가 배치 준비 중\"\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
           }
         ],
         "key_terms": [
           {
-            "term": "대통령",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
+            "term": "젤렌스키",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
           },
           {
-            "term": "젠슨",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
+            "term": "러시아",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
           }
         ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
+        "impact": "본 글로벌 이슈는 국가 간 통상 교섭 및 지정학적 관계에 직접적인 영향을 미치며, 국내 외환 및 수출 시장에도 연쇄 변수로 작용할 전망입니다."
       },
       "publishers": [
         {
           "name": "한겨레",
-          "title": "이 대통령, 젠슨 황·이재용 등과 ‘샌프란시스코 깐부 회동’",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JVmNLb0l4NTYtZGNuNlRlcVhySERHaEhJSHJ3Wjlsb1g5bmU5LTNDV1F4dEZSbjRTN2RaOFJvZlRiWGh4d2NWR2ZVZVNQaDFSQ2xyWmtsVV90ZWFRTXBFdFZCODBZSUx0V3I0?oc=5"
+          "title": "젤렌스키 “러시아, 북한 추가 파병 3만명 원해…6월부터 준비”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1270001.html"
+        },
+        {
+          "name": "경향신문",
+          "title": "젤렌스키 “러시아, 북한에 3만명 추가 파병 요청”",
+          "url": "https://www.khan.co.kr/article/202607262127015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "젤렌스키 “러시아, 북한에 병력 3만명 추가 파병 요청···이란엔 위성정보 제공”",
+          "url": "https://www.khan.co.kr/article/202607261330001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "조선일보",
+          "title": "젤렌스키 \"러, 北병력 3만 추가 배치 준비 중\"",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUx0WE5GN18tZ0Y1WTRyaEpQUXdvNUVhQUZaLXFjYTdkTmZreVNJUlN2dVJKUlVFZldwQzNjaER6RnRsQ1E4SGgyTDRjTHVTdWdEeUtGQV9zNGd6N3MyYnhjNFdCaHVSd0JheGpSc2JQejdfTWltTzd5MF9KUUZ1WDJCUllFUDEybWpOV0Y2UnZ5OTFSemp5STJWNGZvQQ?oc=5"
         }
       ],
       "keywords": [
-        "대통령",
-        "젠슨",
-        "이재용",
-        "등과",
-        "샌프란시스코"
+        "젤렌스키",
+        "러시아",
+        "북한",
+        "추가",
+        "파병"
       ],
       "image_url": "https://picsum.photos/seed/news-20260726-005/600/400"
     },
     {
       "id": "news-20260726-006",
-      "headline": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업",
+      "headline": "낡은 빌라만 사두면 알아서 아파트 된다?...재개발 투자 ‘여긴 피해라’",
       "category": "경제",
       "summary": {
-        "overview": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업 v.daum.net [단독] 실리콘밸리 큰손들 “韓, 차이나플러스원 가장 유력한 대안” v.daum.net 이 대통령 \"한국, AI 시대에 대체 불가능한 나라로 만들 것\" JTBC 李가 모은 실리콘밸리 킹메이커들…450조 VC, K스타트업에 문 연다 한국경제 김용범 “이 대통령, 빅테크 ‘킹메이커’ 만나…삼성·SK 다음 타자 키우자 결의” 한겨레",
+        "overview": "본 이슈는 '낡은 빌라만 사두면 알아서 아파트 된다?...재개발 투자 ‘여긴 피해라’'에 대한 주요 보도 내용을 종합한 것입니다. 매일경제 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
         "narrative": {
-          "intro": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 v.daum.net 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "v.daum.net",
-            "point": "v.daum.net에서는 \"이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "대통령",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "한국",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "v.daum.net",
-          "title": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hUVFzU1pTNzFXY3hrOUtBZ1psTHBfVWIxM3dzLUppV001U2hHWFpNN2R5RzRCR1RNdXEtNWNqYjFwXzBLaGc?oc=5"
-        }
-      ],
-      "keywords": [
-        "대통령",
-        "한국",
-        "반도체",
-        "공장",
-        "없인"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-006/600/400"
-    },
-    {
-      "id": "news-20260726-007",
-      "headline": "[단독]‘비거주 30억 이상 초고가 1주택’에 다주택 종부세율 적용 추진···장특공제 감면액 상한 검토",
-      "category": "경제",
-      "summary": {
-        "overview": "[단독]‘비거주 30억 이상 초고가 1주택’에 다주택 종부세율 적용 추진···장특공제 감면액 상한 검토 경향신문 초고가 ‘똘똘한 1채’ 보유세 강화가 개편안 핵심…실거주·지방 주택 감면 우대 한겨레 종부세 기준 12억보다 높이고, 초고가 주택엔 稅부담 늘린다 동아일보 [편집국에서] 죄인이 된 고가·다주택자 v.daum.net 부동산 세제개편 임박 뉴시스",
-        "narrative": {
-          "intro": "[단독]‘비거주 30억 이상 초고가 1주택’에 다주택 종부세율 적용 추진···장특공제 감면액 상한 검토 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 경향신문 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "경향신문",
-            "point": "경향신문에서는 \"[단독]‘비거주 30억 이상 초고가 1주택’에 다주택 종부세율 적용 추진···장특공제 감면액 상한 검토\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "단독",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "비거주",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "경향신문",
-          "title": "[단독]‘비거주 30억 이상 초고가 1주택’에 다주택 종부세율 적용 추진···장특공제 감면액 상한 검토",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MejdfVXdlQXJGc3p6akVMZzVKcHRFNHdtUHVRdGRvQXpMYjlvNzNkM1dhcDFMUERVcGZ4WTA1cjJEclNJT3Itc1RLSzVtNFQzaWFtbG5tdUo4Z9IBX0FVX3lxTE5EN2J2X09YdG8yN3d3bEZ3a2dYRXNMRFlwU3F3UGNsZkJRdWtjNG90VUxCdXBmUnBscllpakVMaWpneFBUTUFGcDRJT09vWTM2YndINTNIYWZrX3REWU1F?oc=5"
-        }
-      ],
-      "keywords": [
-        "단독",
-        "비거주",
-        "30억",
-        "이상",
-        "초고가"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-007/600/400"
-    },
-    {
-      "id": "news-20260726-008",
-      "headline": "개미, 삼전닉스 레버리지 폭풍 매수",
-      "category": "경제",
-      "summary": {
-        "overview": "개미, 삼전닉스 레버리지 폭풍 매수 한경매거진&북 [경제뭔데]삼전닉스 레버리지 예탁금 3천만원 올리면 기존 투자자는 어떻게 되나요? 경향신문 반토막 난 레버리지 하루 만에 4538억 '줍줍'…개미들, 물타기 승부수 주간조선 규제 강화 전 물타기?…삼전·닉스 2배 손절했던 개미들, 다시 폭풍매수 뉴시스 레버리지ETF 수급 쇼크, 코스닥 중·소형주에 집중타…“승강제 도입 부작용 우려” [이슈+] 에너지경제신문",
-        "narrative": {
-          "intro": "개미, 삼전닉스 레버리지 폭풍 매수 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 한경매거진&북 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "한경매거진&북",
-            "point": "한경매거진&북에서는 \"개미, 삼전닉스 레버리지 폭풍 매수\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "개미",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "삼전닉스",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "한경매거진&북",
-          "title": "개미, 삼전닉스 레버리지 폭풍 매수",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4ODRWRFFfa2VJdmZ2QmpJdFZncjdXSnBSckFaMGxqaHBuQm5xb2pLb3lJcDhiTGp4M0p5QS1vVmFYUVprRnk5YTRfRGs0QmxacElQNmNLSFZTaElaZXgzVHkzdDZad2Y3VlFGaQ?oc=5"
-        }
-      ],
-      "keywords": [
-        "개미",
-        "삼전닉스",
-        "레버리지",
-        "폭풍",
-        "매수"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-008/600/400"
-    },
-    {
-      "id": "news-20260726-009",
-      "headline": "[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최 - 조선비즈",
-      "category": "경제",
-      "summary": {
-        "overview": "[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최 - 조선비즈 Chosunbiz “매출 늘었는데 주가 왜 이래” 투자 비결이 변했다…실적보다 ‘현금’ 따져봐야 [투자360] v.daum.net 제로클릭 위기? 구글은 AI 광고로 돈 더 번다 바이라인네트워크 마이크론, 테슬라·IBM 설비투자 지침 불확실성에 투자심리 흔들려 매일경제 마켓 [AI 투자의 늪] ① 클라우드 매출 폭발에도 FCF 적자, 문제는 BEP 뉴스핌",
-        "narrative": {
-          "intro": "[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최 - 조선비즈 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 Chosunbiz 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "Chosunbiz",
-            "point": "Chosunbiz에서는 \"[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최 - 조선비즈\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "주간증시전망",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "빅테크",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "Chosunbiz",
-          "title": "[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최 - 조선비즈",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkFfdzM4RVI4d2ZmeUZkNENxZEl4dHVOY2NBNFNCRDJ2ak9KaEVwUHJ5dm16a21CcWdMWDVTS0tiZHNjQTVydzRmUGNQVzFBNUNJMG0xSHdxblRMRlZGaG5hdkQyYnhOendjd3NUMDhsazF1YTd1ZGd5S0FFOVpEMktEZ2p1WEl50gGcAUFVX3lxTE5BODcyNkhEaHM3MWkwSE9ZU3RrRDlGOVY1ZmRyVmJBQ3dwdVQzeVlDbUdmOWszR21rVHZmTGFFa0k4Q2ZMRlE1QWp4WHhUNXFKZHcxTXU0TEs5T0tHdzNZaDJuWWpTVk14dm5xUmpDSjBHdThCQ3BwdFRhdmVYaDd1RW9yZ05UM2F1RHFsY0VfdEpOR1cyMTljcUJWcQ?oc=5"
-        }
-      ],
-      "keywords": [
-        "주간증시전망",
-        "빅테크",
-        "이어",
-        "SK하이닉스도",
-        "실적"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-009/600/400"
-    },
-    {
-      "id": "news-20260726-010",
-      "headline": "“일본 키옥시아, 최대주주 다시 도시바⋯SK하닉 사실상 2대 주주”",
-      "category": "경제",
-      "summary": {
-        "overview": "“일본 키옥시아, 최대주주 다시 도시바⋯SK하닉 사실상 2대 주주” v.daum.net SK하이닉스, 사실상 경쟁사 日 '키옥시아' 2대 주주로 전자신문 SK하이닉스, 사실상 ‘키옥시아 2대 주주’ 돼... 실제 주식 전환은 아직 조선일보 SK하이닉스, 키옥시아 최대주주 되나…베인 엑시트·도시바 지분 축소 마켓인 SK하이닉스, 키옥시아 최대주주되나…日언론은 \"투자주의\" [도쿄나우] 한국경제",
-        "narrative": {
-          "intro": "“일본 키옥시아, 최대주주 다시 도시바⋯SK하닉 사실상 2대 주주” 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 v.daum.net 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "v.daum.net",
-            "point": "v.daum.net에서는 \"“일본 키옥시아, 최대주주 다시 도시바⋯SK하닉 사실상 2대 주주”\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "일본",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "키옥시아",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "v.daum.net",
-          "title": "“일본 키옥시아, 최대주주 다시 도시바⋯SK하닉 사실상 2대 주주”",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhT3FreHlodTljTU13a3JmT1dkMnhBOHg0R2tsa05BS2VvUFBDZTlFdGJxaUZFRmNTTXBVbzFPaENvczdSYmJQbWFydUNsUFU?oc=5"
-        }
-      ],
-      "keywords": [
-        "일본",
-        "키옥시아",
-        "최대주주",
-        "다시",
-        "도시바"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-010/600/400"
-    },
-    {
-      "id": "news-20260726-011",
-      "headline": "결혼생활 30년, 재산은 1/3…최태원·노소영 재산분할 계산법은?",
-      "category": "경제",
-      "summary": {
-        "overview": "결혼생활 30년, 재산은 1/3…최태원·노소영 재산분할 계산법은? 노컷뉴스 재산분할 최태원 9천440억원 역대 최고…'8조' 권혁빈 이혼소송 9월 선고 연합뉴스 ‘9440억’ 실탄 필요한 최태원, SK 주식 매각 대신 ‘우회로’ 찾나 v.daum.net “돈, 로맨스, 부패, 배신 얽힌 현실판 K드라마”···외신들도 주목한 최태원·노소영 이혼 주간경향 '최태원부터 이재용까지'…역대 재벌가 이혼·재산분할 어떻게 갈렸나 뉴시스",
-        "narrative": {
-          "intro": "결혼생활 30년, 재산은 1/3…최태원·노소영 재산분할 계산법은? 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 노컷뉴스 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "노컷뉴스",
-            "point": "노컷뉴스에서는 \"결혼생활 30년, 재산은 1/3…최태원·노소영 재산분할 계산법은?\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "결혼생활",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "30년",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "노컷뉴스",
-          "title": "결혼생활 30년, 재산은 1/3…최태원·노소영 재산분할 계산법은?",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mei1nSHJLcV9XcDd2THdDWXcxcUhTS0xIeXZoTUlMVlZpRzBoTlEzaTNVQU8zdm1tRkU4YVZGWkV1MFNLaWpOcnNrNS1ocTFLZ0E?oc=5"
-        }
-      ],
-      "keywords": [
-        "결혼생활",
-        "30년",
-        "재산은",
-        "최태원",
-        "노소영"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-011/600/400"
-    },
-    {
-      "id": "news-20260726-012",
-      "headline": "삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력",
-      "category": "경제",
-      "summary": {
-        "overview": "삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력 전자신문 \"메모리·파운드리 다 되네\"…삼성, 브로드컴 300조 잭팟? \"이제 시작\" - 머니투데이 머니투데이 삼성·SK하닉·네이버…경기도 거점 기업, AI 서밋 날개 v.daum.net 삼성전자-브로드컴, 첨단 반도체 기술 파트너십 연합뉴스 삼성·브로드컴, 2000억불 턴키 계약…SK·엔비디아 5000억불 인프라 동맹 마켓인",
-        "narrative": {
-          "intro": "삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 전자신문 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "전자신문",
-            "point": "전자신문에서는 \"삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "삼성전자",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "브로드컴과",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "전자신문",
-          "title": "삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kMmk2NDhPUkc0V3VwVXZKdDl0TWVBYXJoQ2NvUEFpMU4tNjdBODE4MVBaaHJoNGZmQVgtRzc1VGlDZUZCajdpWFNTTFN2UQ?oc=5"
-        }
-      ],
-      "keywords": [
-        "삼성전자",
-        "브로드컴과",
-        "292조원",
-        "규모",
-        "반도체"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-012/600/400"
-    },
-    {
-      "id": "news-20260726-013",
-      "headline": "코스피 7000선 회복할까? 다음주 빅테크·삼전닉스 실적에 쏠린 눈",
-      "category": "경제",
-      "summary": {
-        "overview": "코스피 7000선 회복할까? 다음주 빅테크·삼전닉스 실적에 쏠린 눈 경향신문 다음주 SK하이닉스·삼성전자 실적 발표…코스피 향방은 연합인포맥스 급락 뒤 맞는 실적의 시간…중동·FOMC 넘어 반도체가 증시 방향 가른다 [주간증시] 에너지경제신문 SK하이닉스 실적·한미 반도체 협력에 'AI 투심' 살아날까 - 머니투데이 머니투데이 이번주 증시 국내외 주요 기업 실적 발표 주목 연합뉴스TV",
-        "narrative": {
-          "intro": "코스피 7000선 회복할까? 다음주 빅테크·삼전닉스 실적에 쏠린 눈 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 경향신문 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "경향신문",
-            "point": "경향신문에서는 \"코스피 7000선 회복할까? 다음주 빅테크·삼전닉스 실적에 쏠린 눈\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "코스피",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "7000선",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "경향신문",
-          "title": "코스피 7000선 회복할까? 다음주 빅테크·삼전닉스 실적에 쏠린 눈",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Zc3FURW1EV3pWWkhDVDdESGRnT3FOVVFZREtSdUttcUthaGRhQWFhT0lneWJDZnFyUWx2RGRHVWJnQlFhaDRpZk5HVkhVVTlEUTY5UnF4OE0wQdIBX0FVX3lxTFBOYzdjR0tRS3hpS2ZRNUhzREZ4dGE2M1E1M2hXY1JLeDgyZUg3ODdtcktBcm9OOG5TZTI3c2xkNGp6YVRfa2JJTmQ2WTNPVC1oSDRjbXJiakZGbzJZTWo4?oc=5"
-        }
-      ],
-      "keywords": [
-        "코스피",
-        "7000선",
-        "회복할까",
-        "다음주",
-        "빅테크"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-013/600/400"
-    },
-    {
-      "id": "news-20260726-014",
-      "headline": "청년·서민 대출 숨통 틔운다… 금융당국, 가계대출 총량관리 예외 검토",
-      "category": "경제",
-      "summary": {
-        "overview": "청년·서민 대출 숨통 틔운다… 금융당국, 가계대출 총량관리 예외 검토 조선일보 “아파트 구한 영웅” 李에 호소 대출길 열었다 문화일보 전세대출 규제 강화… 유주택·비거주1주택자 '타깃' v.daum.net 내집 마련은 `그림의 떡`?…20·30세대 주택 보유율 30% 밑으로 국제신문 우아하게… 몸 따로 마음 따로 기호일보",
-        "narrative": {
-          "intro": "청년·서민 대출 숨통 틔운다… 금융당국, 가계대출 총량관리 예외 검토 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 조선일보 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "조선일보",
-            "point": "조선일보에서는 \"청년·서민 대출 숨통 틔운다… 금융당국, 가계대출 총량관리 예외 검토\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "청년",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "서민",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "조선일보",
-          "title": "청년·서민 대출 숨통 틔운다… 금융당국, 가계대출 총량관리 예외 검토",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHRTTUdQZmVLWUZiV2FKWEdjTVNwXy1GWFd4YWZzSlBWSFJzYk5sLU1CMGpucjJ1ZUo5dDZEXzdMTUUwSENjbGVLV09xc1lzOW04aWxFVWdnX1IzcmRnRkx2SWxwYzRFRDVlM2NTNU5mLXF5RmNYUE9DM2U4UFBLdGQzSUJtTmc1SXdBWHFR?oc=5"
-        }
-      ],
-      "keywords": [
-        "청년",
-        "서민",
-        "대출",
-        "숨통",
-        "틔운다"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-014/600/400"
-    },
-    {
-      "id": "news-20260726-015",
-      "headline": "삼성전자 \"AI 글래스, 스마트폰 경험 확장에 초점\"",
-      "category": "경제",
-      "summary": {
-        "overview": "삼성전자 \"AI 글래스, 스마트폰 경험 확장에 초점\" 지디넷코리아 삼성은 왜 ‘안경’을 만들었나… 스마트 글라스 뒤에 숨은 ‘로봇 시장’ 전략 조선일보 “그냥 안경처럼 보이게 기술 집약”…삼성 ‘인텔리전트 아이웨어’ 경향신문 삼성, 갤Z 사전판매 앞두고 AI 구독클럽 혜택 강화 연합뉴스 [포토뉴스] ‘갤럭시 Z8’ 라인업 사전 판매 팝업스토어 부산일보",
-        "narrative": {
-          "intro": "삼성전자 \"AI 글래스, 스마트폰 경험 확장에 초점\" 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 지디넷코리아 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "지디넷코리아",
-            "point": "지디넷코리아에서는 \"삼성전자 \"AI 글래스, 스마트폰 경험 확장에 초점\"\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "삼성전자",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "AI",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "지디넷코리아",
-          "title": "삼성전자 \"AI 글래스, 스마트폰 경험 확장에 초점\"",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SYjQ2WnlxVGRmWmFYNHM1ek5LWWpwRHYzNmxtVl9vdWNnTW81UHV5YjZGQl93V3pnN3dFbU5ueUIyMGFEVlpFLUh4YkpkeFJLZFlQUExB?oc=5"
-        }
-      ],
-      "keywords": [
-        "삼성전자",
-        "AI",
-        "글래스",
-        "스마트폰",
-        "경험"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-015/600/400"
-    },
-    {
-      "id": "news-20260726-016",
-      "headline": "‘세계 최대’ 스타십 발사…궤도 진입 성공",
-      "category": "경제",
-      "summary": {
-        "overview": "‘세계 최대’ 스타십 발사…궤도 진입 성공 채널A 스페이스X, 최신 V3 스타십 로켓 대체로 성공…IPO 후 '첫 시험' 연합뉴스 [영상]세계 최대 발사체 ‘스타십’ 13차 시험발사 성공…첫 위성 배치 경향신문 공모가 밑돈 스페이스X...미래 먹거리 ‘스타십’ 시험비행 성공 By EBN Investing.com 한국어 [포토] 스타십 로켓, 2차례 연기 뒤 발사 성공 전자신문",
-        "narrative": {
-          "intro": "‘세계 최대’ 스타십 발사…궤도 진입 성공 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
-        },
-        "details": "본 뉴스는 채널A 등 다수의 매체에서 집중 조명하였습니다.",
-        "differences": [
-          {
-            "publisher": "채널A",
-            "point": "채널A에서는 \"‘세계 최대’ 스타십 발사…궤도 진입 성공\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
-          }
-        ],
-        "key_terms": [
-          {
-            "term": "세계",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
-          },
-          {
-            "term": "최대",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
-          }
-        ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
-      },
-      "publishers": [
-        {
-          "name": "채널A",
-          "title": "‘세계 최대’ 스타십 발사…궤도 진입 성공",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FaUJyY1oxanh4ZGlxWEhOX0p6VVZXREJudm9va2hDTHdoWHRsUWh2X1hreUY1Vy1aWGNDR2hUQ0FtLW82d05Gel9iRnIwRzlsUEpkbzJkRzg0TmNSWkHSAWNBVV95cUxPMmhkRVB0cXBvRmhDeGx5WE1OdS15aGdxUG93OFZVMDZmLVpaeFZjckNnUEFMSFRWYkFjYW54RG1QSWtkeFF4Wkx1YVJhWDJPck5vdVlZWHczOUhXVEYzb0g0ZFk?oc=5"
-        }
-      ],
-      "keywords": [
-        "세계",
-        "최대",
-        "스타십",
-        "발사",
-        "궤도"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260726-016/600/400"
-    },
-    {
-      "id": "news-20260726-017",
-      "headline": "주택시장 진입 ‘바늘구멍’…2030 세대 보유율 30% 밑으로",
-      "category": "경제",
-      "summary": {
-        "overview": "주택시장 진입 ‘바늘구멍’…2030 세대 보유율 30% 밑으로 매일경제 Google 뉴스에서 헤드라인 및 의견 더보기",
-        "narrative": {
-          "intro": "주택시장 진입 ‘바늘구멍’…2030 세대 보유율 30% 밑으로 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
+          "intro": "최근 '낡은 빌라만 사두면 알아서 아파트 된다?...재개발 투자 ‘여긴 피해라’' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 매일경제 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
         },
         "details": "본 뉴스는 매일경제 등 다수의 매체에서 집중 조명하였습니다.",
         "differences": [
           {
             "publisher": "매일경제",
-            "point": "매일경제에서는 \"주택시장 진입 ‘바늘구멍’…2030 세대 보유율 30% 밑으로\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
+            "point": "매일경제에서는 \"낡은 빌라만 사두면 알아서 아파트 된다?...재개발 투자 ‘여긴 피해라’\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "낡은",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "빌라만",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "낡은 빌라만 사두면 알아서 아파트 된다?...재개발 투자 ‘여긴 피해라’",
+          "url": "https://www.mk.co.kr/news/realestate/12107822"
+        },
+        {
+          "name": "매일경제",
+          "title": "낡은 빌라만 사두면 아파트 된다는 착각",
+          "url": "https://www.mk.co.kr/news/realestate/12107651"
+        }
+      ],
+      "keywords": [
+        "낡은",
+        "빌라만",
+        "사두면",
+        "알아서",
+        "아파트"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-006/600/400"
+    },
+    {
+      "id": "news-20260726-007",
+      "headline": "주택시장 진입 ‘바늘구멍’…2030 세대 보유율 30% 밑으로",
+      "category": "경제",
+      "summary": {
+        "overview": "본 이슈는 '주택시장 진입 ‘바늘구멍’…2030 세대 보유율 30% 밑으로'에 대한 주요 보도 내용을 종합한 것입니다. 매일경제 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '주택시장 진입 ‘바늘구멍’…2030 세대 보유율 30% 밑으로' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 매일경제 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 매일경제 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "매일경제",
+            "point": "매일경제에서는 \"주택시장 진입 ‘바늘구멍’…2030 세대 보유율 30% 밑으로\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
           }
         ],
         "key_terms": [
           {
             "term": "주택시장",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
           },
           {
             "term": "진입",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
           }
         ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
       },
       "publishers": [
         {
           "name": "매일경제",
           "title": "주택시장 진입 ‘바늘구멍’…2030 세대 보유율 30% 밑으로",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EZGlBQnd2dXJnUm5rM2I2Q18yYnZ3X3hkTlFYWXRRQy0zV2Y3NDhMOWZocWdOQ3R1WGtJMEI1ZE9hY3pPeXFfUlZTemZBWTVlTEd5X3pTalE?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "2030 주택 보유율, 첫 20%대 추락",
+          "url": "https://www.mk.co.kr/news/realestate/12107662"
+        },
+        {
+          "name": "매일경제",
+          "title": "“나이 서른, 집 사는건 포기했습니다”…2030세대 주택 보유율 30% 밑으로",
+          "url": "https://www.mk.co.kr/news/realestate/12107582"
         }
       ],
       "keywords": [
@@ -832,134 +501,544 @@
         "2030",
         "세대"
       ],
-      "image_url": "https://picsum.photos/seed/news-20260726-017/600/400"
+      "image_url": "https://picsum.photos/seed/news-20260726-007/600/400"
     },
     {
-      "id": "news-20260726-018",
-      "headline": "“전쟁 끝나는 줄 알았는데, 눈앞이 깜깜”…유가 100달러에 원유 곱버스 -83% [원자재로 살아남기]",
+      "id": "news-20260726-008",
+      "headline": "미국·러시아 우주인 3명, 8개월간 ISS 임무 마치고 지구로 귀환",
       "category": "경제",
       "summary": {
-        "overview": "“전쟁 끝나는 줄 알았는데, 눈앞이 깜깜”…유가 100달러에 원유 곱버스 -83% [원자재로 살아남기] 매일경제 중동 원유 공급 차질…기름값 다시 급등 조짐 [지금뉴스] KBS 뉴스 유가, 하반기 증시 핵심 변수로…물가 계속 오르면 8월 또 금리인상 가능성 v.daum.net [포토뉴스]하락폭 줄어든 기름값 경향신문 원유수급 차질에…GS칼텍스, 20년만에 베네수엘라 원유 도입 동아일보",
+        "overview": "본 이슈는 '미국·러시아 우주인 3명, 8개월간 ISS 임무 마치고 지구로 귀환'에 대한 주요 보도 내용을 종합한 것입니다. 매일경제, 연합뉴스 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
         "narrative": {
-          "intro": "“전쟁 끝나는 줄 알았는데, 눈앞이 깜깜”…유가 100달러에 원유 곱버스 -83% [원자재로 살아남기] 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
+          "intro": "최근 '미국·러시아 우주인 3명, 8개월간 ISS 임무 마치고 지구로 귀환' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 매일경제, 연합뉴스 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 매일경제, 연합뉴스 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "매일경제",
+            "point": "매일경제에서는 \"미국·러시아 우주인 3명, 8개월간 ISS 임무 마치고 지구로 귀환\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "연합뉴스",
+            "point": "연합뉴스에서는 \"미·러 우주인 3명, 8개월간 ISS 임무 마치고 지구로 귀환\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "미국",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "러시아",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "미국·러시아 우주인 3명, 8개월간 ISS 임무 마치고 지구로 귀환",
+          "url": "https://www.mk.co.kr/news/world/12107861"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "미·러 우주인 3명, 8개월간 ISS 임무 마치고 지구로 귀환",
+          "url": "https://www.yna.co.kr/view/AKR20260726051600009"
+        }
+      ],
+      "keywords": [
+        "미국",
+        "러시아",
+        "우주인",
+        "3명",
+        "8개월간"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-008/600/400"
+    },
+    {
+      "id": "news-20260726-009",
+      "headline": "“남편은 소아성애자” 비난한 미국 인플루언서…결국 남편 총에 피살",
+      "category": "경제",
+      "summary": {
+        "overview": "본 이슈는 '“남편은 소아성애자” 비난한 미국 인플루언서…결국 남편 총에 피살'에 대한 주요 보도 내용을 종합한 것입니다. 매일경제, 연합뉴스 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '“남편은 소아성애자” 비난한 미국 인플루언서…결국 남편 총에 피살' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 매일경제, 연합뉴스 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 매일경제, 연합뉴스 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "매일경제",
+            "point": "매일경제에서는 \"“남편은 소아성애자” 비난한 미국 인플루언서…결국 남편 총에 피살\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "연합뉴스",
+            "point": "연합뉴스에서는 \"남편 소애성애자라 비난한 美 인플루언서 남편에게 피살\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "남편은",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "소아성애자",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“남편은 소아성애자” 비난한 미국 인플루언서…결국 남편 총에 피살",
+          "url": "https://www.mk.co.kr/news/world/12107828"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "남편 소애성애자라 비난한 美 인플루언서 남편에게 피살",
+          "url": "https://www.yna.co.kr/view/AKR20260726044400009"
+        }
+      ],
+      "keywords": [
+        "남편은",
+        "소아성애자",
+        "비난한",
+        "미국",
+        "인플루언서"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-009/600/400"
+    },
+    {
+      "id": "news-20260726-010",
+      "headline": "“주식·코인 아니면 탈출구가 있나요?”…주거 사다리 완전히 무너진 2030",
+      "category": "경제",
+      "summary": {
+        "overview": "본 이슈는 '“주식·코인 아니면 탈출구가 있나요?”…주거 사다리 완전히 무너진 2030'에 대한 주요 보도 내용을 종합한 것입니다. 매일경제 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '“주식·코인 아니면 탈출구가 있나요?”…주거 사다리 완전히 무너진 2030' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 매일경제 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
         },
         "details": "본 뉴스는 매일경제 등 다수의 매체에서 집중 조명하였습니다.",
         "differences": [
           {
             "publisher": "매일경제",
-            "point": "매일경제에서는 \"“전쟁 끝나는 줄 알았는데, 눈앞이 깜깜”…유가 100달러에 원유 곱버스 -83% [원자재로 살아남기]\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
+            "point": "매일경제에서는 \"“주식·코인 아니면 탈출구가 있나요?”…주거 사다리 완전히 무너진 2030\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
           }
         ],
         "key_terms": [
           {
-            "term": "전쟁",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
+            "term": "주식",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
           },
           {
-            "term": "끝나는",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
+            "term": "코인",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
           }
         ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "“전쟁 끝나는 줄 알았는데, 눈앞이 깜깜”…유가 100달러에 원유 곱버스 -83% [원자재로 살아남기]",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5bFhwU1VUNUZYVC1ZeGtlb29QY3lxMkd4MTZpRjVMSTBsaXhaSHNzT21BMUQ2THJSYkZubVJESnFhODRnM2lNRkFucm1YVVAxSXc?oc=5"
+          "title": "“주식·코인 아니면 탈출구가 있나요?”…주거 사다리 완전히 무너진 2030",
+          "url": "https://www.mk.co.kr/news/realestate/12107810"
         }
       ],
       "keywords": [
-        "전쟁",
-        "끝나는",
-        "알았는데",
-        "눈앞이",
-        "깜깜"
+        "주식",
+        "코인",
+        "아니면",
+        "탈출구가",
+        "있나요"
       ],
-      "image_url": "https://picsum.photos/seed/news-20260726-018/600/400"
+      "image_url": "https://picsum.photos/seed/news-20260726-010/600/400"
     },
     {
-      "id": "news-20260726-019",
-      "headline": "엔비디아, 서울대와 ‘인공지능 인재’ 키운다…‘AI 기술센터’ 추진",
+      "id": "news-20260726-011",
+      "headline": "삼전·닉스 레버리지 열풍 계속…‘예탁금 상향’ 조기시행으로 변동성 잦아들까",
       "category": "경제",
       "summary": {
-        "overview": "엔비디아, 서울대와 ‘인공지능 인재’ 키운다…‘AI 기술센터’ 추진 한겨레 “KAIST 또 터졌다”…엔비디아와 차세대 ‘피지컬AI’ 개발 착수 v.daum.net 카이스트, 엔비디아와 기술 협력…‘인체 동작 파운데이션 모델’ 개발 경향신문 엔비디아, 서울대와 AI 공동 연구기관 설립 추진 연합뉴스 KAIST·엔비디아 AI 동맹 강화…피지컬 AI 센터도 설립 [로보 인사이트] 서울경제",
+        "overview": "본 이슈는 '삼전·닉스 레버리지 열풍 계속…‘예탁금 상향’ 조기시행으로 변동성 잦아들까'에 대한 주요 보도 내용을 종합한 것입니다. 한겨레, 연합뉴스 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
         "narrative": {
-          "intro": "엔비디아, 서울대와 ‘인공지능 인재’ 키운다…‘AI 기술센터’ 추진 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
+          "intro": "최근 '삼전·닉스 레버리지 열풍 계속…‘예탁금 상향’ 조기시행으로 변동성 잦아들까' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 한겨레, 연합뉴스 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
         },
-        "details": "본 뉴스는 한겨레 등 다수의 매체에서 집중 조명하였습니다.",
+        "details": "본 뉴스는 한겨레, 연합뉴스 등 다수의 매체에서 집중 조명하였습니다.",
         "differences": [
           {
             "publisher": "한겨레",
-            "point": "한겨레에서는 \"엔비디아, 서울대와 ‘인공지능 인재’ 키운다…‘AI 기술센터’ 추진\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
+            "point": "한겨레에서는 \"삼전·닉스 레버리지 열풍 계속…‘예탁금 상향’ 조기시행으로 변동성 잦아들까\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "연합뉴스",
+            "point": "연합뉴스에서는 \"'삼전·닉스 도전' CXMT, 내일 中증시 데뷔…본토 시총1위 오를까\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
           }
         ],
         "key_terms": [
           {
-            "term": "엔비디아",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
+            "term": "삼전",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
           },
           {
-            "term": "서울대와",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
+            "term": "닉스",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
           }
         ],
-        "impact": "본 이슈는 경제 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
       },
       "publishers": [
         {
           "name": "한겨레",
-          "title": "엔비디아, 서울대와 ‘인공지능 인재’ 키운다…‘AI 기술센터’ 추진",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ockV2RWYyMWhrc0RzblhtbzdMUTJxZUtqMWFKUnZkbVpQMnZDRDUwZlFFcThXS05YdEZiQWt2QW9BWFkxbkdWdHpEemRPTHZWazd5M0o3a0EyT05OcWVxZVhVUzRNc1I2a05UNGYtVk5LUQ?oc=5"
+          "title": "삼전·닉스 레버리지 열풍 계속…‘예탁금 상향’ 조기시행으로 변동성 잦아들까",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1269988.html"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "'삼전·닉스 도전' CXMT, 내일 中증시 데뷔…본토 시총1위 오를까",
+          "url": "https://www.yna.co.kr/view/AKR20260726045000089"
         }
       ],
       "keywords": [
-        "엔비디아",
-        "서울대와",
-        "인공지능",
-        "인재",
-        "키운다"
+        "삼전",
+        "닉스",
+        "레버리지",
+        "열풍",
+        "계속"
       ],
-      "image_url": "https://picsum.photos/seed/news-20260726-019/600/400"
+      "image_url": "https://picsum.photos/seed/news-20260726-011/600/400"
     },
     {
-      "id": "news-20260726-020",
-      "headline": "공격 주고받는 사우디·후티…'중동 제2 전선' 긴장 고조",
-      "category": "세계",
+      "id": "news-20260726-012",
+      "headline": "금융당국, 청년·서민 실수요 대출은 ‘총량 관리’에서 제외 검토",
+      "category": "경제",
       "summary": {
-        "overview": "공격 주고받는 사우디·후티…'중동 제2 전선' 긴장 고조 한국경제 후티, 사우디 원유 시설까지 공격…이란戰 '제2의 전선' 열렸다(종합) v.daum.net [주末머니]호르무즈에 이어 이곳도 막혔다...유가 어쩌나 아시아경제 사우디, 후티에 첫 보복…미-이란, 14일째 충돌, 돌파구는? KBS 뉴스 \"사우디, 사실상 수에즈 운하 의존…장기화시 유가 120$\" 뉴시스",
+        "overview": "본 이슈는 '금융당국, 청년·서민 실수요 대출은 ‘총량 관리’에서 제외 검토'에 대한 주요 보도 내용을 종합한 것입니다. 한겨레, 조선일보 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
         "narrative": {
-          "intro": "공격 주고받는 사우디·후티…'중동 제2 전선' 긴장 고조 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
-          "development": "관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
-          "turn": "구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
-          "conclusion": "현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
+          "intro": "최근 '금융당국, 청년·서민 실수요 대출은 ‘총량 관리’에서 제외 검토' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 한겨레, 조선일보 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
         },
-        "details": "본 뉴스는 한국경제 등 다수의 매체에서 집중 조명하였습니다.",
+        "details": "본 뉴스는 한겨레, 조선일보 등 다수의 매체에서 집중 조명하였습니다.",
         "differences": [
           {
-            "publisher": "한국경제",
-            "point": "한국경제에서는 \"공격 주고받는 사우디·후티…'중동 제2 전선' 긴장 고조\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"금융당국, 청년·서민 실수요 대출은 ‘총량 관리’에서 제외 검토\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "조선일보",
+            "point": "조선일보에서는 \"청년·서민 대출 숨통 틔운다… 금융당국, 가계대출 총량관리 예외 검토\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
           }
         ],
         "key_terms": [
           {
-            "term": "공격",
-            "explanation": "본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
+            "term": "금융당국",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
           },
           {
-            "term": "주고받는",
-            "explanation": "관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
+            "term": "청년",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
           }
         ],
-        "impact": "본 이슈는 세계 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
       },
       "publishers": [
+        {
+          "name": "한겨레",
+          "title": "금융당국, 청년·서민 실수요 대출은 ‘총량 관리’에서 제외 검토",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1269982.html"
+        },
+        {
+          "name": "조선일보",
+          "title": "청년·서민 대출 숨통 틔운다… 금융당국, 가계대출 총량관리 예외 검토",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHRTTUdQZmVLWUZiV2FKWEdjTVNwXy1GWFd4YWZzSlBWSFJzYk5sLU1CMGpucjJ1ZUo5dDZEXzdMTUUwSENjbGVLV09xc1lzOW04aWxFVWdnX1IzcmRnRkx2SWxwYzRFRDVlM2NTNU5mLXF5RmNYUE9DM2U4UFBLdGQzSUJtTmc1SXdBWHFR?oc=5"
+        }
+      ],
+      "keywords": [
+        "금융당국",
+        "청년",
+        "서민",
+        "실수요",
+        "대출은"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-012/600/400"
+    },
+    {
+      "id": "news-20260726-013",
+      "headline": "한방에 몰린 ‘나이롱환자’…상반기 자동차보험 1900억 적자",
+      "category": "경제",
+      "summary": {
+        "overview": "본 이슈는 '한방에 몰린 ‘나이롱환자’…상반기 자동차보험 1900억 적자'에 대한 주요 보도 내용을 종합한 것입니다. 한겨레, 연합뉴스 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '한방에 몰린 ‘나이롱환자’…상반기 자동차보험 1900억 적자' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 한겨레, 연합뉴스 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 한겨레, 연합뉴스 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"한방에 몰린 ‘나이롱환자’…상반기 자동차보험 1900억 적자\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "연합뉴스",
+            "point": "연합뉴스에서는 \"\"中 태양광 업체들 상반기 적자 3조원대…업계 전반 매출 감소\"\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "한방에",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "몰린",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "한방에 몰린 ‘나이롱환자’…상반기 자동차보험 1900억 적자",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1269967.html"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "\"中 태양광 업체들 상반기 적자 3조원대…업계 전반 매출 감소\"",
+          "url": "https://www.yna.co.kr/view/AKR20260726048400083"
+        }
+      ],
+      "keywords": [
+        "한방에",
+        "몰린",
+        "나이롱환자",
+        "상반기",
+        "자동차보험"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-013/600/400"
+    },
+    {
+      "id": "news-20260726-014",
+      "headline": "KB \"7월 서울 아파트값 상승세 소폭 둔화…동탄 6%대 최고 상승\"",
+      "category": "경제",
+      "summary": {
+        "overview": "본 이슈는 'KB \"7월 서울 아파트값 상승세 소폭 둔화…동탄 6%대 최고 상승\"'에 대한 주요 보도 내용을 종합한 것입니다. 매일경제, 연합뉴스 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 'KB \"7월 서울 아파트값 상승세 소폭 둔화…동탄 6%대 최고 상승\"' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 매일경제, 연합뉴스 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 매일경제, 연합뉴스 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "연합뉴스",
+            "point": "연합뉴스에서는 \"KB \"7월 서울 아파트값 상승세 소폭 둔화…동탄 6%대 최고 상승\"\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "매일경제",
+            "point": "매일경제에서는 \"‘미친’ 동탄 아파트값, 한 달에 6% 상승…서울 넘어 전국 최고 수준\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "KB",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "7월",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "KB \"7월 서울 아파트값 상승세 소폭 둔화…동탄 6%대 최고 상승\"",
+          "url": "https://www.yna.co.kr/view/AKR20260726033000003"
+        },
+        {
+          "name": "매일경제",
+          "title": "‘미친’ 동탄 아파트값, 한 달에 6% 상승…서울 넘어 전국 최고 수준",
+          "url": "https://www.mk.co.kr/news/realestate/12107610"
+        }
+      ],
+      "keywords": [
+        "KB",
+        "7월",
+        "서울",
+        "아파트값",
+        "상승세"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-014/600/400"
+    },
+    {
+      "id": "news-20260726-015",
+      "headline": "‘세계 최대’ 스타십 발사…궤도 진입 성공",
+      "category": "경제",
+      "summary": {
+        "overview": "본 이슈는 '‘세계 최대’ 스타십 발사…궤도 진입 성공'에 대한 주요 보도 내용을 종합한 것입니다. 한겨레, 채널A 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '‘세계 최대’ 스타십 발사…궤도 진입 성공' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 한겨레, 채널A 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 한겨레, 채널A 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "채널A",
+            "point": "채널A에서는 \"‘세계 최대’ 스타십 발사…궤도 진입 성공\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"역대 최강 스타십, ‘무결점’ 준궤도 비행 성공…궤도 진입 도전 ‘성큼’\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "세계",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "최대",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 뉴스 이슈는 관련 산업계의 전략 수정과 원가 구조, 나아가 시중 금융 시장 및 소비자 물가 지표에 실질적인 파급 효과를 가져올 것으로 분석됩니다."
+      },
+      "publishers": [
+        {
+          "name": "채널A",
+          "title": "‘세계 최대’ 스타십 발사…궤도 진입 성공",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FaUJyY1oxanh4ZGlxWEhOX0p6VVZXREJudm9va2hDTHdoWHRsUWh2X1hreUY1Vy1aWGNDR2hUQ0FtLW82d05Gel9iRnIwRzlsUEpkbzJkRzg0TmNSWkHSAWNBVV95cUxPMmhkRVB0cXBvRmhDeGx5WE1OdS15aGdxUG93OFZVMDZmLVpaeFZjckNnUEFMSFRWYkFjYW54RG1QSWtkeFF4Wkx1YVJhWDJPck5vdVlZWHczOUhXVEYzb0g0ZFk?oc=5"
+        },
+        {
+          "name": "한겨레",
+          "title": "역대 최강 스타십, ‘무결점’ 준궤도 비행 성공…궤도 진입 도전 ‘성큼’",
+          "url": "https://www.hani.co.kr/arti/science/technology/1269914.html"
+        }
+      ],
+      "keywords": [
+        "세계",
+        "최대",
+        "스타십",
+        "발사",
+        "궤도"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-015/600/400"
+    },
+    {
+      "id": "news-20260726-016",
+      "headline": "미, 이란전쟁 전사자 18명→14명 축소…군 가족·정치권 분노",
+      "category": "세계",
+      "summary": {
+        "overview": "본 이슈는 '미, 이란전쟁 전사자 18명→14명 축소…군 가족·정치권 분노'에 대한 주요 보도 내용을 종합한 것입니다. 경향신문, 한겨레 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '미, 이란전쟁 전사자 18명→14명 축소…군 가족·정치권 분노' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 경향신문, 한겨레 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 경향신문, 한겨레 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"미, 이란전쟁 전사자 18명→14명 축소…군 가족·정치권 분노\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "경향신문",
+            "point": "경향신문에서는 \"미 국방, 이란전 전사자 18명&#8594;14명 수정…‘사상자 축소’ 논란\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "이란전쟁",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "전사자",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 글로벌 이슈는 국가 간 통상 교섭 및 지정학적 관계에 직접적인 영향을 미치며, 국내 외환 및 수출 시장에도 연쇄 변수로 작용할 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "미, 이란전쟁 전사자 18명→14명 축소…군 가족·정치권 분노",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1270026.html"
+        },
+        {
+          "name": "경향신문",
+          "title": "미 국방, 이란전 전사자 18명&#8594;14명 수정…‘사상자 축소’ 논란",
+          "url": "https://www.khan.co.kr/article/202607261629001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        }
+      ],
+      "keywords": [
+        "이란전쟁",
+        "전사자",
+        "18명",
+        "14명",
+        "축소"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-016/600/400"
+    },
+    {
+      "id": "news-20260726-017",
+      "headline": "사우디-후티 보복전, 우크라는 이란 선박 타격…홍해·카스피해로 전선 확대",
+      "category": "세계",
+      "summary": {
+        "overview": "본 이슈는 '사우디-후티 보복전, 우크라는 이란 선박 타격…홍해·카스피해로 전선 확대'에 대한 주요 보도 내용을 종합한 것입니다. 한겨레, 한국경제 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '사우디-후티 보복전, 우크라는 이란 선박 타격…홍해·카스피해로 전선 확대' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 한겨레, 한국경제 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 한겨레, 한국경제 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"사우디-후티 보복전, 우크라는 이란 선박 타격…홍해·카스피해로 전선 확대\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "한국경제",
+            "point": "한국경제에서는 \"공격 주고받는 사우디·후티…'중동 제2 전선' 긴장 고조\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "사우디",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "후티",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 글로벌 이슈는 국가 간 통상 교섭 및 지정학적 관계에 직접적인 영향을 미치며, 국내 외환 및 수출 시장에도 연쇄 변수로 작용할 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "사우디-후티 보복전, 우크라는 이란 선박 타격…홍해·카스피해로 전선 확대",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1269979.html"
+        },
         {
           "name": "한국경제",
           "title": "공격 주고받는 사우디·후티…'중동 제2 전선' 긴장 고조",
@@ -967,11 +1046,175 @@
         }
       ],
       "keywords": [
-        "공격",
-        "주고받는",
         "사우디",
         "후티",
-        "중동"
+        "보복전",
+        "우크라는",
+        "이란"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-017/600/400"
+    },
+    {
+      "id": "news-20260726-018",
+      "headline": "‘인도 청년’ 바퀴벌레당에 모디 총리도 손들었다…교육장관 결국 사임",
+      "category": "세계",
+      "summary": {
+        "overview": "본 이슈는 '‘인도 청년’ 바퀴벌레당에 모디 총리도 손들었다…교육장관 결국 사임'에 대한 주요 보도 내용을 종합한 것입니다. 한겨레 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '‘인도 청년’ 바퀴벌레당에 모디 총리도 손들었다…교육장관 결국 사임' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 한겨레 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 한겨레 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"‘인도 청년’ 바퀴벌레당에 모디 총리도 손들었다…교육장관 결국 사임\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "인도",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "청년",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 글로벌 이슈는 국가 간 통상 교섭 및 지정학적 관계에 직접적인 영향을 미치며, 국내 외환 및 수출 시장에도 연쇄 변수로 작용할 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "‘인도 청년’ 바퀴벌레당에 모디 총리도 손들었다…교육장관 결국 사임",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1269966.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "‘인도 청년’ 바퀴벌레당에 모디 총리도 손들었다…교육장관 결국 사임",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU2NmOVJma091OURzVC1UbEtmdVB0bWc0bjdkWmkzTmE2ZklTNjU1OFZRckpMMm1feDJuNEtLUTRfTkRLUWEwRFN0ZzFVYkNEdEh1THdHT29JNWF0RlY1bnFWUGU5QzNsYjNzNGZpMThfRjMtRVdacnE1NTlaRGJQcWp3?oc=5"
+        }
+      ],
+      "keywords": [
+        "인도",
+        "청년",
+        "바퀴벌레당에",
+        "모디",
+        "총리도"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-018/600/400"
+    },
+    {
+      "id": "news-20260726-019",
+      "headline": "베를린 퀴어축제에 차량 돌진, 1명 숨져…“이슬람 극단주의자 추정”",
+      "category": "세계",
+      "summary": {
+        "overview": "본 이슈는 '베를린 퀴어축제에 차량 돌진, 1명 숨져…“이슬람 극단주의자 추정”'에 대한 주요 보도 내용을 종합한 것입니다. 경향신문, 한겨레 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '베를린 퀴어축제에 차량 돌진, 1명 숨져…“이슬람 극단주의자 추정”' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 경향신문, 한겨레 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 경향신문, 한겨레 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "한겨레",
+            "point": "한겨레에서는 \"베를린 퀴어축제에 차량 돌진, 1명 숨져…“이슬람 극단주의자 추정”\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "경향신문",
+            "point": "경향신문에서는 \"베를린 성소수자 축제 차량 돌진···‘IS 가입 시도 전력’ 용의자 추적\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "베를린",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "퀴어축제에",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 글로벌 이슈는 국가 간 통상 교섭 및 지정학적 관계에 직접적인 영향을 미치며, 국내 외환 및 수출 시장에도 연쇄 변수로 작용할 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "베를린 퀴어축제에 차량 돌진, 1명 숨져…“이슬람 극단주의자 추정”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1269959.html"
+        },
+        {
+          "name": "경향신문",
+          "title": "베를린 성소수자 축제 차량 돌진···‘IS 가입 시도 전력’ 용의자 추적",
+          "url": "https://www.khan.co.kr/article/202607262130001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        }
+      ],
+      "keywords": [
+        "베를린",
+        "퀴어축제에",
+        "차량",
+        "돌진",
+        "1명"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260726-019/600/400"
+    },
+    {
+      "id": "news-20260726-020",
+      "headline": "“호르무즈서 유조선 폭발…지정 항로 벗어나 기뢰 충돌”",
+      "category": "세계",
+      "summary": {
+        "overview": "본 이슈는 '“호르무즈서 유조선 폭발…지정 항로 벗어나 기뢰 충돌”'에 대한 주요 보도 내용을 종합한 것입니다. 경향신문, 연합뉴스 등 언론사를 통해 관련 사안의 경과와 시장 영향이 집중 조명되고 있습니다.",
+        "narrative": {
+          "intro": "최근 '“호르무즈서 유조선 폭발…지정 항로 벗어나 기뢰 충돌”' 이슈가 수면 위로 표면화되면서 관련 분야의 발단 계기 및 배경이 형성되었습니다.",
+          "development": "이후 유관 기관 및 기업들의 구체적인 대응책이 발표되고 경향신문, 연합뉴스 등 언론 매체를 통해 사건의 전개 과정이 연이어 보도되었습니다.",
+          "turn": "실현 가능성과 향후 규제, 시장 변동성 등 다각적인 쟁점 사항에 대해 언론사별 시각차와 평가 포인트가 다르게 나타나고 있습니다.",
+          "conclusion": "현재 주요 주체들의 대응과 입장이 정리되어 마무리 단계에 진입했으며, 향후 시장과 사회에 미칠 여파에 대한 면밀한 모니터링이 필요한 상황입니다."
+        },
+        "details": "본 뉴스는 경향신문, 연합뉴스 등 다수의 매체에서 집중 조명하였습니다.",
+        "differences": [
+          {
+            "publisher": "경향신문",
+            "point": "경향신문에서는 \"“호르무즈서 유조선 폭발…지정 항로 벗어나 기뢰 충돌”\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          },
+          {
+            "publisher": "연합뉴스",
+            "point": "연합뉴스에서는 \"\"호르무즈서 유조선 폭발…지정 항로 벗어나 기뢰 충돌\"\"을 핵심 논조로 삼아 관련 영향을 상세히 다루었습니다."
+          }
+        ],
+        "key_terms": [
+          {
+            "term": "호르무즈서",
+            "explanation": "본 기사의 핵심 사안을 구성하는 주요 용어로, 관련 지표의 향방을 결정짓는 핵심 개념입니다."
+          },
+          {
+            "term": "유조선",
+            "explanation": "관련 분야에서 자주 거론되는 주요 주제어로, 시장 및 정책적 변화를 나타냅니다."
+          }
+        ],
+        "impact": "본 글로벌 이슈는 국가 간 통상 교섭 및 지정학적 관계에 직접적인 영향을 미치며, 국내 외환 및 수출 시장에도 연쇄 변수로 작용할 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "“호르무즈서 유조선 폭발…지정 항로 벗어나 기뢰 충돌”",
+          "url": "https://www.khan.co.kr/article/202607262137001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "\"호르무즈서 유조선 폭발…지정 항로 벗어나 기뢰 충돌\"",
+          "url": "https://www.yna.co.kr/view/AKR20260726052800079"
+        }
+      ],
+      "keywords": [
+        "호르무즈서",
+        "유조선",
+        "폭발",
+        "지정",
+        "항로"
       ],
       "image_url": "https://picsum.photos/seed/news-20260726-020/600/400"
     }
