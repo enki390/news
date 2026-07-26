@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NEWS DISCOVER | Sleek AI 뉴스 헤드라인 디스커버</title>
+  <meta name="description" content="정치, 경제, IT/과학, 세계, 사회 5대 주요 카테고리의 언론사 헤드라인을 모아 AI로 분석 및 비교 요약해 드립니다.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700;900&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+  <!-- Navigation Header -->
+  <header class="header">
+    <div class="container header-content">
+      <a href="#" class="logo-group" id="logoLink">
+        <div class="logo-icon">
+          <i class="fa-solid fa-bolt"></i>
+        </div>
+        <div class="logo-text-block">
+          <span class="logo-title">NEWS DISCOVER</span>
+          <span class="logo-subtitle">Sleek AI News Aggregator</span>
+        </div>
+      </a>
+
+      <div class="header-controls">
+        <!-- Date Selector -->
+        <div class="control-badge date-selector">
+          <i class="fa-regular fa-calendar-check"></i>
+          <input type="date" id="datePicker" title="뉴스 날짜 선택">
+        </div>
+
+        <!-- Search Bar -->
+        <div class="search-box">
+          <i class="fa-solid fa-magnifying-glass search-icon"></i>
+          <input type="text" id="searchInput" placeholder="뉴스 키워드 검색...">
+        </div>
+
+        <!-- Theme Toggle Button -->
+        <button class="theme-toggle-btn" id="themeToggleBtn" title="테마 변경 (Dark / Light)">
+          <i class="fa-solid fa-moon" id="themeIcon"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Container -->
+  <main class="container">
+    
+    <!-- Hero Banner -->
+    <section class="hero-section">
+      <div class="hero-header">
+        <div>
+          <h1 class="hero-title">실시간 주요 뉴스 AI 디스커버</h1>
+          <p class="hero-subtitle" id="mainHeroSubtitle">정치, 경제, IT/과학, 세계, 사회 5대 카테고리의 헤드라인을 AI가 종합 분석하고 언론사별 관점을 정리해 드립니다.</p>
+        </div>
+        <div class="update-tag" id="updateTag">
+          <div class="pulse-dot"></div>
+          <span id="updateTimeText">매일 06:00 KST 수집</span>
+        </div>
+      </div>
+
+      <!-- Category Filter Chips (정치, 경제, IT/과학, 세계, 사회) -->
+      <nav class="category-bar" id="categoryBar" aria-label="뉴스 카테고리 필터">
+        <button class="category-chip active" data-category="all">
+          <i class="fa-solid fa-layer-group"></i> 전체
+        </button>
+        <button class="category-chip" data-category="정치">
+          <i class="fa-solid fa-landmark"></i> 정치
+        </button>
+        <button class="category-chip" data-category="경제">
+          <i class="fa-solid fa-chart-line"></i> 경제
+        </button>
+        <button class="category-chip" data-category="IT/과학">
+          <i class="fa-solid fa-microchip"></i> IT/과학
+        </button>
+        <button class="category-chip" data-category="세계">
+          <i class="fa-solid fa-earth-americas"></i> 세계
+        </button>
+        <button class="category-chip" data-category="사회">
+          <i class="fa-solid fa-users"></i> 사회
+        </button>
+      </nav>
+    </section>
+
+    <!-- News Cards Grid Container -->
+    <section id="newsContainer" class="news-grid">
+      <!-- Dynamically Rendered via app.js -->
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <p>카테고리별 주요 뉴스를 불러오는 중입니다...</p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- News Detail Modal Overlay -->
+  <div class="modal-overlay" id="newsModal" role="dialog" aria-modal="true">
+    <div class="modal-container">
+      <button class="modal-close-btn" id="modalCloseBtn" aria-label="닫기">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+
+      <div class="modal-body" id="modalBody">
+        <!-- Dynamically Rendered Modal Content -->
+      </div>
+    </div>
+  </div>
+
+  <!-- JavaScript App Logic -->
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DailyNewsData",
+  "type": "object",
+  "properties": {
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "YYYY-MM-DD 형식의 데이터 날짜"
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 수집/생성 시각"
+    },
+    "total_count": {
+      "type": "integer",
+      "description": "주요 뉴스 이슈 개수"
+    },
+    "news_items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string" },
+          "headline": { "type": "string" },
+          "category": { "type": "string" },
+          "summary": {
+            "type": "object",
+            "properties": {
+              "overview": { "type": "string" },
+              "details": { "type": "string" },
+              "differences": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "publisher": { "type": "string" },
+                    "point": { "type": "string" }
+                  },
+                  "required": ["publisher", "point"]
+                }
+              }
+            },
+            "required": ["overview", "details", "differences"]
+          },
+          "publishers": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": { "type": "string" },
+                "title": { "type": "string" },
+                "url": { "type": "string" }
+              },
+              "required": ["name", "title", "url"]
+            }
+          },
+          "keywords": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "image_url": { "type": "string" }
+        },
+        "required": ["id", "headline", "category", "summary", "publishers", "keywords"]
+      }
+    }
+  },
+  "required": ["date", "generated_at", "total_count", "news_items"]
+}
