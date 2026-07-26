@@ -46,9 +46,36 @@ document.addEventListener('DOMContentLoaded', () => {
   async function initApp() {
     setupTheme();
     await fetchAvailableDates();
+    
+    // Choose default date: today if available, else latest available date in manifest
+    if (availableDates.length > 0) {
+      if (availableDates.includes(todayStr)) {
+        selectedDate = todayStr;
+      } else {
+        selectedDate = availableDates[0];
+      }
+    } else {
+      selectedDate = todayStr;
+    }
+
+    const [sYear, sMonth] = selectedDate.split('-').map(Number);
+    if (sYear && sMonth) {
+      viewYear = sYear;
+      viewMonth = sMonth - 1;
+    }
+
+    if (selectedDateText) {
+      selectedDateText.textContent = selectedDate;
+    }
+
     setupEventListeners();
     setupCalendar();
-    loadNewsData('latest');
+    
+    if (selectedDate === todayStr) {
+      loadNewsData('latest');
+    } else {
+      loadNewsData(selectedDate);
+    }
   }
 
   // Fetch Manifest of Available News Dates
@@ -64,9 +91,8 @@ document.addEventListener('DOMContentLoaded', () => {
       availableDates = [todayStr];
     }
     
-    // Always include today and fallback dates if missing
-    if (!availableDates.includes(todayStr)) {
-      availableDates.push(todayStr);
+    if (availableDates.length === 0) {
+      availableDates = [todayStr];
     }
   }
 
@@ -97,7 +123,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Custom Calendar Control Logic
   function setupCalendar() {
-    selectedDateText.textContent = selectedDate;
+    if (selectedDateText) {
+      selectedDateText.textContent = selectedDate;
+    }
 
     // Toggle Calendar Popover
     datePickerTrigger.addEventListener('click', (e) => {
@@ -129,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Close popover when clicking outside
     document.addEventListener('click', (e) => {
-      if (!datePickerWrapper.contains(e.target)) {
+      if (datePickerWrapper && !datePickerWrapper.contains(e.target)) {
         datePickerWrapper.classList.remove('active');
       }
     });
@@ -188,7 +216,9 @@ document.addEventListener('DOMContentLoaded', () => {
   // Select Date Action
   function selectDate(dateStr) {
     selectedDate = dateStr;
-    selectedDateText.textContent = dateStr;
+    if (selectedDateText) {
+      selectedDateText.textContent = dateStr;
+    }
     datePickerWrapper.classList.remove('active');
     
     if (dateStr === todayStr) {
@@ -243,6 +273,13 @@ document.addEventListener('DOMContentLoaded', () => {
       const data = await response.json();
       currentNewsData = data.news_items || [];
       
+      if (data.date) {
+        selectedDate = data.date;
+        if (selectedDateText) {
+          selectedDateText.textContent = selectedDate;
+        }
+      }
+
       if (data.generated_at) {
         const timeObj = new Date(data.generated_at);
         const formattedTime = timeObj.toLocaleString('ko-KR', {
@@ -259,6 +296,26 @@ document.addEventListener('DOMContentLoaded', () => {
       renderNewsGrid();
     } catch (error) {
       console.warn('Failed to load JSON data:', error);
+      if (targetDate !== 'latest') {
+        console.log('Attempting fallback to latest.json...');
+        try {
+          const fbResp = await fetch('./data/latest.json');
+          if (fbResp.ok) {
+            const fbData = await fbResp.json();
+            currentNewsData = fbData.news_items || [];
+            if (fbData.date) {
+              selectedDate = fbData.date;
+              if (selectedDateText) {
+                selectedDateText.textContent = selectedDate;
+              }
+            }
+            renderNewsGrid();
+            return;
+          }
+        } catch (fbErr) {
+          console.warn('Fallback failed:', fbErr);
+        }
+      }
       showEmptyState(`선택하신 날짜(${targetDate})의 뉴스 데이터가 존재하지 않거나 준비 중입니다.`);
     }
   }

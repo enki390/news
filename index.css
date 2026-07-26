@@ -167,13 +167,23 @@ html[data-theme="light"] .logo-title {
 
 .date-selector-wrapper {
   position: relative;
+  display: inline-block;
 }
 
 .date-picker-trigger {
-  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.06);
   border: 1px solid var(--border-light);
-  background: rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-full);
+  padding: 8px 16px;
+  color: var(--text-main);
+  font-size: 14px;
+  font-family: var(--font-sans);
   font-weight: 600;
+  cursor: pointer;
+  outline: none;
   transition: var(--transition-fast);
 }
 
@@ -182,7 +192,7 @@ html[data-theme="light"] .date-picker-trigger {
 }
 
 .date-picker-trigger:hover {
-  background: rgba(56, 189, 248, 0.12);
+  background: rgba(56, 189, 248, 0.15);
   border-color: var(--primary);
   color: var(--primary);
 }
@@ -197,29 +207,30 @@ html[data-theme="light"] .date-picker-trigger {
   transform: rotate(180deg);
 }
 
-/* Floating Glassmorphic Calendar Popover */
+/* Floating Calendar Popover Modal (Strictly Hidden by Default) */
 .calendar-popover {
+  display: none; /* Completely hidden until date button is clicked */
   position: absolute;
   top: calc(100% + 10px);
-  left: 0;
-  z-index: 500;
+  right: 0;
+  z-index: 9999;
   width: 320px;
-  background: var(--bg-modal);
-  border: 1px solid var(--border-light);
+  background: #0d1322;
+  border: 1px solid rgba(56, 189, 248, 0.35);
   border-radius: var(--radius-md);
   padding: 18px;
-  box-shadow: var(--shadow-lg);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.85), 0 0 20px rgba(56, 189, 248, 0.25);
   backdrop-filter: blur(20px);
-  opacity: 0;
-  visibility: hidden;
-  transform: translateY(-8px);
-  transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s ease;
+}
+
+html[data-theme="light"] .calendar-popover {
+  background: #ffffff;
+  border-color: rgba(2, 132, 199, 0.35);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
 }
 
 .date-selector-wrapper.active .calendar-popover {
-  opacity: 1;
-  visibility: visible;
-  transform: translateY(0);
+  display: block; /* Show as floating popover dialog when active */
 }
 
 .calendar-header {
@@ -233,7 +244,7 @@ html[data-theme="light"] .date-picker-trigger {
 
 .cal-month-title {
   font-family: var(--font-display);
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 700;
   color: var(--text-main);
 }
