@@ -165,30 +165,215 @@ html[data-theme="light"] .logo-title {
   gap: 14px;
 }
 
-.control-badge {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid var(--border-light);
-  border-radius: var(--radius-full);
-  padding: 8px 16px;
-  color: var(--text-sub);
-  font-size: 14px;
+.date-selector-wrapper {
+  position: relative;
 }
 
-html[data-theme="light"] .control-badge {
+.date-picker-trigger {
+  cursor: pointer;
+  border: 1px solid var(--border-light);
+  background: rgba(255, 255, 255, 0.05);
+  font-weight: 600;
+  transition: var(--transition-fast);
+}
+
+html[data-theme="light"] .date-picker-trigger {
   background: rgba(0, 0, 0, 0.04);
 }
 
-.date-selector input[type="date"] {
-  background: transparent;
-  border: none;
+.date-picker-trigger:hover {
+  background: rgba(56, 189, 248, 0.12);
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.date-picker-trigger .arrow-icon {
+  font-size: 11px;
+  margin-left: 4px;
+  transition: transform 0.2s ease;
+}
+
+.date-selector-wrapper.active .arrow-icon {
+  transform: rotate(180deg);
+}
+
+/* Floating Glassmorphic Calendar Popover */
+.calendar-popover {
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 0;
+  z-index: 500;
+  width: 320px;
+  background: var(--bg-modal);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 18px;
+  box-shadow: var(--shadow-lg);
+  backdrop-filter: blur(20px);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-8px);
+  transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s ease;
+}
+
+.date-selector-wrapper.active .calendar-popover {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.calendar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.cal-month-title {
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 700;
   color: var(--text-main);
-  font-family: var(--font-sans);
-  font-size: 14px;
-  outline: none;
+}
+
+.cal-nav-btn {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid var(--border-light);
+  color: var(--text-main);
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
+  transition: var(--transition-fast);
+}
+
+.cal-nav-btn:hover {
+  background: var(--primary);
+  color: #ffffff;
+  border-color: transparent;
+}
+
+.calendar-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  text-align: center;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+.calendar-weekdays .sun { color: #f87171; }
+.calendar-weekdays .sat { color: #60a5fa; }
+
+.calendar-days-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.cal-day-cell {
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  font-weight: 500;
+  position: relative;
+  transition: var(--transition-fast);
+  user-select: none;
+}
+
+/* Dates with Available News Data (Bold, Vivid, Clickable) */
+.cal-day-cell.has-data {
+  font-weight: 800;
+  color: var(--text-main);
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  cursor: pointer;
+}
+
+.cal-day-cell.has-data:hover {
+  background: var(--primary-gradient);
+  color: #ffffff;
+  border-color: transparent;
+  transform: scale(1.08);
+  box-shadow: 0 4px 12px rgba(56, 189, 248, 0.4);
+}
+
+/* Currently Active Selected Date */
+.cal-day-cell.active-date {
+  background: var(--primary-gradient) !important;
+  color: #ffffff !important;
+  font-weight: 900 !important;
+  border-color: transparent !important;
+  box-shadow: 0 0 14px rgba(56, 189, 248, 0.6) !important;
+}
+
+/* Dot indicator for available data */
+.cal-day-cell.has-data::after {
+  content: '';
+  position: absolute;
+  bottom: 3px;
+  width: 4px;
+  height: 4px;
+  background-color: var(--accent);
+  border-radius: 50%;
+}
+
+.cal-day-cell.active-date::after {
+  background-color: #ffffff;
+}
+
+/* Dates without News Data (Dimmed, Non-clickable) */
+.cal-day-cell.disabled {
+  opacity: 0.25;
+  color: var(--text-muted);
+  cursor: not-allowed;
+  background: transparent;
+  border: 1px solid transparent;
+}
+
+.cal-day-cell.empty {
+  visibility: hidden;
+}
+
+.calendar-footer {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border-light);
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.legend-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.legend-dot.available-dot {
+  background: var(--primary);
+  box-shadow: 0 0 6px var(--primary);
+}
+
+.legend-dot.disabled-dot {
+  background: rgba(255, 255, 255, 0.2);
 }
 
 .search-box {

@@ -7,7 +7,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   // DOM Elements
   const newsContainer = document.getElementById('newsContainer');
-  const datePicker = document.getElementById('datePicker');
   const searchInput = document.getElementById('searchInput');
   const categoryBar = document.getElementById('categoryBar');
   const newsModal = document.getElementById('newsModal');
@@ -18,23 +17,57 @@ document.addEventListener('DOMContentLoaded', () => {
   const themeToggleBtn = document.getElementById('themeToggleBtn');
   const themeIcon = document.getElementById('themeIcon');
 
+  // Custom Calendar DOM Elements
+  const datePickerWrapper = document.querySelector('.date-selector-wrapper');
+  const datePickerTrigger = document.getElementById('datePickerTrigger');
+  const selectedDateText = document.getElementById('selectedDateText');
+  const calendarPopover = document.getElementById('calendarPopover');
+  const calMonthTitle = document.getElementById('calMonthTitle');
+  const calPrevMonthBtn = document.getElementById('calPrevMonthBtn');
+  const calNextMonthBtn = document.getElementById('calNextMonthBtn');
+  const calendarDaysGrid = document.getElementById('calendarDaysGrid');
+
   // Application State
   let currentNewsData = [];
   let activeCategory = 'all';
   let searchQuery = '';
+  let availableDates = [];
+  
+  const todayObj = new Date();
+  const todayStr = todayObj.toISOString().split('T')[0];
+  let selectedDate = todayStr;
+  
+  let viewYear = todayObj.getFullYear();
+  let viewMonth = todayObj.getMonth(); // 0-indexed
 
-  // Set today's date in datePicker default
-  const todayStr = new Date().toISOString().split('T')[0];
-  datePicker.value = todayStr;
-  datePicker.max = todayStr;
-
-  // Initialize
+  // Initialize App
   initApp();
 
-  function initApp() {
+  async function initApp() {
     setupTheme();
+    await fetchAvailableDates();
     setupEventListeners();
+    setupCalendar();
     loadNewsData('latest');
+  }
+
+  // Fetch Manifest of Available News Dates
+  async function fetchAvailableDates() {
+    try {
+      const resp = await fetch('./data/available_dates.json');
+      if (resp.ok) {
+        const data = await resp.json();
+        availableDates = data.available_dates || [];
+      }
+    } catch (e) {
+      console.warn('Failed to load available_dates.json:', e);
+      availableDates = [todayStr];
+    }
+    
+    // Always include today and fallback dates if missing
+    if (!availableDates.includes(todayStr)) {
+      availableDates.push(todayStr);
+    }
   }
 
   // Theme Management (Default: Sleek Dark Mode)
@@ -62,18 +95,111 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  function setupEventListeners() {
-    // Date picker change
-    datePicker.addEventListener('change', (e) => {
-      const selectedDate = e.target.value;
-      if (selectedDate === todayStr) {
-        loadNewsData('latest');
-      } else {
-        loadNewsData(selectedDate);
+  // Custom Calendar Control Logic
+  function setupCalendar() {
+    selectedDateText.textContent = selectedDate;
+
+    // Toggle Calendar Popover
+    datePickerTrigger.addEventListener('click', (e) => {
+      e.stopPropagation();
+      datePickerWrapper.classList.toggle('active');
+      renderCalendarGrid();
+    });
+
+    // Month Navigation Buttons
+    calPrevMonthBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      viewMonth--;
+      if (viewMonth < 0) {
+        viewMonth = 11;
+        viewYear--;
+      }
+      renderCalendarGrid();
+    });
+
+    calNextMonthBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      viewMonth++;
+      if (viewMonth > 11) {
+        viewMonth = 0;
+        viewYear++;
+      }
+      renderCalendarGrid();
+    });
+
+    // Close popover when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!datePickerWrapper.contains(e.target)) {
+        datePickerWrapper.classList.remove('active');
       }
     });
 
-    // Category Filter Chips (전체, 정치, 경제, IT/과학, 세계, 사회)
+    renderCalendarGrid();
+  }
+
+  // Render Days Grid for the viewYear & viewMonth
+  function renderCalendarGrid() {
+    calMonthTitle.textContent = `${viewYear}년 ${viewMonth + 1}월`;
+
+    const firstDay = new Date(viewYear, viewMonth, 1).getDay(); // Day of week (0-6)
+    const daysInMonth = new Date(viewYear, viewMonth + 1, 0).getDate();
+
+    let gridHTML = '';
+
+    // Empty lead cells
+    for (let i = 0; i < firstDay; i++) {
+      gridHTML += `<div class="cal-day-cell empty"></div>`;
+    }
+
+    // Days cells
+    for (let day = 1; day <= daysInMonth; day++) {
+      const monthStr = String(viewMonth + 1).padStart(2, '0');
+      const dayStr = String(day).padStart(2, '0');
+      const dateKey = `${viewYear}-${monthStr}-${dayStr}`;
+
+      const hasData = availableDates.includes(dateKey);
+      const isSelected = dateKey === selectedDate;
+
+      let cellClasses = ['cal-day-cell'];
+      if (hasData) cellClasses.push('has-data');
+      else cellClasses.push('disabled');
+
+      if (isSelected) cellClasses.push('active-date');
+
+      gridHTML += `
+        <div class="${cellClasses.join(' ')}" data-date="${dateKey}">
+          ${day}
+        </div>
+      `;
+    }
+
+    calendarDaysGrid.innerHTML = gridHTML;
+
+    // Attach Click Handlers ONLY to dates with data
+    calendarDaysGrid.querySelectorAll('.cal-day-cell.has-data').forEach(cell => {
+      cell.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const targetDate = cell.dataset.date;
+        selectDate(targetDate);
+      });
+    });
+  }
+
+  // Select Date Action
+  function selectDate(dateStr) {
+    selectedDate = dateStr;
+    selectedDateText.textContent = dateStr;
+    datePickerWrapper.classList.remove('active');
+    
+    if (dateStr === todayStr) {
+      loadNewsData('latest');
+    } else {
+      loadNewsData(dateStr);
+    }
+  }
+
+  function setupEventListeners() {
+    // Category Filter Chips (전체, 경제, 세계, IT/과학)
     categoryBar.addEventListener('click', (e) => {
       const targetBtn = e.target.closest('.category-chip');
       if (targetBtn) {

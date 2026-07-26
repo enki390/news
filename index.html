@@ -33,10 +33,42 @@
       </a>
 
       <div class="header-controls">
-        <!-- Date Selector -->
-        <div class="control-badge date-selector">
-          <i class="fa-regular fa-calendar-check"></i>
-          <input type="date" id="datePicker" title="뉴스 날짜 선택">
+        <!-- Date Selector with Custom Calendar Popover -->
+        <div class="date-selector-wrapper">
+          <button class="control-badge date-picker-trigger" id="datePickerTrigger" title="뉴스 날짜 선택 및 달력 열기">
+            <i class="fa-regular fa-calendar-check"></i>
+            <span id="selectedDateText">2026-07-26</span>
+            <i class="fa-solid fa-chevron-down arrow-icon"></i>
+          </button>
+
+          <!-- Custom Interactive Calendar Popover -->
+          <div class="calendar-popover" id="calendarPopover" aria-hidden="true">
+            <div class="calendar-header">
+              <button class="cal-nav-btn" id="calPrevMonthBtn" title="이전 달">
+                <i class="fa-solid fa-chevron-left"></i>
+              </button>
+              <span class="cal-month-title" id="calMonthTitle">2026년 7월</span>
+              <button class="cal-nav-btn" id="calNextMonthBtn" title="다음 달">
+                <i class="fa-solid fa-chevron-right"></i>
+              </button>
+            </div>
+            <div class="calendar-weekdays">
+              <span class="sun">일</span><span>월</span><span>화</span><span>수</span><span>목</span><span>금</span><span class="sat">토</span>
+            </div>
+            <div class="calendar-days-grid" id="calendarDaysGrid">
+              <!-- Dynamically rendered via app.js -->
+            </div>
+            <div class="calendar-footer">
+              <div class="legend-item">
+                <span class="legend-dot available-dot"></span>
+                <span>데이터 있음 (클릭 가능)</span>
+              </div>
+              <div class="legend-item">
+                <span class="legend-dot disabled-dot"></span>
+                <span>데이터 없음</span>
+              </div>
+            </div>
+          </div>
         </div>
 
         <!-- Search Bar -->

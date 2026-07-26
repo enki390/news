@@ -377,7 +377,7 @@ def clean_old_news_files():
                 pass
 
 def save_daily_news_data(news_items):
-    """Save payload to YYYY-MM-DD.json and latest.json."""
+    """Save payload to YYYY-MM-DD.json, latest.json, and update available_dates.json manifest."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     today_str = datetime.date.today().strftime('%Y-%m-%d')
     output_path = DATA_DIR / f"{today_str}.json"
@@ -397,7 +397,22 @@ def save_daily_news_data(news_items):
     with open(latest_path, "w", encoding="utf-8") as f:
         json.dump(data_payload, f, ensure_ascii=False, indent=2)
 
+    # Scan all valid YYYY-MM-DD.json files in DATA_DIR to build available_dates.json
+    available_dates = []
+    for file_path in DATA_DIR.glob("*.json"):
+        match = re.match(r'^(\d{4}-\d{2}-\d{2})\.json$', file_path.name)
+        if match:
+            available_dates.append(match.group(1))
+    
+    available_dates.sort(reverse=True)
+    
+    manifest_path = DATA_DIR / "available_dates.json"
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump({"available_dates": available_dates}, f, ensure_ascii=False, indent=2)
+
+    print(f"  - Updated available_dates.json with {len(available_dates)} dates: {available_dates}")
     print("  - Daily JSON save completed.")
+
 
 def main():
     print(f"=== Category-Specific News Collector Batch Starting at {datetime.datetime.now()} ===")
