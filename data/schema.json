@@ -24,12 +24,24 @@
         "properties": {
           "id": { "type": "string" },
           "headline": { "type": "string" },
-          "category": { "type": "string" },
+          "category": { 
+            "type": "string",
+            "enum": ["경제", "세계", "IT/과학"],
+            "description": "3대 허용 카테고리 (경제, 세계, IT/과학)"
+          },
           "summary": {
             "type": "object",
             "properties": {
-              "overview": { "type": "string" },
-              "details": { "type": "string" },
+              "overview": { "type": "string", "description": "AI 핵심 종합 2~3줄 요약" },
+              "narrative": {
+                "type": "object",
+                "properties": {
+                  "intro": { "type": "string", "description": "[기] 발단 및 배경" },
+                  "development": { "type": "string", "description": "[승] 경과 및 주요 전개" },
+                  "turn": { "type": "string", "description": "[전] 핵심 쟁점 및 시각차" },
+                  "conclusion": { "type": "string", "description": "[결] 결과 및 현황 정리" }
+                }
+              },
               "differences": {
                 "type": "array",
                 "items": {
@@ -40,9 +52,21 @@
                   },
                   "required": ["publisher", "point"]
                 }
-              }
+              },
+              "key_terms": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "term": { "type": "string" },
+                    "explanation": { "type": "string" }
+                  },
+                  "required": ["term", "explanation"]
+                }
+              },
+              "impact": { "type": "string", "description": "사회, 경제, 시장에 미치는 파급 효과 및 전망" }
             },
-            "required": ["overview", "details", "differences"]
+            "required": ["overview", "differences"]
           },
           "publishers": {
             "type": "array",
@@ -68,3 +92,4 @@
   },
   "required": ["date", "generated_at", "total_count", "news_items"]
 }
+

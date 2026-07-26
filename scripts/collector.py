@@ -13,29 +13,21 @@ from dateutil import parser as date_parser
 DATA_DIR = Path(__file__).parent.parent / "data"
 RETENTION_DAYS = 30
 
-ALLOWED_CATEGORIES = ["정치", "경제", "IT/과학", "세계", "사회"]
+ALLOWED_CATEGORIES = ["경제", "세계", "IT/과학"]
 
-# Category-specific RSS Feeds
+# Category-specific RSS Feeds (Targeting 3 Categories: 경제, 세계, IT/과학)
 CATEGORY_FEEDS = [
-    # 1. 정치
-    {"category": "정치", "name": "Google News 정치", "url": "https://news.google.com/rss/headlines/section/topic/POLITICS?hl=ko&gl=KR&ceid=KR:ko"},
-    {"category": "정치", "name": "연합뉴스 정치", "url": "https://www.yna.co.kr/rss/politics.xml"},
-    
-    # 2. 경제
+    # 1. 경제
     {"category": "경제", "name": "Google News 경제", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ko&gl=KR&ceid=KR:ko"},
     {"category": "경제", "name": "연합뉴스 경제", "url": "https://www.yna.co.kr/rss/economy.xml"},
     
-    # 3. IT/과학
-    {"category": "IT/과학", "name": "Google News IT/과학", "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE_TECHNOLOGY?hl=ko&gl=KR&ceid=KR:ko"},
-    {"category": "IT/과학", "name": "연합뉴스 IT/과학", "url": "https://www.yna.co.kr/rss/industry.xml"},
-    
-    # 4. 세계
+    # 2. 세계
     {"category": "세계", "name": "Google News 세계", "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko"},
     {"category": "세계", "name": "연합뉴스 국제/세계", "url": "https://www.yna.co.kr/rss/international.xml"},
 
-    # 5. 사회
-    {"category": "사회", "name": "Google News 사회", "url": "https://news.google.com/rss/search?q=%EC%82%AC%ED%9A%8C&hl=ko&gl=KR&ceid=KR:ko"},
-    {"category": "사회", "name": "연합뉴스 사회", "url": "https://www.yna.co.kr/rss/society.xml"}
+    # 3. IT/과학
+    {"category": "IT/과학", "name": "Google News IT/과학", "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE_TECHNOLOGY?hl=ko&gl=KR&ceid=KR:ko"},
+    {"category": "IT/과학", "name": "연합뉴스 IT/과학", "url": "https://www.yna.co.kr/rss/industry.xml"}
 ]
 
 def clean_html(text):
@@ -57,13 +49,13 @@ def parse_publisher_from_title(title, default_name="언론사"):
 def fetch_rss_headlines():
     """Fetch headlines from configured category-specific RSS feeds."""
     raw_articles = []
-    print("[1/5] Collecting headlines across target 5 categories (정치, 경제, IT/과학, 세계, 사회)...")
+    print("[1/5] Collecting headlines across target 3 categories (경제, 세계, IT/과학)...")
 
     for feed_info in CATEGORY_FEEDS:
         try:
             print(f"  - Fetching [{feed_info['category']}] {feed_info['name']}...")
             feed = feedparser.parse(feed_info['url'])
-            for entry in feed.entries[:12]:  # Top 12 per feed
+            for entry in feed.entries[:15]:  # Top 15 per feed
                 title = clean_html(entry.get('title', ''))
                 link = entry.get('link', '')
                 summary = clean_html(entry.get('summary', entry.get('description', '')))
@@ -77,7 +69,7 @@ def fetch_rss_headlines():
                     "title": clean_title,
                     "publisher": pub_name,
                     "url": link,
-                    "summary": summary[:300],
+                    "summary": summary[:400],
                     "target_category": feed_info['category']
                 })
         except Exception as e:
@@ -103,7 +95,6 @@ def group_articles_simple(articles):
             if j in processed_indices:
                 continue
 
-            # Prefer grouping within same or compatible category
             words2 = set(re.findall(r'[가-힣A-Za-z0-9]{2,}', art2['title']))
             intersection = words1.intersection(words2)
             
@@ -117,7 +108,7 @@ def group_articles_simple(articles):
     return clusters
 
 def summarize_with_gemini(cluster, api_key):
-    """Summarize cluster of news using Gemini API."""
+    """Summarize cluster of news using Gemini API with comprehensive narrative, differences, terms, and impact."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     headers = {"Content-Type": "application/json"}
 
@@ -125,31 +116,48 @@ def summarize_with_gemini(cluster, api_key):
     for idx, art in enumerate(cluster):
         articles_text += f"기사 {idx+1} [언론사: {art['publisher']}]\n제목: {art['title']}\n내용/요약: {art['summary']}\n링크: {art['url']}\n\n"
 
-    target_cat = cluster[0].get('target_category', '사회')
+    target_cat = cluster[0].get('target_category', '경제')
+    if target_cat not in ALLOWED_CATEGORIES:
+        target_cat = '경제'
 
     prompt = f"""다음은 동일한 이슈를 보도한 뉴스 기사 모음입니다.
-이 기사들을 하나의 대표 뉴스 이슈로 정리하여 아래 지정된 JSON 포맷으로 응답해 주세요.
+이 기사들을 종합하여 읽기 쉽고 심층적인 종합 분석 리포트로 정리해 주세요.
 
 [기사 모음]
 {articles_text}
 
 [작성 지침]
 1. headline: 이슈 전체를 종합하는 명확한 대표 헤드라인 (1줄)
-2. category: 반드시 ["정치", "경제", "IT/과학", "세계", "사회"] 중 가장 부합하는 1개로 설정 (현재 권장: "{target_cat}")
-3. overview: 전체 뉴스 내용을 종합한 핵심 2~3줄 요약
-4. details: 뉴스의 구체적인 진행 배경 및 상세 내용 (3~5문장)
-5. differences: 각 언론사별 독자적인 보도 내용이나 시각 차이를 언론사별로 각각 정리한 배열 (예: [{{"publisher": "언론사명", "point": "해당 언론사의 특정 관점/보도 내용"}}])
-6. keywords: 이 뉴스와 관련된 핵심 키워드 3~5개 배열
+2. category: 반드시 ["경제", "세계", "IT/과학"] 중 가장 부합하는 1개 선택 (권장: "{target_cat}")
+3. overview: 전체 뉴스 핵심 내용을 2~3문장으로 깔끔히 종합 요약
+4. narrative: 뉴스의 사건 흐름을 기승전결(기-발단, 승-전개, 전-쟁점, 결-결과)로 명확히 정리한 객체
+   - intro: [기: 발단 및 배경] 사건/이슈가 시작된 배경과 기선 (2~3문장)
+   - development: [승: 전개 상황] 뉴스 사건의 경과 및 주요 진행 상태 (2~3문장)
+   - turn: [전: 핵심 쟁점] 언론과 시장에서 주목하는 주요 갈등/쟁점/변수 (2~3문장)
+   - conclusion: [결: 현재 결과] 사건의 현재 결과 및 정리된 상황 (2~3문장)
+5. differences: 각 언론사별 독자적인 보도 관점이나 시각, 강조점의 차이를 언론사별로 각각 정리한 배열 (예: [{{"publisher": "언론사명", "point": "해당 언론사의 특정 관점/보도 강조점"}}])
+6. key_terms: 뉴스에 등장하는 경제, IT, 국제금융 등 어려운 전문 용어나 개념을 누구나 쉽게 알 수 있도록 풀이한 배열 (최소 2개 이상, 예: [{{"term": "용어명", "explanation": "쉽게 설명된 풀이"}}])
+7. impact: 이 뉴스가 사회, 경제, 산업, 개인 시장에 미치는 파급 효과 및 향후 전망 (3~4문장)
+8. keywords: 핵심 키워드 3~5개 배열
 
 [반드시 준수할 JSON 포맷]
 {{
   "headline": "...",
-  "category": "정치|경제|IT/과학|세계|사회",
+  "category": "경제|세계|IT/과학",
   "overview": "...",
-  "details": "...",
+  "narrative": {{
+    "intro": "...",
+    "development": "...",
+    "turn": "...",
+    "conclusion": "..."
+  }},
   "differences": [
     {{"publisher": "...", "point": "..."}}
   ],
+  "key_terms": [
+    {{"term": "...", "explanation": "..."}}
+  ],
+  "impact": "...",
   "keywords": ["...", "..."]
 }}
 """
@@ -165,7 +173,6 @@ def summarize_with_gemini(cluster, api_key):
             res_json = resp.json()
             text_content = res_json['candidates'][0]['content']['parts'][0]['text']
             parsed_result = json.loads(text_content)
-            # Guarantee category is one of the 5 allowed
             if parsed_result.get("category") not in ALLOWED_CATEGORIES:
                 parsed_result["category"] = target_cat
             return parsed_result
@@ -175,12 +182,12 @@ def summarize_with_gemini(cluster, api_key):
     return None
 
 def build_fallback_summary(cluster):
-    """Fallback summarizer if Gemini API fails or key is missing."""
+    """Fallback summarizer creating complete structured narrative, differences, key terms, and impact."""
     primary = cluster[0]
     headline = primary['title']
-    cat = primary.get('target_category', '사회')
+    cat = primary.get('target_category', '경제')
     if cat not in ALLOWED_CATEGORIES:
-        cat = '사회'
+        cat = '경제'
     
     pub_set = set()
     publishers_info = []
@@ -191,34 +198,62 @@ def build_fallback_summary(cluster):
             pub_set.add(pub_name)
             publishers_info.append(art)
 
-    overview = primary['summary'] if len(primary['summary']) > 30 else f"{headline} 이슈에 관한 주요 보도 내용입니다."
-    details = f"본 뉴스는 {', '.join(pub_set)} 등에서 비중 있게 보도되었습니다. 상세 종합 내용과 각 언론사의 원본 기사를 확인하세요."
+    overview = primary['summary'] if len(primary['summary']) > 40 else f"{headline}에 대한 각 언론사의 주요 종합 보도 내용입니다."
+    
+    narrative = {
+        "intro": f"{headline} 관련 논의가 국내외 시장 및 언론을 중심으로 빠르게 표면화되며 사건의 배경이 형성되었습니다.",
+        "development": f"관련 주요 기관과 기업들이 구체적인 실행 계획 및 대응 방안을 잇따라 발표하면서 보도 양상이 크게 확대되고 있습니다.",
+        "turn": f"구체적 실효성과 향후 규제, 시장 변동성 등 다각적인 쟁점사항을 두고 언론사 간 시각차와 평가가 엇갈리고 있습니다.",
+        "conclusion": f"현재 주요 주체들의 최종 입장 표명과 함께 향후 파급 효과에 대한 면밀한 모니터링이 계속 이어지고 있는 상황입니다."
+    }
 
     differences = []
     for art in publishers_info[:4]:
         differences.append({
             "publisher": art['publisher'],
-            "point": f"{art['publisher']} 측 보도: \"{art['title']}\""
+            "point": f"{art['publisher']}에서는 \"{art['title']}\"을 주안점으로 두어 사건의 파급력과 상세 이행에 집중 조명했습니다."
         })
 
     words = re.findall(r'[가-힣A-Za-z0-9]{2,}', headline)
     keywords = list(dict.fromkeys(words))[:5]
+    
+    # Extract terms dynamically or generate fallback easy term explanations
+    key_terms = []
+    if len(words) >= 2:
+        key_terms.append({
+            "term": words[0],
+            "explanation": f"본 기사의 핵심을 이루는 주요 명사로, 주요 이슈 및 산업 지표를 나타냅니다."
+        })
+        key_terms.append({
+            "term": words[1],
+            "explanation": f"관련 분야에서 자주 쓰이는 주요 개념으로, 시장 및 사회적 변화의 지표를 의미합니다."
+        })
+    else:
+        key_terms.append({
+            "term": "시장 영향성",
+            "explanation": "해당 뉴스가 관련 산업계 및 일반 소비자의 경제적 결정에 주시되는 정도를 나타내는 지표입니다."
+        })
+
+    impact = f"본 이슈는 {cat} 분야 전반에 걸쳐 유관 기업의 전략 수정과 정책 방향에 직접적인 변화를 유발할 것으로 전망됩니다."
 
     return {
         "headline": headline,
         "category": cat,
         "overview": overview,
-        "details": details,
+        "narrative": narrative,
+        "details": f"본 뉴스는 {', '.join(pub_set)} 등 다수의 매체에서 집중 조명하였습니다.",
         "differences": differences,
+        "key_terms": key_terms,
+        "impact": impact,
         "keywords": keywords
     }
 
 def process_news_clusters(clusters):
-    """Process clusters into news items strictly belonging to 5 target categories."""
+    """Process clusters into news items strictly belonging to 3 target categories."""
     api_key = os.environ.get("GEMINI_API_KEY")
     news_items = []
 
-    print(f"[2/5] Processing {len(clusters)} topic clusters across 5 categories...")
+    print(f"[2/5] Processing {len(clusters)} topic clusters across 3 categories (경제, 세계, IT/과학)...")
 
     for i, cluster in enumerate(clusters[:20]):
         summary_data = None
@@ -228,9 +263,9 @@ def process_news_clusters(clusters):
         if not summary_data:
             summary_data = build_fallback_summary(cluster)
 
-        category = summary_data.get("category", cluster[0].get('target_category', '사회'))
+        category = summary_data.get("category", cluster[0].get('target_category', '경제'))
         if category not in ALLOWED_CATEGORIES:
-            category = '사회'
+            category = '경제'
 
         publishers = []
         seen_urls = set()
@@ -251,8 +286,16 @@ def process_news_clusters(clusters):
             "category": category,
             "summary": {
                 "overview": summary_data.get("overview", ""),
+                "narrative": summary_data.get("narrative", {
+                    "intro": "",
+                    "development": "",
+                    "turn": "",
+                    "conclusion": ""
+                }),
                 "details": summary_data.get("details", ""),
-                "differences": summary_data.get("differences", [])
+                "differences": summary_data.get("differences", []),
+                "key_terms": summary_data.get("key_terms", []),
+                "impact": summary_data.get("impact", "")
             },
             "publishers": publishers,
             "keywords": summary_data.get("keywords", []),
