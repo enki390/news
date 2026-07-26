@@ -1043,29 +1043,186 @@ html[data-theme="light"] .publisher-link-item {
 
 /* Responsive Breakpoints */
 @media (max-width: 768px) {
-  .news-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .header-content {
-    flex-direction: column;
-    align-items: stretch;
-  }
-  
-  .header-controls {
-    flex-direction: column;
-    align-items: stretch;
+  .container {
+    padding: 0 16px;
   }
 
-  .search-box input, .search-box input:focus {
+  /* Sticky Header Mobile Optimization */
+  .header {
+    padding: 10px 0;
+  }
+
+  .header-content {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    grid-template-areas:
+      "logo date theme"
+      "search search search";
+    gap: 10px 8px;
+    align-items: center;
+  }
+
+  .logo-group {
+    grid-area: logo;
+    min-width: 0;
+    gap: 10px;
+  }
+
+  .logo-icon {
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+    border-radius: var(--radius-sm);
+  }
+
+  .logo-title {
+    font-size: 17px;
+  }
+
+  .logo-subtitle {
+    display: none; /* Hide subtitle on mobile to save vertical header space */
+  }
+
+  .header-controls {
+    display: contents; /* Participates directly in header-content grid */
+  }
+
+  .date-selector-wrapper {
+    grid-area: date;
+  }
+
+  .date-picker-trigger {
+    padding: 6px 12px;
+    font-size: 12px;
+    gap: 6px;
+  }
+
+  .date-picker-trigger .arrow-icon {
+    font-size: 10px;
+  }
+
+  .theme-toggle-btn {
+    grid-area: theme;
+    width: 34px;
+    height: 34px;
+    font-size: 14px;
+    flex-shrink: 0;
+    margin: 0;
+  }
+
+  .search-box {
+    grid-area: search;
     width: 100%;
   }
 
+  .search-box input, 
+  .search-box input:focus {
+    width: 100%;
+    padding: 8px 14px 8px 34px;
+    font-size: 13px;
+  }
+
+  /* Popover Floating Calendar on Mobile */
+  .calendar-popover {
+    position: fixed;
+    top: 60px;
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+    width: calc(100vw - 32px);
+    max-width: 330px;
+    z-index: 10000;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.85);
+  }
+
+  /* Hero Section Mobile Optimization */
+  .hero-section {
+    padding: 20px 0 16px 0;
+  }
+
+  .hero-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .hero-title {
+    font-size: 24px;
+    line-height: 1.35;
+    letter-spacing: -0.4px;
+    word-break: keep-all;
+  }
+
+  .hero-subtitle {
+    font-size: 13.5px;
+    line-height: 1.6;
+    margin-top: 6px;
+    word-break: keep-all;
+  }
+
+  .update-tag {
+    font-size: 12px;
+    padding: 5px 12px;
+    margin-top: 2px;
+    align-self: flex-start;
+  }
+
+  /* Category Filter Bar Mobile Optimization */
+  .category-bar {
+    gap: 8px;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .category-chip {
+    padding: 8px 16px;
+    font-size: 13.5px;
+    flex-shrink: 0;
+  }
+
+  /* News Grid & Cards on Mobile */
+  .news-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+    padding-bottom: 40px;
+  }
+
+  .card-headline {
+    font-size: 18px;
+  }
+
+  .card-summary {
+    font-size: 13.5px;
+  }
+
+  /* Modal on Mobile */
+  .modal-overlay {
+    padding: 12px;
+  }
+
+  .modal-container {
+    max-height: 94vh;
+    border-radius: var(--radius-md);
+  }
+
   .modal-body {
-    padding: 24px;
+    padding: 20px 16px;
   }
 
   .modal-headline {
-    font-size: 22px;
+    font-size: 20px;
+    line-height: 1.4;
+  }
+
+  .modal-overview-box {
+    font-size: 14.5px;
+    padding: 14px;
+  }
+
+  .modal-details-text {
+    font-size: 14px;
   }
 }
+
