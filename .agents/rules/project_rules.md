@@ -14,8 +14,7 @@ trigger: always_on
   4. 언론사별 기사 원본 링크
 
 ## 2. 뉴스 수집 및 AI 요약 (Collector & AI) 지침
-- **네이버 뉴스 API**: `https://openapi.naver.com/v1/search/news.json`을 사용하여 `경제`, `글로벌` 뉴스를 수집합니다.
-- **API 인증**: `NAVER_CLIENT_ID` 및 `NAVER_CLIENT_SECRET` 사용 (미설정 시 Fallback 수집기 작동).
+- **RSS & 크롤링 수집**: 주요 언론사 RSS 피드 및 BeautifulSoup 본문 크롤링 방식으로 `경제`, `글로벌` 뉴스를 수집합니다.
 - **데이터 보존**: `RETENTION_DAYS` (기본 30일) 보관 주기를 준수하여 오래된 뉴스를 자동 정리합니다.
 
 ## 3. GitHub MCP & 에이전트 개발 협업 수칙

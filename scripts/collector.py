@@ -5,6 +5,7 @@ import datetime
 import random
 import urllib.parse
 from pathlib import Path
+import feedparser
 import requests
 from bs4 import BeautifulSoup
 
@@ -14,190 +15,148 @@ RETENTION_DAYS = 30
 
 ALLOWED_CATEGORIES = ["경제", "글로벌"]
 
-# Search queries for Naver News API per category
-CATEGORY_QUERIES = {
-    "경제": ["경제", "금융", "증시", "기업"],
-    "글로벌": ["글로벌", "세계", "국제", "해외"]
+HTTP_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7"
 }
 
-# Domain to Publisher Name Map
-DOMAIN_PUBLISHER_MAP = {
-    "mk.co.kr": "매일경제",
-    "hankyung.com": "한국경제",
-    "chosun.com": "조선일보",
-    "donga.com": "동아일보",
-    "joongang.co.kr": "중앙일보",
-    "hani.co.kr": "한겨레",
-    "khan.co.kr": "경향신문",
-    "yna.co.kr": "연합뉴스",
-    "sedaily.com": "서울경제",
-    "news1.kr": "뉴스1",
-    "newsis.com": "뉴시스",
-    "ytn.co.kr": "YTN",
-    "imbc.com": "MBC",
-    "kbs.co.kr": "KBS",
-    "sbs.co.kr": "SBS",
-    "heraldcorp.com": "헤럴드경제",
-    "fnnews.com": "파이낸셜뉴스",
-    "asiae.co.kr": "아시아경제",
-    "edaily.co.kr": "이데일리",
-    "dt.co.kr": "디지털타임스",
-    "etnews.com": "전자신문",
-    "moneytoday.co.kr": "머니투데이",
-    "mt.co.kr": "머니투데이"
-}
+# Category-specific RSS Feeds across Major Korean Outlets (경제, 글로벌)
+CATEGORY_FEEDS = [
+    # 1. 경제
+    {"category": "경제", "name": "매일경제", "url": "https://www.mk.co.kr/rss/30000001/"},
+    {"category": "경제", "name": "한겨레", "url": "https://www.hani.co.kr/rss/economy/"},
+    {"category": "경제", "name": "동아일보", "url": "https://rss.donga.com/economy.xml"},
+    {"category": "경제", "name": "경향신문", "url": "https://www.khan.co.kr/rss/rssdata/economy.xml"},
+    {"category": "경제", "name": "연합뉴스", "url": "https://www.yna.co.kr/rss/economy.xml"},
+    {"category": "경제", "name": "Google News 경제", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ko&gl=KR&ceid=KR:ko"},
+
+    # 2. 글로벌
+    {"category": "글로벌", "name": "한겨레", "url": "https://www.hani.co.kr/rss/international/"},
+    {"category": "글로벌", "name": "경향신문", "url": "https://www.khan.co.kr/rss/rssdata/kh_world.xml"},
+    {"category": "글로벌", "name": "연합뉴스", "url": "https://www.yna.co.kr/rss/international.xml"},
+    {"category": "글로벌", "name": "Google News 글로벌", "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko"}
+]
 
 def clean_html(text):
-    """Remove HTML tags, bold tags (<b>...</b>), entity codes, and clean up whitespace."""
+    """Remove HTML tags, strip RSS snippet junk, and clean up whitespace."""
     if not text:
         return ""
     soup = BeautifulSoup(text, "html.parser")
+    
+    for tag in soup.find_all(['ol', 'ul', 'table', 'script', 'style', 'header', 'footer', 'nav', 'iframe']):
+        tag.decompose()
+        
     cleaned = soup.get_text(separator=" ").strip()
-    cleaned = re.sub(r'&[a-zA-Z0-9#]+;', ' ', cleaned)
     cleaned = re.sub(r'\s+', ' ', cleaned)
+    cleaned = re.sub(r'(\s+[가-힣A-Za-z0-9]+일보|\s+YTN|\s+MBC|\s+KBS|\s+SBS|\s+뉴시스|\s+아주경제|\s+뉴스1|\s+연합뉴스).*$', '', cleaned)
     return cleaned.strip()
 
-def extract_publisher_name(title, link, originallink):
-    """Extract publisher name from title bracket or URL domain."""
-    # Check title for [언론사] or (언론사) prefix/suffix
-    bracket_match = re.search(r'[\[\(]([가-힣A-Za-z0-9\s]{2,10})[\]\)]', title)
-    if bracket_match:
-        pub = bracket_match.group(1).strip()
-        if not pub.endswith("기자") and not pub.endswith("특파원"):
-            return pub
+def fetch_article_content(url):
+    """Fetch full body text of a news article via HTTP web crawling."""
+    if not url:
+        return ""
+    try:
+        resp = requests.get(url, headers=HTTP_HEADERS, timeout=5, allow_redirects=True)
+        if resp.status_code != 200:
+            return ""
+        
+        if resp.encoding is None or resp.encoding.lower() == 'iso-8859-1':
+            resp.encoding = resp.apparent_encoding or 'utf-8'
 
-    # Check originallink domain
-    target_url = originallink or link
-    if target_url:
-        try:
-            parsed = urllib.parse.urlparse(target_url)
-            netloc = parsed.netloc.lower()
-            for domain, name in DOMAIN_PUBLISHER_MAP.items():
-                if domain in netloc:
-                    return name
-            # Fallback domain basename
-            parts = netloc.replace("www.", "").split(".")
-            if parts:
-                return parts[0].upper()
-        except Exception:
-            pass
+        soup = BeautifulSoup(resp.text, "html.parser")
+        
+        for tag in soup.find_all(['script', 'style', 'nav', 'header', 'footer', 'iframe', 'aside', 'form', 'figcaption']):
+            tag.decompose()
 
-    return "주요 언론사"
+        article_body = (
+            soup.find('article') or 
+            soup.find('div', id=re.compile(r'article|content|body|news_body', re.I)) or
+            soup.find('div', class_=re.compile(r'article_body|art_body|news_text|article-body|story-body|article_view', re.I)) or
+            soup.find('section', class_=re.compile(r'article|content|news', re.I))
+        )
 
-def fetch_naver_news_items():
-    """Fetch news articles using Naver News Search API for categories: 경제, 글로벌."""
-    client_id = os.environ.get("NAVER_CLIENT_ID")
-    client_secret = os.environ.get("NAVER_CLIENT_SECRET")
-    
+        paragraphs = []
+        if article_body:
+            p_tags = article_body.find_all('p')
+            if p_tags:
+                paragraphs = [p.get_text(strip=True) for p in p_tags if len(p.get_text(strip=True)) > 15]
+            else:
+                paragraphs = [article_body.get_text(separator=" ", strip=True)]
+        else:
+            p_tags = soup.find_all('p')
+            paragraphs = [p.get_text(strip=True) for p in p_tags if len(p.get_text(strip=True)) > 20]
+
+        full_text = " ".join(paragraphs)
+        full_text = re.sub(r'\s+', ' ', full_text)
+        full_text = re.sub(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', '', full_text)
+        full_text = re.sub(r'무단전재\s*및\s*재배포\s*금지.*$', '', full_text)
+        full_text = re.sub(r'저작권자\s*©.*$', '', full_text)
+
+        return full_text.strip()
+    except Exception:
+        return ""
+
+def parse_publisher_from_title(title, default_name="언론사"):
+    """Extract publisher name if included in title like 'Headline - Publisher'."""
+    if " - " in title:
+        parts = title.rsplit(" - ", 1)
+        headline = parts[0].strip()
+        pub = parts[1].strip()
+        if len(pub) <= 15:
+            return headline, pub
+    return title.strip(), default_name
+
+def fetch_rss_headlines():
+    """Fetch headlines and full text content via RSS and Web Crawling for 경제 and 글로벌 categories."""
     raw_articles = []
-    print("[1/5] Fetching articles via Naver News API for categories: 경제, 글로벌...")
+    print("[1/5] Fetching RSS headlines and crawling article body texts for categories: 경제, 글로벌...")
 
-    if not client_id or not client_secret:
-        print("  Warning: NAVER_CLIENT_ID or NAVER_CLIENT_SECRET not set in environment.")
-        print("  Switching to sample API response generator for robust demonstration...")
-        return generate_sample_raw_articles()
-
-    headers = {
-        "X-Naver-Client-Id": client_id,
-        "X-Naver-Client-Secret": client_secret
-    }
-
-    for category, queries in CATEGORY_QUERIES.items():
-        for query in queries:
-            try:
-                enc_query = urllib.parse.quote(query)
-                url = f"https://openapi.naver.com/v1/search/news.json?query={enc_query}&display=20&sort=date"
-                resp = requests.get(url, headers=headers, timeout=10)
-
-                if resp.status_code != 200:
-                    print(f"  Warning: Naver API returned status code {resp.status_code} for query '{query}'")
+    for feed_info in CATEGORY_FEEDS:
+        try:
+            print(f"  - Fetching [{feed_info['category']}] {feed_info['name']}...")
+            feed = feedparser.parse(feed_info['url'])
+            count = 0
+            for entry in feed.entries:
+                if count >= 8:
+                    break
+                title = entry.get('title', '')
+                link = entry.get('link', '')
+                summary_raw = entry.get('summary', entry.get('description', ''))
+                
+                if not title or not link:
                     continue
 
-                res_json = resp.json()
-                items = res_json.get("items", [])
+                clean_title, pub_name = parse_publisher_from_title(title, feed_info['name'])
+                summary_clean = clean_html(summary_raw)
+                
+                # Fetch article body text via web crawling
+                full_body = fetch_article_content(link)
+                
+                if full_body and len(full_body) > 50:
+                    effective_content = full_body
+                elif summary_clean and len(summary_clean) > 30:
+                    effective_content = summary_clean
+                else:
+                    effective_content = clean_title
 
-                for item in items:
-                    raw_title = item.get("title", "")
-                    clean_title = clean_html(raw_title)
-                    description = clean_html(item.get("description", ""))
-                    link = item.get("link", "")
-                    originallink = item.get("originallink", "")
+                raw_articles.append({
+                    "title": clean_title,
+                    "publisher": pub_name,
+                    "url": link,
+                    "summary": summary_clean[:300],
+                    "full_content": effective_content[:2000],
+                    "target_category": feed_info['category']
+                })
+                count += 1
+        except Exception as e:
+            print(f"    Warning: Failed to fetch {feed_info['name']}: {e}")
 
-                    if not clean_title or not description:
-                        continue
-
-                    publisher = extract_publisher_name(raw_title, link, originallink)
-                    article_url = originallink if originallink else link
-
-                    raw_articles.append({
-                        "title": clean_title,
-                        "publisher": publisher,
-                        "url": article_url,
-                        "summary": description,
-                        "full_content": description,
-                        "target_category": category,
-                        "pub_date": item.get("pubDate", "")
-                    })
-            except Exception as e:
-                print(f"  Error fetching Naver news for query '{query}': {e}")
-
-    print(f"Total Naver News API articles fetched: {len(raw_articles)}")
-    if not raw_articles:
-        print("  No articles fetched via Naver API. Loading sample data fallback...")
-        return generate_sample_raw_articles()
-
+    print(f"Total raw articles collected with body content: {len(raw_articles)}")
     return raw_articles
 
-def generate_sample_raw_articles():
-    """Fallback sample articles when Naver API keys are absent."""
-    sample_articles = [
-        # 경제
-        {
-            "title": "한국은행, 기준금리 동결 결정... 환율 및 물가 안정에 초점",
-            "publisher": "한국경제",
-            "url": "https://www.hankyung.com/economy/article/sample1",
-            "summary": "한국은행 금융통화위원회가 현 기준금리를 유지하기로 결정했습니다. 고환율 지속과 가계부채 부담, 시중 물가 변동성을 종합적으로 고려한 조치로 분석됩니다.",
-            "full_content": "한국은행 금융통화위원회는 오늘 전체회의를 열고 현 3.50%인 기준금리를 동결하기로 결정했습니다. 이창용 한국은행 총재는 기자간담회에서 '최근 원/달러 환율의 변동성이 확대되고 있으며 가계부채 증가세와 시중 물가 안정세를 지속 관찰할 필요가 있다'고 설명했습니다. 금융 시장에서는 이번 동결 결정이 대내외 불확실성에 대응하기 위한 안도적인 조치로 해석하고 있으며 향후 통화정책 방향에 관심이 쏠리고 있습니다.",
-            "target_category": "경제"
-        },
-        {
-            "title": "한은 기준금리 유지... 가계부채·환율 주시속 찬반 팽팽",
-            "publisher": "매일경제",
-            "url": "https://www.mk.co.kr/news/economy/sample2",
-            "summary": "금통위가 기준금리를 동결하면서 부동산 시장과 대출 금리에 미칠 파장이 가시화되고 있습니다. 환율 상승에 따른 고물가 우려가 금리 인하 발목을 잡았습니다.",
-            "full_content": "매일경제 취재에 따르면 이번 한은의 기준금리 동결 결정은 부동산 시장 연착륙과 외환시장 안정 사이에서 깊은 고뇌 끝에 내린 결과입니다. 시중 은행권의 주택담보대출 금리가 높은 수준을 유지하고 있는 가운데, 미국 연준의 금리 행보와 유가 움직임이 향후 한은의 추가 조치 방향을 결정지을 핵심 변수로 지목됩니다.",
-            "target_category": "경제"
-        },
-        {
-            "title": "기준금리 또 동결, 금융시장 반응과 향후 통화정책 전망",
-            "publisher": "연합뉴스",
-            "url": "https://www.yna.co.kr/view/sample3",
-            "summary": "연합뉴스 종합 취재 결과 금통위원 만장일치로 금리가 동결되었으며 증권가는 금리 인하 시점이 하반기로 이월될 가능성을 제기했습니다.",
-            "full_content": "한국은행이 기준금리를 동결함에 따라 코스피 및 금융시장은 소폭 상승세를 보이며 안정적인 흐름을 나타냈습니다. 전문가들은 국제 유가 불안과 환율 상승 압력이 완화되는 시점에 한은이 통화 정책 전환을 검토할 것으로 전망하고 있습니다.",
-            "target_category": "경제"
-        },
-        # 글로벌
-        {
-            "title": "글로벌 공급망 재편 본격화... 미국·EU 신규 통상 규제 강화",
-            "publisher": "서울경제",
-            "url": "https://www.sedaily.com/NewsView/sample4",
-            "summary": "미국과 유럽연합(EU)이 주요 첨단 산업 및 원자재 통상 규제를 강화하면서 글로벌 공급망 재편 속도가 빨라지고 있습니다.",
-            "full_content": "미국 정부와 EU 집행위원회는 핵심 원자재 및 반도체 공급망 안정화를 위한 신규 통상 지침을 발표했습니다. 이번 정책은 역내 생산 비중을 높이고 특정 국가에 대한 공급망 의존도를 낮추는 데 초점이 맞춰져 있습니다. 이에 따라 글로벌 기업들의 첨단 생산 기지 이전과 투자 재조정이 가속화될 전망입니다.",
-            "target_category": "글로벌"
-        },
-        {
-            "title": "미국·EU 통상장벽 높여... 글로벌 수출 기업 대응 비상",
-            "publisher": "조선일보",
-            "url": "https://www.chosun.com/international/sample5",
-            "summary": "주요국들의 자국 우선주의 및 보호무역 기조가 강화됨에 따라 글로벌 수출 기업들의 규제 대응 비용이 증가하고 있습니다.",
-            "full_content": "조선일보 국제부 취재 결과 미국과 EU의 탄소국경조정제도 및 공급망 실사법 도입으로 인해 국내외 수출기업들의 부담이 가중되고 있습니다. 전문가들은 단순 생산기지 이전을 넘어 현지 파트너십 강화와 친환경 공급망 구축이 시급하다고 지적합니다.",
-            "target_category": "글로벌"
-        }
-    ]
-    return sample_articles
-
 def group_articles_simple(articles):
-    """Group related articles by title/keyword overlap within target categories (경제, 글로벌)."""
+    """Group related articles by title/keyword overlap within categories."""
     clusters = []
     processed_indices = set()
 
@@ -216,8 +175,7 @@ def group_articles_simple(articles):
             words2 = set(re.findall(r'[가-힣A-Za-z0-9]{2,}', art2['title']))
             intersection = words1.intersection(words2)
             
-            # Cluster if 2+ words match or same publisher title similarity
-            if len(intersection) >= 2 or art1['target_category'] == art2['target_category'] and len(intersection) >= 1:
+            if len(intersection) >= 2 or (art1['target_category'] == art2['target_category'] and len(intersection) >= 1):
                 current_cluster.append(art2)
                 processed_indices.add(j)
 
@@ -227,9 +185,9 @@ def group_articles_simple(articles):
     return clusters
 
 def summarize_with_gemini(cluster, api_key):
-    """Summarize cluster of news using Gemini API following updated reporting rules:
-       - Overview (종합 요약)
-       - Differences (언론사별 보도 시작 & 강조점 비교)
+    """Summarize cluster using Gemini API following the new structure rules:
+       - overview (수집 기사 전체 요약)
+       - differences (언론사별 보도 시작 & 강조점 비교)
     """
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     headers = {"Content-Type": "application/json"}
@@ -237,26 +195,26 @@ def summarize_with_gemini(cluster, api_key):
     articles_text = ""
     for idx, art in enumerate(cluster):
         body = art.get('full_content', art.get('summary', ''))
-        articles_text += f"기사 {idx+1} [언론사: {art['publisher']}]\n제목: {art['title']}\n본문/내용: {body}\n링크: {art['url']}\n\n"
+        articles_text += f"기사 {idx+1} [언론사: {art['publisher']}]\n제목: {art['title']}\n크롤링된 본문: {body}\n링크: {art['url']}\n\n"
 
     target_cat = cluster[0].get('target_category', '경제')
     if target_cat not in ALLOWED_CATEGORIES:
         target_cat = '경제'
 
-    prompt = f"""다음은 동일한 주제/이슈를 다룬 뉴스 기사들의 실제 수집 내용입니다.
-수집된 기사들을 바탕으로 아래 규칙에 맞추어 깔끔한 브리핑 리포트를 작성해 주세요.
+    prompt = f"""다음은 동일한 주제를 다룬 뉴스 기사들의 실제 크롤링 본문 모음입니다.
+수집된 기사 본문을 바탕으로 아래 지침에 따라 브리핑 리포트를 작성해 주세요.
 
-[수집된 기사 내용 모음]
+[수집된 기사 본문 모음]
 {articles_text}
 
 [작성 지침]
-1. headline: 이슈 전체를 종합하는 명확하고 세련된 대표 헤드라인 (1줄)
+1. headline: 이슈 전체를 종합하는 명확한 대표 헤드라인 (1줄)
 2. category: 반드시 ["경제", "글로벌"] 중 가장 부합하는 1개 선택 (권장: "{target_cat}")
-3. overview: 수집한 기사들을 모두 읽고 사건의 경과, 원인, 핵심 결과를 깔끔하게 정리한 종합 요약 (3~5문장)
-4. differences: 각 언론사별 보도 방식 비교 배열.
+3. overview: 수집한 기사를 모두 읽고 중요한 사건 경과, 팩트, 수치를 바탕으로 명확히 종합 정리한 요약 (3~5문장)
+4. differences: 각 언론사별 기사 본문의 보도 시작 방식 및 핵심 강조점을 비교한 배열
    - publisher: 언론사명
-   - start_point: 해당 언론사가 기사를 시작한 보도 첫 문장 또는 기사 도입부 특징 (1~2문장)
-   - emphasis_point: 해당 언론사가 기사 본문에서 가장 강조한 핵심 내용 및 관점 (1~2문장)
+   - start_point: 해당 언론사의 기사 시작 및 도입 부분 방식 (1~2문장)
+   - emphasis_point: 해당 언론사가 기사 본문에서 가장 강조한 핵심 관점 및 내용 (1~2문장)
 5. keywords: 핵심 키워드 3~5개 배열
 
 [반드시 준수할 JSON 포맷]
@@ -267,7 +225,7 @@ def summarize_with_gemini(cluster, api_key):
   "differences": [
     {{
       "publisher": "언론사명",
-      "start_point": "보도 시작 부분 및 도입 방식...",
+      "start_point": "보도 시작 방식 및 도입부...",
       "emphasis_point": "강조점 및 핵심 시각..."
     }}
   ],
@@ -295,21 +253,21 @@ def summarize_with_gemini(cluster, api_key):
     return None
 
 def build_fallback_summary(cluster):
-    """Fallback summarizer satisfying the updated reporting structure."""
+    """Fallback summary generator satisfying updated report structure."""
     primary = cluster[0]
     headline = primary['title']
     cat = primary.get('target_category', '경제')
     if cat not in ALLOWED_CATEGORIES:
         cat = '경제'
 
-    descriptions = [art.get('summary', art.get('full_content', '')) for art in cluster if art.get('summary')]
-    
-    if len(descriptions) >= 2:
-        overview = f"{descriptions[0]} 한편, {descriptions[1]} 수집된 보도를 종합할 때 사안의 추후 경과와 시장 여파에 관심이 쏠리고 있습니다."
-    elif len(descriptions) == 1:
-        overview = f"{descriptions[0]} 주요 매체들을 통해 사안의 구체적인 보도가 이어지고 있습니다."
+    all_bodies = [art.get('full_content', art.get('summary', '')) for art in cluster if art.get('full_content') or art.get('summary')]
+
+    if len(all_bodies) >= 2:
+        overview = f"{all_bodies[0][:150]}... 한편 {all_bodies[1][:150]}... 수집된 언론사별 기사 본문을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다."
+    elif len(all_bodies) == 1:
+        overview = f"{all_bodies[0][:200]}... 주요 언론을 통해 사안의 구체적인 경과가 전달되었습니다."
     else:
-        overview = f"{headline} 이슈와 관련하여 각 주요 언론사별 보도가 집중되고 있습니다."
+        overview = f"{headline} 이슈와 관련하여 주요 언론 매체들이 집중 취재 보도를 진행하고 있습니다."
 
     differences = []
     for art in cluster:
@@ -317,11 +275,11 @@ def build_fallback_summary(cluster):
         if any(d['publisher'] == pub_name for d in differences):
             continue
         
-        text = art.get('summary', art.get('full_content', ''))
-        sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', text) if len(s.strip()) > 10]
+        body_text = art.get('full_content', art.get('summary', ''))
+        sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', body_text) if len(s.strip()) > 10]
         
         start_pt = sentences[0] if sentences else f"{pub_name}에서 {art['title']} 보도를 시작했습니다."
-        emphasis_pt = sentences[1] if len(sentences) > 1 else (sentences[0] if sentences else "본 사안의 핵심 경과와 파장에 주목했습니다.")
+        emphasis_pt = sentences[1] if len(sentences) > 1 else (sentences[0] if sentences else "본 사안의 핵심 경과에 주목했습니다.")
 
         differences.append({
             "publisher": pub_name,
@@ -461,9 +419,9 @@ def save_daily_news_data(news_items):
     print("  - Daily JSON save completed.")
 
 def main():
-    print(f"=== Naver News API Collector Batch Starting at {datetime.datetime.now()} ===")
+    print(f"=== RSS & Crawling News Collector Batch Starting at {datetime.datetime.now()} ===")
     
-    raw_articles = fetch_naver_news_items()
+    raw_articles = fetch_rss_headlines()
     if not raw_articles:
         print("Error: No news articles fetched.")
         return
