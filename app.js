@@ -291,7 +291,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateTimeText.textContent = `${data.date} (${formattedTime} 수집 완료)`;
       }
 
-      mainHeroSubtitle.textContent = `경제, 세계, IT/과학 3대 주요 분야의 헤드라인 총 ${currentNewsData.length}개를 수집 및 심층 분석 하였습니다.`;
+      mainHeroSubtitle.textContent = `경제 및 글로벌 2대 주요 분야의 뉴스 총 ${currentNewsData.length}개를 네이버 API로 수집하여 분석 하였습니다.`;
       
       renderNewsGrid();
     } catch (error) {
@@ -379,7 +379,7 @@ document.addEventListener('DOMContentLoaded', () => {
               ${extraPubCount}
             </div>
             <span class="read-more-btn">
-              기승전결 요약 <i class="fa-solid fa-arrow-right"></i>
+              뉴스 리포트 보기 <i class="fa-solid fa-arrow-right"></i>
             </span>
           </div>
         </div>
@@ -389,73 +389,37 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Open Detailed View Modal
   function openNewsModal(item) {
-    // 1. Narrative Arc (기승전결) HTML
-    let narrativeHTML = '';
-    const n = item.summary.narrative;
-    if (n && (n.intro || n.development || n.turn || n.conclusion)) {
-      narrativeHTML = `
+    // 1. Featured Article Full Body HTML (랜덤 선택 기사 본문 전체)
+    let featuredArticleHTML = '';
+    const fa = item.summary.featured_article;
+    if (fa) {
+      featuredArticleHTML = `
         <div class="modal-section-title">
-          <i class="fa-solid fa-timeline"></i> 뉴스 사건 흐름 종합 (기승전결)
+          <i class="fa-solid fa-file-lines"></i> [랜덤 선택] ${escapeHtml(fa.publisher)} 기사 본문 전체
         </div>
-        <div class="narrative-grid">
-          ${n.intro ? `
-            <div class="narrative-card">
-              <div class="narrative-header">
-                <span class="narrative-badge gi">기 [발단]</span>
-              </div>
-              <p class="narrative-text">${escapeHtml(n.intro)}</p>
-            </div>
-          ` : ''}
-          ${n.development ? `
-            <div class="narrative-card">
-              <div class="narrative-header">
-                <span class="narrative-badge seung">승 [전개]</span>
-              </div>
-              <p class="narrative-text">${escapeHtml(n.development)}</p>
-            </div>
-          ` : ''}
-          ${n.turn ? `
-            <div class="narrative-card">
-              <div class="narrative-header">
-                <span class="narrative-badge jeon">전 [쟁점]</span>
-              </div>
-              <p class="narrative-text">${escapeHtml(n.turn)}</p>
-            </div>
-          ` : ''}
-          ${n.conclusion ? `
-            <div class="narrative-card">
-              <div class="narrative-header">
-                <span class="narrative-badge gyeol">결 [결과]</span>
-              </div>
-              <p class="narrative-text">${escapeHtml(n.conclusion)}</p>
-            </div>
-          ` : ''}
-        </div>
-      `;
-    }
-
-    // 2. Impact & Outlook HTML
-    let impactHTML = '';
-    if (item.summary.impact) {
-      impactHTML = `
-        <div class="modal-section-title">
-          <i class="fa-solid fa-chart-line-up"></i> 사회 · 경제적 파급 효과 & 향후 전망
-        </div>
-        <div class="impact-box">
-          <div class="impact-content">
-            <i class="fa-solid fa-bullseye impact-icon"></i>
-            <p>${escapeHtml(item.summary.impact)}</p>
+        <div class="featured-article-card">
+          <div class="featured-article-header">
+            <span class="featured-pub-badge">${escapeHtml(fa.publisher)}</span>
+            <h3 class="featured-article-title">${escapeHtml(fa.title)}</h3>
           </div>
+          <div class="featured-article-body">
+            <p>${escapeHtml(fa.full_content || '본문 내용을 불러올 수 없습니다.')}</p>
+          </div>
+          ${fa.url ? `
+            <a href="${fa.url}" target="_blank" rel="noopener noreferrer" class="featured-article-link">
+              해당 기사 원본으로 이동 <i class="fa-solid fa-arrow-up-right-from-square"></i>
+            </a>
+          ` : ''}
         </div>
       `;
     }
 
-    // 3. Publisher Differences HTML
+    // 2. Publisher Differences HTML (언론사별 보도 시작과 강조점 비교)
     let differencesHTML = '';
     if (item.summary.differences && item.summary.differences.length > 0) {
       differencesHTML = `
         <div class="modal-section-title">
-          <i class="fa-solid fa-scale-balanced"></i> 언론사별 보도 시각 & 강조점 비교
+          <i class="fa-solid fa-scale-balanced"></i> 언론사별 보도 시작 & 강조점 비교
         </div>
         <div class="differences-grid">
           ${item.summary.differences.map(diff => `
@@ -463,33 +427,25 @@ document.addEventListener('DOMContentLoaded', () => {
               <div class="diff-publisher">
                 <i class="fa-solid fa-building-columns"></i> ${escapeHtml(diff.publisher)}
               </div>
-              <div class="diff-point">${escapeHtml(diff.point)}</div>
-            </div>
-          `).join('')}
-        </div>
-      `;
-    }
-
-    // 4. Key Terms & Explanations HTML
-    let keyTermsHTML = '';
-    if (item.summary.key_terms && item.summary.key_terms.length > 0) {
-      keyTermsHTML = `
-        <div class="modal-section-title">
-          <i class="fa-solid fa-book-open"></i> 쉬운 핵심 용어 & 개념 풀이
-        </div>
-        <div class="key-terms-grid">
-          ${item.summary.key_terms.map(kt => `
-            <div class="term-card">
-              <div class="term-title">
-                <i class="fa-solid fa-lightbulb"></i> ${escapeHtml(kt.term)}
+              <div class="diff-section">
+                <div class="diff-label start-label">
+                  <i class="fa-solid fa-play"></i> 보도 시작 (도입부)
+                </div>
+                <div class="diff-content">${escapeHtml(diff.start_point || diff.point || '-')}</div>
               </div>
-              <div class="term-desc">${escapeHtml(kt.explanation)}</div>
+              <div class="diff-section">
+                <div class="diff-label emphasis-label">
+                  <i class="fa-solid fa-bullseye"></i> 핵심 강조점 (시각)
+                </div>
+                <div class="diff-content">${escapeHtml(diff.emphasis_point || diff.point || '-')}</div>
+              </div>
             </div>
           `).join('')}
         </div>
       `;
     }
 
+    // 3. Publisher Links HTML
     const publisherLinksHTML = item.publishers.map(pub => `
       <a href="${pub.url}" target="_blank" rel="noopener noreferrer" class="publisher-link-item">
         <span class="publisher-name-badge">${escapeHtml(pub.name)}</span>
@@ -502,21 +458,21 @@ document.addEventListener('DOMContentLoaded', () => {
       <span class="modal-category-tag">${escapeHtml(item.category)}</span>
       <h1 class="modal-headline">${escapeHtml(item.headline)}</h1>
 
+      <!-- 1. 종합 요약 -->
       <div class="modal-section-title">
-        <i class="fa-solid fa-wand-magic-sparkles"></i> AI 핵심 종합 요약
+        <i class="fa-solid fa-wand-magic-sparkles"></i> 수집 기사 종합 요약
       </div>
       <div class="modal-overview-box">
         ${escapeHtml(item.summary.overview)}
       </div>
 
-      ${narrativeHTML}
+      <!-- 2. 랜덤 선택 기사 본문 전체 -->
+      ${featuredArticleHTML}
 
-      ${impactHTML}
-
+      <!-- 3. 언론사별 보도 시작과 강조점 비교 -->
       ${differencesHTML}
 
-      ${keyTermsHTML}
-
+      <!-- 4. 언론사별 기사 원본 링크 -->
       <div class="modal-section-title">
         <i class="fa-solid fa-newspaper"></i> 언론사별 기사 원본 링크 (${item.publishers.length}개)
       </div>

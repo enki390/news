@@ -6,14 +6,18 @@ trigger: always_on
 
 ## 1. 프론트엔드 (Frontend) 작성 지침
 - **Vanilla Web Stack**: 외부 프레임워크 없이 `index.html`, `index.css`, `app.js` 구성을 유지합니다.
-- **디자인 시스템**: `index.css`에 정의된 CSS 변수(Color palette, spacing, font)를 활용하여 일관된 디자인을 유지합니다.
-- **예외 처리**: `app.js`에서 데이터 로딩 실패 시 사용자에게 친권적이고 깔끔한 에러 UI를 노출합니다.
+- **카테고리 구성**: `경제` 및 `글로벌` 2개 대표 필터 카테고리 유지.
+- **뉴스 모달 구성**:
+  1. AI 종합 요약 (`overview`)
+  2. [랜덤 선택] 언론사 기사 본문 전체 (`featured_article`)
+  3. 언론사별 보도 시작(`start_point`) & 강조점(`emphasis_point`) 비교
+  4. 언론사별 기사 원본 링크
 
 ## 2. 뉴스 수집 및 AI 요약 (Collector & AI) 지침
-- **네트워크 안정성**: RSS 수집 시 타임아웃 처리 및 웹 스크래핑 예외 처리를 철저히 진행합니다.
-- **AI 요약 Fallback**: Gemini API 오류 발생 시 전체 프로세스가 중단되지 않도록 원본 기사의 본문 요약/Snippet을 대체 텍스트로 사용하는 방어 로직을 유지합니다.
-- **데이터 보존**: `RETENTION_DAYS` (기본 30일) 보관 주기를 준수하여 오래된 뉴스를 적절히 아카이빙합니다.
+- **네이버 뉴스 API**: `https://openapi.naver.com/v1/search/news.json`을 사용하여 `경제`, `글로벌` 뉴스를 수집합니다.
+- **API 인증**: `NAVER_CLIENT_ID` 및 `NAVER_CLIENT_SECRET` 사용 (미설정 시 Fallback 수집기 작동).
+- **데이터 보존**: `RETENTION_DAYS` (기본 30일) 보관 주기를 준수하여 오래된 뉴스를 자동 정리합니다.
 
 ## 3. GitHub MCP & 에이전트 개발 협업 수칙
-- 코드 작성 후 반드시 문법 오류 검증 및 작동 테스트를 거칩니다.
+- 코드 작성 후 반드시 `python scripts/collector.py` 실행 및 문법 오류 검증을 수행합니다.
 - 커밋 시 의미 있는 개별 단위로 커밋 메시지를 작성합니다.
