@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Fetch Manifest of Available News Dates
   async function fetchAvailableDates() {
     try {
-      const resp = await fetch('./data/available_dates.json');
+      const resp = await fetch(`data/available_dates.json?t=${Date.now()}`);
       if (resp.ok) {
         const data = await resp.json();
         availableDates = data.available_dates || [];
@@ -263,7 +263,7 @@ document.addEventListener('DOMContentLoaded', () => {
   async function loadNewsData(targetDate) {
     showLoading();
     const fileName = targetDate === 'latest' ? 'latest.json' : `${targetDate}.json`;
-    const dataUrl = `./data/${fileName}`;
+    const dataUrl = `data/${fileName}?t=${Date.now()}`;
 
     try {
       const response = await fetch(dataUrl);
@@ -291,7 +291,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateTimeText.textContent = `${data.date} (${formattedTime} 수집 완료)`;
       }
 
-      mainHeroSubtitle.textContent = `경제 및 글로벌 2대 주요 분야의 뉴스 총 ${currentNewsData.length}개를 네이버 API로 수집하여 분석 하였습니다.`;
+      mainHeroSubtitle.textContent = `경제 및 글로벌 2대 주요 분야의 뉴스 총 ${currentNewsData.length}개를 수집 및 심층 분석 하였습니다.`;
       
       renderNewsGrid();
     } catch (error) {
@@ -299,7 +299,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (targetDate !== 'latest') {
         console.log('Attempting fallback to latest.json...');
         try {
-          const fbResp = await fetch('./data/latest.json');
+          const fbResp = await fetch(`data/latest.json?t=${Date.now()}`);
           if (fbResp.ok) {
             const fbData = await fbResp.json();
             currentNewsData = fbData.news_items || [];
