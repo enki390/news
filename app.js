@@ -1,7 +1,7 @@
 /**
  * News Discover Frontend Application Logic
  * Supports 2 target categories: 경제, 글로벌
- * Features: Article Collection & Update Triggering, Debounced Locking, Manual Feedback Reflection Workflow
+ * Features: Article Collection & Update Triggering, Debounced Locking, Manual Feedback Reflection Workflow, Auto PAT Loading
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -98,6 +98,26 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
+  // Auto PAT Token Loader (1. localStorage -> 2. data/config.json)
+  async function getPATToken() {
+    let token = localStorage.getItem('github_pat_token') || '';
+    if (token) return token;
+
+    try {
+      const resp = await fetch(`data/config.json?t=${Date.now()}`);
+      if (resp.ok) {
+        const cfg = await resp.json();
+        if (cfg && cfg.github_pat && cfg.github_pat !== 'YOUR_GITHUB_PERSONAL_ACCESS_TOKEN_HERE') {
+          return cfg.github_pat.trim();
+        }
+      }
+    } catch (e) {
+      // Ignore if config.json does not exist
+    }
+
+    return '';
+  }
+
   // Fetch Manifest of Available News Dates
   async function fetchAvailableDates() {
     try {
@@ -142,13 +162,15 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // Settings Modal Logic
-  function setupSettingsModal() {
+  async function setupSettingsModal() {
     if (!settingsBtn || !settingsModal) return;
 
-    const savedPat = localStorage.getItem('github_pat_token') || '';
-    if (githubPatInput) githubPatInput.value = savedPat;
+    const token = await getPATToken();
+    if (githubPatInput) githubPatInput.value = token;
 
-    settingsBtn.addEventListener('click', () => {
+    settingsBtn.addEventListener('click', async () => {
+      const currentToken = await getPATToken();
+      if (githubPatInput) githubPatInput.value = currentToken;
       settingsModal.classList.add('active');
     });
 
@@ -411,7 +433,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Trigger GitHub Actions daily_news.yml batch execution
   async function triggerCollectorBatch(mode) {
-    const patToken = localStorage.getItem('github_pat_token');
+    const patToken = await getPATToken();
     
     if (patToken) {
       const resp = await fetch('https://api.github.com/repos/enki390/news/actions/workflows/daily_news.yml/dispatches', {
@@ -432,21 +454,19 @@ document.addEventListener('DOMContentLoaded', () => {
         throw new Error(`GitHub Actions dispatch 실패 (${resp.status}): ${errText}`);
       }
     } else {
-      // Local or mock trigger fallback
       console.log(`[Batch Trigger] Mode: ${mode} (GitHub PAT not provided; simulating local batch trigger)`);
     }
   }
 
   // Sync feedback.json to GitHub repository
   async function syncFeedbackFile(feedbacksMap) {
-    const patToken = localStorage.getItem('github_pat_token');
+    const patToken = await getPATToken();
     if (!patToken) return;
 
     const contentStr = JSON.stringify({ feedbacks: feedbacksMap, updated_at: new Date().toISOString() }, null, 2);
     const contentBase64 = btoa(unescape(encodeURIComponent(contentStr)));
 
     try {
-      // Check existing sha
       let sha = '';
       const getResp = await fetch('https://api.github.com/repos/enki390/news/contents/data/feedback.json', {
         headers: { 'Authorization': `token ${patToken}` }
