@@ -52,6 +52,6 @@ RSS_FEEDS = [
 
 # API Keys & Flags
 KAKAO_REST_API_KEY = os.environ.get("KAKAO_REST_API_KEY", "")
-NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "")
+NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "e38b4843e5aa4d6f994d069eb1cc8f8a")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 COLLECT_MODE = os.environ.get("COLLECT_MODE", "collect")
