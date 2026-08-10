@@ -1,3 +1,4 @@
+import requests
 from typing import List
 from sources.base import BaseNewsSource, NewsArticle
 
@@ -22,17 +23,14 @@ class KakaoNewsAPISource(BaseNewsSource):
             print(f"[{self.source_name}] API 키가 설정되지 않아 건너뜁니다.")
             return []
         
-        # TODO: GET https://dapi.kakao.com/v2/search/news 연동 구현
         print(f"[{self.source_name}] API 연동 스텁 호출됨 (향후 API 키 등록 시 자동 동작)")
         return []
 
 class NewsAPISource(BaseNewsSource):
-    """NewsAPI.org 수집기 스텁"""
+    """NewsAPI.org 뉴스 수집기 연동"""
 
-    def __init__(self, api_key: str, country: str = "kr", category: str = "business"):
+    def __init__(self, api_key: str):
         self.api_key = api_key
-        self.country = country
-        self.category = category
 
     @property
     def source_name(self) -> str:
@@ -47,6 +45,63 @@ class NewsAPISource(BaseNewsSource):
             print(f"[{self.source_name}] API 키가 설정되지 않아 건너뜁니다.")
             return []
 
-        # TODO: GET https://newsapi.org/v2/top-headlines 연동 구현
-        print(f"[{self.source_name}] API 연동 스텁 호출됨 (향후 API 키 등록 시 자동 동작)")
-        return []
+        articles: List[NewsArticle] = []
+
+        # 1. 경제 카테고리 (Top Business Headlines for Korea)
+        try:
+            biz_url = f"https://newsapi.org/v2/top-headlines?country=kr&category=business&pageSize=20&apiKey={self.api_key}"
+            resp = requests.get(biz_url, timeout=10)
+            if resp.status_code == 200:
+                data = resp.json()
+                for item in data.get("articles", []):
+                    title = item.get("title", "")
+                    if not title or title == "[Removed]":
+                        continue
+                    pub_name = item.get("source", {}).get("name", "NewsAPI")
+                    articles.append(NewsArticle(
+                        title=title,
+                        publisher=pub_name,
+                        url=item.get("url", ""),
+                        summary=item.get("description", "") or "",
+                        full_content=item.get("content", "") or item.get("description", "") or "",
+                        target_category="경제",
+                        source_type=self.source_type,
+                        published_at=item.get("publishedAt", ""),
+                        thumbnail_url=item.get("urlToImage", "") or ""
+                    ))
+                print(f"[{self.source_name}] 경제 수집 완료: {len(articles)}개 기사")
+            else:
+                print(f"[{self.source_name}] 경제 수집 응답 실패 ({resp.status_code})")
+        except Exception as e:
+            print(f"[{self.source_name}] 경제 수집 중 예외 발생: {e}")
+
+        # 2. 글로벌 카테고리 (Everything search with global keywords in Korean)
+        try:
+            global_url = f"https://newsapi.org/v2/everything?q=글로벌 OR 세계 OR 환율 OR 미증시&language=ko&sortBy=publishedAt&pageSize=15&apiKey={self.api_key}"
+            resp = requests.get(global_url, timeout=10)
+            if resp.status_code == 200:
+                data = resp.json()
+                initial_count = len(articles)
+                for item in data.get("articles", []):
+                    title = item.get("title", "")
+                    if not title or title == "[Removed]":
+                        continue
+                    pub_name = item.get("source", {}).get("name", "NewsAPI")
+                    articles.append(NewsArticle(
+                        title=title,
+                        publisher=pub_name,
+                        url=item.get("url", ""),
+                        summary=item.get("description", "") or "",
+                        full_content=item.get("content", "") or item.get("description", "") or "",
+                        target_category="글로벌",
+                        source_type=self.source_type,
+                        published_at=item.get("publishedAt", ""),
+                        thumbnail_url=item.get("urlToImage", "") or ""
+                    ))
+                print(f"[{self.source_name}] 글로벌 수집 완료: {len(articles) - initial_count}개 기사")
+            else:
+                print(f"[{self.source_name}] 글로벌 수집 응답 실패 ({resp.status_code})")
+        except Exception as e:
+            print(f"[{self.source_name}] 글로벌 수집 중 예외 발생: {e}")
+
+        return articles
