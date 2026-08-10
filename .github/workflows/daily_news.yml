@@ -1,10 +1,16 @@
 name: Daily News Aggregator Batch
 
 on:
-  schedule:
-    # Runs at 21:00 UTC every day (which is 06:00 KST next morning)
-    - cron: '0 21 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Execution Mode'
+        required: false
+        default: 'collect'
+        type: choice
+        options:
+          - collect
+          - apply_feedback
 
 jobs:
   collect-and-deploy:
@@ -27,17 +33,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run News Collector & Summarizer
+      - name: Run news collector script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
-          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          COLLECT_MODE: ${{ inputs.mode }}
         run: |
           python scripts/collector.py
 
-      - name: Commit and push updated news data
+      - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: update daily news data [skip ci]" && git push)
+          git status
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update news data batch [skip ci]" && git push)
