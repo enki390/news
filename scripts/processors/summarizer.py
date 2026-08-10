@@ -183,7 +183,15 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
             "url": random_art.url
         }
 
+        # Prefer real article image from cluster
+        real_image = ""
+        for art in cluster:
+            if art.thumbnail_url and art.thumbnail_url.startswith("http"):
+                real_image = art.thumbnail_url
+                break
+
         item_id = f"news-{datetime.date.today().strftime('%Y%m%d')}-{len(news_items)+1:03d}"
+        card_image = real_image or f"https://picsum.photos/seed/{item_id}/600/400"
 
         news_items.append({
             "id": item_id,
@@ -196,7 +204,7 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
             },
             "publishers": publishers,
             "keywords": summary_data.get("keywords", []),
-            "image_url": f"https://picsum.photos/seed/{item_id}/600/400"
+            "image_url": card_image
         })
 
     return news_items
