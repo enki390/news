@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let searchQuery = '';
   let availableDates = [];
   let isProcessing = false; // Lock flag for preventing concurrent update/feedback requests
+  let lastLoadedGeneratedAt = ''; // Track exact data timestamp for detecting updates
   
   const todayObj = new Date();
   const todayStr = todayObj.toISOString().split('T')[0];
@@ -92,9 +93,9 @@ document.addEventListener('DOMContentLoaded', () => {
     setupSettingsModal();
     
     if (selectedDate === todayStr) {
-      loadNewsData('latest');
+      await loadNewsData('latest');
     } else {
-      loadNewsData(selectedDate);
+      await loadNewsData(selectedDate);
     }
   }
 
@@ -104,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (token) return token;
 
     try {
-      const resp = await fetch(`data/config.json?t=${Date.now()}`);
+      const resp = await fetch(`data/config.json?t=${Date.now()}`, { cache: 'no-store' });
       if (resp.ok) {
         const cfg = await resp.json();
         if (cfg && cfg.github_pat && cfg.github_pat !== 'YOUR_GITHUB_PERSONAL_ACCESS_TOKEN_HERE') {
@@ -118,10 +119,10 @@ document.addEventListener('DOMContentLoaded', () => {
     return '';
   }
 
-  // Fetch Manifest of Available News Dates
+  // Fetch Manifest of Available News Dates (No Cache)
   async function fetchAvailableDates() {
     try {
-      const resp = await fetch(`data/available_dates.json?t=${Date.now()}`);
+      const resp = await fetch(`data/available_dates.json?t=${Date.now()}`, { cache: 'no-store' });
       if (resp.ok) {
         const data = await resp.json();
         availableDates = data.available_dates || [];
@@ -329,7 +330,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    // 1. [SECURE UPDATE BUTTON] 기사 수집 -> 페이지 업데이트 연동 (중복 클릭 방지 락 포함)
+    // 1. [SECURE UPDATE BUTTON] 기사 수집 -> 페이지 업데이트 연동 (중복 클릭 방지 락 및 실시간 상태 감지)
     if (updateNewsBtn) {
       updateNewsBtn.addEventListener('click', async () => {
         if (isProcessing) {
@@ -337,20 +338,28 @@ document.addEventListener('DOMContentLoaded', () => {
           return;
         }
 
+        const patToken = await getPATToken();
+        if (!patToken) {
+          showToast('⚠️ GitHub PAT 토큰이 설정되지 않았습니다. 상단 ⚙️ 설정 버튼에서 토큰을 입력해 주세요.', 'warning', 6000);
+          return;
+        }
+
         setProcessingState(true, 'update');
-        showToast('🔄 기사 수집 및 AI 요약 프로세스를 실행합니다...', 'info', 4000);
+        showToast('🚀 GitHub Actions 뉴스 수집 워크플로우를 트리거합니다...', 'info', 4000);
 
         try {
-          // GitHub Actions Trigger (or local fallback)
           await triggerCollectorBatch('collect');
-          showToast('⏳ 뉴스 수집 작업 처리 중... 잠시 후 자동으로 갱신됩니다.', 'info', 5000);
+          showToast('⚡ 수집 배치가 시작되었습니다. GitHub Actions 및 배포 상태를 감지합니다...', 'info', 5000);
           
-          // Poll for data refresh
-          await pollForUpdatedData();
-          showToast('✅ 최신 기사 수집 및 페이지 업데이트가 완료되었습니다.', 'success');
+          const updated = await pollForUpdatedData();
+          if (updated) {
+            showToast('🎉 최신 뉴스 기사 수집 및 페이지 업데이트가 완료되었습니다!', 'success', 5000);
+          } else {
+            showToast('ℹ️ 기사 수집 배치가 완료되었습니다. (추가 신규 기사가 없거나 이전과 동일합니다.)', 'info', 5000);
+          }
         } catch (err) {
           console.error('Update news error:', err);
-          showToast(`❌ 기사 업데이트 중 오류: ${err.message}`, 'error');
+          showToast(`❌ 기사 업데이트 중 오류: ${err.message}`, 'error', 6000);
         } finally {
           setProcessingState(false);
         }
@@ -365,6 +374,12 @@ document.addEventListener('DOMContentLoaded', () => {
           return;
         }
 
+        const patToken = await getPATToken();
+        if (!patToken) {
+          showToast('⚠️ GitHub PAT 토큰이 설정되지 않았습니다. 상단 ⚙️ 설정 버튼에서 토큰을 입력해 주세요.', 'warning', 6000);
+          return;
+        }
+
         const feedbacksMap = getFeedbacksMap();
         const fbCount = Object.keys(feedbacksMap).length;
         if (fbCount === 0) {
@@ -373,20 +388,22 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         setProcessingState(true, 'feedback');
-        showToast(`✨ 기사 피드백 (${fbCount}개) 검토 및 개선 반영 작업을 시작합니다...`, 'info', 4000);
+        showToast(`✨ 기사 피드백 (${fbCount}개) 동기화 및 반영 배치를 요청합니다...`, 'info', 4000);
 
         try {
-          // Sync feedback file first
           await syncFeedbackFile(feedbacksMap);
-          // Trigger apply_feedback workflow
           await triggerCollectorBatch('apply_feedback');
-          showToast('⏳ 기사별 피드백 분석 및 AI 프롬프트 개선 적용 중...', 'info', 5000);
+          showToast('⚡ 피드백 반영 배치 실행 중... 완료 시까지 실시간 감지합니다.', 'info', 5000);
 
-          await pollForUpdatedData();
-          showToast('🎉 기사 피드백 내용 확인, 분석 및 개선 반영이 모두 완료되었습니다!', 'success');
+          const updated = await pollForUpdatedData();
+          if (updated) {
+            showToast('🎉 기사 피드백 분석 및 AI 요약 개선 반영이 완료되었습니다!', 'success', 5000);
+          } else {
+            showToast('✅ 피드백 반영 프로세스가 처리되었습니다.', 'success', 5000);
+          }
         } catch (err) {
           console.error('Apply feedback error:', err);
-          showToast(`❌ 피드백 반영 중 오류: ${err.message}`, 'error');
+          showToast(`❌ 피드백 반영 중 오류: ${err.message}`, 'error', 6000);
         } finally {
           setProcessingState(false);
         }
@@ -434,27 +451,26 @@ document.addEventListener('DOMContentLoaded', () => {
   // Trigger GitHub Actions daily_news.yml batch execution
   async function triggerCollectorBatch(mode) {
     const patToken = await getPATToken();
-    
-    if (patToken) {
-      const resp = await fetch('https://api.github.com/repos/enki390/news/actions/workflows/daily_news.yml/dispatches', {
-        method: 'POST',
-        headers: {
-          'Authorization': `token ${patToken}`,
-          'Accept': 'application/vnd.github.v3+json',
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          ref: 'main',
-          inputs: { mode: mode }
-        })
-      });
+    if (!patToken) {
+      throw new Error('GitHub PAT 토큰이 설정되어 있지 않습니다. ⚙️ 설정에서 토큰을 저장하거나 data/config.json을 생성해 주세요.');
+    }
 
-      if (!resp.ok) {
-        const errText = await resp.text();
-        throw new Error(`GitHub Actions dispatch 실패 (${resp.status}): ${errText}`);
-      }
-    } else {
-      console.log(`[Batch Trigger] Mode: ${mode} (GitHub PAT not provided; simulating local batch trigger)`);
+    const resp = await fetch('https://api.github.com/repos/enki390/news/actions/workflows/daily_news.yml/dispatches', {
+      method: 'POST',
+      headers: {
+        'Authorization': `token ${patToken}`,
+        'Accept': 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        ref: 'main',
+        inputs: { mode: mode }
+      })
+    });
+
+    if (!resp.ok) {
+      const errText = await resp.text();
+      throw new Error(`GitHub Actions dispatch 실패 (${resp.status}): ${errText}`);
     }
   }
 
@@ -493,32 +509,60 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  // Poll for data refresh
+  // Poll for GitHub Actions Completion & Real Data Change (Bypassing CDN Cache)
   async function pollForUpdatedData() {
-    let attempts = 0;
-    const maxAttempts = 6;
-    while (attempts < maxAttempts) {
-      await new Promise(resolve => setTimeout(resolve, 3000));
-      attempts++;
+    const initialGeneratedAt = lastLoadedGeneratedAt;
+    const maxAttempts = 16; // Up to ~80 seconds
+    const intervalMs = 5000;
+
+    for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+      await new Promise(resolve => setTimeout(resolve, intervalMs));
+      
       await fetchAvailableDates();
-      const loaded = await loadNewsData(selectedDate === todayStr ? 'latest' : selectedDate);
-      if (loaded) break;
+      const fileName = selectedDate === todayStr ? 'latest.json' : `${selectedDate}.json`;
+      
+      try {
+        // Bypass cache with no-store and timestamp query
+        const resp = await fetch(`data/${fileName}?t=${Date.now()}`, { cache: 'no-store' });
+        if (resp.ok) {
+          const data = await resp.json();
+          const currentGenAt = data.generated_at || '';
+
+          // Check if data timestamp has updated
+          if (currentGenAt && currentGenAt !== initialGeneratedAt) {
+            console.log(`[Data Update Detected] Old: ${initialGeneratedAt} -> New: ${currentGenAt}`);
+            await loadNewsData(selectedDate === todayStr ? 'latest' : selectedDate);
+            return true;
+          }
+        }
+      } catch (e) {
+        console.warn(`Polling attempt ${attempt} failed:`, e);
+      }
+
+      if (attempt % 3 === 0) {
+        showToast(`⏳ (${attempt}/${maxAttempts}) 기사 수집 및 배포 처리 진행 중...`, 'info', 4000);
+      }
     }
+
+    // Final fallback load
+    await loadNewsData(selectedDate === todayStr ? 'latest' : selectedDate);
+    return lastLoadedGeneratedAt !== initialGeneratedAt;
   }
 
-  // Fetch Daily News Data
+  // Fetch Daily News Data (Bypassing Browser/CDN Cache)
   async function loadNewsData(targetDate) {
     showLoading();
     const fileName = targetDate === 'latest' ? 'latest.json' : `${targetDate}.json`;
     const dataUrl = `data/${fileName}?t=${Date.now()}`;
 
     try {
-      const response = await fetch(dataUrl);
+      const response = await fetch(dataUrl, { cache: 'no-store' });
       if (!response.ok) {
         throw new Error(`Data for ${targetDate} not found.`);
       }
       const data = await response.json();
       currentNewsData = data.news_items || [];
+      lastLoadedGeneratedAt = data.generated_at || '';
       
       if (data.date) {
         selectedDate = data.date;
@@ -546,10 +590,11 @@ document.addEventListener('DOMContentLoaded', () => {
       console.warn('Failed to load JSON data:', error);
       if (targetDate !== 'latest') {
         try {
-          const fbResp = await fetch(`data/latest.json?t=${Date.now()}`);
+          const fbResp = await fetch(`data/latest.json?t=${Date.now()}`, { cache: 'no-store' });
           if (fbResp.ok) {
             const fbData = await fbResp.json();
             currentNewsData = fbData.news_items || [];
+            lastLoadedGeneratedAt = fbData.generated_at || '';
             if (fbData.date) {
               selectedDate = fbData.date;
               if (selectedDateText) {
