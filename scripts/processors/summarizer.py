@@ -22,8 +22,11 @@ def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_con
 
     feedback_prompt_addon = ""
     if feedback_context:
-        feedback_prompt_addon = f"""\n\n[사용자 피드백 지침 - 기존 요약 품질 개선 요구사항]
-아래는 사용자가 직접 입력한 기사 요약 및 분류 개선 피드백입니다. 이 피드백을 깊이 참고하여 작성에 적극 반영해 주세요:
+        feedback_prompt_addon = f"""
+
+[사용자 기사 피드백 지침 - 필수 개선 반영사항]
+아래는 사용자가 직접 작성한 기사 품질 및 관점 비교 개선 요구사항입니다.
+종합 요약(overview), 보도 시작/강조점 비교(differences), 카테고리(category) 작성 시 이 지침을 깊이 참고하여 적극 반영해 주세요:
 {feedback_context}
 """
 
@@ -143,7 +146,10 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
     if feedback_dict and "feedbacks" in feedback_dict:
         fb_list = []
         for fid, fval in feedback_dict["feedbacks"].items():
-            fb_list.append(f"- [{fval.get('category','')}] {fval.get('headline','')}: {fval.get('text','')}")
+            head = fval.get('headline', '')
+            cat = fval.get('category', '')
+            txt = fval.get('text', '')
+            fb_list.append(f"• [대상 기사: {head} | 카테고리: {cat}]\n  사용자 피드백 지침: {txt}")
         feedback_context = "\n".join(fb_list)
 
     for i, cluster in enumerate(clusters[:MAX_CLUSTERS]):
