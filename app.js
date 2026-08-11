@@ -27,12 +27,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const feedbackBtnText = document.getElementById('feedbackBtnText');
   const feedbackCountBadge = document.getElementById('feedbackCountBadge');
 
-  const settingsBtn = document.getElementById('settingsBtn');
-  const settingsModal = document.getElementById('settingsModal');
-  const settingsCloseBtn = document.getElementById('settingsCloseBtn');
-  const githubPatInput = document.getElementById('githubPatInput');
-  const savePatBtn = document.getElementById('savePatBtn');
-
   const toastContainer = document.getElementById('toastContainer');
 
   // Custom Calendar DOM Elements
@@ -90,7 +84,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     setupEventListeners();
     setupCalendar();
-    setupSettingsModal();
     
     if (selectedDate === todayStr) {
       await loadNewsData('latest');
@@ -159,35 +152,6 @@ document.addEventListener('DOMContentLoaded', () => {
     } else {
       themeIcon.className = 'fa-solid fa-sun';
       themeToggleBtn.title = '다크 모드로 변경';
-    }
-  }
-
-  // Settings Modal Logic
-  async function setupSettingsModal() {
-    if (!settingsBtn || !settingsModal) return;
-
-    const token = await getPATToken();
-    if (githubPatInput) githubPatInput.value = token;
-
-    settingsBtn.addEventListener('click', async () => {
-      const currentToken = await getPATToken();
-      if (githubPatInput) githubPatInput.value = currentToken;
-      settingsModal.classList.add('active');
-    });
-
-    if (settingsCloseBtn) {
-      settingsCloseBtn.addEventListener('click', () => {
-        settingsModal.classList.remove('active');
-      });
-    }
-
-    if (savePatBtn) {
-      savePatBtn.addEventListener('click', () => {
-        const val = githubPatInput.value.trim();
-        localStorage.setItem('github_pat_token', val);
-        showToast('🔑 GitHub PAT 토큰이 성공적으로 저장되었습니다.', 'success');
-        settingsModal.classList.remove('active');
-      });
     }
   }
 
@@ -338,12 +302,6 @@ document.addEventListener('DOMContentLoaded', () => {
           return;
         }
 
-        const patToken = await getPATToken();
-        if (!patToken) {
-          showToast('⚠️ GitHub PAT 토큰이 설정되지 않았습니다. 상단 ⚙️ 설정 버튼에서 토큰을 입력해 주세요.', 'warning', 6000);
-          return;
-        }
-
         setProcessingState(true, 'update');
         showToast('🚀 GitHub Actions 뉴스 수집 워크플로우를 트리거합니다...', 'info', 4000);
 
@@ -371,12 +329,6 @@ document.addEventListener('DOMContentLoaded', () => {
       applyFeedbackBtn.addEventListener('click', async () => {
         if (isProcessing) {
           showToast('⚠️ 다른 작업이 진행 중입니다. 잠시만 기다려 주세요.', 'warning');
-          return;
-        }
-
-        const patToken = await getPATToken();
-        if (!patToken) {
-          showToast('⚠️ GitHub PAT 토큰이 설정되지 않았습니다. 상단 ⚙️ 설정 버튼에서 토큰을 입력해 주세요.', 'warning', 6000);
           return;
         }
 
@@ -451,17 +403,17 @@ document.addEventListener('DOMContentLoaded', () => {
   // Trigger GitHub Actions daily_news.yml batch execution
   async function triggerCollectorBatch(mode) {
     const patToken = await getPATToken();
-    if (!patToken) {
-      throw new Error('GitHub PAT 토큰이 설정되어 있지 않습니다. ⚙️ 설정에서 토큰을 저장하거나 data/config.json을 생성해 주세요.');
+    const headers = {
+      'Accept': 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json'
+    };
+    if (patToken) {
+      headers['Authorization'] = `token ${patToken}`;
     }
 
     const resp = await fetch('https://api.github.com/repos/enki390/news/actions/workflows/daily_news.yml/dispatches', {
       method: 'POST',
-      headers: {
-        'Authorization': `token ${patToken}`,
-        'Accept': 'application/vnd.github.v3+json',
-        'Content-Type': 'application/json'
-      },
+      headers: headers,
       body: JSON.stringify({
         ref: 'main',
         inputs: { mode: mode }
@@ -477,16 +429,17 @@ document.addEventListener('DOMContentLoaded', () => {
   // Sync feedback.json to GitHub repository
   async function syncFeedbackFile(feedbacksMap) {
     const patToken = await getPATToken();
-    if (!patToken) return;
-
     const contentStr = JSON.stringify({ feedbacks: feedbacksMap, updated_at: new Date().toISOString() }, null, 2);
     const contentBase64 = btoa(unescape(encodeURIComponent(contentStr)));
 
+    const headers = { 'Content-Type': 'application/json' };
+    if (patToken) {
+      headers['Authorization'] = `token ${patToken}`;
+    }
+
     try {
       let sha = '';
-      const getResp = await fetch('https://api.github.com/repos/enki390/news/contents/data/feedback.json', {
-        headers: { 'Authorization': `token ${patToken}` }
-      });
+      const getResp = await fetch('https://api.github.com/repos/enki390/news/contents/data/feedback.json', { headers });
       if (getResp.ok) {
         const getData = await getResp.json();
         sha = getData.sha;
@@ -494,10 +447,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       await fetch('https://api.github.com/repos/enki390/news/contents/data/feedback.json', {
         method: 'PUT',
-        headers: {
-          'Authorization': `token ${patToken}`,
-          'Content-Type': 'application/json'
-        },
+        headers: headers,
         body: JSON.stringify({
           message: 'chore: sync article feedbacks from user interface',
           content: contentBase64,
