@@ -324,7 +324,7 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    // 2. [APPLY FEEDBACK BUTTON] 저장된 기사 피드백 수동 반영 (중복 클릭 방지 락 포함)
+    // 2. [APPLY FEEDBACK BUTTON] 기사 피드백 취합 -> GitHub Issue 자동 생성
     if (applyFeedbackBtn) {
       applyFeedbackBtn.addEventListener('click', async () => {
         if (isProcessing) {
@@ -340,22 +340,20 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         setProcessingState(true, 'feedback');
-        showToast(`✨ 기사 피드백 (${fbCount}개) 동기화 및 반영 배치를 요청합니다...`, 'info', 4000);
+        showToast(`✨ 기사 피드백 (${fbCount}개) 기반 GitHub Issue 등록을 진행합니다...`, 'info', 4000);
 
         try {
-          await syncFeedbackFile(feedbacksMap);
-          await triggerCollectorBatch('apply_feedback');
-          showToast('⚡ 피드백 반영 배치 실행 중... 완료 시까지 실시간 감지합니다.', 'info', 5000);
+          const issueResult = await createGitHubIssueFromFeedbacks(feedbacksMap);
+          
+          // Clear local feedbacks after successfully creating GitHub Issue
+          localStorage.removeItem('news_discover_feedbacks');
+          updateFeedbackBadge();
+          renderNewsGrid();
 
-          const updated = await pollForUpdatedData();
-          if (updated) {
-            showToast('🎉 기사 피드백 분석 및 AI 요약 개선 반영이 완료되었습니다!', 'success', 5000);
-          } else {
-            showToast('✅ 피드백 반영 프로세스가 처리되었습니다.', 'success', 5000);
-          }
+          showToast(`🎉 GitHub Issue (#${issueResult.number})가 성공적으로 생성되었습니다! 매일 오전 9시 에이전트가 자율 처리합니다.`, 'success', 6000);
         } catch (err) {
-          console.error('Apply feedback error:', err);
-          showToast(`❌ 피드백 반영 중 오류: ${err.message}`, 'error', 6000);
+          console.error('Create GitHub issue error:', err);
+          showToast(`❌ GitHub Issue 등록 중 오류: ${err.message}`, 'error', 6000);
         } finally {
           setProcessingState(false);
         }
@@ -382,7 +380,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateBtnText.textContent = '수집 진행 중...';
       } else if (type === 'feedback') {
         feedbackBtnIcon.className = 'fa-solid fa-spinner fa-spin';
-        feedbackBtnText.textContent = '반영 진행 중...';
+        feedbackBtnText.textContent = '이슈 생성 중...';
       }
     } else {
       if (updateNewsBtn) {
@@ -398,6 +396,45 @@ document.addEventListener('DOMContentLoaded', () => {
         feedbackBtnText.textContent = '피드백 반영';
       }
     }
+  }
+
+  // Create GitHub Issue from User Feedbacks
+  async function createGitHubIssueFromFeedbacks(feedbacksMap) {
+    const patToken = await getPATToken();
+    const today = new Date().toISOString().split('T')[0];
+    const fbList = Object.entries(feedbacksMap);
+
+    let bodyMd = `## 📝 기사 피드백 취합 리포트 (${today})\n\n총 ${fbList.length}개의 기사 품질 및 파이프라인 개선 요청이 저장되었습니다.\n\n### 피드백 항목 목록\n`;
+    fbList.forEach(([id, item], idx) => {
+      bodyMd += `\n#### ${idx + 1}. [${escapeHtml(item.category)}] ${escapeHtml(item.headline)}\n- **기사 ID**: \`${id}\`\n- **작성 시각**: ${item.updated_at}\n- **사용자 지침**:\n> ${escapeHtml(item.text).replace(/\n/g, '\n> ')}\n`;
+    });
+
+    bodyMd += `\n---\n*자동 생성된 피드백 이슈입니다. 매일 오전 9시 자율 에이전트가 처리 후 Job/Plan 및 Job/Task 결과 문서를 남기고 이슈를 종료합니다.*`;
+
+    const headers = {
+      'Accept': 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json'
+    };
+    if (patToken) {
+      headers['Authorization'] = `token ${patToken}`;
+    }
+
+    const resp = await fetch('https://api.github.com/repos/enki390/news/issues', {
+      method: 'POST',
+      headers: headers,
+      body: JSON.stringify({
+        title: `[피드백 반영] ${today} 기사 품질 및 파이프라인 개선 요청`,
+        body: bodyMd,
+        labels: ['feedback', 'automated']
+      })
+    });
+
+    if (!resp.ok) {
+      const errText = await resp.text();
+      throw new Error(`GitHub Issue 생성 실패 (${resp.status}): ${errText}`);
+    }
+
+    return await resp.json();
   }
 
   // Trigger GitHub Actions daily_news.yml batch execution
