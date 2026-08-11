@@ -3,15 +3,17 @@ import json
 import re
 import time
 import datetime
-import requests
 from typing import List
+
+from google import genai
+from google.genai import types
+
 from sources.base import NewsArticle
 from config import ALLOWED_CATEGORIES, GEMINI_API_KEY, MAX_CLUSTERS
 
 def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_context: str = ""):
-    """Summarize cluster using Gemini API with valid model endpoints (gemini-2.0-flash / gemini-1.5-flash)."""
-    models_to_try = ["gemini-2.0-flash", "gemini-1.5-flash"]
-    headers = {"Content-Type": "application/json"}
+    """Summarize cluster using official google-genai SDK with model fallback."""
+    client = genai.Client(api_key=api_key)
 
     articles_text = ""
     for idx, art in enumerate(cluster):
@@ -57,29 +59,26 @@ def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_con
 }}
 """
 
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseMimeType": "application/json"}
-    }
+    models_to_try = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"]
 
     for model_name in models_to_try:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
         for attempt in range(1, 3):
             try:
-                resp = requests.post(url, headers=headers, json=payload, timeout=30)
-                if resp.status_code == 200:
-                    res_json = resp.json()
-                    text_content = res_json['candidates'][0]['content']['parts'][0]['text']
-                    parsed_result = json.loads(text_content)
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        response_mime_type="application/json"
+                    )
+                )
+                if response and response.text:
+                    parsed_result = json.loads(response.text)
                     if parsed_result.get("category") not in ALLOWED_CATEGORIES:
                         parsed_result["category"] = target_cat
                     return parsed_result
-                else:
-                    print(f"Gemini API ({model_name}) attempt {attempt} failed with status {resp.status_code}: {resp.text}")
             except Exception as e:
-                print(f"Gemini API ({model_name}) Exception on attempt {attempt}: {e}")
-            
-            time.sleep(1)
+                print(f"google-genai SDK ({model_name}) attempt {attempt} failed: {e}")
+                time.sleep(1)
 
     return None
 
