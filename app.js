@@ -687,7 +687,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (fa) {
       featuredArticleHTML = `
         <div class="modal-section-title">
-          <i class="fa-solid fa-file-lines"></i> [랜덤 선택] ${escapeHtml(fa.publisher)} 기사 본문 전체
+          <i class="fa-solid fa-file-lines"></i> [대표 선택] ${escapeHtml(fa.publisher)} 기사 본문 전체
         </div>
         <div class="featured-article-card">
           <div class="featured-article-header">
@@ -702,36 +702,6 @@ document.addEventListener('DOMContentLoaded', () => {
               해당 기사 원본으로 이동 <i class="fa-solid fa-arrow-up-right-from-square"></i>
             </a>
           ` : ''}
-        </div>
-      `;
-    }
-
-    let differencesHTML = '';
-    if (item.summary.differences && item.summary.differences.length > 0) {
-      differencesHTML = `
-        <div class="modal-section-title">
-          <i class="fa-solid fa-scale-balanced"></i> 언론사별 보도 시작 & 강조점 비교
-        </div>
-        <div class="differences-grid">
-          ${item.summary.differences.map(diff => `
-            <div class="diff-card">
-              <div class="diff-publisher">
-                <i class="fa-solid fa-building-columns"></i> ${escapeHtml(diff.publisher)}
-              </div>
-              <div class="diff-section">
-                <div class="diff-label start-label">
-                  <i class="fa-solid fa-play"></i> 보도 시작 (도입부)
-                </div>
-                <div class="diff-content">${escapeHtml(diff.start_point || '-')}</div>
-              </div>
-              <div class="diff-section">
-                <div class="diff-label emphasis-label">
-                  <i class="fa-solid fa-bullseye"></i> 핵심 강조점 (시각)
-                </div>
-                <div class="diff-content">${escapeHtml(diff.emphasis_point || '-')}</div>
-              </div>
-            </div>
-          `).join('')}
         </div>
       `;
     }
@@ -755,16 +725,13 @@ document.addEventListener('DOMContentLoaded', () => {
         <i class="fa-solid fa-wand-magic-sparkles"></i> 수집 기사 종합 요약
       </div>
       <div class="modal-overview-box">
-        ${escapeHtml(item.summary.overview)}
+        ${escapeHtml(item.summary.overview || '').replace(/\n/g, '<br>')}
       </div>
 
-      <!-- 2. 랜덤 선택 기사 본문 전체 -->
+      <!-- 2. 대표 선택 기사 본문 전체 -->
       ${featuredArticleHTML}
 
-      <!-- 3. 언론사별 보도 시작과 강조점 비교 -->
-      ${differencesHTML}
-
-      <!-- 4. 언론사별 기사 원본 링크 -->
+      <!-- 3. 언론사별 기사 원본 링크 -->
       <div class="modal-section-title">
         <i class="fa-solid fa-newspaper"></i> 언론사별 기사 원본 링크 (${item.publishers.length}개)
       </div>
@@ -772,7 +739,7 @@ document.addEventListener('DOMContentLoaded', () => {
         ${publisherLinksHTML}
       </div>
 
-      <!-- 5. 기사 피드백 입력란 -->
+      <!-- 4. 기사 피드백 입력란 -->
       <div class="modal-section-title feedback-title">
         <i class="fa-solid fa-comment-dots"></i> 기사 품질 피드백 (개발 메모)
       </div>
