@@ -29,8 +29,8 @@ jobs:
       - name: Run news collector
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GEMINI_KEY || secrets.GEMINI_APIKEY || secrets.GEMINI_SECRET }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY || secrets.NEWSAPI_KEY }}
           KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
-          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: |
           python scripts/collector.py
 
