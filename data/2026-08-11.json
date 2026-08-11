@@ -1,47 +1,104 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T17:07:22.395345+09:00",
+  "generated_at": "2026-08-11T20:55:35.109145+09:00",
   "total_count": 20,
   "news_items": [
     {
       "id": "news-20260811-001",
-      "headline": "“원정출산-트럼프 위협 발언”…美, 외국인 17만5000명 비자 취소",
+      "headline": "콜롬비아 규모 7.4 강진 발생으로 대규모 인명 피해 및 국가 비상사태 선포",
       "category": "글로벌",
       "summary": {
-        "overview": "미국 도널드 트럼프 2기 행정부가 지난해 1월 출범한 뒤 비자 요건 위반, 범죄 혐의 등의 이유로 외국인 총 17만5000여 명의 비자를 취소했다고 밝혔다. 여기엔 자녀의 미국 시민권 취득을 위한 ‘원정 출산’에 나섰거나, 트럼프 대통령에 대한 위협 발언을 한 이들도 ... 한편 트럼프, 아동 예방접종 18개→11개 축소…의료계 “아동 건강 위협”... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
+        "overview": "남미 콜롬비아 서부 초코주 인근에서 규모 7.4의 강력한 지진이 발생했습니다. 나스카판과 남아메리카판이 만나는 지점에서 발생한 이번 지진으로 최소 132명이 숨지고 570명 이상이 부상을 입었습니다. 현재까지 약 2,700명의 실종자가 보고되었으나, 무너진 건물 잔해 속에 갇힌 사람들이 많아 구조 작업에 난항을 겪고 있습니다.\n\n아벨라르도 데 라 에스프리에야 대통령은 취임 사흘 만에 닥친 이번 재난에 국가 비상사태를 선포했습니다. 칼리, 페레이라, 퀴브도 등 여러 도시에서 건물이 붕괴하는 등 피해가 확산하면서 인명 피해는 더 늘어날 전망입니다. 미국 국무부는 1,550억 달러 규모의 긴급 구호 지원을 약속했으며, 시진핑 중국 국가주석도 콜롬비아 정부에 위로의 메시지를 보냈습니다.",
         "featured_article": {
-          "publisher": "한겨레",
-          "title": "트럼프, 아동 예방접종 18개→11개 축소…의료계 “아동 건강 위협”",
-          "full_content": "트럼프, 아동 예방접종 18개→11개 축소…의료계 “아동 건강 위협”",
-          "url": "https://www.hani.co.kr/arti/international/america/1272409.html"
+          "publisher": "동아일보",
+          "title": "콜롬비아서도 규모 7.4 강진…최소 132명 사망",
+          "full_content": "10일 남미 콜롬비아 서부에서 규모 7.4의 강진이 발생해 최소 132명이 숨지고 570명이 부상을 입었다고 CNN 등이 보도했다. 콜롬비아는 전 세계 대지진의 상당수가 발생하며 일명 ‘불의 고리’로 불리는 환태평양조산대에 위치해 있다. 콜롬비아와 국경을 접한 베네수엘라에서도 6월 24일 규모 7.2와 7.5의 연쇄 강진이 발생해 6000명 이상이 숨졌다.강경 우파, 친(親)미국 성향의 아벨라르도 데 라 에스프리에야 콜롬비아 대통령은 7일 취임했다. 새 정부가 출범한 지 불과 사흘 만에 대형 재해가 발생한 것. 에스프리에야 대통령은 국가 비상사태를 선포했다. 미국 국무부 또한 1550억 달러(약 220억 원)의 긴급 구호 지원을 단행하겠다고 밝혔다.● ‘불의 고리’서 발생한 대지진CNN에 따르면 이날 지진은 현지 시간 오전 7시34분 경 서부 초코주(州)의 산호세델팔마르에서 동쪽으로 약 4.8㎞ 떨어진 곳에서 발생했다. 이번 지진은 나스카판과 남아메리카판이 만나는 곳에서 발생했고,",
+          "url": "https://www.donga.com/news/Inter/article/all/20260811/134456467/1"
+        }
+      },
+      "publishers": [
+        {
+          "name": "동아일보",
+          "title": "콜롬비아서도 규모 7.4 강진…최소 132명 사망",
+          "url": "https://www.donga.com/news/Inter/article/all/20260811/134456467/1"
         },
-        "differences": [
-          {
-            "publisher": "동아일보",
-            "start_point": "미국 도널드 트럼프 2기 행정부가 지난해 1월 출범한 뒤 비자 요건 위반, 범죄 혐의 등의 이유로 외국인 총 17만5000여 명의 비자를 취소했다고 밝혔다.",
-            "emphasis_point": "여기엔 자녀의 미국 시민권 취득을 위한 ‘원정 출산’에 나섰거나, 트럼프 대통령에 대한 위협 발언을 한 이들도 포함됐다."
-          },
-          {
-            "publisher": "한겨레",
-            "start_point": "트럼프, 아동 예방접종 18개→11개 축소…의료계 “아동 건강 위협”",
-            "emphasis_point": "트럼프, 아동 예방접종 18개→11개 축소…의료계 “아동 건강 위협”"
-          },
-          {
-            "publisher": "경향신문",
-            "start_point": "도널드 트럼프 미국 대통령이 10일(현지시간) 백악관에서 아동의 예방접종 권고 대상을 기존 18개 질병에서 11개로 줄이는 행정명령 내용을 살펴보고 있다.",
-            "emphasis_point": "워싱턴|AP연합뉴스도널드 트럼프 미국 대통령이 이번에는 ‘전쟁 배상’이라는 카드를 꺼내 들었다."
-          },
-          {
-            "publisher": "뉴시스",
-            "start_point": "[서울=뉴시스] 김승민 기자 = 한국 정부의 미국 기업 차별 대우가 양국관계를 훼손하고 있으며, 이에 도널드 트럼프 행정부가 한국을 유럽연합(EU)에 이은 추가 보복 조치 대상으로 삼을 수 있다는 주장이 미국 주요 외교 전문지에 실렸다.",
-            "emphasis_point": "미국 격월간 외교 잡지 더내셔널인터레스트는 지난 8일(현지 시간) '한국 규제당국은 최상의 통상·기술 관계를 훼손하고 있다' 제하의 기고문을 게재했다."
-          },
-          {
-            "publisher": "노컷뉴스",
-            "start_point": "강경해지는 美이민정책…'원정출산·트럼프 위협' 외국인 비자도 취소",
-            "emphasis_point": "강경해지는 美이민정책…'원정출산·트럼프 위협' 외국인 비자도 취소"
-          }
-        ]
+        {
+          "name": "한겨레",
+          "title": "‘강진’ 콜롬비아 2700명 실종자 등록…“갇힌 사람 너무 많아 구조 역부족”",
+          "url": "https://www.hani.co.kr/arti/international/america/1272446.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "콜롬비아 7.4 강진에 132명 사망…국가 재난사태 선포",
+          "url": "https://www.hani.co.kr/arti/international/america/1272390.html"
+        },
+        {
+          "name": "경향신문",
+          "title": "“홍해 바브엘만데브 해협서 화물선 피격···선원 3명 사망”",
+          "url": "https://www.khan.co.kr/article/202608112029001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "콜롬비아 덮친 강진에 최소 132명 사망···대통령 취임 사흘 만에 국가비상사태",
+          "url": "https://www.khan.co.kr/article/202608111713011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "\"홍해 바브엘만데브 해협서 화물선 피격…선원 3명 사망\"",
+          "url": "https://www.yna.co.kr/view/AKR20260811162800079"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "남아공 폐광 무너져 14명 사망…무단 채굴 또 참사",
+          "url": "https://www.yna.co.kr/view/AKR20260811161000099"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "시진핑, 콜롬비아 강진 위로 전문…\"사망자에 깊은 애도\"",
+          "url": "https://www.yna.co.kr/view/AKR20260811157000009"
+        },
+        {
+          "name": "뉴시스",
+          "title": "시진핑, 강진 피해 콜롬비아에 위로…\"조속히 이겨내길\"",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745167"
+        },
+        {
+          "name": "SBS 글로벌",
+          "title": "최대 규모 한복박람회 개막…'2026 한복상점' 13일부터 DDP에서",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008699878"
+        },
+        {
+          "name": "VOA 한국어 홈페이지",
+          "title": "우크라이나 드론, 러시아 석유 허브 공격 ‘13명 사망’…러시아 대법원 ‘반전 정당 의회 선거’ 금지",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWDVpYVNDaExsYk5JNU12UXVuQ2FXNnVXcFpVd3FVNDU2cGVmNmlaOVJOSmp6dEtjRWVKY2V1RUZyX1U1cGVMNWpEQXFrd2ZTRExRLWVrbGt3WnRsZHhuX0lzSE5MZ05FYS0wUXlmcWtBUGZOZHVvemEzUlYyZS1uX3JVT3BtWHNkMGdTNzNCeFJfVDJUME9lZXQwS1BpbDhKSWg3akdEcU03cEVsVlVSZ0luRjIzOHpvaEJqOW1nZWJfVExXYzJMdUhXUFhIS3NNWFJnVlF3OER4bWtGMEdnRkhHVzJOd9IB6AFBVV95cUxNRGFPVGdOLWNhTHJNamNhMzVlR01kbUpMSUpwdmJ0UVZPVEI5RlZINmJFRHpmM3R6b0RVSVpmXy1HTWFkbFJYV3Jic1ZNLTAxWmRCSnNDcG10ay1kQVVwSDdlUGZNeVNzSHA0RGw0N3dDRjNaMDlYaHJYZTNTZmNqS0pGNk1paTU3Q3YtQjFyM2lnTFVSalJENWw1c1k4LVhDNVJkOG5IYXNueEVEd2lLR19hRWtzWVNEQ3FxWURlVjZtNlpTakJHLUdVdVd6OTg3NGQ2ZUVQblZuM29hWTgwckpyWEt5b0dm?oc=5"
+        },
+        {
+          "name": "경향신문",
+          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42aS0tZ1VvLXhYcTM3ZDJyaTNpNnVScHNUVUVxN3doODBYbXNnOWVOTXU3Tkd1RHc0ZlNEb0tnOXVYajVtanVtSXN0SW1QVnFITkZJTGJ6RG9od9IBX0FVX3lxTE41TDRUU21UUzRVTUxkcXJBeUhMRUU4aEl1TDk5ZldxT1Y0TFhDb1Y4UkJMc001WVJpMEozMW5oTWNPQTBiZWtmb1dWWUlTOHc1NXNBLVliYXJzcnY5Z0dB?oc=5"
+        }
+      ],
+      "keywords": [
+        "콜롬비아 강진",
+        "국가 비상사태",
+        "불의 고리",
+        "인명 피해",
+        "긴급 구호"
+      ],
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458274.1.jpg"
+    },
+    {
+      "id": "news-20260811-002",
+      "headline": "트럼프 행정부, 이민·보건·외교 전방위에서 강경 정책 및 파격 행보",
+      "category": "글로벌",
+      "summary": {
+        "overview": "도널드 트럼프 미국 행정부가 이민과 보건, 외교 전반에서 강경한 행보를 보이고 있습니다. 미 국무부는 최근 비자 요건을 위반하거나 대통령에 대한 위협 발언을 한 외국인 17만 5000여 명의 비자를 취소했습니다. 원정 출산과 각종 강력 범죄 혐의를 포함한 이번 조치는 11월 중간선거를 앞둔 보수층 결집용이라는 분석이 나옵니다.\n\n보건 정책에서는 아동 예방접종 권고 대상을 기존 18개 질병에서 11개로 줄이는 행정명령이 내려졌습니다. 외교적으로는 이란을 상대로 지난 50년 동안의 분쟁 피해에 대한 배상을 요구하며 중동 지역과의 갈등을 키우고 있습니다. 이외에도 대통령이 전용기 대신 기내식 트럭에 몸을 숨겨 이동하는 등 돌발적인 행동을 이어가며 정책의 예측 불가능성을 높이고 있습니다.",
+        "featured_article": {
+          "publisher": "동아일보",
+          "title": "“원정출산-트럼프 위협 발언”…美, 외국인 17만5000명 비자 취소",
+          "full_content": "미국 도널드 트럼프 2기 행정부가 지난해 1월 출범한 뒤 비자 요건 위반, 범죄 혐의 등의 이유로 외국인 총 17만5000여 명의 비자를 취소했다고 밝혔다. 여기엔 자녀의 미국 시민권 취득을 위한 ‘원정 출산’에 나섰거나, 트럼프 대통령에 대한 위협 발언을 한 이들도 포함됐다. 국내외 비판에도 불구하고 트럼프 행정부가 11월 중간선거를 앞두고 보수층 결집을 위해 이민자 관련 단속에 고삐를 죄고 있단 지적이 나온다.미 국무부는 10일 보도자료를 통해 폭행이나 음주운전, 절도, 마약범죄 등을 저지른 외국인들의 비자를 취소했다고 발표했다. 난폭 운전, 성폭행, 아동학대, 사기·횡령 등의 혐의를 지닌 이들도 상당수라고 밝혔다. 국무부는 “미국 비자는 권리가 아닌 특권이다. 이 특권을 남용하는 자들로부터 우리 사회를 보호하기 위해 가능한 모든 수단을 동원할 것을 약속한다”고 강조했다.국무부가 공개한 사례 중엔 북아프리카 지역 주재 미국 대사관에서 원정 출산 목적으로 입국을 신청한 100",
+          "url": "https://www.donga.com/news/Inter/article/all/20260811/134456978/1"
+        }
       },
       "publishers": [
         {
@@ -51,7 +108,7 @@
         },
         {
           "name": "한겨레",
-          "title": "트럼프, 아동 예방접종 18개→11개 축소…의료계 “아동 건강 위협”",
+          "title": "“자폐증 늘어난 이유”…트럼프, 아동 예방접종 18개→11개 축소",
           "url": "https://www.hani.co.kr/arti/international/america/1272409.html"
         },
         {
@@ -70,80 +127,38 @@
           "url": "https://www.khan.co.kr/article/202608111641001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
-          "name": "경향신문",
-          "title": "트럼프, FIFA 회장 공개 지지…“교체는 끔찍한 실수”",
-          "url": "https://www.khan.co.kr/article/202608111346001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "뉴시스",
-          "title": "美컨설턴트 “한국, 쿠팡 등 차별 규제…트럼프 압박 다음 타깃 될 수도”",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744485"
-        },
-        {
-          "name": "한겨레",
-          "title": "트럼프 “나도 이란에 피해 배상 요구”…호르무즈 합의 ‘설상가상’",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uRWNHcXR2VkhpQ2xtMFZGS00tTmFPc0R4ekRXMmRUazRxUWN3S1EtLU5jUWRjNk5iMzFCTGlYdDJoczJXOGYxbGhZT3R4UEVqdlg1ZUtycGdack9wNlRnZ05YOE10SVl5U09aTUM4SQ?oc=5"
-        },
-        {
           "name": "노컷뉴스",
           "title": "강경해지는 美이민정책…'원정출산·트럼프 위협' 외국인 비자도 취소",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TZ3hQUzhaYUxHN25KaE1BZ280SGtfWWR0aDZDajhBY2kzMW50LXhpNUVmUHFKQlR1dGp4ek5RckdYdzBuOW9GOUVtYnNiUTh0WHc?oc=5"
         }
       ],
       "keywords": [
-        "트럼프",
-        "위협",
-        "외국인",
-        "비자",
-        "미국"
+        "트럼프 행정부",
+        "비자 취소",
+        "이민 정책",
+        "예방접종 축소",
+        "미·이란 갈등"
       ],
       "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458440.1.jpg"
     },
     {
-      "id": "news-20260811-002",
-      "headline": "코스맥스, 2분기 매출 7949억 ‘사상 최대’…美 법인 첫 흑자전환",
+      "id": "news-20260811-003",
+      "headline": "반도체·타이어·패션 등 주요 기업 2분기 실적 호조와 산업별 명암",
       "category": "경제",
       "summary": {
-        "overview": "글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스가 올해 2분기 매출과 영업이익 모두 사상 최대치를 경신했다. K뷰티 수출 확대에 힘입어 한국 법인이 분기 매출 5000억원을 ..... 한편 잘 팔리는 고인치·전기차 타이어…한국타이어, 2분기 역대 최대 매출... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
+        "overview": "올해 2분기 대한민국 수출액이 389조 원을 기록하며 통계 작성 이래 최대치를 달성했다. 반도체 산업의 호황이 성장을 견인하면서 삼성전자를 비롯한 주요 기업들의 실적 개선이 뚜렷하게 나타났다.\n\n자동차 부품 분야에서는 고인치 타이어와 전기차용 제품 수요가 늘면서 한국타이어가 역대 최대 매출을 기록했다. 패션과 뷰티 업계의 흐름은 기업별로 차이를 보였다. 신세계인터내셔날은 수입 패션 브랜드의 성장 덕분에 흑자 전환에 성공했으나, 일부 자회사는 다소 부진한 성적을 거뒀다.\n\n한편, 기업의 막대한 이익과 성과급 논란이 불거지며 주주들의 권익에 대한 목소리도 높아지고 있다. 금융 당국의 심사 과정에서 발생한 레버리지 처리 속도 이슈 등 기업 운영을 둘러싼 다양한 논의가 이어지는 모습이다.",
         "featured_article": {
-          "publisher": "한국무역협회-KITA.NET",
-          "title": "순풍에 돛 단 반도체 덕…2분기 수출 2천755억달러로 역대 최대",
-          "full_content": "순풍에 돛 단 반도체 덕…2분기 수출 2천755억달러로 역대 최대",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVU5pMVdaQlQ1WnI3YVVlcUQ3X1lXNklfMzhSTERNcGVteldxMDNlSHhjclNvdFZycEFtZElpa3hoWHlvWVdHZUhrOFAxUVVYcmIzWnNPdzJ6bkFZcXYwTEgwX1ZkbWhPMnVaeDI3QzRrOXFjUVlSTk9oWDA0OHdfNk12R2t0OTAydGhLZjJlbDR0Z0VDVnE4bmZicDV0eE5KZmlVUUE1TXFOTFhzZl9GVkNyY2RROHJfS0QwWGhfWk5POHVuTlBxV0x3eUsxSGtxZnpMMVVn?oc=5"
-        },
-        "differences": [
-          {
-            "publisher": "매일경제",
-            "start_point": "글로벌 화장품 ODM(연구·개발·생산) 기업 코스맥스가 올해 2분기 매출과 영업이익 모두 사상 최대치를 경신했다.",
-            "emphasis_point": "K뷰티 수출 확대에 힘입어 한국 법인이 분기 매출 5000억원을 .."
-          },
-          {
-            "publisher": "서울경제",
-            "start_point": "잘 팔리는 고인치·전기차 타이어…한국타이어, 2분기 역대 최대 매출",
-            "emphasis_point": "잘 팔리는 고인치·전기차 타이어…한국타이어, 2분기 역대 최대 매출"
-          },
-          {
-            "publisher": "동아일보",
-            "start_point": "신세계가 명품 판매 호조와 외국인 관광객 소비 증가에 힘입어 올해 2분기(4~6월) 시장 전망치를 웃도는 호실적을 내며 상반기(1~6월) 기준 역대 최대 실적을 달성했다.신세계는 2026년 2분기 연결 기준 총 매출이 전년 동기 대비 8.5% 증가한 3조1414억원, 영업이익은 121.9% 증가한 1671억 원을 기록했다고 11일 공시했다.",
-            "emphasis_point": "상반기 기준으로 보면 매출은 전년 동기 대비 10.1% 오른 6조3558억 원, 영업이익은 75.7% 오른 3650억 원을 기록했다."
-          },
-          {
-            "publisher": "연합뉴스",
-            "start_point": "(서울=연합뉴스) 강수지 기자 = 주식 시장 호조로 대신증권[003540]의 올해 2분기 영업이익이 전년보다 165% 넘게 급증했다.",
-            "emphasis_point": "(서울=연합뉴스) 강수지 기자 = 주식 시장 호조로 대신증권[003540]의 올해 2분기 영업이익이 전년보다 165% 넘게 급증했다."
-          },
-          {
-            "publisher": "한국무역협회-KITA.NET",
-            "start_point": "순풍에 돛 단 반도체 덕…2분기 수출 2천755억달러로 역대 최대",
-            "emphasis_point": "순풍에 돛 단 반도체 덕…2분기 수출 2천755억달러로 역대 최대"
-          }
-        ]
+          "publisher": "매일경제",
+          "title": "“삼전닉스 덕에 최대치 찍었습니다”...2분기 수출액 389조원 기록",
+          "full_content": "전년 동기 대비 53.7% 늘어 10대企 무역집중도 17%p↑반도체 산업 경기의 호황으로 올해 2분기(4~6월) 수출액이 통계 작성 이래 최대치를 기록한 것으로 집계됐다. 삼성전자..",
+          "url": "https://www.mk.co.kr/news/economy/12124465"
+        }
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "코스맥스, 2분기 매출 7949억 ‘사상 최대’…美 법인 첫 흑자전환",
-          "url": "https://www.mk.co.kr/news/business/12124170"
+          "title": "“삼전닉스 덕에 최대치 찍었습니다”...2분기 수출액 389조원 기록",
+          "url": "https://www.mk.co.kr/news/economy/12124465"
         },
         {
           "name": "서울경제",
@@ -152,700 +167,41 @@
         },
         {
           "name": "동아일보",
-          "title": "신세계百, 상반기 영업익 3650억 역대 최대…명품·외국인 ‘쌍끌이’",
-          "url": "https://www.donga.com/news/Economy/article/all/20260811/134457512/1"
+          "title": "신세계인터내셔날 2분기 흑자전환…잘나가던 어뮤즈는 부진",
+          "url": "https://www.donga.com/news/Economy/article/all/20260811/134459896/1"
         },
         {
-          "name": "동아일보",
-          "title": "LG유플러스, 국내 최대 보안 컨퍼런스 참가…통합 보안 포트폴리오 선봬",
-          "url": "https://www.donga.com/news/It/article/all/20260811/134458661/1"
+          "name": "한겨레",
+          "title": "천문학적 이익·‘억’ 소리 성과급…삼전닉스 주주들, 우리는요?",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1272441.html"
         },
         {
-          "name": "동아일보",
-          "title": "8월 1∼10일 수출 213억 달러 ‘역대 최대’…반도체·대기업 쏠림 심화",
-          "url": "https://www.donga.com/news/Economy/article/all/20260811/134458344/1"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "대신증권 2분기 영업익 3천599억원…전년보다 165%↑",
-          "url": "https://www.yna.co.kr/view/AKR20260811136500008"
-        },
-        {
-          "name": "한국무역협회-KITA.NET",
-          "title": "순풍에 돛 단 반도체 덕…2분기 수출 2천755억달러로 역대 최대",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVU5pMVdaQlQ1WnI3YVVlcUQ3X1lXNklfMzhSTERNcGVteldxMDNlSHhjclNvdFZycEFtZElpa3hoWHlvWVdHZUhrOFAxUVVYcmIzWnNPdzJ6bkFZcXYwTEgwX1ZkbWhPMnVaeDI3QzRrOXFjUVlSTk9oWDA0OHdfNk12R2t0OTAydGhLZjJlbDR0Z0VDVnE4bmZicDV0eE5KZmlVUUE1TXFOTFhzZl9GVkNyY2RROHJfS0QwWGhfWk5POHVuTlBxV0x3eUsxSGtxZnpMMVVn?oc=5"
-        },
-        {
-          "name": "동아일보",
-          "title": "일본 나라빚 사상 최대…올해 말 1경3000조원 넘을 듯",
-          "url": "https://www.donga.com/news/Inter/article/all/20260811/134457771/1"
+          "name": "intn.co.kr",
+          "title": "'삼전닉스 레버리지, 역대 두 번째 빨랐다…금감원 심사가 원인' vs 15일간 진행",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EWUhkOVR0Y2JhUWVJRVRNSWJfSFVqYUtwSDU1NkZtaUVPVUlLNURZbkh6eGhNdWJhd3NsWmdZZ2VrZWNaSHh2X21XNDNJYXd3OGdQWjNkY0tCMHhGMEVaOU9yZDBQMnBNclE?oc=5"
         }
       ],
       "keywords": [
-        "2분기",
-        "매출",
-        "사상",
-        "최대",
-        "코스맥스"
+        "2분기 실적",
+        "수출 최대치",
+        "반도체 호황",
+        "흑자전환",
+        "기업 성과급"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202608/11/news-p.v1.20260811.2fbd6a34738547b2a203866e9870648b_R.png"
-    },
-    {
-      "id": "news-20260811-003",
-      "headline": "[단독] “HBM은 형편없다” 전 인텔 CEO 도발하자…SK하이닉스 임원 대답이",
-      "category": "경제",
-      "summary": {
-        "overview": "겔싱어 “발열·전력·대역폭 비효율” HBM 구조적 한계 비판하자 SK하이닉스 김호식 부사장 “HBM, 최종 해답 아니지만 현재는 최선 메모리월 해결 위한 해법 연구” 응수 인텔·..... 한편 삼성SDI가 미국 완성차업체 제너럴모터스(GM)와의 현지 합작법인 ‘시너지셀즈’ 지분을 전량 인수하고 단독 운영하기로 했다. 앞서 LG에너지솔루션, SK온에 이어 삼성SDI도 합작 대신 단독 생산체제를 강화하며 비용 효율화와 함께 인공지능(AI) 시장을 겨냥한 신시장 ... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "매일경제",
-          "title": "[단독] “HBM은 형편없다” 전 인텔 CEO 도발하자…SK하이닉스 임원 대답이",
-          "full_content": "겔싱어 “발열·전력·대역폭 비효율” HBM 구조적 한계 비판하자 SK하이닉스 김호식 부사장 “HBM, 최종 해답 아니지만 현재는 최선 메모리월 해결 위한 해법 연구” 응수 인텔·..",
-          "url": "https://www.mk.co.kr/news/business/12124175"
-        },
-        "differences": [
-          {
-            "publisher": "매일경제",
-            "start_point": "겔싱어 “발열·전력·대역폭 비효율” HBM 구조적 한계 비판하자 SK하이닉스 김호식 부사장 “HBM, 최종 해답 아니지만 현재는 최선 메모리월 해결 위한 해법 연구” 응수 인텔·..",
-            "emphasis_point": "겔싱어 “발열·전력·대역폭 비효율” HBM 구조적 한계 비판하자 SK하이닉스 김호식 부사장 “HBM, 최종 해답 아니지만 현재는 최선 메모리월 해결 위한 해법 연구” 응수 인텔·.."
-          },
-          {
-            "publisher": "동아일보",
-            "start_point": "삼성SDI가 미국 완성차업체 제너럴모터스(GM)와의 현지 합작법인 ‘시너지셀즈’ 지분을 전량 인수하고 단독 운영하기로 했다.",
-            "emphasis_point": "앞서 LG에너지솔루션, SK온에 이어 삼성SDI도 합작 대신 단독 생산체제를 강화하며 비용 효율화와 함께 인공지능(AI) 시장을 겨냥한 신시장 개척에 적극적으로 나서는 모습이다.● 북미 전기차 침체에 전략 수정삼성SDI는 시너지셀즈의 GM 측 지분 전량(49.99%)을 인수하고 소유권을 넘겨받기로 했다고 11일 밝혔다."
-          },
-          {
-            "publisher": "biz.chosun.com",
-            "start_point": "[단독] 정부, 생산적 금융 ISA도 ‘이월·만기 제한’ 폐지 검토 - 조선비즈",
-            "emphasis_point": "[단독] 정부, 생산적 금융 ISA도 ‘이월·만기 제한’ 폐지 검토 - 조선비즈"
-          },
-          {
-            "publisher": "yna.co.kr",
-            "start_point": "[특징주] SK하이닉스, 장 초반 1%대 하락 중…삼전도 0.65%↓",
-            "emphasis_point": "[특징주] SK하이닉스, 장 초반 1%대 하락 중…삼전도 0.65%↓"
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "[단독] “HBM은 형편없다” 전 인텔 CEO 도발하자…SK하이닉스 임원 대답이",
-          "url": "https://www.mk.co.kr/news/business/12124175"
-        },
-        {
-          "name": "동아일보",
-          "title": "삼성SDI, GM 합작사 지분 전량 인수…美 배터리 공장 단독 운영",
-          "url": "https://www.donga.com/news/Economy/article/all/20260811/134457770/1"
-        },
-        {
-          "name": "biz.chosun.com",
-          "title": "[단독] 정부, 생산적 금융 ISA도 ‘이월·만기 제한’ 폐지 검토 - 조선비즈",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaE84QXBQYnRzNS15R3VHQlFGTUg5dlRHZTh3R3d3WlZkZnU5UDQ0NGxZTFgycGh4cTgweWFvcDYwMHZlR0NBb1ZuX0FReGgxMUZSX3hHTzRoQ3RwZ3FLX3hPWElzMjRxUERocUxkUEVDQmZRWnlxVnNLbEJUcjRFbDJjSUYyQdIBmgFBVV95cUxPVHYzRFJaNVB6cUo1RlhTcnFRaDBaT3FQYmVqZXRFbEFDYWg2VFg2S3JsOHp4LXEwNnNhTEVqRTZfSGNVb3cxSTR6eTNIV2p3QlhCTjNITlZjZmFxUTl4OFNBTngySVVHZDJGYVVsVDRlZEU1YzlPOUUtRFBxLVpzeVBxR3drbmFkSFNwNXNiNklnQ05zdFUtdE9B?oc=5"
-        },
-        {
-          "name": "yna.co.kr",
-          "title": "[특징주] SK하이닉스, 장 초반 1%대 하락 중…삼전도 0.65%↓",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVYW9pR0RzQ1VpcDdKUWROcTFYVjI0STlqejRTV2VKQngtYk5DU2dEb3dEbGdHd2VlNkdXdmhZbkN3TDd5WllGYnVIeGh0bG9LRmdXQ2xpUXdmVW_SAWBBVV95cUxNSlc5MzI4b0ZzWk5WeUloT3NhZ0JRdVc4RnVvVWlxSE4zWW83NnNXT2RqcVlQMllWWjd1amxVVWF1cXhLUEROQTF5SV9sY1dlZ0stWjhtUzN6Z2FuNFdDcjQ?oc=5"
-        }
-      ],
-      "keywords": [
-        "단독",
-        "인텔",
-        "SK하이닉스",
-        "HBM",
-        "HBM은"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202608/11/news-p.v1.20260811.b8689939145844cb92d0b03035b0b8c5_R.png"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202608/11/news-p.v1.20260811.5a0b8202e1aa4a67ac48a73b1256dc40_R.jpg"
     },
     {
       "id": "news-20260811-004",
-      "headline": "‘61억 주식 보상’ 로저스 쿠팡 대표, 4개월 만에 44억원어치 매각 신고",
-      "category": "글로벌",
-      "summary": {
-        "overview": "‘61억 주식 보상’ 로저스 쿠팡 대표, 4개월 만에 44억원어치 매각 신고... 한편 [서울=뉴시스] 김예진 기자 = 일본 낸드플래시 반도체 기업 키옥시아홀딩스는 최대 주주가 도시바에서 베인캐피털이 운영하는 특수목적회사(SPC)인 'BCPE 판게아 케이먼2'이 됐다고 지난 10일 발표했다. 11일 니혼게이자이신문(닛케이), 투자 매체 트레이딩키 등에 따... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "한겨레",
-          "title": "‘61억 주식 보상’ 로저스 쿠팡 대표, 4개월 만에 44억원어치 매각 신고",
-          "full_content": "‘61억 주식 보상’ 로저스 쿠팡 대표, 4개월 만에 44억원어치 매각 신고",
-          "url": "https://www.hani.co.kr/arti/international/america/1272357.html"
-        },
-        "differences": [
-          {
-            "publisher": "한겨레",
-            "start_point": "‘61억 주식 보상’ 로저스 쿠팡 대표, 4개월 만에 44억원어치 매각 신고",
-            "emphasis_point": "‘61억 주식 보상’ 로저스 쿠팡 대표, 4개월 만에 44억원어치 매각 신고"
-          },
-          {
-            "publisher": "뉴시스",
-            "start_point": "[서울=뉴시스] 김예진 기자 = 일본 낸드플래시 반도체 기업 키옥시아홀딩스는 최대 주주가 도시바에서 베인캐피털이 운영하는 특수목적회사(SPC)인 'BCPE 판게아 케이먼2'이 됐다고 지난 10일 발표했다.",
-            "emphasis_point": "11일 니혼게이자이신문(닛케이), 투자 매체 트레이딩키 등에 따르면 도시바가 키옥시아 주식을 매각하면서 보유 비율이 낮아지고, 최대 주주가 BCPE 판게아 케이먼2로 바뀌었다."
-          },
-          {
-            "publisher": "SBS 글로벌",
-            "start_point": "▲ '심훈시가집'에 수록된 '그날이 오면'시 '그날이 오면'과 소설 '상록수'…",
-            "emphasis_point": "▲ '심훈시가집'에 수록된 '그날이 오면'시 '그날이 오면'과 소설 '상록수'…"
-          },
-          {
-            "publisher": "조선일보",
-            "start_point": "발사 85초 만에 공중 폭발…中 ‘창정 7A’ 로켓 발사 실패",
-            "emphasis_point": "발사 85초 만에 공중 폭발…中 ‘창정 7A’ 로켓 발사 실패"
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "‘61억 주식 보상’ 로저스 쿠팡 대표, 4개월 만에 44억원어치 매각 신고",
-          "url": "https://www.hani.co.kr/arti/international/america/1272357.html"
-        },
-        {
-          "name": "뉴시스",
-          "title": "SK하이닉스, 日 키옥시아 사실상 최대주주로…도시바는 지분 매각",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744661"
-        },
-        {
-          "name": "SBS 글로벌",
-          "title": "일제가 지우려 했던 시, 90년 만에 고국으로…심훈 친필원고 공개",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700206"
-        },
-        {
-          "name": "조선일보",
-          "title": "발사 85초 만에 공중 폭발…中 ‘창정 7A’ 로켓 발사 실패",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3M0ZnZhX0xnbnQ2ZWVpcUgyajlMSHR4eEJnRFhjaGNFcC03bDVob1pQZnZIV183UUdlVXB5d3JXeFU1TnFzay1vdVZyc1Q3dElHdzhmcHBOUXNkd3VvME82ejlkOVZBU29uTjNLaG8xWUxUSUJRTXRmLUdwbTdmaTNZTQ?oc=5"
-        }
-      ],
-      "keywords": [
-        "61억",
-        "주식",
-        "보상",
-        "로저스",
-        "쿠팡"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0811/53_17864256061333_20260811501897.webp"
-    },
-    {
-      "id": "news-20260811-005",
-      "headline": "젤렌스키 “러시아, 북한 탄도미사일 또 받아···한국·일본 위험 더 커질 것”",
-      "category": "글로벌",
-      "summary": {
-        "overview": "“북한산 탄도미사일 공격으로 최소 6명 사망”러시아의 우크라이나 침공이 이어지는 가운데 11일(현지시간) 우크라이나 자포리자에서 소방대원들이 밤사이 러시아의 미사일 공격을 받은 주민 차고지 현장에서 수습 작업을 하고 있다. 로이터연합뉴스볼로디미르 젤렌스키 우크라이나 대... 한편 (로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 11일(현지시간) 우크라이나가 북한산 탄도미사일을 동원한 러시아의 공...... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "경향신문",
-          "title": "젤렌스키 “러시아, 북한 탄도미사일 또 받아···한국·일본 위험 더 커질 것”",
-          "full_content": "“북한산 탄도미사일 공격으로 최소 6명 사망”러시아의 우크라이나 침공이 이어지는 가운데 11일(현지시간) 우크라이나 자포리자에서 소방대원들이 밤사이 러시아의 미사일 공격을 받은 주민 차고지 현장에서 수습 작업을 하고 있다. 로이터연합뉴스볼로디미르 젤렌스키 우크라이나 대통령이 10일(현지시간) 러시아가 북한의 탄도미사일을 추가로 받았다며 러시아에 투입되는 북···",
-          "url": "https://www.khan.co.kr/article/202608111611001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        "differences": [
-          {
-            "publisher": "경향신문",
-            "start_point": "“북한산 탄도미사일 공격으로 최소 6명 사망”러시아의 우크라이나 침공이 이어지는 가운데 11일(현지시간) 우크라이나 자포리자에서 소방대원들이 밤사이 러시아의 미사일 공격을 받은 주민 차고지 현장에서 수습 작업을 하고 있다.",
-            "emphasis_point": "로이터연합뉴스볼로디미르 젤렌스키 우크라이나 대통령이 10일(현지시간) 러시아가 북한의 탄도미사일을 추가로 받았다며 러시아에 투입되는 북···"
-          },
-          {
-            "publisher": "연합뉴스",
-            "start_point": "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 11일(현지시간) 우크라이나가 북한산 탄도미사일을 동원한 러시아의 공...",
-            "emphasis_point": "(로마=연합뉴스) 민경락 특파원 = 볼로디미르 젤렌스키 우크라이나 대통령이 11일(현지시간) 우크라이나가 북한산 탄도미사일을 동원한 러시아의 공..."
-          },
-          {
-            "publisher": "뉴시스",
-            "start_point": "[서울=뉴시스] 유세진 기자 = 볼로디미르 젤렌스키 우크라이나 대통령은 11일 러시아가 밤사이 남동부 도시 자포리자에서 북한 미사일을 발사해 6명이 사망하고 19명이 부상했다고 밝혔다고 프랑스24가 보도했다.",
-            "emphasis_point": "젤렌스키 대통령은 \"자포리자는 북한의 탄도미사일과 극초음속 순항미사일 지르콘, 그리고 유도 공중폭탄의 공격을 받았다\"고 말했다."
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "경향신문",
-          "title": "젤렌스키 “러시아, 북한 탄도미사일 또 받아···한국·일본 위험 더 커질 것”",
-          "url": "https://www.khan.co.kr/article/202608111611001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "젤렌스키 \"러, 우크라 공격에 북한산 탄도미사일 사용\"",
-          "url": "https://www.yna.co.kr/view/AKR20260811135600109"
-        },
-        {
-          "name": "뉴시스",
-          "title": "젤렌스키 \"러, 北 미사일로 자포리자 공격",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744915"
-        },
-        {
-          "name": "경향신문",
-          "title": "젤렌스키 “러시아, 북한 탄도미사일 또 받아···한국·일본 위험 더 커질 것”",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02WDZNZVBCUFlMYkhhVVBxNkFmTjhRTF9VUXE2VG8xWk9kOFZMS0dla2lTRjhjSkJFaEl5NGVwdWlrSGxZT09VRFZJQkNiU1F0WElEY3lLRDBQQdIBX0FVX3lxTFA1OHkxZ3ZkMm53TlF5a0tuRG9LUldZWFlOcTZQN1VQVFpXU2Mzcno5OEttTUtpQ1hSUldIaWQ3V2hrN0RSQVV3Wmo3cTJNZ2RyYlVMbVhaZlFpbTJhckVj?oc=5"
-        }
-      ],
-      "keywords": [
-        "우크라이나",
-        "젤렌스키",
-        "러시아의",
-        "탄도미사일",
-        "북한산"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/reuters/2026/08/08/PRU20260808156601009_P2.jpg"
-    },
-    {
-      "id": "news-20260811-006",
-      "headline": "친일 의혹 해명하다 ‘한일합방’ 언급…하영 부친 인터뷰 논란",
+      "headline": "아시아 증시 혼조세 속 일본 금리 인상 신호와 엔화 공동 개입",
       "category": "경제",
       "summary": {
-        "overview": "배우 하영(33·본명 안하영)이 조부 안상호의 친일 의혹으로 논란에 휩싸인 가운데, 부친의 해명 과정에서 사용한 ‘한일합방’이라는 표현이 또 다른 논란을 낳고 있다. 11일 일간스..... 한편 ‘4대째 의사집안’이라고 밝혀 화제가 된 배우 하영의 증조부가 안상호로 알려지면서 그의 행적에 관심이 쏠리고 있다. 하영은 지난 7일 방송된... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "매일경제",
-          "title": "역사학자 심용환 “하영 증조부 안상호, ‘친일파’ 단정은 위험”",
-          "full_content": "역사학자 심용환 심용환역사N교육연구소 소장이 배우 하영의 증조부를 둘러싼 이른바 ‘친일 논란’과 관련해 구체적인 친일 부역 행위가 확인되지 않은 상황에서 특정 인물을 ‘친일파’로 ..",
-          "url": "https://www.mk.co.kr/news/society/12124165"
-        },
-        "differences": [
-          {
-            "publisher": "매일경제",
-            "start_point": "배우 하영(33·본명 안하영)이 조부 안상호의 친일 의혹으로 논란에 휩싸인 가운데, 부친의 해명 과정에서 사용한 ‘한일합방’이라는 표현이 또 다른 논란을 낳고 있다.",
-            "emphasis_point": "배우 하영(33·본명 안하영)이 조부 안상호의 친일 의혹으로 논란에 휩싸인 가운데, 부친의 해명 과정에서 사용한 ‘한일합방’이라는 표현이 또 다른 논란을 낳고 있다."
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "친일 의혹 해명하다 ‘한일합방’ 언급…하영 부친 인터뷰 논란",
-          "url": "https://www.mk.co.kr/news/society/12124173"
-        },
-        {
-          "name": "매일경제",
-          "title": "“난 일본인과 똑같다. 조선인 상종 안해”…‘친일 논란’ 하영 증조부 인터뷰, 재조명",
-          "url": "https://www.mk.co.kr/news/society/12124169"
-        },
-        {
-          "name": "매일경제",
-          "title": "역사학자 심용환 “하영 증조부 안상호, ‘친일파’ 단정은 위험”",
-          "url": "https://www.mk.co.kr/news/society/12124165"
-        }
-      ],
-      "keywords": [
-        "친일",
-        "한일합방",
-        "하영",
-        "배우",
-        "있다"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202608/11/news-p.v1.20260811.eafecc7d1bfb4625af0db4e4ae3002f9_R.jpeg"
-    },
-    {
-      "id": "news-20260811-007",
-      "headline": "민주노총 \"李대통령 노조법 쟁의기준 마련 지시는 재계 편들기\"",
-      "category": "경제",
-      "summary": {
-        "overview": "(서울=연합뉴스) 옥성구 기자 = 전국민주노동조합총연맹(민주노총)은 11일 이재명 대통령이 노란봉투법(개정 노동조합법)의 '쟁의 대상' 기준 마...... 한편 [서울=뉴시스] 고홍주 기자 = 이재명 대통령이 이른바 '노란봉투법'으로 불리는 개정 노동조합법상 노동쟁의 대상 범위를 시행령으로 구체화할 것을 고용노동부에 재차 주문한 데 대해 노동계가 반발하고 나섰다. 전국민주노동조합총연맹(민주노총)은 11일 성명을 내고 \"대통령의... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "뉴시스",
-          "title": "민주노총 \"李 '쟁의대상 시행령화' 재계 편들기…즉각 중단\"",
-          "full_content": "[서울=뉴시스] 고홍주 기자 = 이재명 대통령이 이른바 '노란봉투법'으로 불리는 개정 노동조합법상 노동쟁의 대상 범위를 시행령으로 구체화할 것을 고용노동부에 재차 주문한 데 대해 노동계가 반발하고 나섰다. 전국민주노동조합총연맹(민주노총)은 11일 성명을 내고 \"대통령의 반복된 쟁의대상 시행령화 지시는 재계 편들기이자 월권 행위\"라고 비판했다. 앞서 이 대통령은 이날 국무회의에서 노동부에 노조법상 노동쟁의 대상 범위를 시행령 등 행정입법을 통해 명확히 하는 방안을 적극 검토하라고 지시했다. 지난달 21일 국무회의에서도 쟁의 대상 범위를 시행령 등으로 명확히 할 것을 주문한 바 있다. 이에 김영훈 노동부 장관이 \"행정해석으로 이미 다 내렸다\"고 답하자, 이 대통령은 \"해석과 법률이 정한 기준을 제시하는 것은 다르다. 해석은 노동부의 의견\"이라며 시행령 개정 검토를 주문했다. 민주노총은 이를 두고 \"행정 각 부처의 판단이 대통령의 한마디로 손쉽게 재검토되는 장면은 노동정책 결정 과정에서 충분한 논의와 검토가 선행되는지 의문을 낳는다\"고 지적했다. 특히 삼성전자 초기업노조가 호남 반도체 클러스터 투자를 단체교섭 의제로 제시한 것과 관련해, 대통령이 경영상 결정을 반대하는 것은 노동쟁의 대상이 될 수 없다는 취지의 입장을 밝힌 데 대해서도 비판했다. 민주노총은 \"노사관계에서 첨예하게 다툴 사안을 특정 대기업의 사례를 계기로 정부가 성급하게 행정입법으로 재단하려는 것\"이라며 \"노조법의 보호 대상인 노동자가 아니라 재계의 요구에 정부가 화답하는 모양새나 다름없다\"고 주장했다. 또 \"헌법은 대통령령이 법률에서 구체적으로 범위를 정해 위임받은 사항이나 법률 집행에 필요한 사항만 정하도록 규정하고 있다\"며 \"노동쟁의 대상을 좁히는 문제는 헌법상 단체행동권을 제한하는 중대한 사안인 만큼 법률에 명시적인 위임 근거가 있어야 한다\"고 했다. 이어 \"노조법 어디에도 이를 시행령으로 정하라는 위임 규정이 없고 노동부조차 이 점을 우려했다\"며 \"위법 소지가 있는 시행령을 일단 만들어놓고 나중에 다투라는 식의 접근은 법을 지키며 행정을 펴야 한다는 원칙에 어긋난다\"고 주장했다. 그러면서 \"노동쟁의 대상과 같이 노사 이해관계가 첨예한 사안은 정부의 일방적 결정이 아니라 노동계의 요구를 적극 수렴해 논의해야 한다\"며 \"이 대통령은 노동쟁의 대상 범위를 행정입법으로 축소하려는 시도를 즉각 중단하라\"고 촉구했다. ◎공감언론",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744877"
-        },
-        "differences": [
-          {
-            "publisher": "연합뉴스",
-            "start_point": "(서울=연합뉴스) 옥성구 기자 = 전국민주노동조합총연맹(민주노총)은 11일 이재명 대통령이 노란봉투법(개정 노동조합법)의 '쟁의 대상' 기준 마...",
-            "emphasis_point": "(서울=연합뉴스) 옥성구 기자 = 전국민주노동조합총연맹(민주노총)은 11일 이재명 대통령이 노란봉투법(개정 노동조합법)의 '쟁의 대상' 기준 마..."
-          },
-          {
-            "publisher": "뉴시스",
-            "start_point": "[서울=뉴시스] 고홍주 기자 = 이재명 대통령이 이른바 '노란봉투법'으로 불리는 개정 노동조합법상 노동쟁의 대상 범위를 시행령으로 구체화할 것을 고용노동부에 재차 주문한 데 대해 노동계가 반발하고 나섰다.",
-            "emphasis_point": "전국민주노동조합총연맹(민주노총)은 11일 성명을 내고 \"대통령의 반복된 쟁의대상 시행령화 지시는 재계 편들기이자 월권 행위\"라고 비판했다."
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "민주노총 \"李대통령 노조법 쟁의기준 마련 지시는 재계 편들기\"",
-          "url": "https://www.yna.co.kr/view/AKR20260811139700530"
-        },
-        {
-          "name": "뉴시스",
-          "title": "민주노총 \"李 '쟁의대상 시행령화' 재계 편들기…즉각 중단\"",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744877"
-        },
-        {
-          "name": "뉴시스",
-          "title": "플랜트건설노조, 포스코와 첫 원청교섭…노조법 개정 후 첫 사례",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744863"
-        }
-      ],
-      "keywords": [
-        "민주노총",
-        "서울",
-        "기자",
-        "전국민주노동조합총연맹",
-        "11일"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/08/11/PYH2026081106850001300_P2.jpg"
-    },
-    {
-      "id": "news-20260811-008",
-      "headline": "시리아, 北 지원받아 만든 ‘더티밤 핵물질’ 제거 합의",
-      "category": "글로벌",
-      "summary": {
-        "overview": "국제원자력기구(IAEA)가 과거 시리아의 바샤르 알 아사드 정권이 북한의 지원을 통해 만든 비밀 핵 물질들을 곧 제거하기로 했다고 미국 정치매체 액시오스가 10일 보도했다.IAEA와 도널드 트럼프 미국 행정부는 2024년 12월 집권한 아메드 알샤라 시리아 임시 대통령... 한편 북한이 지원한 핵물질 ‘더티 밤’…시리아, 미국 중재로 제거한다... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "동아일보",
-          "title": "시리아, 北 지원받아 만든 ‘더티밤 핵물질’ 제거 합의",
-          "full_content": "국제원자력기구(IAEA)가 과거 시리아의 바샤르 알 아사드 정권이 북한의 지원을 통해 만든 비밀 핵 물질들을 곧 제거하기로 했다고 미국 정치매체 액시오스가 10일 보도했다.IAEA와 도널드 트럼프 미국 행정부는 2024년 12월 집권한 아메드 알샤라 시리아 임시 대통령이 이끄는 새 정부와의 막후 협상 끝에 ‘99번 부지’로 불리는 비밀 핵시설을 처분하기로 3주 전에 합의했다. 이 시설은 아사드 전 대통령 시절 알키바르 원자로의 핵 프로그램 잔재 물질을 보관하고 있다. 이 원자로는 북한의 영변 핵시설과 비슷한 방식으로 설계됐고, 북한의 지원으로 건설됐다. 2007년 이스라엘의 공습으로 이 시설이 파괴되자 아사드 정권은 남은 방사선 물질과 연구 기반을 99번 부지에 숨겼다. 특히 원자폭탄을 제조하기 위한 기초 원료인 우라늄 정광 ‘옐로케이크’가 포함된 것으로 알려졌다. 옐로케이크는 핵분열 무기로는 쓸 수 없지만 재래식 폭탄에 섞어 방사능을 더 넓은 지역으로 퍼트리는 일명 ‘더티밤(",
-          "url": "https://www.donga.com/news/Inter/article/all/20260811/134458086/1"
-        },
-        "differences": [
-          {
-            "publisher": "동아일보",
-            "start_point": "국제원자력기구(IAEA)가 과거 시리아의 바샤르 알 아사드 정권이 북한의 지원을 통해 만든 비밀 핵 물질들을 곧 제거하기로 했다고 미국 정치매체 액시오스가 10일 보도했다.IAEA와 도널드 트럼프 미국 행정부는 2024년 12월 집권한 아메드 알샤라 시리아 임시 대통령이 이끄는 새 정부와의 막후 협상 끝에 ‘99번 부지’로 불리는 비밀 핵시설을 처분하기로 3주 전에 합의했다.",
-            "emphasis_point": "이 시설은 아사드 전 대통령 시절 알키바르 원자로의 핵 프로그램 잔재 물질을 보관하고 있다."
-          },
-          {
-            "publisher": "한겨레",
-            "start_point": "북한이 지원한 핵물질 ‘더티 밤’…시리아, 미국 중재로 제거한다",
-            "emphasis_point": "북한이 지원한 핵물질 ‘더티 밤’…시리아, 미국 중재로 제거한다"
-          },
-          {
-            "publisher": "경향신문",
-            "start_point": "돌핀 내륙 이동에 곳곳에 호우주의보만리장성 등 베이징 주요 관광지 폐쇄이례적 긴 수명, 독특한 이동경로 주목10일 태풍 돌핀의 영향으로 강풍이 불고 폭우가 내리던 상하이에서 한 주민이 뒤집어진 우산을 불들고 있다./AFP연합뉴스중국 동부 지역을 강타한 태풍 돌핀이 많은 비를 뿌리며 내륙으로 이동하고 있다.",
-            "emphasis_point": "베이징에서도 집중호우가 예고돼 만리장성 등 주요 관···"
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "동아일보",
-          "title": "시리아, 北 지원받아 만든 ‘더티밤 핵물질’ 제거 합의",
-          "url": "https://www.donga.com/news/Inter/article/all/20260811/134458086/1"
-        },
-        {
-          "name": "한겨레",
-          "title": "북한이 지원한 핵물질 ‘더티 밤’…시리아, 미국 중재로 제거한다",
-          "url": "https://www.hani.co.kr/arti/international/arabafrica/1272367.html"
-        },
-        {
-          "name": "경향신문",
-          "title": "6000km 이동해 상하이 물바다 만든 ‘돌핀’ …베이징에도 1년치 3분의 1 수준 비 뿌린다",
-          "url": "https://www.khan.co.kr/article/202608111644001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        }
-      ],
-      "keywords": [
-        "시리아",
-        "미국",
-        "만든",
-        "핵물질",
-        "지원받아"
-      ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458410.1.jpg"
-    },
-    {
-      "id": "news-20260811-009",
-      "headline": "베네수엘라 이어 콜롬비아까지…규모 7.4 강진에 최소 132명 사망",
-      "category": "글로벌",
-      "summary": {
-        "overview": "10일 남미 콜롬비아 서부에서 규모 7.4의 강진이 발생해 최소 132명이 숨지고 570명이 부상을 입었다고 CNN 등이 보도했다. 콜롬비아는 전 세계 대지진의 상당수가 발생하며 일명 ‘불의 고리’로 불리는 환태평양조산대에 위치해 있다. 콜롬비아와 국경을 접한 베네수엘... 한편 콜롬비아 7.4 강진에 132명 사망…국가 재난사태 선포... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "SBS 글로벌",
-          "title": "최대 규모 한복박람회 개막…'2026 한복상점' 13일부터 DDP에서",
-          "full_content": "▲ 2026 한복상점국내 최대 규모의 한복박람회인 '2026 한복상점'이 오는 13일부터 16일까지 서울 동대문디자인플…",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008699878"
-        },
-        "differences": [
-          {
-            "publisher": "동아일보",
-            "start_point": "10일 남미 콜롬비아 서부에서 규모 7.4의 강진이 발생해 최소 132명이 숨지고 570명이 부상을 입었다고 CNN 등이 보도했다.",
-            "emphasis_point": "콜롬비아는 전 세계 대지진의 상당수가 발생하며 일명 ‘불의 고리’로 불리는 환태평양조산대에 위치해 있다."
-          },
-          {
-            "publisher": "한겨레",
-            "start_point": "콜롬비아 7.4 강진에 132명 사망…국가 재난사태 선포",
-            "emphasis_point": "콜롬비아 7.4 강진에 132명 사망…국가 재난사태 선포"
-          },
-          {
-            "publisher": "SBS 글로벌",
-            "start_point": "▲ 2026 한복상점국내 최대 규모의 한복박람회인 '2026 한복상점'이 오는 13일부터 16일까지 서울 동대문디자인플…",
-            "emphasis_point": "▲ 2026 한복상점국내 최대 규모의 한복박람회인 '2026 한복상점'이 오는 13일부터 16일까지 서울 동대문디자인플…"
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "동아일보",
-          "title": "베네수엘라 이어 콜롬비아까지…규모 7.4 강진에 최소 132명 사망",
-          "url": "https://www.donga.com/news/Inter/article/all/20260811/134456467/1"
-        },
-        {
-          "name": "한겨레",
-          "title": "콜롬비아 7.4 강진에 132명 사망…국가 재난사태 선포",
-          "url": "https://www.hani.co.kr/arti/international/america/1272390.html"
-        },
-        {
-          "name": "SBS 글로벌",
-          "title": "최대 규모 한복박람회 개막…'2026 한복상점' 13일부터 DDP에서",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008699878"
-        }
-      ],
-      "keywords": [
-        "규모",
-        "강진에",
-        "최소",
-        "132명",
-        "사망"
-      ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458274.1.jpg"
-    },
-    {
-      "id": "news-20260811-010",
-      "headline": "[쇼츠] 가까이 보려고 4m 앞까지 접근하자…뿔로 들이받고 위협적 눈빛",
-      "category": "글로벌",
-      "summary": {
-        "overview": "(서울=연합뉴스) 5일(현지시간) 폴란드 매체 TVP 등에 따르면 폴란드 비아워비에자 숲 근처에서 지난 3일 한 관광객이 야생 들소에게 지나치게...... 한편 (서울=연합뉴스) 중국 동부를 강타한 제13호 태풍 '돌핀'으로 주택과 자동차 전시장이 물에 잠기는 등 피해가 속출했습니다. 건물 4층 창문에서...... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "연합뉴스",
-          "title": "[쇼츠] 거실은 수영장, 창밖은 수족관…태풍 '돌핀' 970mm 물폭탄",
-          "full_content": "(서울=연합뉴스) 중국 동부를 강타한 제13호 태풍 '돌핀'으로 주택과 자동차 전시장이 물에 잠기는 등 피해가 속출했습니다. 건물 4층 창문에서...",
-          "url": "https://www.yna.co.kr/view/AKR20260811136100704"
-        },
-        "differences": [
-          {
-            "publisher": "연합뉴스",
-            "start_point": "(서울=연합뉴스) 5일(현지시간) 폴란드 매체 TVP 등에 따르면 폴란드 비아워비에자 숲 근처에서 지난 3일 한 관광객이 야생 들소에게 지나치게...",
-            "emphasis_point": "(서울=연합뉴스) 5일(현지시간) 폴란드 매체 TVP 등에 따르면 폴란드 비아워비에자 숲 근처에서 지난 3일 한 관광객이 야생 들소에게 지나치게..."
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "[쇼츠] 가까이 보려고 4m 앞까지 접근하자…뿔로 들이받고 위협적 눈빛",
-          "url": "https://www.yna.co.kr/view/AKR20260811142300704"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[쇼츠] 거실은 수영장, 창밖은 수족관…태풍 '돌핀' 970mm 물폭탄",
-          "url": "https://www.yna.co.kr/view/AKR20260811136100704"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[영상] 가까이 보려고 4m 앞까지 접근하자 뿔로 공격…\"들소 탓 아니다\"",
-          "url": "https://www.yna.co.kr/view/AKR20260811136300704"
-        }
-      ],
-      "keywords": [
-        "서울",
-        "연합뉴스",
-        "폴란드",
-        "쇼츠",
-        "가까이"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/11/AKR20260811142300704_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20260811-011",
-      "headline": "[영상] 러 극동 기지 핵잠에 자폭 드론 방어용 그물 설치 포착",
-      "category": "글로벌",
-      "summary": {
-        "overview": "(서울=연합뉴스) 러시아가 전장에서 수천 ㎞ 떨어진 극동 해군기지 잠수함에 대형 그물을 설치한 모습이 포착됐습니다.... 한편 (서울=연합뉴스) 최근 미 육군의 한 전투 부대가 캘리포니아 사막에서 신형 공격 드론 '로그 1' 성능 시험을 실시했다고 군사전문매체 디펜스블로...... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "연합뉴스",
-          "title": "[영상] 정찰·정밀타격에 재사용까지…美 신형 공격 드론 성능 시험",
-          "full_content": "(서울=연합뉴스) 최근 미 육군의 한 전투 부대가 캘리포니아 사막에서 신형 공격 드론 '로그 1' 성능 시험을 실시했다고 군사전문매체 디펜스블로...",
-          "url": "https://www.yna.co.kr/view/AKR20260811141600704"
-        },
-        "differences": [
-          {
-            "publisher": "연합뉴스",
-            "start_point": "(서울=연합뉴스) 러시아가 전장에서 수천 ㎞ 떨어진 극동 해군기지 잠수함에 대형 그물을 설치한 모습이 포착됐습니다.",
-            "emphasis_point": "(서울=연합뉴스) 러시아가 전장에서 수천 ㎞ 떨어진 극동 해군기지 잠수함에 대형 그물을 설치한 모습이 포착됐습니다."
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "[영상] 러 극동 기지 핵잠에 자폭 드론 방어용 그물 설치 포착",
-          "url": "https://www.yna.co.kr/view/AKR20260811141900704"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[영상] 정찰·정밀타격에 재사용까지…美 신형 공격 드론 성능 시험",
-          "url": "https://www.yna.co.kr/view/AKR20260811141600704"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[영상] \"우릴 쫓아와요\"…공포의 '하마 크루즈'",
-          "url": "https://www.yna.co.kr/view/AKR20260811133900704"
-        }
-      ],
-      "keywords": [
-        "극동",
-        "드론",
-        "서울",
-        "연합뉴스",
-        "영상"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/11/AKR20260811141900704_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20260811-012",
-      "headline": "[날씨] 서쪽 지역 중심으로 무더위…내일부터 동해안 비",
-      "category": "글로벌",
-      "summary": {
-        "overview": "주말부터 차고 건조한 공기가 내려오면서 폭염이 많이 완화됐습니다.폭염특보 지역도 많이 해제됐고요.현재는 수도권과 충남, 호남과 경남, 제주 지역…... 한편 당분간 수도권과 남부지방을 중심으로 무덥겠습니다.대부분 지역의 폭염특보는 해제되었고요.서쪽과 남부 지방을 중심으로 폭염주의보가 남아 있습니다.오…... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "SBS 글로벌",
-          "title": "[날씨] 서쪽 중심 폭염주의보…서울·광주 한낮 34도",
-          "full_content": "극한의 폭염은 한 발 물러났지만 여전히 서쪽 지역은 무덥습니다.당분간 동풍의 영향으로 서울 등 서쪽 지역 중심 무더위는 이어지겠습니다.폭염특보는…",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698970"
-        },
-        "differences": [
-          {
-            "publisher": "SBS 글로벌",
-            "start_point": "주말부터 차고 건조한 공기가 내려오면서 폭염이 많이 완화됐습니다.폭염특보 지역도 많이 해제됐고요.현재는 수도권과 충남, 호남과 경남, 제주 지역…",
-            "emphasis_point": "주말부터 차고 건조한 공기가 내려오면서 폭염이 많이 완화됐습니다.폭염특보 지역도 많이 해제됐고요.현재는 수도권과 충남, 호남과 경남, 제주 지역…"
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "SBS 글로벌",
-          "title": "[날씨] 서쪽 지역 중심으로 무더위…내일부터 동해안 비",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008699922"
-        },
-        {
-          "name": "SBS 글로벌",
-          "title": "[날씨] 수도권·남부 폭염주의보…서울·전주 낮 34도",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008699060"
-        },
-        {
-          "name": "SBS 글로벌",
-          "title": "[날씨] 서쪽 중심 폭염주의보…서울·광주 한낮 34도",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698970"
-        }
-      ],
-      "keywords": [
-        "중심으로",
-        "지역",
-        "많이",
-        "수도권과",
-        "있습니다"
-      ],
-      "image_url": "https://img.sbs.co.kr/newimg/news/20260811/202211272.jpg"
-    },
-    {
-      "id": "news-20260811-013",
-      "headline": "“초보 개미는 못 들어와요”…19일부터 싹 바뀌는 레버리지 투자 조건",
-      "category": "경제",
-      "summary": {
-        "overview": "일반투자자 모의거래 이수 의무화오는 19일부터 국내외 증시에 상장된 단일종목 레버리지·인버스 상품에 처음 투자하는 개인투자자는 의무적으로 모의거래를 이수해야 한다. 11일 한국거래..... 한편 이용필 산기평 원장 취임…“R&D 성과, 투자·금융으로 연결”... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
+        "overview": "아시아 금융시장이 지역과 업종에 따라 엇갈린 흐름을 보였다. 대만 증시는 실적 개선 기대감이 반영된 기술주와 반도체 관련주를 중심으로 2거래일 연속 상승했다. 반면 홍콩 증시는 중동 정세 불안과 국제 유가 상승의 영향으로 매도세가 몰리며 하락 마감했다. 중국 증시 역시 차익 실현 매물과 경기 부양 기대감이 충돌하며 혼조세를 나타냈다.\n\n외환 시장에서는 일본의 금리 인상 여부가 핵심 변수로 떠올랐다. 미국과 일본이 엔화 가치 방어를 위해 공동 외환시장 개입에 나선 배경에는 일본은행의 조기 금리 인상 신호가 자리 잡고 있다. 일본은행 내부에서 금융완화 조정을 서둘러야 한다는 목소리가 커지면서, 오는 9월 금리 인상 가능성이 시장에서 높게 점쳐지고 있다.",
         "featured_article": {
           "publisher": "서울경제",
-          "title": "이용필 산기평 원장 취임…“R&D 성과, 투자·금융으로 연결”",
-          "full_content": "이용필 산기평 원장 취임…“R&D 성과, 투자·금융으로 연결”",
-          "url": "https://www.sedaily.com/article/20078102"
-        },
-        "differences": [
-          {
-            "publisher": "매일경제",
-            "start_point": "일반투자자 모의거래 이수 의무화오는 19일부터 국내외 증시에 상장된 단일종목 레버리지·인버스 상품에 처음 투자하는 개인투자자는 의무적으로 모의거래를 이수해야 한다.",
-            "emphasis_point": "일반투자자 모의거래 이수 의무화오는 19일부터 국내외 증시에 상장된 단일종목 레버리지·인버스 상품에 처음 투자하는 개인투자자는 의무적으로 모의거래를 이수해야 한다."
-          },
-          {
-            "publisher": "서울경제",
-            "start_point": "이용필 산기평 원장 취임…“R&D 성과, 투자·금융으로 연결”",
-            "emphasis_point": "이용필 산기평 원장 취임…“R&D 성과, 투자·금융으로 연결”"
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“초보 개미는 못 들어와요”…19일부터 싹 바뀌는 레버리지 투자 조건",
-          "url": "https://www.mk.co.kr/news/stock/12124178"
-        },
-        {
-          "name": "서울경제",
-          "title": "이용필 산기평 원장 취임…“R&D 성과, 투자·금융으로 연결”",
-          "url": "https://www.sedaily.com/article/20078102"
+          "title": "환율 1410원대 마감…엔화 약세·월말 배당 ‘복병’ [김혜란의 FX]",
+          "full_content": "환율 1410원대 마감…엔화 약세·월말 배당 ‘복병’ [김혜란의 FX]",
+          "url": "https://www.sedaily.com/article/20078179"
         }
-      ],
-      "keywords": [
-        "19일부터",
-        "레버리지",
-        "투자",
-        "초보",
-        "개미는"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202608/11/news-p.v1.20260811.ac60e2b11c494c3281ef26eabd88589b_R.png"
-    },
-    {
-      "id": "news-20260811-014",
-      "headline": "2030년 개교 예정 국립의대 후보지..‘경북·전남광주 2파전’",
-      "category": "경제",
-      "summary": {
-        "overview": "교육부, 후보지 2곳 선정 오는 20일까지 계획서 제출 이르면 이달 말 최종 결정2030년 개교 예정인 국립의과대학 후보지를 놓고 경상북도와 전남광주특별시가 유치 경쟁을 벌이게 ..... 한편 (전남광주=연합뉴스) 전승현 기자 = 광주경영자총협회 양진석 회장, 전남경영자총협회 신명균 회장 등 전남광주 13개 경제단체장은 11일 \"대한민...... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "매일경제",
-          "title": "2030년 개교 예정 국립의대 후보지..‘경북·전남광주 2파전’",
-          "full_content": "교육부, 후보지 2곳 선정 오는 20일까지 계획서 제출 이르면 이달 말 최종 결정2030년 개교 예정인 국립의과대학 후보지를 놓고 경상북도와 전남광주특별시가 유치 경쟁을 벌이게 ..",
-          "url": "https://www.mk.co.kr/news/society/12124167"
-        },
-        "differences": [
-          {
-            "publisher": "매일경제",
-            "start_point": "교육부, 후보지 2곳 선정 오는 20일까지 계획서 제출 이르면 이달 말 최종 결정2030년 개교 예정인 국립의과대학 후보지를 놓고 경상북도와 전남광주특별시가 유치 경쟁을 벌이게 ..",
-            "emphasis_point": "교육부, 후보지 2곳 선정 오는 20일까지 계획서 제출 이르면 이달 말 최종 결정2030년 개교 예정인 국립의과대학 후보지를 놓고 경상북도와 전남광주특별시가 유치 경쟁을 벌이게 .."
-          },
-          {
-            "publisher": "연합뉴스",
-            "start_point": "(전남광주=연합뉴스) 전승현 기자 = 광주경영자총협회 양진석 회장, 전남경영자총협회 신명균 회장 등 전남광주 13개 경제단체장은 11일 \"대한민...",
-            "emphasis_point": "(전남광주=연합뉴스) 전승현 기자 = 광주경영자총협회 양진석 회장, 전남경영자총협회 신명균 회장 등 전남광주 13개 경제단체장은 11일 \"대한민..."
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "2030년 개교 예정 국립의대 후보지..‘경북·전남광주 2파전’",
-          "url": "https://www.mk.co.kr/news/society/12124167"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "전남광주 경제단체장들 \"반도체 역사적 결단, 李대통령에 감사\"(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20260811101701054"
-        }
-      ],
-      "keywords": [
-        "전남광주",
-        "개교",
-        "후보지",
-        "회장",
-        "2030년"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202608/11/news-p.v1.20260811.9fd60e5879d8409991daf68c2c4c2811_R.jpg"
-    },
-    {
-      "id": "news-20260811-015",
-      "headline": "환율 1410원대 마감…엔화 약세·월말 배당 ‘복병’ [김혜란의 FX]",
-      "category": "경제",
-      "summary": {
-        "overview": "환율 1410원대 마감…엔화 약세·월말 배당 ‘복병’ [김혜란의 FX]... 한편 (서울=연합뉴스) 임지우 기자 = 원/달러 환율은 11일 달러 수급 개선 등에 사흘 연속 1,410원대에 머물렀다.... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "연합뉴스",
-          "title": "환율, 수급 개선에 사흘째 1,410원대…10개월 만에 최저",
-          "full_content": "(서울=연합뉴스) 임지우 기자 = 원/달러 환율은 11일 달러 수급 개선 등에 사흘 연속 1,410원대에 머물렀다.",
-          "url": "https://www.yna.co.kr/view/AKR20260811134400002"
-        },
-        "differences": [
-          {
-            "publisher": "서울경제",
-            "start_point": "환율 1410원대 마감…엔화 약세·월말 배당 ‘복병’ [김혜란의 FX]",
-            "emphasis_point": "환율 1410원대 마감…엔화 약세·월말 배당 ‘복병’ [김혜란의 FX]"
-          },
-          {
-            "publisher": "연합뉴스",
-            "start_point": "(서울=연합뉴스) 임지우 기자 = 원/달러 환율은 11일 달러 수급 개선 등에 사흘 연속 1,410원대에 머물렀다.",
-            "emphasis_point": "(서울=연합뉴스) 임지우 기자 = 원/달러 환율은 11일 달러 수급 개선 등에 사흘 연속 1,410원대에 머물렀다."
-          }
-        ]
       },
       "publishers": [
         {
@@ -854,244 +210,637 @@
           "url": "https://www.sedaily.com/article/20078179"
         },
         {
-          "name": "연합뉴스",
-          "title": "환율, 수급 개선에 사흘째 1,410원대…10개월 만에 최저",
-          "url": "https://www.yna.co.kr/view/AKR20260811134400002"
+          "name": "뉴시스",
+          "title": "[올댓차이나] 대만 증시, 실적 기대 기술주 매수로 이틀째 상승 마감…0.43%↑",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745183"
+        },
+        {
+          "name": "뉴시스",
+          "title": "[올댓차이나] 홍콩 증시, 중동정세 불투명에 반락 마감… H주 1.09%↓",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745149"
+        },
+        {
+          "name": "뉴시스",
+          "title": "[올댓차이나] 中 증시, 차익매물·부양 기대 교차에 혼조 마감…창업판 0.34%↑",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745114"
+        },
+        {
+          "name": "뉴시스",
+          "title": "美日 엔화 공동개입 배경엔 일본은행 '조기 금리인상' 신호",
+          "url": "https://www.newsis.com/view/NISX20260811_0003744851"
         }
       ],
       "keywords": [
-        "환율",
-        "1410원대",
-        "마감",
-        "엔화",
-        "약세"
+        "아시아 증시",
+        "일본 금리 인상",
+        "엔화 공동 개입",
+        "대만 기술주"
       ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/08/11/PYH2026081114970001300_P2.jpg"
+      "image_url": "https://image.newsis.com/2015/07/06/NISI20150706_0011134197_web.jpg?rnd=20240108002132"
     },
     {
-      "id": "news-20260811-016",
-      "headline": "유상대 한은 부총재 “특별한 충격 없다면 추가 인상 가능성 높아”",
-      "category": "경제",
+      "id": "news-20260811-005",
+      "headline": "시리아 아사드 전 대통령 사형 선고 및 북한 지원 핵물질 제거와 중국 태풍 '돌핀' 영향",
+      "category": "글로벌",
       "summary": {
-        "overview": "유상대 한은 부총재 “특별한 충격 없다면 추가 인상 가능성 높아”... 한편 한은 부총재 \"물가 오름세 지속‥금리 한 번 더 올릴 가능성\"... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
+        "overview": "시리아 법원이 전쟁 범죄와 인도에 반한 범죄 혐의로 바샤르 알 아사드 전 대통령에게 궐석 재판을 통해 사형을 선고했습니다. 아사드 전 대통령과 그의 남동생, 그리고 내전 진압을 주도한 외사촌 아테프 나지브에게도 사형이 함께 내려졌습니다. 아사드 전 정권 인사들은 2014년 반군이 다마스쿠스에 진입하자 러시아로 도피했습니다.\n\n이와 더불어 시리아 내 비밀 핵물질을 제거하기 위한 작업도 추진됩니다. 국제원자력기구(IAEA)는 북한의 지원을 받아 조성된 시리아의 핵 잔재를 곧 제거하기로 했습니다. 시리아 임시 정부와 미국은 '99번 부지'에 보관된 우라늄 정광 등 방사성 물질을 처분하기로 합의했습니다. 이 물질들은 재래식 폭탄에 섞어 사용하면 광범위한 방사능 오염을 일으키는 '더티밤'의 원료로 쓰일 수 있습니다.\n\n중국에서는 태풍 돌핀이 내륙으로 이동하며 동부 지역에 큰 영향을 끼치고 있습니다. 상하이를 포함한 지역에 폭우가 쏟아지는 가운데, 베이징에서도 집중호우가 예고되어 만리장성 등 주요 관광지가 폐쇄되었습니다.",
         "featured_article": {
-          "publisher": "MBC 뉴스",
-          "title": "한은 부총재 \"물가 오름세 지속‥금리 한 번 더 올릴 가능성\"",
-          "full_content": "한은 부총재 \"물가 오름세 지속‥금리 한 번 더 올릴 가능성\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RM3prNmU2TGZkcDlrUTBqV21CcUVrVUsyUnJ0S0ExOWIzRXJtY1N0SEk1T2ZpSjRzN0F6b2ptaG1aSlM4WHNOdzNiS1Z4RHJ1UTdSTWxYQURRYlplelU0RXdjM2lBeW52c29iUGFzVkxqRkcy0gF0QVVfeXFMTWVISnVFNVl3VldpLVNYbGZKT1dRTmVPZE1NWmw3a3lNZ3Y3R0M2a1VVNlRYbndRV1VkVlVubkxtdV9nRUNBNkgtTGM2UGdCbEFwdU1WTmhGS2xMczgyaExSbHFqc01BRU9QWmdfMGttR3BuOWQ?oc=5"
-        },
-        "differences": [
-          {
-            "publisher": "서울경제",
-            "start_point": "유상대 한은 부총재 “특별한 충격 없다면 추가 인상 가능성 높아”",
-            "emphasis_point": "유상대 한은 부총재 “특별한 충격 없다면 추가 인상 가능성 높아”"
-          },
-          {
-            "publisher": "MBC 뉴스",
-            "start_point": "한은 부총재 \"물가 오름세 지속‥금리 한 번 더 올릴 가능성\"",
-            "emphasis_point": "한은 부총재 \"물가 오름세 지속‥금리 한 번 더 올릴 가능성\""
-          }
-        ]
+          "publisher": "동아일보",
+          "title": "시리아, 北 지원받아 만든 ‘더티밤 핵물질’ 제거 합의",
+          "full_content": "국제원자력기구(IAEA)가 과거 시리아의 바샤르 알 아사드 정권이 북한의 지원을 통해 만든 비밀 핵 물질들을 곧 제거하기로 했다고 미국 정치매체 액시오스가 10일 보도했다.IAEA와 도널드 트럼프 미국 행정부는 2024년 12월 집권한 아메드 알샤라 시리아 임시 대통령이 이끄는 새 정부와의 막후 협상 끝에 ‘99번 부지’로 불리는 비밀 핵시설을 처분하기로 3주 전에 합의했다. 이 시설은 아사드 전 대통령 시절 알키바르 원자로의 핵 프로그램 잔재 물질을 보관하고 있다. 이 원자로는 북한의 영변 핵시설과 비슷한 방식으로 설계됐고, 북한의 지원으로 건설됐다. 2007년 이스라엘의 공습으로 이 시설이 파괴되자 아사드 정권은 남은 방사선 물질과 연구 기반을 99번 부지에 숨겼다. 특히 원자폭탄을 제조하기 위한 기초 원료인 우라늄 정광 ‘옐로케이크’가 포함된 것으로 알려졌다. 옐로케이크는 핵분열 무기로는 쓸 수 없지만 재래식 폭탄에 섞어 방사능을 더 넓은 지역으로 퍼트리는 일명 ‘더티밤(",
+          "url": "https://www.donga.com/news/Inter/article/all/20260811/134458086/1"
+        }
       },
       "publishers": [
+        {
+          "name": "동아일보",
+          "title": "시리아, 北 지원받아 만든 ‘더티밤 핵물질’ 제거 합의",
+          "url": "https://www.donga.com/news/Inter/article/all/20260811/134458086/1"
+        },
+        {
+          "name": "한겨레",
+          "title": "시리아 법원, ‘독재자’ 아사드 전 대통령에 사형 선고",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1272466.html"
+        },
+        {
+          "name": "경향신문",
+          "title": "[영상]6000km 이동해 상하이 물바다 만든 ‘돌핀’···베이징에도 1년치 3분의 1 수준 비 뿌린다",
+          "url": "https://www.khan.co.kr/article/202608111644001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "'학살자' 아사드 전 시리아 대통령에 궐석재판서 사형 선고",
+          "url": "https://www.yna.co.kr/view/AKR20260811157300079"
+        },
+        {
+          "name": "뉴시스",
+          "title": "시리아 법원, 아사드 전 대통령에 궐석재판으로 사형 선고",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745054"
+        }
+      ],
+      "keywords": [
+        "시리아",
+        "아사드 전 대통령",
+        "북한 핵물질",
+        "태풍 돌핀",
+        "중국 호우"
+      ],
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458410.1.jpg"
+    },
+    {
+      "id": "news-20260811-006",
+      "headline": "한은 금리 추가 인상 가능성 시사와 부동산 세제 시장 충격 완화 대책",
+      "category": "경제",
+      "summary": {
+        "overview": "유상대 한국은행 부총재는 특별한 경제적 충격이 없다면 금리를 추가로 인상할 가능성이 높다는 뜻을 내비쳤습니다. 환율 안정이나 주가 변동성 확대는 이번 금리 결정 과정에서 핵심적인 고려 요소가 아니라고 설명했습니다.\n\n부동산 시장과 관련해서는 세제 개편이 전월세 가격 상승으로 이어질 수 있다는 우려를 관리하겠다는 방침이 나왔습니다. 김윤덕 국토교통부 장관은 비거주 1주택자에 대한 세 부담 강화가 임대료 상승을 부추길 수 있다는 지적에 대해 시장 충격을 줄여야 한다는 점에 공감했습니다.\n\n이에 김 장관은 세제 제도를 즉시 시행하기보다 단계적으로 적용해 시장의 혼란을 막겠다고 밝혔습니다. 제도 시행의 시차 동안 주택 공급을 늘려 시장 안정을 꾀하고, 금융 및 세제 당국과 협력해 시장 반응을 지속적으로 살필 계획입니다.",
+        "featured_article": {
+          "publisher": "서울경제",
+          "title": "유상대 한은 부총재 “특별한 충격 없다면 금리 추가 인상”",
+          "full_content": "유상대 한은 부총재 “특별한 충격 없다면 금리 추가 인상”",
+          "url": "https://www.sedaily.com/article/20078287"
+        }
+      },
+      "publishers": [
+        {
+          "name": "서울경제",
+          "title": "유상대 한은 부총재 “특별한 충격 없다면 금리 추가 인상”",
+          "url": "https://www.sedaily.com/article/20078287"
+        },
         {
           "name": "서울경제",
           "title": "유상대 한은 부총재 “특별한 충격 없다면 추가 인상 가능성 높아”",
           "url": "https://www.sedaily.com/article/20078105"
         },
         {
-          "name": "MBC 뉴스",
-          "title": "한은 부총재 \"물가 오름세 지속‥금리 한 번 더 올릴 가능성\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RM3prNmU2TGZkcDlrUTBqV21CcUVrVUsyUnJ0S0ExOWIzRXJtY1N0SEk1T2ZpSjRzN0F6b2ptaG1aSlM4WHNOdzNiS1Z4RHJ1UTdSTWxYQURRYlplelU0RXdjM2lBeW52c29iUGFzVkxqRkcy0gF0QVVfeXFMTWVISnVFNVl3VldpLVNYbGZKT1dRTmVPZE1NWmw3a3lNZ3Y3R0M2a1VVNlRYbndRV1VkVlVubkxtdV9nRUNBNkgtTGM2UGdCbEFwdU1WTmhGS2xMczgyaExSbHFqc01BRU9QWmdfMGttR3BuOWQ?oc=5"
+          "name": "뉴시스",
+          "title": "김윤덕, 실거주로 전월세 불안 우려에 \"세제 단계적 시행해 충격 줄일 것\"",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745079"
+        },
+        {
+          "name": "지디넷코리아",
+          "title": "유상대 \"환율 안정·주가 변동성 확대…한은 금리인상서 중요 요소 아냐\"",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nLWxvcXFjQklDME1yZV9qR3ZTM3dFWWlueHRpWHNYclFNQmlBRkxVaUMyYXg4TWNwOXBHYnUxT3V5TXZTa0tjZDBmRzRYVVoxNFJIdUtn?oc=5"
         }
       ],
       "keywords": [
-        "한은",
-        "부총재",
-        "가능성",
-        "유상대",
-        "특별한"
+        "금리 인상",
+        "한국은행",
+        "부동산 세제",
+        "전월세 시장",
+        "국토교통부"
+      ],
+      "image_url": "https://image.newsis.com/2026/08/11/NISI20260811_0021395280_web.jpg?rnd=20260811155400"
+    },
+    {
+      "id": "news-20260811-007",
+      "headline": "김윤덕 국토부 장관, 주택 공급 확대 및 세종 대통령 집무실 완전 이전 추진",
+      "category": "경제",
+      "summary": {
+        "overview": "김윤덕 국토교통부 장관이 주택 시장의 전월세 안정을 위해 충분한 주택 공급을 추진한다. 김 장관은 오세훈 서울시장의 요구사항을 적극적으로 검토하며 서울시와의 원활한 협의를 이어가겠다고 밝혔다. 세제 개편에 따른 1주택자 실거주 전환 문제에 대해서는 공급 확대와 함께 단계적인 시행 방안을 마련할 계획이다.\n\n대통령 집무실의 세종 이전과 관련해서는 현재의 부분 이전을 넘어 최종적으로는 완전한 이전을 목표로 삼고 있다. 김 장관은 완전한 이전을 가로막는 법적 근거 마련을 위해 행정수도 특별법 제정이 필요하다고 판단하고, 국회의 신속한 논의에 적극 협조하겠다는 뜻을 전했다. 국토부는 행정중심복합도시건설청과 협력해 세종시의 공간 준비를 차질 없이 진행할 방침이다.",
+        "featured_article": {
+          "publisher": "한겨레",
+          "title": "김윤덕 국토장관 “전월세 안정 위해 충분한 주택 공급”",
+          "full_content": "김윤덕 국토장관 “전월세 안정 위해 충분한 주택 공급”",
+          "url": "https://www.hani.co.kr/arti/economy/property/1272438.html"
+        }
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "김윤덕 국토장관 “전월세 안정 위해 충분한 주택 공급”",
+          "url": "https://www.hani.co.kr/arti/economy/property/1272438.html"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "국토장관 \"오세훈 시장 요구사항 적극 검토중…협의도 원활\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260811142251003"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "국토장관, 1주택 실거주 관련 \"단계적 시행하며 공급 늘릴 것(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260811148251003"
+        },
+        {
+          "name": "뉴시스",
+          "title": "김윤덕 국토부 장관 \"대통령 세종 집무실 목표는 전체 이전\"",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745066"
+        }
+      ],
+      "keywords": [
+        "주택 공급",
+        "전월세 안정",
+        "세종 대통령 집무실",
+        "행정수도 특별법"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0811/53_17864395430042_20260811503293.webp"
+    },
+    {
+      "id": "news-20260811-008",
+      "headline": "중국 로켓 폭발과 조직범죄 단속 및 심훈 친필 원고 귀환 소식",
+      "category": "글로벌",
+      "summary": {
+        "overview": "중국 창정 7A 로켓이 발사 85초 만에 폭발하며 2,100억 원 규모의 위성을 실은 채 화염에 휩싸였습니다. 중국 공안부는 조직범죄와의 전쟁을 선포하고 첫 집중 단속을 진행해 불법 추심 용의자 등 8,200여 명을 검거했으며 1,000여 개의 범죄 조직을 해산했습니다.\n\n대만 당국은 고무보트를 타고 타이베이항으로 밀입국한 중국 남성 2명을 6일 만에 검거했습니다. 해순서는 해안 경비와 레이더 감지 과정에서 경보가 울리지 않은 과실을 인정했습니다.\n\n한편, 일제강점기 시인 심훈의 친필 원고가 90년 만에 고국으로 돌아왔습니다. '그날이 오면'과 소설 '상록수' 등이 수록된 이 원고는 긴 세월을 지나 마침내 공개되었습니다.",
+        "featured_article": {
+          "publisher": "한겨레",
+          "title": "중국 로켓, 85초 만에 ‘펑’…2100억 위성 실은 창정 7A 화염 휩싸여",
+          "full_content": "중국 로켓, 85초 만에 ‘펑’…2100억 위성 실은 창정 7A 화염 휩싸여",
+          "url": "https://www.hani.co.kr/arti/international/china/1272432.html"
+        }
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "중국 로켓, 85초 만에 ‘펑’…2100억 위성 실은 창정 7A 화염 휩싸여",
+          "url": "https://www.hani.co.kr/arti/international/china/1272432.html"
+        },
+        {
+          "name": "경향신문",
+          "title": "‘조직범죄와의 전쟁’ 선포한 중국···1차 단속으로 “불법 추심 용의자 등 8200명 검거”",
+          "url": "https://www.khan.co.kr/article/202608111754001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "뉴시스",
+          "title": "대만 밀입국 中남성 2명, 6일 만에 붙잡혀…\"경보 없어\" 지적도",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745140"
+        },
+        {
+          "name": "SBS 글로벌",
+          "title": "일제가 지우려 했던 시, 90년 만에 고국으로…심훈 친필원고 공개",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700206"
+        }
+      ],
+      "keywords": [
+        "중국 로켓 폭발",
+        "조직범죄 단속",
+        "대만 밀입국",
+        "심훈 친필원고"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0811/53_17864385795497_20260811503250.webp"
+    },
+    {
+      "id": "news-20260811-009",
+      "headline": "정부 청년 일자리 확대와 제약·반도체 산업 주요 동향",
+      "category": "경제",
+      "summary": {
+        "overview": "정부가 내년도 청년 공공일자리로 2만여 개를 창출한다. 이번 사업은 기존 '체납관리단' 운영 방식을 모델로 삼아 추진한다.\n\n제약 업계에서는 JW중외제약이 통풍 치료제 후보물질 '에파미뉴라드'의 다국가 임상 3상에서 유효성을 확인했다. JW중외제약은 내년 국내 허가를 목표로 삼고 있다.\n\n반면 반도체 시장 전망은 다소 어둡다. 키움증권은 내년 범용D램 가격이 30%대까지 하락할 것으로 예상하며 삼성전자와 SK하이닉스의 목표주가를 하향 조정했다.",
+        "featured_article": {
+          "publisher": "한겨레",
+          "title": "[단독] ‘체납관리단’ 본뜬 새 청년 공공일자리, 내년 2만여개 창출 추진",
+          "full_content": "[단독] ‘체납관리단’ 본뜬 새 청년 공공일자리, 내년 2만여개 창출 추진",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1272437.html"
+        }
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "[단독] ‘체납관리단’ 본뜬 새 청년 공공일자리, 내년 2만여개 창출 추진",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1272437.html"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "JW중외제약 \"통풍 신약 3상 성공…내년 국내 허가 목표\"",
+          "url": "https://www.yna.co.kr/view/AKR20260811156400017"
+        },
+        {
+          "name": "비즈니스포스트",
+          "title": "키움증권 \"삼성전자·SK하이닉스 목표주가 하향, 내년 범용D램 가격 30%대 하락 예상\"",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RckVSS0libDZYZHpic2NaeHp4VkF4NnZhaFJNZGFTNkRzd3AyOHhqempFcE9aYVAtbGtQS1NnQVpnblJjX3pxMndaa2xOM2lESWZQWlppNWp6aEdqZWQ2TWQtZHVjU1NZQy1sNW5vQmt3VkE?oc=5"
+        }
+      ],
+      "keywords": [
+        "청년 일자리",
+        "JW중외제약",
+        "반도체 전망",
+        "D램 가격"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0811/53_17864395433718_20260811503291.webp"
+    },
+    {
+      "id": "news-20260811-010",
+      "headline": "중국 마라톤 연속 완주 세계 기록 경신 및 창정 7A 로켓 발사 실패",
+      "category": "글로벌",
+      "summary": {
+        "overview": "중국 산둥성 출신의 리솽융 씨가 372일 동안 매일 마라톤 풀코스를 완주하며 기네스 세계 기록을 세웠습니다. 사업 실패와 이혼으로 힘든 시기를 보내던 그는 만화 '원펀맨'의 주인공처럼 혹독한 운동 루틴을 실천하며 스스로를 극복했습니다. 이번 기록은 기존 브라질 러너가 세운 366일을 넘어선 것입니다.\n\n한편, 중국의 우주 발사 임무는 실패로 돌아갔습니다. 하이난성 우주발사장에서 중싱 4B 위성을 탑재해 발사한 창정 7A 개량형 로켓이 이륙 직후 폭발했습니다. 로켓은 발사 후 약 85초에서 90초가 채 되지 않은 시점에서 폭발한 것으로 확인되었습니다.",
+        "featured_article": {
+          "publisher": "동아일보",
+          "title": "사업 실패-이혼 뒤…372일간 매일 42.195㎞ 달렸다",
+          "full_content": "사업 실패와 이혼 등을 겪은 뒤 운동을 시작한 40대 남성이 1년이 넘는 기간 동안 하루도 빠짐없이 마라톤 풀코스를 완주하는 기네스 기록을 세웠다. 10일(현지 시간) 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 중국 산둥(山东)성 출신의 리솽융(41)은 지난 주말 372일 연속 마라톤을 마무리하며 ‘마라톤 거리 최다 연속 일수 달리기(남성) 부문의 기네스 세계기록을 세웠다. 이는 2023년 브라질 출신 러너 우고 파리아스가 세운 기존 기록 366일을 넘어선 것이다. 앞서 리솽융은 사업 실패와 이혼으로 자신을 ’패배자‘라고 부르며 방황하던 시절 일본 만화 ’원펀맨‘을 접하고 운동을 시작했다. 만화는 주인공 사이타마가 혹독한 훈련을 거쳐 비현실적 힘을 손에 넣는다는 내용이다. 리솽융도 그의 운동 루틴을 따라 2021년 8월부터 팔굽혀펴기 100회, 윗몸일으키기 100회, 스쿼트 100회, 10㎞ 달리기를 매일 실천했다. 지난해 7월까지 1000일간 ’원펀맨 챌린지‘를 마친 그는",
+          "url": "https://www.donga.com/news/Inter/article/all/20260811/134460408/2"
+        }
+      },
+      "publishers": [
+        {
+          "name": "동아일보",
+          "title": "사업 실패-이혼 뒤…372일간 매일 42.195㎞ 달렸다",
+          "url": "https://www.donga.com/news/Inter/article/all/20260811/134460408/2"
+        },
+        {
+          "name": "경향신문",
+          "title": "중국, 창정7A 로켓 발사 실패…“발사 후 85초쯤 폭발”",
+          "url": "https://www.khan.co.kr/article/202608111601001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "중국, 창정7A 운반로켓 발사 실패…\"90초도 안 돼 폭발\"(종합2보)",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OeVRVOGpOM3Y3b09iQzdneG9VX3N0RENGS01VX1VfaFZJWUFnUlJzbjhVVU9lNnRFZW5PRlhEbGVVbGdvNElaaXRiaVZHWm1ia0w0M0ZOb0x3S0nSAWBBVV95cUxOeTlsSlZXT0lwOUpIeHlsU0RHNTBZMWxCR0pKTkRHMG1MeTZKZVpMdUlKa1FOeHk5N3N0QjQ4QnBzM1VySktHUDhwLUhLQjg3aEp1a1FCWkRUSklIRE5PbVk?oc=5"
+        }
+      ],
+      "keywords": [
+        "기네스 세계 기록",
+        "마라톤",
+        "창정 7A",
+        "로켓 폭발",
+        "중국"
+      ],
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134460407.3.jpg"
+    },
+    {
+      "id": "news-20260811-011",
+      "headline": "러시아의 북한 미사일 추가 확보에 젤렌스키 한국 방공망 지원 요구... 한반도 안보 위협 증폭",
+      "category": "글로벌",
+      "summary": {
+        "overview": "볼로디미르 젤렌스키 우크라이나 대통령은 러시아가 북한으로부터 탄도미사일을 추가로 받았다고 밝혔습니다. 이번 미사일 공급은 우크라이나 전쟁뿐만 아니라 한국과 일본의 안보 위협을 직접적으로 높이는 결과로 이어집니다.\n\n젤렌스키 대통령은 한국에 방공망 지원을 요구하며 적극적인 대응을 요청했습니다. 우리 정부는 국내법 준수를 강조하며 지원 요구에 신중한 태도를 보이고 있습니다.\n\n이런 상황 속에서 북한과 중국의 미사일 공격에 대비한 한국 내 미군 기지의 취약성 문제도 수면 위로 떠올랐습니다. 미사일 위협이 현실화되면서 한반도 주변의 군사적 긴장감이 높아지는 양상입니다.",
+        "featured_article": {
+          "publisher": "경향신문",
+          "title": "젤렌스키 “러시아, 북한 탄도미사일 또 받아···한국·일본 위험 더 커질 것”",
+          "full_content": "“북한산 탄도미사일 공격으로 최소 6명 사망”러시아의 우크라이나 침공이 이어지는 가운데 11일(현지시간) 우크라이나 자포리자에서 소방대원들이 밤사이 러시아의 미사일 공격을 받은 주민 차고지 현장에서 수습 작업을 하고 있다. 로이터연합뉴스볼로디미르 젤렌스키 우크라이나 대통령이 10일(현지시간) 러시아가 북한의 탄도미사일을 추가로 받았다며 러시아에 투입되는 북···",
+          "url": "https://www.khan.co.kr/article/202608111611001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        }
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "젤렌스키 “러시아, 북한 탄도미사일 또 받아···한국·일본 위험 더 커질 것”",
+          "url": "https://www.khan.co.kr/article/202608111611001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "젤렌스키 ‘한국 방공망 지원’ 요구에 곤혹…정부 ‘국내법 준수’ 부각, 왜?",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5ZFVZdTB4R1dmaVdRZG9oTzJkcG1FTzBHd1dtVUI5QXVDZnJ2aEd1dk5BQkpEaDJVNG5JQnl0SDJQckR4TlRkdUhDeWhnV1AwSFg2ZW1IRzkteUkyRTZzYVZLZjR6c2NramM5NkRBU2Z2d0xR?oc=5"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "title": "\"한국 미군기지, 北中 미사일 공격에 더 취약\" 경고",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ua3dUU00zTVE5aUFJbWlMZXNGOVRzVzlKSHVfNTNXekh5YkhaQlBMY0l6dGJWR3FobTlFWTczU2p0aGZxWWQ0Q3RPMEk0N3ZvdzNlZjVBSzFSQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "젤렌스키",
+        "북한 미사일",
+        "방공망 지원",
+        "한반도 안보",
+        "미군기지"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260811-011/600/400"
+    },
+    {
+      "id": "news-20260811-012",
+      "headline": "대만 증시 기술주 강세로 상승, 홍콩·중국은 중동 정세 및 차익 매물에 혼조세",
+      "category": "글로벌",
+      "summary": {
+        "overview": "11일 아시아 주요 증시는 국가별로 엇갈린 흐름을 보였다. 대만 증시는 실적 개선 기대감이 반영된 기술주 중심의 매수세에 힘입어 이틀 연속 상승했다. 특히 TSMC를 비롯한 반도체와 AI 서버 관련 종목들이 강세를 보이며 지수 상승을 이끌었다.\n\n홍콩 증시는 중동 정세 불안에 따른 유가 상승 여파로 상승분을 반납하며 하락 마감했다. 중국 경기 부양 기대감으로 상승 출발했으나 호르무즈 해협 관련 불확실성이 커지며 매도세가 나타났다.\n\n중국 증시는 차익 실현 매물과 경기 부양 기대감이 맞물리며 혼조세를 나타냈다. 상하이 종합지수는 뉴욕 증시 약세와 차익 매물 출회로 인해 6거래일 만에 하락 전환했다.",
+        "featured_article": {
+          "publisher": "뉴시스",
+          "title": "[올댓차이나] 대만 증시, 실적 기대 기술주 매수로 이틀째 상승 마감…0.43%↑",
+          "full_content": "[서울=뉴시스]이재준 기자 = 대만 타이베이 증시는 11일 전날 뉴욕 증시 약세에도 실적을 발표하는 주력 기술주에 기대 매수가 유입하면서 2거래일 연속 오른 채 마감했다. 자취안(加權) 지수는 전일 대비 191.96 포인트, 0.43% 올라간 4만5120.72로 폐장했다. 4만4883.90으로 시작한 지수는 4만4652.06~4만5195.41 사이를 오르내렸다. 금융주를 제외한 지수는 4만472.59로 226.98 포인트 상승했다. 주요 8대 업종 가운데 시장 비중이 절대적인 전자기기주가 0.53%, 시멘트·요업주 0.49%, 식품주 0.59%, 석유화학주 2.14% 올랐다. 하지만 방직주는 0.43%, 변동성이 심한 제지주 0.61%, 금융주 1.13%, 건설주 0.81% 저하했다. 지수 구성 종목 중 395개가 오르고 597개는 내렸으며 114개가 보합이다. 반도체와 전자제품에 들어가는 수동부품주가 일제히 강세를 보였다. 화신과기와 허선탕, 신창전자, 미왕스가 상한가를 때리고 리뎬마오(日電貿)가 8.39%, 궈쥐(國巨) 7.68%, 쥐딩(聚鼎) 6.79% 치솟았다. 첨단 패키징 생산능력을 확대하는 전체 시가총액의 40%를 차지하는 세계 최대 반도체 위탁생산 TSMC는 0.63%, 반도체 설계개발주 롄파과기 1.52%, 인공지능(AI) 서버주 광다전뇌 0.64%, 난야 2.70%, 스신-KY 4.08%, 친딩-KY 4.14%, 촹이 9.38%, 타이광 전자 4.63%, 진샹전자 4.10%, 난마오 6.57%, 순다 8.11%, 촨후 3.44%, 푸스다 1.99%, 원예 %,췬롄 2.45%, 화숴 2.57%, 솽훙 3.47%, 롄마오 5.73% 올라갔다. 창룽해운도 1.87%, 아세아 항공 1.04%, 한샹 2.95%, 디이구리 1.01%, 궈타이 건설 1.13%, 타이완 유리 2.19%, 정룽제지 1.24%, 약품주 야오화 9.77%, 췬이증권 1.52%뛰었다. 샹야오(翔耀), 젠딩(健鼎), 톈한(天瀚), 차오신(巧新), 자다(佳大)는 급등했다. 반면 타이다 전자는 0.55%, 광학렌즈주 다리광전 1.02%, 난야과기 2.59%, 화방전자 0.84%, 왕훙전자 0.75%, 리지전자 0.89%, 췬촹광전 4.21%, 유다광전 3.33%, 황싱광전 4.85%, 웨이잉 1.33%, 웨이촹 1.04%, 화퉁 1.63%, 완룬 3.67%, 언마오 3.76%, 즈방 1.39%, 징위안 전자 1.01%, 환추징 0.59%, 친청 5.58%, 젠처 1.69%, 롄야 2.17%, 타이훙 4.42%, 원예 3.93% 떨어졌다. 완하이 해운 역시 0.46%, 창룽항공 2.11%, 중화항공 0.98%, 대만고속철 0.77%, 룽더조선 0.70%, 허타이차 0.58%, 통신주 중화전신 0.37%, 철강주 스지강 2.16%, 아세아 시멘트 1.52%, 방직주 신광합성섬유(新纖) 2.02%, 제지주 중화펄프 0.37%, 장화은행 0.43%, 롄방은행 1.24%, 화난금융 0.80% 위산금융 2.38%, 궈타이 금융 1.39%, 디이금융 2.82% 밀렸다. 아이푸(愛普), 허친 HD(合勤控), 시터얼-촹(熙特爾-創), 즈선과기(智伸科), 롄쥔(聯鈞)은 급락했다. 거래액은 8690억1600만 대만달러(약 38조1237억원)를 기록했다. 화방전자, 췬촹광전, 췬이 대만 자취안정(群益臺灣加權正)2, 유다광전, 위안다 대만 50정(正)2의 거래량이 많았다. 애널리스트는 시황에 대해 현재 기업들의 기업설명회와 분기 실적 발표가 집중되는 시기라며 이번 주 훙하이 정밀, 치훙, 광다전뇌 등이 잇따라 기업설명회를 개최하는 만큼 분기 실적이 양호하고 향후 전망도 긍정적인 종목에 주목할 필요가 있다고 지적했다. ◎공감언론",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745183"
+        }
+      },
+      "publishers": [
+        {
+          "name": "뉴시스",
+          "title": "[올댓차이나] 대만 증시, 실적 기대 기술주 매수로 이틀째 상승 마감…0.43%↑",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745183"
+        },
+        {
+          "name": "뉴시스",
+          "title": "[올댓차이나] 홍콩 증시, 중동정세 불투명에 반락 마감… H주 1.09%↓",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745149"
+        },
+        {
+          "name": "뉴시스",
+          "title": "[올댓차이나] 中 증시, 차익매물·부양 기대 교차에 혼조 마감…창업판 0.34%↑",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745114"
+        }
+      ],
+      "keywords": [
+        "대만 증시",
+        "반도체 기술주",
+        "홍콩 증시",
+        "중동 정세",
+        "중국 경기 부양"
+      ],
+      "image_url": "https://image.newsis.com/2015/07/06/NISI20150706_0011134197_web.jpg?rnd=20240108002132"
+    },
+    {
+      "id": "news-20260811-013",
+      "headline": "삼성전자 등 대형주 변동성 속 중소형주 중심의 확산장 전개",
+      "category": "경제",
+      "summary": {
+        "overview": "8월 코스피 시장은 특정 종목에 쏠리지 않고 다양한 종목으로 상승세가 퍼지는 확산장 양상을 보였습니다.\n\n반도체 양대 산맥인 삼성전자와 SK하이닉스가 부진을 면치 못하면서 지수 전체의 상승폭은 제한적이었습니다. 다만 코스피 200 내 중소형 지수가 12%가량 오르고 하락 종목 비중이 9.3%에 불과할 만큼 시장 전반의 매수세는 탄탄했습니다.\n\n최근 삼성전자가 4%대 급등하며 코스피를 0.73% 끌어올리는 등 대형주 움직임에 따라 지수 변동성이 나타나기도 했습니다. 대형주가 지수를 독점하기보다 그동안 소외됐던 중소형주들이 상승을 주도하는 흐름이 뚜렷합니다.",
+        "featured_article": {
+          "publisher": "매일경제",
+          "title": "8월 코스피 열에 아홉은 올랐다는데…문제는 “삼전닉스는 빼고”",
+          "full_content": "쏠림장 소외됐던 종목 ‘확산장’으로 이달들어 하락종목 9.3%에 불과해 코스피200 중소형 지수 12% 올라코스피가 ‘반도체 투톱’인 삼성전자와 SK하이닉스의 부진으로 6300선을..",
+          "url": "https://www.mk.co.kr/news/stock/12124453"
+        }
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "8월 코스피 열에 아홉은 올랐다는데…문제는 “삼전닉스는 빼고”",
+          "url": "https://www.mk.co.kr/news/stock/12124453"
+        },
+        {
+          "name": "연합인포맥스",
+          "title": "[증시-마감] 삼성전자 4%대 급등에 코스피 0.73% 상승…코스닥도 0.39%↑",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PdFFxTWs2NUJFcG9fSzVNOGV4NG43dmdGaEE1b2hZV2xranE5MW5YTUpseXZCNFpITU5QaS1MZmI5Vm54clNzTUtKckladzh2a2JFcDZHV0RpeEtoNVV6SG5FaXVWUm1BVnF4VDFhQVM?oc=5"
+        }
+      ],
+      "keywords": [
+        "코스피",
+        "삼성전자",
+        "중소형주",
+        "확산장",
+        "증시"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202608/11/rcv.NEWS1.NEWS1.20260811.2026-08-11T154950_1008050932_FINANCE-STOCK_I_R.jpg"
+    },
+    {
+      "id": "news-20260811-014",
+      "headline": "AI, 도시 계획부터 보험 시험 출제까지 전문 분야로 활용 범위 넓힌다",
+      "category": "경제",
+      "summary": {
+        "overview": "인공지능(AI) 기술이 부동산과 보험 등 전문 산업 분야로 빠르게 스며들고 있습니다.\n\n이헌욱 한국부동산원장은 53종의 빅데이터를 활용해 AI로 도시 계획 효과를 미리 검증하는 시뮬레이션을 도입합니다. 단순히 집값에만 집중하기보다 도시 공간 부족이라는 근본적인 문제를 해결하겠다는 구상입니다.\n\n보험 분야에서도 AI 활용이 구체화됩니다. 보험연수원은 앞으로 보험 자격시험 문제를 100% AI로 출제하겠다고 밝혔습니다.",
+        "featured_article": {
+          "publisher": "매일경제",
+          "title": "이재명 기본주택 설계자 “집값보다 도시를 봐야… AI로 신도시 구상”",
+          "full_content": "이헌욱 한국부동산원장 이재명 도지사 핵심공약 설계·추진해 “부동산 문제 본질은 도시공간의 부족 53종 빅데이터 모아 AI로 시뮬레이션 정책효과 미리 검증해 최대 성과낼 것”“현대..",
+          "url": "https://www.mk.co.kr/news/realestate/12124406"
+        }
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "이재명 기본주택 설계자 “집값보다 도시를 봐야… AI로 신도시 구상”",
+          "url": "https://www.mk.co.kr/news/realestate/12124406"
+        },
+        {
+          "name": "한겨레",
+          "title": "보험연수원 “보험 자격시험 문제, 100% AI로 출제”",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1272427.html"
+        }
+      ],
+      "keywords": [
+        "AI",
+        "부동산",
+        "도시 계획",
+        "보험연수원",
+        "빅데이터"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202608/11/news-p.v1.20260811.aafa1908ce8c4099bae171e2080e8804_R.png"
+    },
+    {
+      "id": "news-20260811-015",
+      "headline": "롯데그룹, 롯데렌탈 경영권 1조 3105억 원에 美 TPG에 매각",
+      "category": "경제",
+      "summary": {
+        "overview": "롯데그룹이 국내 1위 렌터카 업체인 롯데렌탈의 경영권을 미국계 사모펀드(PEF) 텍사스퍼시픽그룹(TPG)에 넘깁니다. 호텔롯데와 부산롯데호텔이 보유한 지분 61.2% 전량을 매각하며, 총 매매 대금은 1조 3105억 원 규모입니다.\n\n이번 거래는 지난 5월 홍콩계 사모펀드 어피니티에쿼티파트너스와 맺었던 계약이 무산된 지 3개월 만에 성사했습니다. 당시 공정거래위원회는 어피니티가 이미 SK렌터카를 보유하고 있다는 점을 근거로 기업 결합을 불허했습니다. 시장 독점과 렌터카 요금 인상 우려가 주요 이유였습니다.\n\n반면 TPG는 현재 별도의 렌터카 사업을 운영하지 않아 기업 결합 심사 과정에서 큰 부담이 없을 것으로 보입니다. 롯데는 이번 매각을 통해 대규모 자금을 확보합니다.",
+        "featured_article": {
+          "publisher": "매일경제",
+          "title": "롯데, 美 TPG에 롯데렌탈 판다…1조3000억원 손에 쥔다는데",
+          "full_content": "롯데그룹이 국내 렌터카 1위 사업자인 롯데렌탈을 미국계 글로벌 사모펀드(PEF)인 텍사스퍼시픽그룹(TPG)에 매각했다. 롯데는 11일 글로벌 투자회사인 TPG와 롯데렌탈의 경영권 ..",
+          "url": "https://www.mk.co.kr/news/business/12124371"
+        }
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "롯데, 美 TPG에 롯데렌탈 판다…1조3000억원 손에 쥔다는데",
+          "url": "https://www.mk.co.kr/news/business/12124371"
+        },
+        {
+          "name": "동아일보",
+          "title": "롯데그룹, 美TPG에 렌터카 1조3000억에 매각",
+          "url": "https://www.donga.com/news/Economy/article/all/20260811/134457801/1"
+        }
+      ],
+      "keywords": [
+        "롯데렌탈",
+        "TPG",
+        "롯데그룹",
+        "매각",
+        "사모펀드"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202608/11/news-p.v1.20260811.3b0741b84359463584c8ed84c8fbfd49_R.png"
+    },
+    {
+      "id": "news-20260811-016",
+      "headline": "현대차 노조, 휴가 종료 후 파업 재개... 하루 12시간으로 강도 높여",
+      "category": "경제",
+      "summary": {
+        "overview": "현대자동차 노동조합이 여름 휴가 기간을 마친 뒤 다시 파업에 돌입했습니다. 이번 파업은 하루 12시간씩 진행하는 방식으로 수위를 높여 강도를 높였습니다.\n\n노조의 이번 행동으로 대규모 생산 차질이 예상됩니다. 업계는 생산 손실 규모가 4만 2,510대를 넘어설 것으로 보고 있으며, 이에 따른 매출 손실은 약 1조 8,000억 원에 달할 전망입니다.",
+        "featured_article": {
+          "publisher": "서울경제",
+          "title": "현대차 노조, 휴가 끝나자 또 파업…하루 12시간으로 수위 격상",
+          "full_content": "현대차 노조, 휴가 끝나자 또 파업…하루 12시간으로 수위 격상",
+          "url": "https://www.sedaily.com/article/20078181"
+        }
+      },
+      "publishers": [
+        {
+          "name": "서울경제",
+          "title": "현대차 노조, 휴가 끝나자 또 파업…하루 12시간으로 수위 격상",
+          "url": "https://www.sedaily.com/article/20078181"
+        },
+        {
+          "name": "인더스트리뉴스",
+          "title": "현대차 노조, 휴가 끝나자 또다시 파업 돌입…생산 손실 4만2510대 넘어 매출 1조8000억원 손실 전망",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01Q1VRRlFsYVF2bktlMFhjenVHSmZhdk9vZWUwUjN2aGxjR3FhblRQZHlKTXJFYmZNdE91MkM3ZnlrV3VMX0gyZnRvbGpWV2UwXzdUZkZBUUU5Z01wOWY3ZVBHckFWdi1sblYxZDFPcVBKQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "현대차 노조",
+        "파업",
+        "생산 차질",
+        "매출 손실"
       ],
       "image_url": "https://picsum.photos/seed/news-20260811-016/600/400"
     },
     {
       "id": "news-20260811-017",
-      "headline": "KT, 구글과 손잡고 AI 요금제 출시…월 9만원대부터",
+      "headline": "태양광 발전 이격거리 규제 완화와 신세계백화점의 역대급 상반기 실적",
       "category": "경제",
       "summary": {
-        "overview": "KT는 11일 구글과 협력해 생성형 인공지능(AI) 서비스를 결합한 이동통신 요금제를 출시했다. 통신 요금제와 AI 서비스를 묶어 고객의 이용 편의를 높인다는 취지에서다.새 요금제는 ‘초이스90 구글 AI 플러스’ 등 4종이다. 월 9만~13만 원대에 데이터 무제한을 ... 한편 방심하면 ‘눈탱이’ 자동차 선팅…차봇, 3M과 손잡고 가격·품질 투명하게... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
+        "overview": "태양광 발전 시설 설치를 제한하던 이격거리 규제가 기존 최대 1,000m에서 200m로 크게 완화됩니다. 이번 조치로 태양광 발전 사업 여건이 개선될 전망입니다.\n\n신세계백화점은 명품 수요와 외국인 관광객 소비가 늘면서 상반기 역대 최대 실적을 거두었습니다. 상반기 매출은 전년보다 10.1% 증가한 6조 3,558억 원을 기록했고, 영업이익은 75.7% 증가한 3,650억 원을 달성했습니다. 특히 명품 매출이 35% 급증하며 실적 성장을 이끌었습니다.",
         "featured_article": {
-          "publisher": "한겨레",
-          "title": "방심하면 ‘눈탱이’ 자동차 선팅…차봇, 3M과 손잡고 가격·품질 투명하게",
-          "full_content": "방심하면 ‘눈탱이’ 자동차 선팅…차봇, 3M과 손잡고 가격·품질 투명하게",
-          "url": "https://www.hani.co.kr/arti/economy/car/1272386.html"
+          "publisher": "서울경제",
+          "title": "태양광 발전 이격거리, 최대 1000m→200m로",
+          "full_content": "태양광 발전 이격거리, 최대 1000m→200m로",
+          "url": "https://www.sedaily.com/article/20078123"
+        }
+      },
+      "publishers": [
+        {
+          "name": "서울경제",
+          "title": "태양광 발전 이격거리, 최대 1000m→200m로",
+          "url": "https://www.sedaily.com/article/20078123"
         },
-        "differences": [
-          {
-            "publisher": "동아일보",
-            "start_point": "KT는 11일 구글과 협력해 생성형 인공지능(AI) 서비스를 결합한 이동통신 요금제를 출시했다.",
-            "emphasis_point": "통신 요금제와 AI 서비스를 묶어 고객의 이용 편의를 높인다는 취지에서다.새 요금제는 ‘초이스90 구글 AI 플러스’ 등 4종이다."
-          },
-          {
-            "publisher": "한겨레",
-            "start_point": "방심하면 ‘눈탱이’ 자동차 선팅…차봇, 3M과 손잡고 가격·품질 투명하게",
-            "emphasis_point": "방심하면 ‘눈탱이’ 자동차 선팅…차봇, 3M과 손잡고 가격·품질 투명하게"
-          }
-        ]
+        {
+          "name": "동아일보",
+          "title": "신세계百, 상반기 영업익 3650억 역대 최대…명품·외국인 ‘쌍끌이’",
+          "url": "https://www.donga.com/news/Economy/article/all/20260811/134457512/1"
+        }
+      ],
+      "keywords": [
+        "태양광 발전",
+        "이격거리 완화",
+        "신세계백화점",
+        "역대 최대 실적",
+        "명품 소비"
+      ],
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458701.1.jpg"
+    },
+    {
+      "id": "news-20260811-018",
+      "headline": "대학 및 기관 중심의 오픈이노베이션과 기술 협력 생태계 확장",
+      "category": "경제",
+      "summary": {
+        "overview": "서울대, 숭실대, 중앙대 캠퍼스타운과 서울창조경제혁신센터가 결성한 ‘서남권 대학·기관 연합’이 스타트업의 기술 실증(PoC)을 돕는 오픈이노베이션 프로그램을 운영한다. ‘2026 서남권 Open Nexus PoC 데이’를 통해 선발된 34곳의 스타트업은 대·중견기업과 1대1 미팅을 하며 사업 협력을 논의했다. 참여 기업 중 22곳이 후속 미팅을 이어갔으며, 크리에이터 협업 솔루션을 제공하는 데어워크가 최종 피칭에서 대상을 받았다.\n\n한양대 우주공학과는 우주 분야의 기술 협력을 강화하기 위해 ‘ERICA-SPACE’를 출범했다. 이 네트워크는 우주 산업 관련 30여 개 기관을 하나로 묶어 전문적인 기술 생태계를 구축한다.",
+        "featured_article": {
+          "publisher": "동아일보",
+          "title": "서남권 대학·기관 연합, 스타트업 34곳 선발해 오픈이노베이션 지원",
+          "full_content": "서울대·숭실대·중앙대 캠퍼스타운과 서울창조경제혁신센터(서울창업센터 관악)로 구성된 ‘서남권 대학·기관 연합’은 6일 서울 마루180 이벤트홀에서 ‘2026 서남권 Open Nexus PoC 데이’를 열었다고 11일 밝혔다.‘2026 서남권 Open Nexus’는 서남권 스타트업과 국내 대·중견기업을 연결해 기술 실증(PoC)과 사업 협력을 지원하는 오픈이노베이션 프로그램이다. 연합은 오픈이노베이션 액셀러레이터 에이씨엔디씨(AC:DC)와 함께 5월부터 스타트업 34곳을 선발해 PoC 제안 고도화를 위한 사전 컨설팅을 진행했다.이후 수요기업과 스타트업 간 1대1 제안 미팅을 진행했다. 참여 스타트업 34곳 가운데 22곳(64.7%)이 후속 미팅으로 이어졌고, 총 40회의 후속 논의가 진행됐다.이날 행사에서는 사전 평가를 거쳐 선정된 스타트업 9곳이 최종 피칭을 했다. 대상은 데어워크가 받았다. 데어워크는 브랜드와 크리에이터 간 협업 과정에서 적합한 크리에이터 탐색, 아웃리치, 커뮤",
+          "url": "https://www.donga.com/news/Economy/article/all/20260811/134455344/1"
+        }
       },
       "publishers": [
         {
           "name": "동아일보",
-          "title": "KT, 구글과 손잡고 AI 요금제 출시…월 9만원대부터",
-          "url": "https://www.donga.com/news/Economy/article/all/20260811/134458114/1"
+          "title": "서남권 대학·기관 연합, 스타트업 34곳 선발해 오픈이노베이션 지원",
+          "url": "https://www.donga.com/news/Economy/article/all/20260811/134455344/1"
         },
         {
           "name": "한겨레",
-          "title": "방심하면 ‘눈탱이’ 자동차 선팅…차봇, 3M과 손잡고 가격·품질 투명하게",
-          "url": "https://www.hani.co.kr/arti/economy/car/1272386.html"
+          "title": "한양대 우주공학과, 우주 분야 30여 기관 잇는 ‘ERICA-SPACE’ 출범",
+          "url": "https://www.hani.co.kr/arti/economy/biznews/1272451.html"
         }
       ],
       "keywords": [
-        "AI",
-        "구글과",
-        "손잡고",
-        "서비스를",
-        "KT"
+        "오픈이노베이션",
+        "스타트업",
+        "기술 실증",
+        "우주 산업",
+        "산학 협력"
       ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458551.1.jpg"
-    },
-    {
-      "id": "news-20260811-018",
-      "headline": "과열 잦아든 코스피…‘변동성 지수’ -11% 뚝",
-      "category": "경제",
-      "summary": {
-        "overview": "과열 잦아든 코스피…‘변동성 지수’ -11% 뚝... 한편 삼전닉스 탄력 둔화…코스피·코스닥, 보합권서 등락... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
-        "featured_article": {
-          "publisher": "매일경제 마켓",
-          "title": "삼전닉스 탄력 둔화…코스피·코스닥, 보합권서 등락",
-          "full_content": "삼전닉스 탄력 둔화…코스피·코스닥, 보합권서 등락",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51bXBkTm00UDEydWpjQUEyVzVMSGFUdmFJM012WS1RbDB2aTRCblg2YXM3U0ZsdktnNVRKNF94b0JMSmRkUElPcVRmZUZkWlhHRkE?oc=5"
-        },
-        "differences": [
-          {
-            "publisher": "한겨레",
-            "start_point": "과열 잦아든 코스피…‘변동성 지수’ -11% 뚝",
-            "emphasis_point": "과열 잦아든 코스피…‘변동성 지수’ -11% 뚝"
-          },
-          {
-            "publisher": "매일경제 마켓",
-            "start_point": "삼전닉스 탄력 둔화…코스피·코스닥, 보합권서 등락",
-            "emphasis_point": "삼전닉스 탄력 둔화…코스피·코스닥, 보합권서 등락"
-          }
-        ]
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "과열 잦아든 코스피…‘변동성 지수’ -11% 뚝",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1272400.html"
-        },
-        {
-          "name": "매일경제 마켓",
-          "title": "삼전닉스 탄력 둔화…코스피·코스닥, 보합권서 등락",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51bXBkTm00UDEydWpjQUEyVzVMSGFUdmFJM012WS1RbDB2aTRCblg2YXM3U0ZsdktnNVRKNF94b0JMSmRkUElPcVRmZUZkWlhHRkE?oc=5"
-        }
-      ],
-      "keywords": [
-        "코스피",
-        "과열",
-        "잦아든",
-        "변동성",
-        "지수"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/original/2026/0811/20260811502945.webp"
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134455649.1.jpg"
     },
     {
       "id": "news-20260811-019",
-      "headline": "'삼전·닉스' 쏠림 완화에 중소형주 온기 확산…순환매 본격화(종합)",
+      "headline": "국민의힘, 정부 세제개편안 및 호남 반도체 클러스터 정책에 대해 정치적 의도 의심하며 강력 비판",
       "category": "경제",
       "summary": {
-        "overview": "(서울=연합뉴스) 황철환 기자 = 글로벌 반도체 조정의 여파로 삼성전자[005930]와 SK하이닉스[000660]가 최근 쉬어가는 흐름을 보이는...... 한편 [세종=뉴시스]김동현 임소현 손차민 이수정 기자 = 김성환 기후에너지환경부 장관은 11일 제11차 전력수급기본계획에 담긴 송전망 건설 계획을 제12차 전기본에서 재검토하겠다고 밝혔다. 부적절한 신규 전력수요는 조정하고 기존 철탑을 복층화하는 방식으로 신규 철탑 건설을 ... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
+        "overview": "국민의힘이 정부의 세제개편안과 호남 반도체 클러스터 추진 계획을 두고 강력한 비판을 쏟아냈습니다. 여당은 개인종합자산관리계좌(ISA) 개편안 등이 담긴 세제개편안을 '징벌적 세금 폭력'으로 규정하며 사과와 원점 재검토를 요구했습니다.\n\n이재명 대통령이 강조한 호남 반도체 클러스터 조성 계획 역시 정치적 의도가 깔린 포퓰리즘 정책이라는 지적입니다. 국민의힘은 군 공항 기능을 임시 배치해 반도체 부지를 조기 확보하라는 대통령의 지시를 국가 안보를 정략적 계산의 도구로 삼는 무모한 발상이라 비판했습니다.\n\n반도체 생산에 필수적인 전력과 용수 확보 등 핵심 인프라 대책이 전무하다는 점도 문제로 꼽혔습니다. 여당은 이번 정책이 민주당 전당대회 일정에 맞춰 표심을 자극하려는 정치적 행보에 불과하며, 자칫 국가 산업 전체를 위태롭게 할 수 있다고 경고했습니다.",
         "featured_article": {
           "publisher": "연합뉴스",
-          "title": "'삼전·닉스' 쏠림 완화에 중소형주 온기 확산…순환매 본격화(종합)",
-          "full_content": "(서울=연합뉴스) 황철환 기자 = 글로벌 반도체 조정의 여파로 삼성전자[005930]와 SK하이닉스[000660]가 최근 쉬어가는 흐름을 보이는...",
-          "url": "https://www.yna.co.kr/view/AKR20260811087151008"
-        },
-        "differences": [
-          {
-            "publisher": "연합뉴스",
-            "start_point": "(서울=연합뉴스) 황철환 기자 = 글로벌 반도체 조정의 여파로 삼성전자[005930]와 SK하이닉스[000660]가 최근 쉬어가는 흐름을 보이는...",
-            "emphasis_point": "(서울=연합뉴스) 황철환 기자 = 글로벌 반도체 조정의 여파로 삼성전자[005930]와 SK하이닉스[000660]가 최근 쉬어가는 흐름을 보이는..."
-          },
-          {
-            "publisher": "뉴시스",
-            "start_point": "[세종=뉴시스]김동현 임소현 손차민 이수정 기자 = 김성환 기후에너지환경부 장관은 11일 제11차 전력수급기본계획에 담긴 송전망 건설 계획을 제12차 전기본에서 재검토하겠다고 밝혔다.",
-            "emphasis_point": "부적절한 신규 전력수요는 조정하고 기존 철탑을 복층화하는 방식으로 신규 철탑 건설을 최대 40%가량 줄이는 한편, 용인·호남 반도체 클러스터에는 전력 공급이 늦어 공장 건설이 차질을 빚는 일이 없도록 하겠다고 강조했다."
-          }
-        ]
+          "title": "국힘 \"세제개편안, 징벌적 세금폭력…사과하고 원점 재검토하라\"(종합)",
+          "full_content": "(서울=연합뉴스) 박수윤 노선웅 이율립 기자 = 국민의힘은 11일 이재명 대통령이 세제개편안에 담긴 개인종합자산관리계좌(ISA) 개편안과 '주가...",
+          "url": "https://www.yna.co.kr/view/AKR20260811066151001"
+        }
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "'삼전·닉스' 쏠림 완화에 중소형주 온기 확산…순환매 본격화(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20260811087151008"
+          "title": "국힘 \"세제개편안, 징벌적 세금폭력…사과하고 원점 재검토하라\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260811066151001"
         },
         {
           "name": "뉴시스",
-          "title": "기후장관 \"송전망 12차 전기본서 재검토…신규 철탑 40% 감축\"(종합)",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744876"
+          "title": "국힘 \"李 호남 반도체 속도전, 與 전당대회 일정 맞춘 '정치적 계산'\"",
+          "url": "https://www.newsis.com/view/NISX20260811_0003745122"
         }
       ],
       "keywords": [
-        "기자",
-        "신규",
-        "삼전",
-        "닉스",
-        "쏠림"
+        "국민의힘",
+        "세제개편안",
+        "호남 반도체 클러스터",
+        "안보 공백",
+        "포퓰리즘"
       ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/08/11/PYH2026081102760001300_P2.jpg"
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/08/11/PYH2026081102660001300_P2.jpg"
     },
     {
       "id": "news-20260811-020",
-      "headline": "국토안전관리원, '결식 우려' 경남 지역 아동 60명에 도시락 지원",
-      "category": "경제",
+      "headline": "금값 4400달러 돌파와 라이언 킴의 감각적인 색채 예술",
+      "category": "글로벌",
       "summary": {
-        "overview": "[서울=뉴시스] 변해정 기자 = 국토안전관리원은 경남 지역 가족돌봄아동 60명에게 도시락을 지원했다고 11일 밝혔다. 이는 방학 동안 급식 공백으로 결식이 우려되는 아동을 대상으로 3년째 추진해 온 '슬기로운 방학 도시樂(락)' 프로그램의 일환이다. 이번에 지원된 도시... 한편 [서울=뉴시스]정유선 기자 = SGC그룹이 국내 아동의 건강한 성장을 돕기 위해 주거환경 개선, 조식 지원, 소아암 환아 치료비 전달 등 다양한 사회공헌 활동을 펼치고 있다고 11일 밝혔다. SGC에너지는 최근 열악한 주거 환경에 놓인 한부모가정을 지원하는 '희망의 집... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다.",
+        "overview": "미국 소비자물가지수(CPI) 발표를 앞두고 금값이 온스당 4400달러를 돌파하며 강세를 보였다. 일주일 사이 약 7% 상승한 금값은 각국 중앙은행의 매입 확대가 투자 수요를 끌어올린 덕분이다. 시장은 12일 발표될 물가 지표가 연준의 금리 정책에 미칠 영향을 살피고 있다.\n\n예술 분야에서는 라이언 킴 작가가 동물과 자연을 경쾌한 색채로 재해석했다. 그는 자연의 생태에 디지털적 표현을 조화롭게 섞어 감각적인 작품을 선보인다.",
         "featured_article": {
-          "publisher": "뉴시스",
-          "title": "SGC그룹, 아동 위한 사회공헌 지속…주거·조식·치료비 지원",
-          "full_content": "[서울=뉴시스]정유선 기자 = SGC그룹이 국내 아동의 건강한 성장을 돕기 위해 주거환경 개선, 조식 지원, 소아암 환아 치료비 전달 등 다양한 사회공헌 활동을 펼치고 있다고 11일 밝혔다. SGC에너지는 최근 열악한 주거 환경에 놓인 한부모가정을 지원하는 '희망의 집 1호' 사업에 나섰다. 군산종합사회복지관과 함께 취약계층 아동가정의 생활 공간을 안락하게 바꾸고 학습 공간을 정비해 주거권과 학습권을 보장할 계획이다. 또한 지난해부터 국제구호개발 NGO '월드비전'과 협력해 결식 위험 아동을 위한 조식 지원 사업을 운영하고 있다. 위기 상황에 처한 아동·청소년에게 주거비, 의료비, 생계비 등을 지원하고 있다. SGC E&C는 소아암 환아를 위한 치료비 지원과 생명 나눔 활동을 이어오고 있다. 2021년부터 키움히어로즈와 '사랑의 THE LIV 집짓기' 사업을 추진하며 6년간 총 6000만원의 치료비 기금을 조성해 전달했다. 아울러 사내 SGC헌혈동호회를 통해 지난 4년간 헌혈증서 약 160매를 한국백혈병소아암협회에 전달했으며, 올해도 헌혈증서를 전달해 환아들의 회복을 도울 예정이다. 이우성 SGC에너지 대표이사는 \"지속가능한 사회공헌활동을 확대해 다음 세대가 기대할 수 있는 미래를 만드는 데 적극 동참하겠다\"고 말했다. ◎공감언론",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744771"
-        },
-        "differences": [
-          {
-            "publisher": "뉴시스",
-            "start_point": "[서울=뉴시스] 변해정 기자 = 국토안전관리원은 경남 지역 가족돌봄아동 60명에게 도시락을 지원했다고 11일 밝혔다.",
-            "emphasis_point": "이는 방학 동안 급식 공백으로 결식이 우려되는 아동을 대상으로 3년째 추진해 온 '슬기로운 방학 도시樂(락)' 프로그램의 일환이다."
-          }
-        ]
+          "publisher": "동아일보",
+          "title": "금값 다시 4400달러 위로…美 물가 발표 앞두고 일주일새 7%↑",
+          "full_content": "금값이 온스당 4400달러를 넘어서며 상승세를 이어갔다. 미국 연방준비제도(Fed·연준)의 향후 금리 정책 방향에 단서를 제공할 핵심 인플레이션 지표 발표를 앞두고 시장의 관심이 집중되고 있다. 10일(현지 시간) 야후파이낸스에 따르면 금 선물 가격은 0.26% 오른 온스당 4431.34달러를 기록했다. 일주일 사이 6.68% 상승한 데 이어 추가 상승세를 나타냈다. 금값은 최근 몇 주간 주요 지지선인 온스당 4000달러를 웃돌며 반등세를 보이고 있다. 각국 중앙은행의 금 매입 확대 등에 힘입어 투자 수요가 회복된 영향으로 풀이된다. 다만 최근 반등에도 금값은 지난 2월 말 이란전쟁 발발 직전 수준과 비교하면 여전히 약 15% 낮다. 시장의 관심은 12일 발표되는 미국 소비자물가지수(CPI)로 쏠리고 있다. 블룸버그가 경제학자들을 대상으로 실시한 조사 중간값에 따르면 7월 CPI는 전월 대비 0.1% 상승할 것으로 예상된다. 전월에는 0.4% 하락했다.지난주 부진한 고용지표가",
+          "url": "https://www.donga.com/news/Inter/article/all/20260811/134457789/1"
+        }
       },
       "publishers": [
         {
-          "name": "뉴시스",
-          "title": "국토안전관리원, '결식 우려' 경남 지역 아동 60명에 도시락 지원",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744957"
+          "name": "동아일보",
+          "title": "금값 다시 4400달러 위로…美 물가 발표 앞두고 일주일새 7%↑",
+          "url": "https://www.donga.com/news/Inter/article/all/20260811/134457789/1"
         },
         {
-          "name": "뉴시스",
-          "title": "SGC그룹, 아동 위한 사회공헌 지속…주거·조식·치료비 지원",
-          "url": "https://www.newsis.com/view/NISX20260811_0003744771"
+          "name": "SBS 글로벌",
+          "title": "감각적이고 경쾌한 색채…동물과 자연을 다시 보다",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698000"
         }
       ],
       "keywords": [
-        "경남",
-        "지역",
-        "지원",
-        "서울",
-        "뉴시스"
+        "금값",
+        "소비자물가지수",
+        "라이언 킴",
+        "자연"
       ],
-      "image_url": "https://image.newsis.com/2026/02/04/NISI20260204_0002056039_web.jpg?rnd=20260204145448"
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134457790.1.jpg"
     }
   ]
 }
