@@ -1,4 +1,5 @@
 import os
+import json
 from pathlib import Path
 
 # Paths
@@ -54,4 +55,14 @@ RSS_FEEDS = [
 KAKAO_REST_API_KEY = os.environ.get("KAKAO_REST_API_KEY", "")
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "e38b4843e5aa4d6f994d069eb1cc8f8a")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+if not GEMINI_API_KEY:
+    config_file = DATA_DIR / "config.json"
+    if config_file.exists():
+        try:
+            with open(config_file, "r", encoding="utf-8") as f:
+                cfg = json.load(f)
+                GEMINI_API_KEY = cfg.get("gemini_api_key", cfg.get("GEMINI_API_KEY", ""))
+        except Exception:
+            pass
+
 COLLECT_MODE = os.environ.get("COLLECT_MODE", "collect")
