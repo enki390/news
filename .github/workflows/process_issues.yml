@@ -1,9 +1,8 @@
-name: Process GitHub Issues
+name: Process GitHub Issues (Disabled)
 
+# Disabled automatically on issue create/edit per user configuration
 on:
-  issues:
-    types: [opened, edited]
-  workflow_dispatch:
+  workflow_dispatch: # Manual execution only if triggered manually
 
 jobs:
   process-issues:
