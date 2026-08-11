@@ -12,8 +12,32 @@ from sources.base import NewsArticle
 from config import ALLOWED_CATEGORIES, GEMINI_API_KEY, MAX_CLUSTERS
 
 def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_context: str = ""):
-    """Summarize cluster using official google-genai SDK with model fallback."""
+    """Summarize cluster using official google-genai SDK with dynamic model discovery."""
     client = genai.Client(api_key=api_key)
+
+    preferred_models = [
+        "gemini-1.5-flash-latest",
+        "gemini-1.5-flash",
+        "gemini-2.0-flash-exp",
+        "gemini-1.5-pro",
+        "gemini-pro"
+    ]
+
+    models_to_try = preferred_models
+    try:
+        api_models = []
+        for m in client.models.list():
+            m_name = getattr(m, 'name', '')
+            if m_name:
+                clean_name = m_name.replace("models/", "")
+                methods = getattr(m, 'supported_generation_methods', []) or getattr(m, 'supported_actions', []) or []
+                if not methods or "generateContent" in str(methods):
+                    api_models.append(clean_name)
+        if api_models:
+            print(f"Discovered active models from Gemini API: {api_models}")
+            models_to_try = [m for m in preferred_models if m in api_models] + [m for m in api_models if m not in preferred_models]
+    except Exception as e:
+        print(f"Model discovery info: {e}")
 
     articles_text = ""
     for idx, art in enumerate(cluster):
@@ -58,8 +82,6 @@ def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_con
   "keywords": ["키워드1", "키워드2", "키워드3"]
 }}
 """
-
-    models_to_try = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"]
 
     for model_name in models_to_try:
         for attempt in range(1, 3):
