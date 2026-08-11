@@ -11,8 +11,8 @@ from google.genai import types
 from sources.base import NewsArticle
 from config import ALLOWED_CATEGORIES, GEMINI_API_KEY, MAX_CLUSTERS
 
-def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_context: str = ""):
-    """Summarize cluster using official google-genai SDK with dynamic model discovery."""
+def summarize_with_gemini(featured_article: NewsArticle, api_key: str, feedback_context: str = ""):
+    """Summarize strictly based on the full body of the primary selected featured article using official google-genai SDK."""
     client = genai.Client(api_key=api_key)
 
     preferred_models = [
@@ -39,12 +39,8 @@ def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_con
     except Exception as e:
         print(f"Model discovery info: {e}")
 
-    articles_text = ""
-    for idx, art in enumerate(cluster):
-        body = art.full_content or art.summary
-        articles_text += f"기사 {idx+1} [언론사: {art.publisher}]\n제목: {art.title}\n내용: {body}\n링크: {art.url}\n\n"
-
-    target_cat = cluster[0].target_category if cluster[0].target_category in ALLOWED_CATEGORIES else '경제'
+    target_cat = featured_article.target_category if featured_article.target_category in ALLOWED_CATEGORIES else '경제'
+    article_body = featured_article.full_content or featured_article.summary
 
     feedback_prompt_addon = ""
     if feedback_context:
@@ -52,21 +48,24 @@ def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_con
 
 [사용자 기사 피드백 지침 - 필수 개선 반영사항]
 아래는 사용자가 직접 작성한 기사 품질 및 관점 개선 요구사항입니다.
-종합 요약(overview) 작성 시 이 지침을 깊이 참고하여 적극 반영해 주세요:
+요약(overview) 작성 시 이 지침을 깊이 참고하여 적극 반영해 주세요:
 {feedback_context}
 """
 
-    prompt = f"""다음은 동일한 주제를 다룬 뉴스 기사들의 실제 수집 본문/요약 모음입니다.
-수집된 기사 본문을 바탕으로 아래 지침에 따라 완성도 높고 자연스러운 브리핑 리포트를 작성해 주세요.
+    prompt = f"""다음은 뉴스 이슈를 대표하는 선택된 주요 기사의 실제 수집 본문 전문입니다.
+이 대표 기사의 본문을 깊이 읽고 분석하여 아래 지침에 따라 완성도 높고 자연스러운 브리핑 리포트를 작성해 주세요.
 {feedback_prompt_addon}
 
-[수집된 기사 본문 모음]
-{articles_text}
+[선택된 대표 기사 정보]
+언론사: {featured_article.publisher}
+제목: {featured_article.title}
+기사 본문 전문:
+{article_body}
 
 [작성 지침 및 Humanize 어조 가이드]
-1. headline: 이슈 전체를 종합하는 명확한 대표 헤드라인 (기자명, [속보], (종합) 등 불필요 태그 제외, 1줄)
+1. headline: 기사 핵심을 종합하는 명확한 대표 헤드라인 (기자명, [속보], (종합) 등 불필요 태그 제외, 1줄)
 2. category: 반드시 ["경제", "글로벌"] 중 가장 부합하는 1개 선택 (권장: "{target_cat}")
-3. overview: 수집한 기사를 종합 정리한 요약 (10문장 이내)
+3. overview: 위 대표 기사의 본문 내용을 핵심 중심으로 종합 정리한 요약 (5~10문장 내외)
    - 사람이 직접 작성한 언론 브리핑처럼 매끄럽고 자연스럽게 작성할 것.
    - 문장이 중간에 잘리지 않고 명확히 마무리되도록 할 것.
    - 문맥 전환이나 문장이 2개 이상 이어질 경우 반드시 줄바꿈(\\n\\n)으로 문단을 나눌 것.
@@ -105,7 +104,7 @@ def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_con
     return None
 
 def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict = None):
-    """Process clusters into final news items using Gemini API strictly (Fallback disabled)."""
+    """Process clusters into final news items by summarizing the selected featured article's full body."""
     api_key = GEMINI_API_KEY
     if not api_key:
         raise ValueError(
@@ -130,15 +129,18 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
         feedback_context = "\n".join(fb_list)
 
     for i, cluster in enumerate(clusters[:MAX_CLUSTERS]):
-        summary_data = summarize_with_gemini(cluster, api_key, feedback_context)
+        # Select featured article: prefer article with valid full_content
+        first_art = next((art for art in cluster if art.full_content and len(art.full_content) > 100), cluster[0])
+        
+        summary_data = summarize_with_gemini(first_art, api_key, feedback_context)
 
         if not summary_data:
             raise RuntimeError(
-                f"Gemini API failed to summarize cluster #{i+1} ('{cluster[0].title}'). "
+                f"Gemini API failed to summarize cluster #{i+1} ('{first_art.title}'). "
                 "Fallback summary is disabled to guarantee Gemini AI quality."
             )
 
-        category = summary_data.get("category", cluster[0].target_category)
+        category = summary_data.get("category", first_art.target_category)
         if category not in ALLOWED_CATEGORIES:
             category = '경제'
 
@@ -153,8 +155,6 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
                     "url": art.url
                 })
 
-        # Selection of featured article: Choose the FIRST article with valid content
-        first_art = next((art for art in cluster if art.full_content or art.summary), cluster[0])
         featured_article = {
             "publisher": first_art.publisher,
             "title": first_art.title,
@@ -174,7 +174,7 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
 
         news_items.append({
             "id": item_id,
-            "headline": summary_data.get("headline", cluster[0].title),
+            "headline": summary_data.get("headline", first_art.title),
             "category": category,
             "summary": {
                 "overview": summary_data.get("overview", ""),
