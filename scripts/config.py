@@ -10,7 +10,7 @@ RETENTION_DAYS = 30
 # Rules
 ALLOWED_CATEGORIES = ["경제", "글로벌"]
 MAX_ARTICLES_PER_FEED = 8
-MAX_CLUSTERS = 20
+MAX_CLUSTERS = 10
 ENABLE_WEB_CRAWLING = True  # Enable web crawling for full article body extraction
 
 HTTP_HEADERS = {

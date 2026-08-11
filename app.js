@@ -619,7 +619,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
         <div class="card-body">
           <h2 class="card-headline">${escapeHtml(item.headline)}</h2>
-          <p class="card-summary">${escapeHtml(item.summary.overview || '')}</p>
+          <p class="card-summary">${escapeHtml(item.summary ? (item.summary.overview || '') : '')}</p>
           <div class="publisher-bar">
             <div class="publisher-tags">
               ${publisherBadges}
@@ -636,30 +636,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Open Detailed View Modal with History API Push State
   function openNewsModal(item) {
-    let featuredArticleHTML = '';
-    const fa = item.summary.featured_article;
-    if (fa) {
-      featuredArticleHTML = `
-        <div class="modal-section-title">
-          <i class="fa-solid fa-file-lines"></i> [대표 선택] ${escapeHtml(fa.publisher)} 기사 본문 전체
-        </div>
-        <div class="featured-article-card">
-          <div class="featured-article-header">
-            <span class="featured-pub-badge">${escapeHtml(fa.publisher)}</span>
-            <h3 class="featured-article-title">${escapeHtml(fa.title)}</h3>
-          </div>
-          <div class="featured-article-body">
-            <p>${escapeHtml(fa.full_content || '본문 내용을 불러올 수 없습니다.').replace(/\n/g, '<br>')}</p>
-          </div>
-          ${fa.url ? `
-            <a href="${fa.url}" target="_blank" rel="noopener noreferrer" class="featured-article-link">
-              해당 기사 원본으로 이동 <i class="fa-solid fa-arrow-up-right-from-square"></i>
-            </a>
-          ` : ''}
-        </div>
-      `;
-    }
-
     const publisherLinksHTML = item.publishers.map(pub => `
       <a href="${pub.url}" target="_blank" rel="noopener noreferrer" class="publisher-link-item">
         <span class="publisher-name-badge">${escapeHtml(pub.name)}</span>
@@ -679,13 +655,10 @@ document.addEventListener('DOMContentLoaded', () => {
         <i class="fa-solid fa-wand-magic-sparkles"></i> 수집 기사 종합 요약
       </div>
       <div class="modal-overview-box">
-        ${escapeHtml(item.summary.overview || '').replace(/\n/g, '<br>')}
+        ${escapeHtml(item.summary ? (item.summary.overview || '') : '').replace(/\n/g, '<br>')}
       </div>
 
-      <!-- 2. 대표 선택 기사 본문 전체 -->
-      ${featuredArticleHTML}
-
-      <!-- 3. 언론사별 기사 원본 링크 -->
+      <!-- 2. 언론사별 기사 원본 링크 -->
       <div class="modal-section-title">
         <i class="fa-solid fa-newspaper"></i> 언론사별 기사 원본 링크 (${item.publishers.length}개)
       </div>
@@ -693,7 +666,7 @@ document.addEventListener('DOMContentLoaded', () => {
         ${publisherLinksHTML}
       </div>
 
-      <!-- 4. 기사 피드백 입력란 -->
+      <!-- 3. 기사 피드백 입력란 -->
       <div class="modal-section-title feedback-title">
         <i class="fa-solid fa-comment-dots"></i> 기사 품질 피드백 (개발 메모)
       </div>

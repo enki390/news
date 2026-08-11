@@ -115,7 +115,7 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
     news_items = []
     feedback_dict = feedback_dict or {}
 
-    print(f"Processing {len(clusters)} topic clusters for categories (경제, 글로벌)...")
+    print(f"Processing top {min(len(clusters), MAX_CLUSTERS)} topic clusters for categories (경제, 글로벌)...")
 
     # feedback_dict context formatting
     feedback_context = ""
@@ -155,13 +155,6 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
                     "url": art.url
                 })
 
-        featured_article = {
-            "publisher": first_art.publisher,
-            "title": first_art.title,
-            "full_content": first_art.full_content or first_art.summary,
-            "url": first_art.url
-        }
-
         # Prefer real article image from cluster
         real_image = ""
         for art in cluster:
@@ -177,8 +170,7 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
             "headline": summary_data.get("headline", first_art.title),
             "category": category,
             "summary": {
-                "overview": summary_data.get("overview", ""),
-                "featured_article": featured_article
+                "overview": summary_data.get("overview", "")
             },
             "publishers": publishers,
             "keywords": summary_data.get("keywords", []),

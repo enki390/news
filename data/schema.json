@@ -32,16 +32,7 @@
           "summary": {
             "type": "object",
             "properties": {
-              "overview": { "type": "string", "description": "AI 핵심 종합 요약 (Humanize 적용)" },
-              "featured_article": {
-                "type": "object",
-                "properties": {
-                  "publisher": { "type": "string" },
-                  "title": { "type": "string" },
-                  "full_content": { "type": "string" },
-                  "url": { "type": "string" }
-                }
-              }
+              "overview": { "type": "string", "description": "AI 핵심 종합 요약 (Humanize 적용)" }
             },
             "required": ["overview"]
           },
