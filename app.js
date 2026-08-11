@@ -350,7 +350,7 @@ document.addEventListener('DOMContentLoaded', () => {
           updateFeedbackBadge();
           renderNewsGrid();
 
-          showToast(`🎉 GitHub Issue (#${issueResult.number})가 성공적으로 생성되었습니다! 매일 오전 9시 에이전트가 자율 처리합니다.`, 'success', 6000);
+          showToast(`🎉 GitHub Issue (#${issueResult.number})가 성공적으로 생성되었습니다!`, 'success', 6000);
         } catch (err) {
           console.error('Create GitHub issue error:', err);
           showToast(`❌ GitHub Issue 등록 중 오류: ${err.message}`, 'error', 6000);
@@ -409,7 +409,7 @@ document.addEventListener('DOMContentLoaded', () => {
       bodyMd += `\n#### ${idx + 1}. [${escapeHtml(item.category)}] ${escapeHtml(item.headline)}\n- **기사 ID**: \`${id}\`\n- **작성 시각**: ${item.updated_at}\n- **사용자 지침**:\n> ${escapeHtml(item.text).replace(/\n/g, '\n> ')}\n`;
     });
 
-    bodyMd += `\n---\n*자동 생성된 피드백 이슈입니다. 매일 오전 9시 자율 에이전트가 처리 후 Job/Plan 및 Job/Task 결과 문서를 남기고 이슈를 종료합니다.*`;
+    bodyMd += `\n---\n*자동 생성된 피드백 이슈입니다.*`;
 
     const headers = {
       'Accept': 'application/vnd.github.v3+json',
@@ -460,39 +460,6 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!resp.ok) {
       const errText = await resp.text();
       throw new Error(`GitHub Actions dispatch 실패 (${resp.status}): ${errText}`);
-    }
-  }
-
-  // Sync feedback.json to GitHub repository
-  async function syncFeedbackFile(feedbacksMap) {
-    const patToken = await getPATToken();
-    const contentStr = JSON.stringify({ feedbacks: feedbacksMap, updated_at: new Date().toISOString() }, null, 2);
-    const contentBase64 = btoa(unescape(encodeURIComponent(contentStr)));
-
-    const headers = { 'Content-Type': 'application/json' };
-    if (patToken) {
-      headers['Authorization'] = `token ${patToken}`;
-    }
-
-    try {
-      let sha = '';
-      const getResp = await fetch('https://api.github.com/repos/enki390/news/contents/data/feedback.json', { headers });
-      if (getResp.ok) {
-        const getData = await getResp.json();
-        sha = getData.sha;
-      }
-
-      await fetch('https://api.github.com/repos/enki390/news/contents/data/feedback.json', {
-        method: 'PUT',
-        headers: headers,
-        body: JSON.stringify({
-          message: 'chore: sync article feedbacks from user interface',
-          content: contentBase64,
-          sha: sha || undefined
-        })
-      });
-    } catch (e) {
-      console.warn('Failed to sync feedback.json to GitHub:', e);
     }
   }
 
@@ -682,7 +649,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <h3 class="featured-article-title">${escapeHtml(fa.title)}</h3>
           </div>
           <div class="featured-article-body">
-            <p>${escapeHtml(fa.full_content || '본문 내용을 불러올 수 없습니다.')}</p>
+            <p>${escapeHtml(fa.full_content || '본문 내용을 불러올 수 없습니다.').replace(/\n/g, '<br>')}</p>
           </div>
           ${fa.url ? `
             <a href="${fa.url}" target="_blank" rel="noopener noreferrer" class="featured-article-link">
@@ -731,7 +698,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <i class="fa-solid fa-comment-dots"></i> 기사 품질 피드백 (개발 메모)
       </div>
       <div class="feedback-input-container">
-        <p class="feedback-desc">요약 결과, 관점 비교, 분류 등 개선사항 메모를 작성하여 저장해둘 수 있습니다. 상단 '피드백 반영' 버튼 클릭 시 AI 요약에 즉시 반영됩니다.</p>
+        <p class="feedback-desc">요약 결과, 관점 비교, 분류 등 개선사항 메모를 작성하여 저장해둘 수 있습니다.</p>
         <textarea id="modalFeedbackText" class="feedback-textarea" placeholder="예: 특정 파생 영향을 추가 요약에 포함하면 좋겠습니다.">${escapeHtml(savedFB)}</textarea>
         <div class="feedback-actions">
           <button id="saveFeedbackBtn" class="btn btn-secondary">
@@ -760,7 +727,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const val = fbText.value.trim();
         if (val) {
           saveFeedback(item.id, item.headline, item.category, val);
-          showToast('💾 피드백 메모가 저장되었습니다. 상단 [피드백 반영] 버튼을 눌러 개선 적용할 수 있습니다.');
+          showToast('💾 피드백 메모가 저장되었습니다.');
         } else {
           removeFeedback(item.id);
           showToast('피드백이 삭제되었습니다.');
