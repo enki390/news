@@ -685,7 +685,7 @@ body {
   line-height: 1.7;
 }
 
-/* Featured Article Card */
+/* Featured Article Card (Full Body Un-truncated Output) */
 .featured-article-card {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
@@ -714,13 +714,12 @@ body {
 }
 
 .featured-article-body {
-  font-size: 13px;
-  color: var(--text-muted);
-  line-height: 1.6;
-  max-height: 200px;
-  overflow-y: auto;
-  margin-bottom: 12px;
-  padding-right: 8px;
+  font-size: 14px;
+  color: var(--text-main);
+  line-height: 1.7;
+  max-height: none;
+  overflow-y: visible;
+  margin-bottom: 16px;
 }
 
 .featured-article-link {
