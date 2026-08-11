@@ -1,15 +1,15 @@
 import os
 import json
 import re
+import time
 import datetime
-import random
 import requests
 from typing import List
 from sources.base import NewsArticle
 from config import ALLOWED_CATEGORIES, GEMINI_API_KEY, MAX_CLUSTERS
 
 def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_context: str = ""):
-    """Summarize cluster using Gemini API."""
+    """Summarize cluster using Gemini API with retry logic and Humanize prompt instructions."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     headers = {"Content-Type": "application/json"}
 
@@ -25,40 +25,34 @@ def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_con
         feedback_prompt_addon = f"""
 
 [사용자 기사 피드백 지침 - 필수 개선 반영사항]
-아래는 사용자가 직접 작성한 기사 품질 및 관점 비교 개선 요구사항입니다.
-종합 요약(overview), 보도 시작/강조점 비교(differences), 카테고리(category) 작성 시 이 지침을 깊이 참고하여 적극 반영해 주세요:
+아래는 사용자가 직접 작성한 기사 품질 및 관점 개선 요구사항입니다.
+종합 요약(overview) 작성 시 이 지침을 깊이 참고하여 적극 반영해 주세요:
 {feedback_context}
 """
 
     prompt = f"""다음은 동일한 주제를 다룬 뉴스 기사들의 실제 수집 본문/요약 모음입니다.
-수집된 기사 본문을 바탕으로 아래 지침에 따라 브리핑 리포트를 작성해 주세요.
+수집된 기사 본문을 바탕으로 아래 지침에 따라 완성도 높고 자연스러운 브리핑 리포트를 작성해 주세요.
 {feedback_prompt_addon}
 
 [수집된 기사 본문 모음]
 {articles_text}
 
-[작성 지침]
-1. headline: 이슈 전체를 종합하는 명확한 대표 헤드라인 (1줄)
+[작성 지침 및 Humanize 어조 가이드]
+1. headline: 이슈 전체를 종합하는 명확한 대표 헤드라인 (기자명, [속보], (종합) 등 불필요 태그 제외, 1줄)
 2. category: 반드시 ["경제", "글로벌"] 중 가장 부합하는 1개 선택 (권장: "{target_cat}")
-3. overview: 수집한 기사를 모두 읽고 중요한 사건 경과, 팩트, 수치를 바탕으로 명확히 종합 정리한 요약 (3~5문장)
-4. differences: 각 언론사별 기사 본문의 보도 시작 방식 및 핵심 강조점을 비교한 배열
-   - publisher: 언론사명
-   - start_point: 해당 언론사의 기사 시작 및 도입 부분 방식 (1~2문장)
-   - emphasis_point: 해당 언론사가 기사 본문에서 가장 강조한 핵심 관점 및 내용 (1~2문장)
-5. keywords: 핵심 키워드 3~5개 배열
+3. overview: 수집한 기사를 종합 정리한 요약 (10문장 이내)
+   - 사람이 직접 작성한 언론 브리핑처럼 매끄럽고 자연스럽게 작성할 것.
+   - 문장이 중간에 잘리지 않고 명확히 마무리되도록 할 것.
+   - 문맥 전환이나 문장이 2개 이상 이어질 경우 반드시 줄바꿈(\\n\\n)으로 문단을 나눌 것.
+   - AI 진부한 상투어(예: "중요한 역할을 합니다", "주목받고 있습니다", "지평을 열다", "이바지하다", "또한", "게다가", "결론적으로", "가슴을 울리는", "지대한 영향을 미치다", "귀추가 주목된다", "입지를 공고히 하다")를 절대 사용하지 말 것.
+   - 피동문(~되어지다)이나 번역투 표현을 피하고 능동적이고 간결한 한국어로 작성할 것.
+4. keywords: 핵심 키워드 3~5개 배열
 
 [반드시 준수할 JSON 포맷]
 {{
   "headline": "...",
   "category": "경제|글로벌",
   "overview": "...",
-  "differences": [
-    {{
-      "publisher": "언론사명",
-      "start_point": "보도 시작 방식 및 도입부...",
-      "emphasis_point": "강조점 및 핵심 시각..."
-    }}
-  ],
   "keywords": ["키워드1", "키워드2", "키워드3"]
 }}
 """
@@ -68,74 +62,36 @@ def summarize_with_gemini(cluster: List[NewsArticle], api_key: str, feedback_con
         "generationConfig": {"responseMimeType": "application/json"}
     }
 
-    try:
-        resp = requests.post(url, headers=headers, json=payload, timeout=30)
-        if resp.status_code == 200:
-            res_json = resp.json()
-            text_content = res_json['candidates'][0]['content']['parts'][0]['text']
-            parsed_result = json.loads(text_content)
-            if parsed_result.get("category") not in ALLOWED_CATEGORIES:
-                parsed_result["category"] = target_cat
-            return parsed_result
-    except Exception as e:
-        print(f"Gemini API Call Exception: {e}")
+    max_retries = 3
+    for attempt in range(1, max_retries + 1):
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=30)
+            if resp.status_code == 200:
+                res_json = resp.json()
+                text_content = res_json['candidates'][0]['content']['parts'][0]['text']
+                parsed_result = json.loads(text_content)
+                if parsed_result.get("category") not in ALLOWED_CATEGORIES:
+                    parsed_result["category"] = target_cat
+                return parsed_result
+            else:
+                print(f"Gemini API attempt {attempt} failed with status {resp.status_code}: {resp.text}")
+        except Exception as e:
+            print(f"Gemini API Exception on attempt {attempt}: {e}")
+        
+        if attempt < max_retries:
+            time.sleep(2 * attempt)
 
     return None
 
-def build_fallback_summary(cluster: List[NewsArticle]):
-    """Fallback summary generator."""
-    primary = cluster[0]
-    headline = primary.title
-    cat = primary.target_category if primary.target_category in ALLOWED_CATEGORIES else '경제'
-
-    all_bodies = [art.full_content or art.summary for art in cluster if art.full_content or art.summary]
-
-    if len(all_bodies) >= 2:
-        overview = f"{all_bodies[0][:150]}... 한편 {all_bodies[1][:150]}... 수집된 언론사별 기사 내용을 종합하여 현 사안의 전개 방향을 모니터링하고 있습니다."
-    elif len(all_bodies) == 1:
-        overview = f"{all_bodies[0][:200]}... 주요 언론을 통해 사안의 구체적인 경과가 전달되었습니다."
-    else:
-        overview = f"{headline} 이슈와 관련하여 주요 언론 매체들이 집중 취재 보도를 진행하고 있습니다."
-
-    differences = []
-    for art in cluster:
-        pub_name = art.publisher
-        if any(d['publisher'] == pub_name for d in differences):
-            continue
-        
-        body_text = art.full_content or art.summary
-        sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', body_text) if len(s.strip()) > 10]
-        
-        start_pt = sentences[0] if sentences else f"{pub_name}에서 {art.title} 보도를 시작했습니다."
-        emphasis_pt = sentences[1] if len(sentences) > 1 else (sentences[0] if sentences else "본 사안의 핵심 경과에 주목했습니다.")
-
-        differences.append({
-            "publisher": pub_name,
-            "start_point": start_pt,
-            "emphasis_point": emphasis_pt
-        })
-
-    words = re.findall(r'[가-힣A-Za-z0-9]{2,}', headline + " " + overview)
-    word_freq = {}
-    stop_words = {"관련", "지난", "통해", "대한", "위해", "따르면", "경우", "이번", "주요", "보도"}
-    for w in words:
-        if len(w) >= 2 and w not in stop_words:
-            word_freq[w] = word_freq.get(w, 0) + 1
-
-    sorted_words = sorted(word_freq.items(), key=lambda x: x[1], reverse=True)
-    keywords = [w[0] for w in sorted_words[:5]]
-
-    return {
-        "headline": headline,
-        "category": cat,
-        "overview": overview,
-        "differences": differences,
-        "keywords": keywords
-    }
-
 def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict = None):
-    """Process clusters into final news items."""
+    """Process clusters into final news items using Gemini API strictly (Fallback disabled)."""
     api_key = GEMINI_API_KEY
+    if not api_key:
+        raise ValueError(
+            "GEMINI_API_KEY environment variable is not configured. "
+            "Gemini AI summarization is required and fallback mode is disabled."
+        )
+
     news_items = []
     feedback_dict = feedback_dict or {}
 
@@ -153,12 +109,13 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
         feedback_context = "\n".join(fb_list)
 
     for i, cluster in enumerate(clusters[:MAX_CLUSTERS]):
-        summary_data = None
-        if api_key:
-            summary_data = summarize_with_gemini(cluster, api_key, feedback_context)
+        summary_data = summarize_with_gemini(cluster, api_key, feedback_context)
 
         if not summary_data:
-            summary_data = build_fallback_summary(cluster)
+            raise RuntimeError(
+                f"Gemini API failed to summarize cluster #{i+1} ('{cluster[0].title}'). "
+                "Fallback summary is disabled to guarantee Gemini AI quality."
+            )
 
         category = summary_data.get("category", cluster[0].target_category)
         if category not in ALLOWED_CATEGORIES:
@@ -175,12 +132,13 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
                     "url": art.url
                 })
 
-        random_art = random.choice(cluster)
+        # Selection of featured article: Choose the FIRST article with valid content
+        first_art = next((art for art in cluster if art.full_content or art.summary), cluster[0])
         featured_article = {
-            "publisher": random_art.publisher,
-            "title": random_art.title,
-            "full_content": random_art.full_content or random_art.summary,
-            "url": random_art.url
+            "publisher": first_art.publisher,
+            "title": first_art.title,
+            "full_content": first_art.full_content or first_art.summary,
+            "url": first_art.url
         }
 
         # Prefer real article image from cluster
@@ -199,8 +157,7 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
             "category": category,
             "summary": {
                 "overview": summary_data.get("overview", ""),
-                "featured_article": featured_article,
-                "differences": summary_data.get("differences", [])
+                "featured_article": featured_article
             },
             "publishers": publishers,
             "keywords": summary_data.get("keywords", []),

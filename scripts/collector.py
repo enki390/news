@@ -5,7 +5,7 @@ from pathlib import Path
 
 from config import (
     RSS_FEEDS, ENABLE_WEB_CRAWLING, MAX_ARTICLES_PER_FEED,
-    KAKAO_REST_API_KEY, NEWSAPI_KEY, COLLECT_MODE, DATA_DIR
+    KAKAO_REST_API_KEY, NEWSAPI_KEY, GEMINI_API_KEY, COLLECT_MODE, DATA_DIR
 )
 from sources.rss_source import RSSNewsSource
 from sources.api_source import KakaoNewsAPISource, NewsAPISource
@@ -37,6 +37,12 @@ def create_sources():
 def main():
     print(f"=== News Collector Batch Starting (Mode: {COLLECT_MODE}) at {datetime.datetime.now()} ===")
     
+    if not GEMINI_API_KEY:
+        raise ValueError(
+            "GEMINI_API_KEY environment variable is missing. "
+            "Gemini AI summarization is required and fallback is disabled."
+        )
+
     # 1. 수집
     all_articles = []
     for source in create_sources():
@@ -64,25 +70,16 @@ def main():
             print(f"총 {len(raw_feedbacks)}개의 기사 피드백 항목을 로드하였습니다.")
             for fid, fitem in raw_feedbacks.items():
                 print(f" - [{fitem.get('category', '공통')}] {fitem.get('headline', fid)}: \"{fitem.get('text', '')}\"")
-
-            print(f"\n[Step 2: 피드백 문제점 분석 (뭐가 잘못됐는지 확인)]")
-            for fid, fitem in raw_feedbacks.items():
-                txt = fitem.get("text", "")
-                headline = fitem.get("headline", fid)
-                print(f" - 대상 기사: '{headline}' -> 지적사항: '{txt}'")
-
-            print(f"\n[Step 3: 피드백 반영 개선 계획 수립]")
-            print(f" - AI (Gemini API) 프롬프트 및 요약 가이드에 피드백 교정 지침 주입 수립 완료.")
             print(f"==========================================\n")
         except Exception as e:
-            print(f"Failed to read/process feedback.json: {e}")
+            print(f"Failed to read feedback.json: {e}")
 
-    # 4. AI 요약 & 파싱 (피드백 반영 주입)
+    # 4. AI 요약 & 파싱 (Gemini 전담 실행)
     news_items = process_news_clusters(clusters, feedback_dict)
 
     if COLLECT_MODE == "apply_feedback":
         print(f"\n[Step 4: 피드백 반영 완료]")
-        print(f"총 {len(news_items)}개 뉴스 항목에 피드백 사항이 적극 반영 및 개선되었습니다.")
+        print(f"총 {len(news_items)}개 뉴스 항목에 피드백 사항이 적극 반영되었습니다.")
 
     # 5. 저장 및 정기 정리
     clean_old_files()

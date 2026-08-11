@@ -4,30 +4,36 @@ from bs4 import BeautifulSoup
 from sources.base import BaseNewsSource, NewsArticle
 from utils import clean_html, parse_publisher_from_title, fetch_article_content
 
+WEATHER_KEYWORDS = [
+    "[날씨]", "날씨", "폭염", "기상청", "체감온도", "일기예보", 
+    "열대야", "강수량", "초미세먼지", "소나기", "장마", "태풍특보"
+]
+
+def is_weather_article(title: str, summary: str) -> bool:
+    """Check if title or summary contains weather-related keywords."""
+    combined = (title + " " + summary).lower()
+    return any(kw.lower() in combined for kw in WEATHER_KEYWORDS)
+
 def extract_thumbnail_from_entry(entry: dict, summary_raw: str = "") -> str:
     """RSS 피드 항목 및 HTML 요약에서 기사 이미지 URL 추출"""
     try:
-        # 1. media_thumbnail
         if 'media_thumbnail' in entry and entry['media_thumbnail']:
             thumb = entry['media_thumbnail'][0]
             if isinstance(thumb, dict) and thumb.get('url'):
                 return thumb['url']
 
-        # 2. media_content
         if 'media_content' in entry and entry['media_content']:
             for media in entry['media_content']:
                 if isinstance(media, dict) and (media.get('medium') == 'image' or media.get('type', '').startswith('image/')):
                     if media.get('url'):
                         return media['url']
 
-        # 3. enclosures
         if 'enclosures' in entry and entry['enclosures']:
             for enc in entry['enclosures']:
                 if isinstance(enc, dict) and enc.get('type', '').startswith('image/'):
                     if enc.get('href'):
                         return enc['href']
 
-        # 4. HTML parsing in summary_raw for <img> tag
         if summary_raw:
             soup = BeautifulSoup(summary_raw, 'html.parser')
             img = soup.find('img')
@@ -78,6 +84,12 @@ class RSSNewsSource(BaseNewsSource):
 
                     clean_title, pub_name = parse_publisher_from_title(title, feed_info['name'])
                     summary_clean = clean_html(summary_raw)
+
+                    # Exclude weather articles
+                    if is_weather_article(clean_title, summary_clean):
+                        print(f"    - Excluded weather article: {clean_title}")
+                        continue
+
                     thumbnail = extract_thumbnail_from_entry(entry, summary_raw)
 
                     effective_content = ""
