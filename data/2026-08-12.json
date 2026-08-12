@@ -1,35 +1,45 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T22:54:17.199964+09:00",
+  "generated_at": "2026-08-13T05:54:46.246137+09:00",
   "total_count": 10,
   "news_items": [
     {
       "id": "news-20260812-001",
-      "headline": "홍해 선박 피격으로 중동 긴장 고조되며 국제유가 상승세",
+      "headline": "호르무즈 협상 교착과 수요 감소 전망에 국제유가 보합권 마감",
       "category": "글로벌",
       "summary": {
-        "overview": "홍해 인근에서 선박 피격 사건이 발생하며 중동 지역의 지정학적 긴장이 다시 높아졌습니다. 이번 사태는 국제 유가를 끌어올리는 직접적인 원인이 되어 에너지 시장의 불안을 키웠습니다.\n\n해상 경로의 안전을 위협하는 상황이 이어지며 원유 공급망 차질에 대한 우려가 빠르게 확산하고 있습니다. 유가 상승세는 중동 내 긴장감이 유지되는 한 당분간 이어질 가능성이 큽니다. 에너지 가격 변동성이 커짐에 따라 글로벌 경제 전반에 미칠 여파를 살피는 움직임이 분주합니다."
+        "overview": "호르무즈 해협 통항 재개를 위한 미국과 이란의 협상이 진전 없이 교착 상태를 이어가며 국제 유가가 보합권에서 거래를 마쳤다. 브렌트유와 WTI 선물 가격은 전날 대비 0.1% 소폭 상승했다. 중동 지역에서는 미군 헬기와 예멘 반군이 상선을 공격하는 등 군사적 긴장감이 이어졌다.\n\n원유 수요가 줄어들 것이라는 전망은 유가 상승을 가로막았다. 국제에너지기구(IEA)는 올해 원유 수요가 감소할 것으로 예측했다. 아시아 정유사들이 공급 불안으로 가동률을 낮춘 점도 수요 하향 조정에 영향을 미쳤다. 미국의 상업용 원유 재고가 예상치를 크게 웃돌며 증가한 점도 유가를 끌어올리지 못한 원인이다."
       },
       "publishers": [
         {
-          "name": "MBC 뉴스",
-          "title": "홍해서 선박 피격‥'긴장 고조' 국제유가 오름세",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SNzFKT1NpTGcwTFp6Zi1jbDVIVXdQYmo1YXZVcjJwb01kelEzY2RhZVBpaWRhUkNHZE5IVno2WlRxajliZHRpT2o2NTM0YzZ3ay03alhBMlhFOXQ1RzZQWmg5a3pYWWstWmswTDVLUmxyRVBwd1NvNw?oc=5"
+          "name": "연합뉴스",
+          "title": "국제유가, 호르무즈 협상 교착속 보합권 마감…브렌트 89달러",
+          "url": "https://www.yna.co.kr/view/AKR20260813004600072"
         },
         {
-          "name": "MBC 뉴스",
+          "name": "imnews.imbc.com",
           "title": "홍해서 선박 피격‥'긴장 고조' 국제유가 오름세",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaOW9ORF9ocXp2Vjh0clA4LW9LNjZvVnRXQXl1eXpxWkZPREZSSW5pMmtsd28xVW9fU2Q1OVFQb2NCN0hDWUJLZlpNb2dKSWdwRW5JN3VfSFh1NkNUbldEZXdZQlFBZWZza0JlR0dGZVdzYlJhVnRuWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zX0pudkt2THUtajVWRE1QTV9tWmJYZ2NDRktnRFBkRTdEbDN4T3BoTkFtQTllc2JIa052VUtDdGFFd2E4bEsxdlIycURyV0NoZ3VXV1EwWnBWZEVWLTRhZ182WEI2NVpxbklocWN4U2FQNGNGa1ZVVA?oc=5"
         },
         {
-          "name": "MBC 뉴스",
+          "name": "imnews.imbc.com",
+          "title": "홍해서 선박 피격‥'긴장 고조' 국제유가 오름세",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SMVBKXzl1VmFZdkJTVjQydks4ci14M3lhUmM3ai1zZ1FQWnYtRmdUZUVLTGJnSlJMOTYyQkxvZ04yRl9GM1p5WjBVa2p6V25DLWNoZTRNQ3BBa3NUb0otTDdzbGotUEduOHRKNUlDNXhadm1jMzZHNQ?oc=5"
+        },
+        {
+          "name": "imnews.imbc.com",
           "title": "국제유가, 호르무즈 협상 추이 주목하며 상승‥브렌트 1%↑",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQUh1R0lpbDhjV1lqaEJGUGdoYjczeXZjNDlEcWUxR3U2YjdtbzdlRDl4VzhsdVkybDQxRjVYY2hMaDZqYWhjd1VfQnY2YW9NRllDdnpyRWJhWG5JVEV0WnBEUlNSTXBseHowSGd1RkpGemI20gF0QVVfeXFMTkVZaGYtQWlfZGczcHJ2dkI5dldXbmprMkQyN3FEdXZKSWlHWEVVU0xPNW81YW5SSXAtMnZyT2szZ3NKT2x1RVRPa3ZTLVczWkZHRnVmVGhBVmNJbzhmZzljbXlfcjNfMzRVWkRhbzVQUUxRdnM?oc=5"
         },
         {
-          "name": "MBC 뉴스",
+          "name": "imnews.imbc.com",
           "title": "\"미국·이스라엘 통항 금지\"‥국제유가 급등",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2OXp5QVdNUml0VmxWRDFzRzBUVEdlMWJwSkw5UjJYMjdoSnU5bFQzb0JnWjl4LURvOF9PZVIxVzlrQlhNWnZDWWJQeGdVeGlBNEp5bF94YjZJTjE0Um9JLW40V25iQ09ka2xqZ2ZENjFNdGlzS2Nj?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "국제유가, 호르무즈 협상 교착 속 보합권 마감...브렌트 89달러",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XQ0dsTE5VVWFSalNJdU9BazF4c0ZnekxXelJ2MDhzUDlTTTEzVnRGRWxIVXF1dzZreTdFbW8wRG5TWmRrdm9ubDA2Zjd2S2h6OVp4MFBodEFTamR6TkE?oc=5"
         },
         {
           "name": "YTN",
@@ -53,65 +63,125 @@
         }
       ],
       "keywords": [
-        "홍해",
-        "선박 피격",
         "국제유가",
-        "중동 긴장",
-        "에너지 시장"
+        "호르무즈 해협",
+        "원유 수요",
+        "미국 원유 재고",
+        "중동 분쟁"
       ],
-      "image_url": "https://picsum.photos/seed/news-20260812-001/600/400"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/13/AKR20260813004600072_01_i_P2.jpg"
     },
     {
       "id": "news-20260812-002",
-      "headline": "미국 7월 소비자물가 3.4%로 둔화하며 연준 금리 동결 기대감 확산",
+      "headline": "광안리 국제 여자 비치발리볼 대회 13일 개막",
       "category": "글로벌",
       "summary": {
-        "overview": "미국의 7월 소비자물가 상승률이 전년 동월 대비 3.4%를 기록하며 6월보다 낮아졌습니다. 에너지 가격 하락과 그동안 물가 상승을 이끌던 주거비 상승세 둔화가 전체 지수를 끌어내리는 데 기여했습니다. 에너지와 식품을 제외한 근원 소비자물가 역시 전년 대비 2.5% 상승하며 완만한 흐름을 보였습니다.\n\n물가 상승세가 꺾이면서 미 연방준비제도가 금리 인상 대신 동결을 선택하며 경제 상황을 지켜볼 가능성이 커졌습니다. 금리 선물 시장에서는 9월 금리 동결 확률이 지표 발표 직후 58%로 상승했습니다. 이번 결과는 통화정책을 운용하는 연준에 정책적 여유를 제공할 전망입니다."
+        "overview": "부산 광안리 해변에서 국제 여자 비치발리볼 대회가 오는 13일 개막합니다. 이번 대회는 전 세계 여성 선수들이 모여 실력을 겨루는 국제적인 스포츠 축제입니다.\n\n선수들은 광안리의 아름다운 해변을 배경으로 모래 위에서 역동적인 경기를 선보입니다. 각국을 대표하는 선수들이 참여하는 만큼 수준 높은 경기가 펼쳐질 전망입니다.\n\n현장을 찾는 관람객들은 박진감 넘치는 경기와 함께 부산의 해변 분위기를 만끽할 수 있습니다. 운영진은 원활한 대회 진행과 안전 관리에 집중하며 개막 준비를 마쳤습니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "美7월 소비자물가 상승률 3.4%로 둔화…연준 금리동결 기대↑(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20260812167252072"
+          "name": "KBS 뉴스",
+          "title": "광안리 국제 여자 비치발리볼 대회 13일 개막",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14MTJRZEhPbkRQUlBXRl92MHEzdWxobzVYcXVQYm5YcmJBX254WFFNR01lTTNfRnZDRVdiVG5oNDViYzdod0tXYmJKOWsweU5SdTBTYlFYWmFJcGM?oc=5"
         },
         {
-          "name": "연합뉴스",
-          "title": "[2보] 미 7월 소비자물가 전년 대비 3.4% 상승…예상치 부합",
-          "url": "https://www.yna.co.kr/view/AKR20260812167251072"
+          "name": "imnews.imbc.com",
+          "title": "[문화연예 플러스] 제14회 부산국제코미디페스티벌 21일 개막",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QSTR4Tk9idVFVaVRZcUl5MWx1eUdPeVFqbm1DcDZyV0h6WG1iSWh3QzV6TGJzX1VubXlYUkN1bkI3YV93Zzg3dW5jd29GeTdNcE5kdEVfSmUwM3VzWEJEZVZQc3FwNFdRMkZwMVpJYWhXal9LMzdMbTR3?oc=5"
         },
         {
-          "name": "연합뉴스",
-          "title": "[1보] 미 7월 소비자물가 전년 대비 3.4% 상승…예상치 부합",
-          "url": "https://www.yna.co.kr/view/AKR20260812167200072"
+          "name": "imnews.imbc.com",
+          "title": "'초호화 라인업' 제천국제영화제 다음 달 개막",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nTWoyWVBSakF5QjdQUFotLU8xNkh0eTVvLXpzVmZvTXJHczM1OUlTNUl3bkR4RDlWbFptTUhYSXFMOExRUDRubk45bC1BZ2tfcjBqTExNVXNpaVMzTFpRa21laHJVNHMwU19IUnJneWpyRWNfUDZ2akZ3?oc=5"
         },
         {
-          "name": "한겨레",
-          "title": "미, 7월 소비자물가 전년비 3.4% 상승 그쳐…연준 금리인상 ‘멈칫’",
-          "url": "https://www.hani.co.kr/arti/international/america/1272652.html"
+          "name": "YTN",
+          "title": "서울국제공연예술제 10월 8일 개막...한강 소설 낭독극 '새' 국내 초연",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45aklnTDJJRXVNMjl1RHJmZGJ6aHFsbGJSd1dUM1hOa0IzWHJhbGwxU2tfR3g3d1R3Um0tdl9YQkZQdklfRUU4VnVrcmdNN3pFMmRTQVZCWFlmV2pQc1E?oc=5"
         }
       ],
       "keywords": [
-        "소비자물가지수",
-        "연방준비제도",
-        "금리 동결",
-        "인플레이션",
-        "미국 경제"
+        "광안리",
+        "비치발리볼",
+        "국제대회",
+        "부산"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/12/AKR20260812167252072_02_i_P2.jpg"
+      "image_url": "https://picsum.photos/seed/news-20260812-002/600/400"
     },
     {
       "id": "news-20260812-003",
-      "headline": "중국 경제 개혁과 WTO 가입 이끈 주룽지 전 총리 별세",
-      "category": "글로벌",
+      "headline": "중국 경제 개방의 주역 주룽지 전 총리 별세",
+      "category": "경제",
       "summary": {
-        "overview": "중국의 경제 개혁과 세계무역기구(WTO) 가입을 주도한 주룽지 전 국무원 총리가 12일 향년 98세로 별세했습니다. 그는 1998년부터 2003년까지 총리로 재임하며 중국 경제를 계획경제에서 사회주의 시장경제 체제로 전환하는 핵심적인 과정을 이끌었습니다.\n\n주 전 총리는 국영기업 구조조정과 금융권 부실채권 정리, 재정 및 세제 개혁 등 중국 경제의 틀을 바꾸는 대대적인 변화를 추진했습니다. 특히 2001년 중국의 WTO 가입을 성공적으로 이끌어내 중국이 세계 무역 체제에 본격적으로 편입되고 수출 강국으로 도약하는 발판을 마련했습니다.\n\n아시아 금융위기 당시에는 위안화 가치를 안정시키고 내수 확대를 꾀하며 경제 위기를 정면으로 돌파했습니다. 외신들은 그를 유머러스하면서도 지도부의 실수를 인정할 줄 아는 독특하고 개방적인 지도자로 평가합니다."
+        "overview": "중국의 경제 개방을 주도하며 세계 경제의 판도를 바꾼 주룽지 전 국무원 총리가 향년 97세를 일기로 세상을 떠났다. 중국 관영 신화통신은 주 전 총리가 병환으로 치료를 받던 중 12일 별세했다고 공식 발표했다.\n\n그는 재임 시절 중국의 세계무역기구(WTO) 가입을 성공적으로 이끌었다. 이 결정은 중국이 세계 경제의 중심인 G2로 도약하는 결정적인 발판이 되었다. 주 전 총리는 중국 경제 체제를 개혁하고 대외 개방을 가속화하며 국가 경제의 기틀을 다진 인물로 평가받는다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "주룽지 전 중국 총리 별세…WTO 가입 이끈 '경제개혁 사령탑'(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20260812162251083"
+          "name": "매일경제",
+          "title": "中 개방 이끌어낸 경제사령탑… WTO 가입으로 G2 도약 발판",
+          "url": "https://www.mk.co.kr/news/world/12125866"
         },
+        {
+          "name": "KBS 뉴스",
+          "title": "‘中 경제개혁 사령탑’ 주룽지 전 총리 사망…향년 98세",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kUVJrVHhXSUhxb3NFakRRd2xNN1k0Y2F5eW9vWHF0VEI4cVlKbzJVcGx4MVRTSzNnSFE0TmRDVDExMXdYQzZxaXhSS3RCVFJ1M1ZzRWhOU0p5RXc?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "주룽지 전 중국 총리 별세…중국 경제개혁 사령탑",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aMnlKVXlwMzhTWEJSa0RfbU1aeWJnMC14OHBXellWTWNwQU1BOG5wTlRycEtzOGQ0VUZNX0pRMTNVVDljVm4yN1lIbDVkNkZWV0dfRF9vU3I1b2poOG5KVFFwR2RpUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "주룽지",
+        "중국 경제",
+        "WTO 가입",
+        "G2",
+        "경제 개방"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202608/13/20260813_01170108000003_S00.jpg"
+    },
+    {
+      "id": "news-20260812-004",
+      "headline": "삼전닉스 강세에 코스피 3.7% 급등하며 6,500선 탈환",
+      "category": "경제",
+      "summary": {
+        "overview": "삼성전자와 SK하이닉스의 강력한 상승세가 코스피 시장의 급등을 이끌었습니다. 코스피 지수는 이날 3.7% 상승하며 마침내 6,500선을 다시 탈환했습니다.\n\n반도체 대형주를 중심으로 강력한 매수세가 유입되며 지수 상승폭을 키웠습니다. '삼전닉스'로 불리는 주요 반도체 기업들이 시장 전체의 분위기를 반전시키며 지수 반등을 주도했습니다. 이러한 흐름은 반도체 업황에 대한 긍정적인 전망이 시장에 반영된 결과로 풀이됩니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "'삼전닉스' 강세에 코스피 3.7% 상승...6,500선 탈환",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mdE4zM04yU1BXa1dZa1VSbTdRbng0ajFJVi03d25VTEtfeWo4VTJZYlZsSjYyblFuRUhELU95cF9WTmF0RUdJRGRvWmFQcGtwWFBPejhHd1VJWHVNOGxZdms1T1JPWWV5elcwOHR6UQ?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "속보 코스피 3.7% 상승 6,500선 탈환...코스닥 0.1% 상승",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13ajVYTzVRSkM3b1MxcGU5bDBFQzl0VHFIdS04SkRUQVhLR3pZRnBNRXM5TUxKTDd5X2hHbzJaLUh5NUgzZkdCUTE5UlpqVXYzdjZGX3BaODR1Y25EdXJHY3NfR1h2alhrX3NFOFE0LXQtMWhYVFE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "'삼전닉스' 강세에 코스피 6,600선...매수 사이드카 발동",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pLXpNclkwTmtMaVpweHdpZExrcm40ZWN2NE1Hb3JGb2I2QnNBRTcyNUJKRlJBVmtqUU1wOUxNTENVUl94X1hibXJFNDBKVFFnUm1YZDZTdTZtZUF0aTN5Sk5CWUIyVVh0ZW83RV9JTGpGNlNZWHc?oc=5"
+        }
+      ],
+      "keywords": [
+        "코스피",
+        "삼전닉스",
+        "반도체",
+        "6500선",
+        "주식시장"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260812-004/600/400"
+    },
+    {
+      "id": "news-20260812-005",
+      "headline": "중국 경제개혁의 설계자 주룽지 전 총리 별세",
+      "category": "글로벌",
+      "summary": {
+        "overview": "중국 경제개혁을 진두지휘했던 주룽지 전 총리가 향년 98세로 별세했습니다. 중국 관영 신화통신은 주 전 총리가 베이징에서 병환 치료를 받던 중 오전 11시경 숨을 거뒀다고 발표했습니다.\n\n그는 1987년 상하이 시장을 역임하며 도시를 세계적인 금융 중심지로 변모시켰습니다. 이후 국무원 부총리와 총리를 지내며 중국 경제의 근간을 바꾸는 결단력을 보여주었습니다. 특히 기득권층의 거센 반발 속에서도 국영기업 구조조정을 밀어붙였으며, 중국의 세계무역기구(WTO) 가입을 성공적으로 이끌어 중국이 세계 경제 체제에 안착하도록 만들었습니다.\n\n강력한 추진력과 청렴한 자세로 '경제 차르' 또는 '현대판 포청천'이라 불렸던 그는 대외 개방을 통해 중국이 '세계의 공장'으로 성장하는 기틀을 다졌습니다."
+      },
+      "publishers": [
         {
           "name": "경향신문",
           "title": "‘중 경제개혁 설계자’ 주룽지 전 총리 별세",
@@ -130,182 +200,74 @@
       ],
       "keywords": [
         "주룽지",
-        "중국 경제 개혁",
+        "중국 경제개혁",
         "WTO 가입",
-        "사회주의 시장경제"
+        "국영기업 구조조정"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/12/AKR20260812162251083_02_i_P2.jpg"
-    },
-    {
-      "id": "news-20260812-004",
-      "headline": "광안리 국제 여자 비치발리볼 대회 13일 개막",
-      "category": "글로벌",
-      "summary": {
-        "overview": "부산 광안리 해수욕장에서 오는 13일 '광안리 국제 여자 비치발리볼 대회'가 막을 올립니다. 이번 대회는 국제적인 규모로 개최하는 여자 비치발리볼 경연입니다.\n\n세계 여러 나라에서 온 선수들이 광안리 백사장에서 뜨거운 승부를 펼칩니다. 해변을 찾는 방문객들은 선수들의 역동적인 경기를 현장에서 직접 관람합니다.\n\n대회 개최를 통해 광안리 해수욕장은 국제적인 스포츠 명소로서의 면모를 드러냅니다. 이번 행사는 부산의 해양 문화를 알리는 자리가 됩니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "광안리 국제 여자 비치발리볼 대회 13일 개막",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14MTJRZEhPbkRQUlBXRl92MHEzdWxobzVYcXVQYm5YcmJBX254WFFNR01lTTNfRnZDRVdiVG5oNDViYzdod0tXYmJKOWsweU5SdTBTYlFYWmFJcGM?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "[문화연예 플러스] 제14회 부산국제코미디페스티벌 21일 개막",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QSTR4Tk9idVFVaVRZcUl5MWx1eUdPeVFqbm1DcDZyV0h6WG1iSWh3QzV6TGJzX1VubXlYUkN1bkI3YV93Zzg3dW5jd29GeTdNcE5kdEVfSmUwM3VzWEJEZVZQc3FwNFdRMkZwMVpJYWhXal9LMzdMbTR3?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "'초호화 라인업' 제천국제영화제 다음 달 개막",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nTWoyWVBSakF5QjdQUFotLU8xNkh0eTVvLXpzVmZvTXJHczM1OUlTNUl3bkR4RDlWbFptTUhYSXFMOExRUDRubk45bC1BZ2tfcjBqTExNVXNpaVMzTFpRa21laHJVNHMwU19IUnJneWpyRWNfUDZ2akZ3?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "서울국제공연예술제 10월 8일 개막...한강 소설 낭독극 '새' 국내 초연",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45aklnTDJJRXVNMjl1RHJmZGJ6aHFsbGJSd1dUM1hOa0IzWHJhbGwxU2tfR3g3d1R3Um0tdl9YQkZQdklfRUU4VnVrcmdNN3pFMmRTQVZCWFlmV2pQc1E?oc=5"
-        }
-      ],
-      "keywords": [
-        "광안리",
-        "비치발리볼",
-        "국제 대회",
-        "부산",
-        "해양 스포츠"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260812-004/600/400"
-    },
-    {
-      "id": "news-20260812-005",
-      "headline": "중국 경제개혁의 설계자 주룽지 전 총리 별세",
-      "category": "경제",
-      "summary": {
-        "overview": "중국 경제 개혁의 상징적 인물인 주룽지 전 총리가 별세했습니다. 그는 중국이 시장 경제 체제로 전환하는 과정에서 강력한 개혁을 주도했습니다.\n\n주 전 총리는 재임 당시 과감한 국영기업 구조조정과 금융 시스템 개편을 단행했습니다. 이러한 정책은 중국 경제의 기초를 다지는 결정적 계기가 되었습니다. 그의 결단력 있는 행보는 중국이 세계 경제의 주역으로 성장하는 밑바탕이 되었습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "주룽지 전 중국 총리 별세…중국 경제개혁 사령탑",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aMnlKVXlwMzhTWEJSa0RfbU1aeWJnMC14OHBXellWTWNwQU1BOG5wTlRycEtzOGQ0VUZNX0pRMTNVVDljVm4yN1lIbDVkNkZWV0dfRF9vU3I1b2poOG5KVFFwR2RpUQ?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "‘中 경제개혁 사령탑’ 주룽지 전 총리 사망…향년 98세",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kUVJrVHhXSUhxb3NFakRRd2xNN1k0Y2F5eW9vWHF0VEI4cVlKbzJVcGx4MVRTSzNnSFE0TmRDVDExMXdYQzZxaXhSS3RCVFJ1M1ZzRWhOU0p5RXc?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "주룽지 전 총리 별세‥중국 시장경제 전환 주도",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yVXQwX1BZcnNGT3Z0RkxzdlB1Y2JWN0JEQ1FyeGlteFFkVW0zQ1NEelk4eFhmdnJieWtLUjZvdWhsU1JaLVQ3WDVmckhJMGV0dW1tWnJIVUpXRU9QTmd0Q3NMbkZUY1ZsdTNIYl9PaTJJaDlK0gF0QVVfeXFMTkpBODZjLW1NbV9zTk5GVXgyOGRsVXhoOEE0bXF3VG1zOW05RVJoUE1oUjBUaVlaZ2QzQlFEeS00MHRxRVNhZHdCUEU2aFRxbllBdm54WXMzbG8yMHdRUTRxcjJIazRyQm14OUtHWXJGUDUxVGU?oc=5"
-        }
-      ],
-      "keywords": [
-        "주룽지",
-        "중국 경제",
-        "경제 개혁",
-        "중국 총리"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260812-005/600/400"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0812/53_17865345928689_20260812503336.webp"
     },
     {
       "id": "news-20260812-006",
-      "headline": "트럼프, 이란 향해 '경제적 고립 또는 군사적 타격' 강경 전략 시사",
+      "headline": "장동혁 국민의힘 대표, '뉴홈 대출조건 변경' 논란 관련 창릉 신도시 현장 방문",
       "category": "경제",
       "summary": {
-        "overview": "도널드 트럼프 전 대통령이 이란을 상대로 매우 강경한 대응 방침을 제시했습니다. 이란의 경제가 스스로 무너질 때까지 압박을 가하거나, 상황이 여의치 않으면 직접적인 군사 타격을 가하겠다는 구상입니다.\n\n이 전략은 이란의 핵 개발과 지역 불안정을 차단하려는 초강수 대응을 의미합니다. 트럼프는 경제적 고립을 통해 이란 내부의 자생력을 약화시키는 방안을 우선적으로 고려합니다.\n\n경제적 압박만으로 목적을 달성하기 어렵다고 판단할 경우 강력한 물리적 수단도 배제하지 않겠다는 의지입니다. 이는 이란을 향한 미국의 대외 정책이 이전보다 훨씬 공격적인 방향으로 흐를 것임을 나타냅니다."
+        "overview": "국민의힘 장동혁 대표가 13일 경기 고양 창릉 신도시 S4 공사 현장을 찾아 '뉴홈' 사전청약 피해자들을 만납니다. 장 대표는 당 부동산 정책 정상화 특별위원회 위원들과 동행하여 현장의 목소리를 직접 확인할 예정입니다.\n\n이번 논란은 공공 분양주택인 '뉴홈'의 대출 지원 조건이 변경되면서 불거졌습니다. 사전청약 당시 입주 공고문에 명시했던 우대 금리 등 주요 혜택이 본 청약을 앞두고 사라지자, 입주 예정자들은 정부의 약속 위반이라며 강력히 반발하고 있습니다.\n\n장 대표는 앞서 정부 정책을 믿고 미래를 설계해 온 국민에게 조건을 일방적으로 변경하는 행태를 '분양 사기'라고 비판했습니다. 이번 현장 방문을 통해 피해자들의 고충을 살피고 대응 방안을 논의할 계획입니다."
       },
       "publishers": [
         {
-          "name": "KBS 뉴스",
-          "title": "트럼프, 대이란 전략에 “경제 실패하게 두거나 강력 타격”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nLUlIbWlHWXVCeXh2enFkYlJHWXk1WUpvRE9OQnBuUDRkQTBJTzY1MzdPUFRzZnZkS2dEbk9KdWRtTGx3ZmtiUW5nVFVaazdUTWtJVVlMcUVnYkU?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "트럼프, 대이란 전략에 \"경제 실패하게 두거나 강력 타격\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTRWFGSmgwN2RwdXpPQVMxbnlrMHd3c3hXc1FpVTNWYmhjdzdlUmZrY0RMcERHQTViWE9EU3hyMEdZM3Fud3k0bF9sc01EYmZGb1ozRE1YdDRNWGg2OVlGWlFOX1ZjRDZRNXZzMnoxQmh4M0lt0gF0QVVfeXFMT2oxY3JRNjlDaFk2TzYzS3RJOEluTHdsS0NwQmNoQzBSeF9CaXFyRkViSm5EZTNBY0FWa3d2X1paWXQzZm4zTlk2Sm9naWpicmZHZG93a2FlWF91VzR2NGt6MmpyM0h5MElXWlJ5cWUtSzloSG8?oc=5"
+          "name": "연합뉴스",
+          "title": "장동혁, 오늘 '뉴홈 대출조건 변경 논란' 신도시 현장 방문",
+          "url": "https://www.yna.co.kr/view/AKR20260812157800001"
         },
         {
           "name": "YTN",
-          "title": "트럼프 \"이란 경제 고사시키거나 강력 타격\"",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEt6Y1lRN1pTMk5XaUREckgyR3gxU3VGcnJtMWJZYi1zSzdDRFNmLS1CaHhlVklLNml2a1VuU2dtaXgxUlFjWHNONkYzQlJzbU5hNTRjM3ViaEttdDdpUERwSTBMektRdXYwWVNjVVJteUNicUUyREVDUmszSzN4Wlc0cw?oc=5"
+          "title": "[경제]한국은행 직원 150명에 주택자금대출 60억원...형평성 논란도",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nUmVUbl95ZmkzQjl0U3htQ0h4aWdHWXBrVGY1ellrT2V6NjloVkNtanU3NFVqRDJVSFhpWU9aOGNPTW1EMTNYU09sWkJyNUZOV0NrYUlzUl9fNWZCQ0JJYlV4eWVLb1JKUjBGWEtHOA?oc=5"
         }
       ],
       "keywords": [
-        "트럼프",
-        "이란",
-        "대이란 전략",
-        "경제 제재",
-        "군사 타격"
+        "장동혁",
+        "뉴홈",
+        "창릉 신도시",
+        "사전청약",
+        "대출 지원"
       ],
-      "image_url": "https://picsum.photos/seed/news-20260812-006/600/400"
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/08/10/PYH2026081006070001300_P2.jpg"
     },
     {
       "id": "news-20260812-007",
-      "headline": "펄어비스, '붉은사막' 글로벌 흥행 힘입어 2분기 영업이익 전년 대비 7411% 폭증",
-      "category": "글로벌",
+      "headline": "더불어민주당, 의원총회서 부동산 세제 개편 및 공급 방안 논의",
+      "category": "경제",
       "summary": {
-        "overview": "펄어비스가 신작 '붉은사막'의 글로벌 흥행에 힘입어 2026년 2분기 기록적인 실적을 달성했습니다. 매출은 1926억 원을 기록했으며, 영업이익은 전년 동기 대비 7411.1% 급증한 676억 원을 기록하며 가파른 성장세를 보였습니다. 당기순이익 역시 709억 원으로 전년 대비 흑자 전환에 성공했습니다.\n\n수익 구조를 살펴보면 해외 매출 비중이 91%에 달할 만큼 글로벌 시장에서의 영향력이 압도적입니다. 특히 북미와 유럽 시장이 전체 해외 매출의 75%를 차지하며 성장을 주도했습니다. IP별 매출에서는 '붉은사막'이 1361억 원을 벌어들이며 '검은사막'의 550억 원을 크게 앞질렀습니다.\n\n펄어비스는 '붉은사막'의 장기 흥행을 위해 다각적인 후속 전략을 실행합니다. 연내 DLC 출시를 목표로 콘텐츠 완성도를 높이는 한편, 내년 상반기에는 닌텐도 스위치2 버전 출시를 위한 최적화 작업에 집중합니다. 아울러 패키지 판매 확대를 위한 할인 전략도 병행할 방침입니다.\n\n기존 주력 IP인 '검은사막' 역시 꾸준한 업데이트를 이어갑니다. 최근 북미·유럽 서비스 10주년을 기념해 미국에서 하이델 연회를 개최했으며, 신규 클래스 '에이전트'와 지역 확장 콘텐츠를 공개하며 이용자 접점을 넓히고 있습니다."
+        "overview": "더불어민주당이 13일 오후 의원총회를 개최해 정부의 세제 개편안과 부동산 공급 방안을 논의합니다.\n\n이번 회의에서는 세제 개편안을 시행할 경우 발생할 수 있는 부작용을 중점적으로 검토합니다. 특히 비거주 1주택 소유자에 대한 세 부담 형평성 문제를 면밀히 살핍니다.\n\n실거주자 우대 정책이 전월세 시장의 수급 불균형을 유도해 임대차난을 심화할 가능성도 논의 대상입니다. 부동산 시장 안정을 목표로 하는 공급 확대 방안에 대해서도 당내 의견을 교환합니다."
       },
       "publishers": [
         {
-          "name": "Zdnet.co.kr",
-          "title": "펄어비스, 2분기 영업익 676억원…전년比 7411.1%↑",
-          "url": "https://zdnet.co.kr/view/?no=20260811193136"
+          "name": "연합뉴스",
+          "title": "與, 오늘 의총서 부동산 세제 개편안·공급 방안 논의",
+          "url": "https://www.yna.co.kr/view/AKR20260812154500001"
         },
         {
-          "name": "Inews24.com",
-          "title": "펄어비스, 2분기 영업익 676억원 '7411.1% 급증'",
-          "url": "http://www.inews24.com/view/1994031"
-        },
-        {
-          "name": "Zdnet.co.kr",
-          "title": "시프트업, 2분기 매출 557억·영업익 281억…IP 브랜드 저력 입증",
-          "url": "https://zdnet.co.kr/view/?no=20260811170705"
+          "name": "KBS 뉴스",
+          "title": "[경제톡톡] 부동산 세제 개편, 경남 부동산 시장에 미칠 영향은?",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PcDFLVjFQWExNZE1ZTDY0OHBkaVVLT19CdURzaWtwS3pVTlBQMlJjcGJvOWNpUjB2TWdJRWc1WDE3eE9mcENuenRNVC12MnJCRFhHUTBEelRCdm1KUUV2VlBrQUhTOW4yTFhZ?oc=5"
         }
       ],
       "keywords": [
-        "펄어비스",
-        "붉은사막",
-        "영업이익 급증",
-        "글로벌 매출",
-        "검은사막"
+        "부동산 세제 개편",
+        "부동산 공급 방안",
+        "의원총회",
+        "전월세난",
+        "세금 형평성"
       ],
-      "image_url": "https://image.zdnet.co.kr/2026/08/11/9bd484a7820fb3cc14dd31517d166fd8.jpg"
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073014740001300_P2.jpg"
     },
     {
       "id": "news-20260812-008",
-      "headline": "광주대표도서관 붕괴 사고 관리 부실 공무원 2명 검찰 송치",
+      "headline": "주요 시중은행 대출 사기 규모 490억 원으로 급증…금융권 내부통제 비상",
       "category": "경제",
       "summary": {
-        "overview": "건설노동자 4명이 숨진 광주대표도서관 붕괴 사고의 관리 부실 책임자로 지목된 공무원들이 검찰에 넘겨졌다. 광주경찰청 광역범죄수사대는 업무상과실치사 혐의로 광주시 종합건설본부 소속 팀장과 실무자 2명을 불구속 송치했다.\n\n국토교통부 등 관계 기관의 조사 결과, 이번 사고는 설계와 다른 부실 용접과 검사 부실이 복합적으로 작용하며 발생했다. 경찰은 종합건설본부 고위직 2명에 대해서도 조사를 진행했으나 혐의가 인정되지 않는다고 판단해 불송치 처분했다.\n\n경찰은 공사 관계자들 사이에서 포착된 뇌물 요구 등 비위 정황을 토대로 후속 수사를 이어가고 있다. 시공사와 하청업체, 감리단 관계자 등 11명은 이미 재판에 넘겨졌으며, 오는 27일 광주지방법원에서 첫 공판을 연다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "'4명 사망' 광주대표도서관 붕괴, 관리부실 공무원 2명 송치(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20260812081851054"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "동전주·시총미달 상장폐지 문 열렸다…36개 첫 관리종목 지정(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20260812141652008"
-        }
-      ],
-      "keywords": [
-        "광주대표도서관",
-        "붕괴 사고",
-        "업무상과실치사",
-        "공무원 송치",
-        "부실 공사"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2025/12/11/PYH2025121118320005400_P2.jpg"
-    },
-    {
-      "id": "news-20260812-009",
-      "headline": "시중은행 대출 사기 피해 확산…4개 은행 사고액 총 490억 원 달해",
-      "category": "경제",
-      "summary": {
-        "overview": "KB국민, 신한, 우리, IBK기업은행 등 주요 시중은행에서 외부인에 의한 대출 사기 사건이 잇따라 발생하며 금융권이 큰 혼란을 겪고 있습니다. 12일 각 은행이 공시한 사고 금액을 합산하면 총 490억 원에 달하는 대규모 금융사고입니다.\n\n기존에 사고를 인지했던 신한, 우리, IBK기업은행은 조사를 확대하는 과정에서 추가 피해를 확인해 사고 액수를 이전보다 대폭 늘려 다시 공시했습니다. 특히 신한은행은 기존 공시액보다 두 배 이상 늘어난 173억 원 규모의 피해를 입은 것으로 드러났습니다.\n\nKB국민은행은 부동산 시행사와 허위 분양자가 공모해 약 35억 원 규모의 대출 사기를 벌인 사실이 확인됐습니다. 현재 각 은행은 수사기관과 협력하여 사건의 전말을 파악하는 동시에, 담보물 매각과 채권 보전 조치 등을 통해 피해 금액을 최대한 회수하는 데 주력하고 있습니다."
+        "overview": "KB국민·신한·우리·IBK기업은행 등 주요 시중은행이 외부인에 의한 대출 사기로 총 490억 원에 달하는 대규모 금융사고를 겪고 있습니다. 기존에 공시한 금액보다 실제 피해 규모가 훨씬 큰 것으로 확인되면서 은행권 내부통제 실패에 대한 우려가 커지고 있습니다.\n\nKB국민은행은 부동산 시행사와 허위 분양자가 공모한 방식의 사기를 확인했습니다. 신한·우리·IBK기업은행은 조사를 확대하는 과정에서 동일한 수법의 추가 피해를 인지하여 사고 금액을 대폭 상향 조정했습니다. 특히 신한은행과 IBK기업은행은 기존 공시보다 사고액이 몇 배나 늘어난 상황입니다.\n\n현재 각 은행은 경찰 수사에 적극 협조하며 담보물 매각과 채권 보전 조치를 통해 대출금을 최대한 회수하는 데 주력하고 있습니다. 수사기관의 조사 결과 위법 행위가 확인되면 형사 고소 등 필요한 법적 조치를 즉각 실행할 방침입니다."
       },
       "publishers": [
         {
@@ -323,20 +285,49 @@
         "대출 사기",
         "금융사고",
         "시중은행",
-        "내부통제"
+        "내부통제",
+        "채권 회수"
       ],
       "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/07/09/PYH2026070908250001300_P2.jpg"
     },
     {
-      "id": "news-20260812-010",
-      "headline": "김민석·정청래 의원, 경제 정책 역량과 인성 문제 두고 날 선 공방",
-      "category": "경제",
+      "id": "news-20260812-009",
+      "headline": "트럼프, 이란 향한 '경제 고립 또는 군사 타격' 강경 전략 구상",
+      "category": "글로벌",
       "summary": {
-        "overview": "더불어민주당 소속 김민석 의원과 정청래 의원이 서로를 향해 강도 높은 비난을 퍼부으며 정면 충돌했다. 김 의원은 정 의원이 실제 경제 정책을 다뤄본 경험이 부족하다며 정책 실행 능력을 강하게 비판했다.\n\n정 의원은 이에 즉각 반발하며 김 의원이 상대를 무시하는 태도가 매우 심각하다고 맞받아쳤다. 양측은 정책적 논쟁을 넘어 인격을 비하하는 발언까지 주고받으며 감정의 골을 깊게 만들었다. 당내 핵심 인물들 사이에서 벌어진 이번 설전은 단순한 의견 차이를 넘어 정치적 갈등으로 번지는 양상이다. 당 내부의 결속력에도 부정적인 영향을 미칠 가능성이 크다."
+        "overview": "도널드 트럼프 전 대통령이 이란을 향한 강경한 대응 방안을 내놓았습니다. 그는 이란의 경제를 실패하게 만들어 스스로 무너지도록 유도하거나, 직접적인 강력 타격을 가하는 두 가지 전략을 구상하고 있습니다.\n\n이러한 구상은 이란의 경제적 기반을 철저히 압박하여 통치 역량을 약화하려는 의도로 풀이됩니다. 경제적 조치가 충분한 효과를 내지 못할 경우 군사적 수단까지 동원하겠다는 강한 의지를 드러냈습니다. 이란의 정책 변화를 이끌어내기 위해 모든 수단을 동원하겠다는 압박 메시지로 해석됩니다."
       },
       "publishers": [
         {
-          "name": "MBC 뉴스",
+          "name": "KBS 뉴스",
+          "title": "트럼프, 대이란 전략에 “경제 실패하게 두거나 강력 타격”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nLUlIbWlHWXVCeXh2enFkYlJHWXk1WUpvRE9OQnBuUDRkQTBJTzY1MzdPUFRzZnZkS2dEbk9KdWRtTGx3ZmtiUW5nVFVaazdUTWtJVVlMcUVnYkU?oc=5"
+        },
+        {
+          "name": "imnews.imbc.com",
+          "title": "트럼프, 대이란 전략에 \"경제 실패하게 두거나 강력 타격\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTRWFGSmgwN2RwdXpPQVMxbnlrMHd3c3hXc1FpVTNWYmhjdzdlUmZrY0RMcERHQTViWE9EU3hyMEdZM3Fud3k0bF9sc01EYmZGb1ozRE1YdDRNWGg2OVlGWlFOX1ZjRDZRNXZzMnoxQmh4M0lt0gF0QVVfeXFMT2oxY3JRNjlDaFk2TzYzS3RJOEluTHdsS0NwQmNoQzBSeF9CaXFyRkViSm5EZTNBY0FWa3d2X1paWXQzZm4zTlk2Sm9naWpicmZHZG93a2FlWF91VzR2NGt6MmpyM0h5MElXWlJ5cWUtSzloSG8?oc=5"
+        }
+      ],
+      "keywords": [
+        "트럼프",
+        "이란",
+        "경제 압박",
+        "군사 타격",
+        "대외 전략"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260812-009/600/400"
+    },
+    {
+      "id": "news-20260812-010",
+      "headline": "\"경제 정책 해봤나\" vs \"사람 무시에 일가견\"…김민석·정청래 설전 격화",
+      "category": "경제",
+      "summary": {
+        "overview": "더불어민주당 김민석 의원과 정청래 의원이 서로를 향해 날 선 공격을 주고받으며 갈등이 깊어지고 있습니다.\n\n김민석 의원은 상대방의 경제 정책 수행 능력을 정면으로 비판하며 논쟁을 시작했습니다. 이에 정청래 의원은 김 의원이 타인을 무시하는 태도를 보인다고 지적하며 인격적인 비난을 쏟아냈습니다. 양측의 대립은 정책에 대한 이견을 넘어 감정적인 싸움으로 번지는 양상입니다.\n\n두 인물 모두 당내 핵심 인물인 만큼 이번 충돌은 당 내부의 결속력에도 영향을 줄 수 있습니다. 양측의 발언은 단순한 비판을 넘어 인격 모독성 발언까지 포함하며 갈등의 수위가 높아졌습니다."
+      },
+      "publishers": [
+        {
+          "name": "imnews.imbc.com",
           "title": "\"경제 정책 해봤나\" vs \"사람 무시에 일가견\"‥김민석·정청래 감정싸움 격화",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAteGZxVFpKTExOdkptME9wSU9YaTR2ZDB1OXlEV2NLVkVMelRkZmk1Nnl6V1o1ajdyR1l4MENqWmYwd0k1clQ3UGtIeG1tUG9iUjhuc05CR1N3SUJwLVQzRTB3NDhFcWdQa1ozUlk0eWtZSkp4SFBKeQ?oc=5"
         },
@@ -350,8 +341,8 @@
         "김민석",
         "정청래",
         "민주당",
-        "경제 정책",
-        "정치 갈등"
+        "경제정책",
+        "설전"
       ],
       "image_url": "https://picsum.photos/seed/news-20260812-010/600/400"
     }
