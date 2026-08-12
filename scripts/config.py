@@ -19,6 +19,31 @@ HTTP_HEADERS = {
     "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7"
 }
 
+# Default RSS Feeds (공식 RSS 및 메인 방송사 구글 뉴스 RSS 피드)
+DEFAULT_FEEDS = [
+    # --- 경제 (Economy) ---
+    {"name": "연합뉴스", "category": "경제", "url": "https://www.yna.co.kr/rss/economy.xml"},
+    {"name": "매일경제", "category": "경제", "url": "https://www.mk.co.kr/rss/30000001/"},
+    {"name": "한국경제", "category": "경제", "url": "https://www.hankyung.co.kr/feed/economy"},
+    {"name": "경향신문", "category": "경제", "url": "https://www.khan.co.kr/rss/rssdata/economy.xml"},
+    {"name": "한겨레", "category": "경제", "url": "https://www.hani.co.kr/rss/economy/"},
+    {"name": "SBS", "category": "경제", "url": "https://news.sbs.co.kr/news/sectionRssFeed.do?sectionId=02"},
+    {"name": "KBS", "category": "경제", "url": "https://news.google.com/rss/search?q=site:news.kbs.co.kr+경제&hl=ko&gl=KR&ceid=KR:ko"},
+    {"name": "MBC", "category": "경제", "url": "https://news.google.com/rss/search?q=site:imnews.imbc.com+경제&hl=ko&gl=KR&ceid=KR:ko"},
+    {"name": "YTN", "category": "경제", "url": "https://news.google.com/rss/search?q=site:ytn.co.kr+경제&hl=ko&gl=KR&ceid=KR:ko"},
+
+    # --- 글로벌 (Global) ---
+    {"name": "연합뉴스", "category": "글로벌", "url": "https://www.yna.co.kr/rss/international.xml"},
+    {"name": "매일경제", "category": "글로벌", "url": "https://www.mk.co.kr/rss/30200030/"},
+    {"name": "한국경제", "category": "글로벌", "url": "https://www.hankyung.co.kr/feed/international"},
+    {"name": "경향신문", "category": "글로벌", "url": "https://www.khan.co.kr/rss/rssdata/kh_world.xml"},
+    {"name": "한겨레", "category": "글로벌", "url": "https://www.hani.co.kr/rss/international/"},
+    {"name": "SBS", "category": "글로벌", "url": "https://news.sbs.co.kr/news/sectionRssFeed.do?sectionId=09"},
+    {"name": "KBS", "category": "글로벌", "url": "https://news.google.com/rss/search?q=site:news.kbs.co.kr+국제|글로벌&hl=ko&gl=KR&ceid=KR:ko"},
+    {"name": "MBC", "category": "글로벌", "url": "https://news.google.com/rss/search?q=site:imnews.imbc.com+국제|글로벌&hl=ko&gl=KR&ceid=KR:ko"},
+    {"name": "YTN", "category": "글로벌", "url": "https://news.google.com/rss/search?q=site:ytn.co.kr+국제|글로벌&hl=ko&gl=KR&ceid=KR:ko"}
+]
+
 # API Keys & Flags
 KAKAO_REST_API_KEY = os.environ.get("KAKAO_REST_API_KEY", "")
 NEWS_API_KEY = os.environ.get("NEWS_API_KEY", os.environ.get("NEWSAPI_KEY", ""))
