@@ -46,13 +46,12 @@ def group_articles_simple(articles: List[NewsArticle]) -> List[List[NewsArticle]
             if j in processed_indices:
                 continue
 
-            if art1.target_category == art2.target_category:
-                nouns2 = article_nouns[j]
-                intersection = nouns1.intersection(nouns2)
-                
-                if len(intersection) >= 2:
-                    current_cluster.append(art2)
-                    processed_indices.add(j)
+            nouns2 = article_nouns[j]
+            intersection = nouns1.intersection(nouns2)
+            
+            if len(intersection) >= 2:
+                current_cluster.append(art2)
+                processed_indices.add(j)
 
         clusters.append(current_cluster)
 

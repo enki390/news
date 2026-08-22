@@ -10,7 +10,7 @@ class KakaoNewsAPISource(BaseNewsSource):
 
     def __init__(self, rest_api_key: str, queries: List[str] = None, category: str = "경제"):
         self.api_key = rest_api_key
-        self.queries = queries or ["경제", "글로벌"]
+        self.queries = queries or ["경제", "글로벌", "비즈니스", "IT"]
         self.category = category
 
     @property
@@ -80,9 +80,9 @@ class NewsAPISource(BaseNewsSource):
 
         articles: List[NewsArticle] = []
 
-        # 1. 경제 카테고리 (Top Business Headlines for Korea)
+        # 1. 경제 / 비즈니스 카테고리 (Top Business Headlines for Korea)
         try:
-            biz_url = f"https://newsapi.org/v2/top-headlines?country=kr&category=business&pageSize=20&apiKey={self.api_key}"
+            biz_url = f"https://newsapi.org/v2/top-headlines?country=kr&category=business&pageSize=15&apiKey={self.api_key}"
             resp = requests.get(biz_url, timeout=10)
             if resp.status_code == 200:
                 data = resp.json()
@@ -108,7 +108,7 @@ class NewsAPISource(BaseNewsSource):
                         published_at=item.get("publishedAt", ""),
                         thumbnail_url=item.get("urlToImage", "") or ""
                     ))
-                print(f"[{self.source_name}] 경제 수집 완료: {len(articles)}개 기사")
+                print(f"[{self.source_name}] 경제/비즈니스 수집 완료: {len(articles)}개 기사")
             else:
                 print(f"[{self.source_name}] 경제 수집 응답 실패 ({resp.status_code})")
         except Exception as e:
@@ -116,7 +116,7 @@ class NewsAPISource(BaseNewsSource):
 
         # 2. 글로벌 카테고리 (Everything search with global keywords in Korean)
         try:
-            global_url = f"https://newsapi.org/v2/everything?q=글로벌 OR 세계 OR 환율 OR 미증시&language=ko&sortBy=publishedAt&pageSize=15&apiKey={self.api_key}"
+            global_url = f"https://newsapi.org/v2/everything?q=글로벌 OR 세계 OR 환율 OR 미증시&language=ko&sortBy=publishedAt&pageSize=10&apiKey={self.api_key}"
             resp = requests.get(global_url, timeout=10)
             if resp.status_code == 200:
                 data = resp.json()
@@ -148,5 +148,40 @@ class NewsAPISource(BaseNewsSource):
                 print(f"[{self.source_name}] 글로벌 수집 응답 실패 ({resp.status_code})")
         except Exception as e:
             print(f"[{self.source_name}] 글로벌 수집 중 예외 발생: {e}")
+
+        # 3. IT/과학 카테고리 (Technology / Science headlines)
+        try:
+            tech_url = f"https://newsapi.org/v2/top-headlines?country=kr&category=technology&pageSize=15&apiKey={self.api_key}"
+            resp = requests.get(tech_url, timeout=10)
+            if resp.status_code == 200:
+                data = resp.json()
+                initial_count = len(articles)
+                for item in data.get("articles", []):
+                    title = item.get("title", "")
+                    if not title or title == "[Removed]":
+                        continue
+                    pub_name = item.get("source", {}).get("name", "NewsAPI")
+                    article_url = item.get("url", "")
+                    description = item.get("description", "") or ""
+                    raw_content = item.get("content", "") or ""
+
+                    full_body = self._extract_full_article_content(article_url, raw_content, description)
+
+                    articles.append(NewsArticle(
+                        title=title,
+                        publisher=pub_name,
+                        url=article_url,
+                        summary=description,
+                        full_content=full_body,
+                        target_category="IT/과학",
+                        source_type=self.source_type,
+                        published_at=item.get("publishedAt", ""),
+                        thumbnail_url=item.get("urlToImage", "") or ""
+                    ))
+                print(f"[{self.source_name}] IT/과학 수집 완료: {len(articles) - initial_count}개 기사")
+            else:
+                print(f"[{self.source_name}] IT/과학 수집 응답 실패 ({resp.status_code})")
+        except Exception as e:
+            print(f"[{self.source_name}] IT/과학 수집 중 예외 발생: {e}")
 
         return articles

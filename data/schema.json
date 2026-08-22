@@ -26,8 +26,16 @@
           "headline": { "type": "string" },
           "category": { 
             "type": "string",
-            "enum": ["경제", "글로벌"],
-            "description": "2대 허용 카테고리 (경제, 글로벌)"
+            "enum": ["경제", "글로벌", "비즈니스", "IT/과학"],
+            "description": "대표 주 카테고리"
+          },
+          "categories": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["경제", "글로벌", "비즈니스", "IT/과학"]
+            },
+            "description": "복수 연관 카테고리 목록"
           },
           "summary": {
             "type": "object",

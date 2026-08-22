@@ -1,7 +1,7 @@
 /**
  * News Discover Frontend Application Logic
- * Supports 2 target categories: 경제, 글로벌
- * Features: Article Collection & Update Triggering, Debounced Locking, Manual Feedback Reflection Workflow, Auto PAT Loading
+ * Supports 4 target categories: 경제, 글로벌, 비즈니스, IT/과학
+ * Features: Multi-category support, History API modal, Custom calendar date selector, Responsive modern UI
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -16,17 +16,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const mainHeroSubtitle = document.getElementById('mainHeroSubtitle');
   const themeToggleBtn = document.getElementById('themeToggleBtn');
   const themeIcon = document.getElementById('themeIcon');
-
-  // Action & Control Buttons
-  const updateNewsBtn = document.getElementById('updateNewsBtn');
-  const updateBtnIcon = document.getElementById('updateBtnIcon');
-  const updateBtnText = document.getElementById('updateBtnText');
-  
-  const applyFeedbackBtn = document.getElementById('applyFeedbackBtn');
-  const feedbackBtnIcon = document.getElementById('feedbackBtnIcon');
-  const feedbackBtnText = document.getElementById('feedbackBtnText');
-  const feedbackCountBadge = document.getElementById('feedbackCountBadge');
-
   const toastContainer = document.getElementById('toastContainer');
 
   // Custom Calendar DOM Elements
@@ -44,8 +33,6 @@ document.addEventListener('DOMContentLoaded', () => {
   let activeCategory = 'all';
   let searchQuery = '';
   let availableDates = [];
-  let isProcessing = false; // Lock flag for preventing concurrent update/feedback requests
-  let lastLoadedGeneratedAt = ''; // Track exact data timestamp for detecting updates
   
   const todayObj = new Date();
   const todayStr = todayObj.toISOString().split('T')[0];
@@ -59,7 +46,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   async function initApp() {
     setupTheme();
-    updateFeedbackBadge();
     await fetchAvailableDates();
     
     if (availableDates.length > 0) {
@@ -92,26 +78,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  // Auto PAT Token Loader (1. localStorage -> 2. data/config.json)
-  async function getPATToken() {
-    let token = localStorage.getItem('github_pat_token') || '';
-    if (token) return token;
-
-    try {
-      const resp = await fetch(`data/config.json?t=${Date.now()}`, { cache: 'no-store' });
-      if (resp.ok) {
-        const cfg = await resp.json();
-        if (cfg && cfg.github_pat && cfg.github_pat !== 'YOUR_GITHUB_PERSONAL_ACCESS_TOKEN_HERE') {
-          return cfg.github_pat.trim();
-        }
-      }
-    } catch (e) {
-      // Ignore if config.json does not exist
-    }
-
-    return '';
-  }
-
   // Fetch Manifest of Available News Dates (No Cache)
   async function fetchAvailableDates() {
     try {
@@ -135,23 +101,27 @@ document.addEventListener('DOMContentLoaded', () => {
     const savedTheme = localStorage.getItem('news_discover_theme') || 'dark';
     setTheme(savedTheme);
 
-    themeToggleBtn.addEventListener('click', () => {
-      const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
-      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-      setTheme(newTheme);
-    });
+    if (themeToggleBtn) {
+      themeToggleBtn.addEventListener('click', () => {
+        const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        setTheme(newTheme);
+      });
+    }
   }
 
   function setTheme(theme) {
     document.documentElement.setAttribute('data-theme', theme);
     localStorage.setItem('news_discover_theme', theme);
 
-    if (theme === 'dark') {
-      themeIcon.className = 'fa-solid fa-moon';
-      themeToggleBtn.title = '라이트 모드로 변경';
-    } else {
-      themeIcon.className = 'fa-solid fa-sun';
-      themeToggleBtn.title = '다크 모드로 변경';
+    if (themeIcon) {
+      if (theme === 'dark') {
+        themeIcon.className = 'fa-solid fa-moon';
+        if (themeToggleBtn) themeToggleBtn.title = '라이트 모드로 변경';
+      } else {
+        themeIcon.className = 'fa-solid fa-sun';
+        if (themeToggleBtn) themeToggleBtn.title = '다크 모드로 변경';
+      }
     }
   }
 
@@ -161,31 +131,37 @@ document.addEventListener('DOMContentLoaded', () => {
       selectedDateText.textContent = selectedDate;
     }
 
-    datePickerTrigger.addEventListener('click', (e) => {
-      e.stopPropagation();
-      datePickerWrapper.classList.toggle('active');
-      renderCalendarGrid();
-    });
+    if (datePickerTrigger && datePickerWrapper) {
+      datePickerTrigger.addEventListener('click', (e) => {
+        e.stopPropagation();
+        datePickerWrapper.classList.toggle('active');
+        renderCalendarGrid();
+      });
+    }
 
-    calPrevMonthBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      viewMonth--;
-      if (viewMonth < 0) {
-        viewMonth = 11;
-        viewYear--;
-      }
-      renderCalendarGrid();
-    });
+    if (calPrevMonthBtn) {
+      calPrevMonthBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        viewMonth--;
+        if (viewMonth < 0) {
+          viewMonth = 11;
+          viewYear--;
+        }
+        renderCalendarGrid();
+      });
+    }
 
-    calNextMonthBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      viewMonth++;
-      if (viewMonth > 11) {
-        viewMonth = 0;
-        viewYear++;
-      }
-      renderCalendarGrid();
-    });
+    if (calNextMonthBtn) {
+      calNextMonthBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        viewMonth++;
+        if (viewMonth > 11) {
+          viewMonth = 0;
+          viewYear++;
+        }
+        renderCalendarGrid();
+      });
+    }
 
     document.addEventListener('click', (e) => {
       if (datePickerWrapper && !datePickerWrapper.contains(e.target)) {
@@ -197,6 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function renderCalendarGrid() {
+    if (!calMonthTitle || !calendarDaysGrid) return;
     calMonthTitle.textContent = `${viewYear}년 ${viewMonth + 1}월`;
 
     const firstDay = new Date(viewYear, viewMonth, 1).getDay();
@@ -245,7 +222,9 @@ document.addEventListener('DOMContentLoaded', () => {
     if (selectedDateText) {
       selectedDateText.textContent = dateStr;
     }
-    datePickerWrapper.classList.remove('active');
+    if (datePickerWrapper) {
+      datePickerWrapper.classList.remove('active');
+    }
     
     if (dateStr === todayStr) {
       loadNewsData('latest');
@@ -255,35 +234,43 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function setupEventListeners() {
-    categoryBar.addEventListener('click', (e) => {
-      const targetBtn = e.target.closest('.category-chip');
-      if (targetBtn) {
-        document.querySelectorAll('.category-chip').forEach(chip => chip.classList.remove('active'));
-        targetBtn.classList.add('active');
-        activeCategory = targetBtn.dataset.category;
+    if (categoryBar) {
+      categoryBar.addEventListener('click', (e) => {
+        const targetBtn = e.target.closest('.category-chip');
+        if (targetBtn) {
+          document.querySelectorAll('.category-chip').forEach(chip => chip.classList.remove('active'));
+          targetBtn.classList.add('active');
+          activeCategory = targetBtn.dataset.category;
+          renderNewsGrid();
+        }
+      });
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        searchQuery = e.target.value.toLowerCase().trim();
         renderNewsGrid();
-      }
-    });
+      });
+    }
 
-    searchInput.addEventListener('input', (e) => {
-      searchQuery = e.target.value.toLowerCase().trim();
-      renderNewsGrid();
-    });
+    if (modalCloseBtn) {
+      modalCloseBtn.addEventListener('click', () => {
+        if (newsModal.classList.contains('active')) {
+          history.back();
+        }
+      });
+    }
 
-    modalCloseBtn.addEventListener('click', () => {
-      if (newsModal.classList.contains('active')) {
-        history.back();
-      }
-    });
-
-    newsModal.addEventListener('click', (e) => {
-      if (e.target === newsModal && newsModal.classList.contains('active')) {
-        history.back();
-      }
-    });
+    if (newsModal) {
+      newsModal.addEventListener('click', (e) => {
+        if (e.target === newsModal && newsModal.classList.contains('active')) {
+          history.back();
+        }
+      });
+    }
 
     window.addEventListener('popstate', () => {
-      if (newsModal.classList.contains('active')) {
+      if (newsModal && newsModal.classList.contains('active')) {
         closeModalDOM();
       }
     });
@@ -293,214 +280,6 @@ document.addEventListener('DOMContentLoaded', () => {
         history.back();
       }
     });
-
-    // 1. [SECURE UPDATE BUTTON] 기사 수집 -> 페이지 업데이트 연동 (중복 클릭 방지 락 및 실시간 상태 감지)
-    if (updateNewsBtn) {
-      updateNewsBtn.addEventListener('click', async () => {
-        if (isProcessing) {
-          showToast('⚠️ 기사 수집/반영 작업이 진행 중입니다. 잠시만 기다려 주세요.', 'warning');
-          return;
-        }
-
-        setProcessingState(true, 'update');
-        showToast('🚀 GitHub Actions 뉴스 수집 워크플로우를 트리거합니다...', 'info', 4000);
-
-        try {
-          await triggerCollectorBatch('collect');
-          showToast('⚡ 수집 배치가 시작되었습니다. GitHub Actions 및 배포 상태를 감지합니다...', 'info', 5000);
-          
-          const updated = await pollForUpdatedData();
-          if (updated) {
-            showToast('🎉 최신 뉴스 기사 수집 및 페이지 업데이트가 완료되었습니다!', 'success', 5000);
-          } else {
-            showToast('ℹ️ 기사 수집 배치가 완료되었습니다. (추가 신규 기사가 없거나 이전과 동일합니다.)', 'info', 5000);
-          }
-        } catch (err) {
-          console.error('Update news error:', err);
-          showToast(`❌ 기사 업데이트 중 오류: ${err.message}`, 'error', 6000);
-        } finally {
-          setProcessingState(false);
-        }
-      });
-    }
-
-    // 2. [APPLY FEEDBACK BUTTON] 기사 피드백 취합 -> GitHub Issue 자동 생성
-    if (applyFeedbackBtn) {
-      applyFeedbackBtn.addEventListener('click', async () => {
-        if (isProcessing) {
-          showToast('⚠️ 다른 작업이 진행 중입니다. 잠시만 기다려 주세요.', 'warning');
-          return;
-        }
-
-        const feedbacksMap = getFeedbacksMap();
-        const fbCount = Object.keys(feedbacksMap).length;
-        if (fbCount === 0) {
-          showToast('ℹ️ 저장된 기사 피드백이 없습니다. 기사 상세 모달에서 피드백을 작성해 주세요.', 'info');
-          return;
-        }
-
-        setProcessingState(true, 'feedback');
-        showToast(`✨ 기사 피드백 (${fbCount}개) 기반 GitHub Issue 등록을 진행합니다...`, 'info', 4000);
-
-        try {
-          const issueResult = await createGitHubIssueFromFeedbacks(feedbacksMap);
-          
-          // Clear local feedbacks after successfully creating GitHub Issue
-          localStorage.removeItem('news_discover_feedbacks');
-          updateFeedbackBadge();
-          renderNewsGrid();
-
-          showToast(`🎉 GitHub Issue (#${issueResult.number})가 성공적으로 생성되었습니다!`, 'success', 6000);
-        } catch (err) {
-          console.error('Create GitHub issue error:', err);
-          showToast(`❌ GitHub Issue 등록 중 오류: ${err.message}`, 'error', 6000);
-        } finally {
-          setProcessingState(false);
-        }
-      });
-    }
-  }
-
-  // Processing UI & Button Lock Helper
-  function setProcessingState(loading, type = '') {
-    isProcessing = loading;
-
-    if (loading) {
-      if (updateNewsBtn) {
-        updateNewsBtn.disabled = true;
-        updateNewsBtn.classList.add('is-loading');
-      }
-      if (applyFeedbackBtn) {
-        applyFeedbackBtn.disabled = true;
-        applyFeedbackBtn.classList.add('is-loading');
-      }
-
-      if (type === 'update') {
-        updateBtnIcon.className = 'fa-solid fa-spinner fa-spin';
-        updateBtnText.textContent = '수집 진행 중...';
-      } else if (type === 'feedback') {
-        feedbackBtnIcon.className = 'fa-solid fa-spinner fa-spin';
-        feedbackBtnText.textContent = '이슈 생성 중...';
-      }
-    } else {
-      if (updateNewsBtn) {
-        updateNewsBtn.disabled = false;
-        updateNewsBtn.classList.remove('is-loading');
-        updateBtnIcon.className = 'fa-solid fa-rotate';
-        updateBtnText.textContent = '기사 업데이트';
-      }
-      if (applyFeedbackBtn) {
-        applyFeedbackBtn.disabled = false;
-        applyFeedbackBtn.classList.remove('is-loading');
-        feedbackBtnIcon.className = 'fa-solid fa-wand-magic-sparkles';
-        feedbackBtnText.textContent = '피드백 반영';
-      }
-    }
-  }
-
-  // Create GitHub Issue from User Feedbacks
-  async function createGitHubIssueFromFeedbacks(feedbacksMap) {
-    const patToken = await getPATToken();
-    const today = new Date().toISOString().split('T')[0];
-    const fbList = Object.entries(feedbacksMap);
-
-    let bodyMd = `## 📝 기사 피드백 취합 리포트 (${today})\n\n총 ${fbList.length}개의 기사 품질 및 파이프라인 개선 요청이 저장되었습니다.\n\n### 피드백 항목 목록\n`;
-    fbList.forEach(([id, item], idx) => {
-      bodyMd += `\n#### ${idx + 1}. [${escapeHtml(item.category)}] ${escapeHtml(item.headline)}\n- **기사 ID**: \`${id}\`\n- **작성 시각**: ${item.updated_at}\n- **사용자 지침**:\n> ${escapeHtml(item.text).replace(/\n/g, '\n> ')}\n`;
-    });
-
-    bodyMd += `\n---\n*자동 생성된 피드백 이슈입니다.*`;
-
-    const headers = {
-      'Accept': 'application/vnd.github.v3+json',
-      'Content-Type': 'application/json'
-    };
-    if (patToken) {
-      headers['Authorization'] = `token ${patToken}`;
-    }
-
-    const resp = await fetch('https://api.github.com/repos/enki390/news/issues', {
-      method: 'POST',
-      headers: headers,
-      body: JSON.stringify({
-        title: `[피드백 반영] ${today} 기사 품질 및 파이프라인 개선 요청`,
-        body: bodyMd,
-        labels: ['feedback', 'automated']
-      })
-    });
-
-    if (!resp.ok) {
-      const errText = await resp.text();
-      throw new Error(`GitHub Issue 생성 실패 (${resp.status}): ${errText}`);
-    }
-
-    return await resp.json();
-  }
-
-  // Trigger GitHub Actions daily_news.yml batch execution
-  async function triggerCollectorBatch(mode) {
-    const patToken = await getPATToken();
-    const headers = {
-      'Accept': 'application/vnd.github.v3+json',
-      'Content-Type': 'application/json'
-    };
-    if (patToken) {
-      headers['Authorization'] = `token ${patToken}`;
-    }
-
-    const resp = await fetch('https://api.github.com/repos/enki390/news/actions/workflows/daily_news.yml/dispatches', {
-      method: 'POST',
-      headers: headers,
-      body: JSON.stringify({
-        ref: 'main',
-        inputs: { mode: mode }
-      })
-    });
-
-    if (!resp.ok) {
-      const errText = await resp.text();
-      throw new Error(`GitHub Actions dispatch 실패 (${resp.status}): ${errText}`);
-    }
-  }
-
-  // Poll for GitHub Actions Completion & Real Data Change (Bypassing CDN Cache)
-  async function pollForUpdatedData() {
-    const initialGeneratedAt = lastLoadedGeneratedAt;
-    const maxAttempts = 16; // Up to ~80 seconds
-    const intervalMs = 5000;
-
-    for (let attempt = 1; attempt <= maxAttempts; attempt++) {
-      await new Promise(resolve => setTimeout(resolve, intervalMs));
-      
-      await fetchAvailableDates();
-      const fileName = selectedDate === todayStr ? 'latest.json' : `${selectedDate}.json`;
-      
-      try {
-        // Bypass cache with no-store and timestamp query
-        const resp = await fetch(`data/${fileName}?t=${Date.now()}`, { cache: 'no-store' });
-        if (resp.ok) {
-          const data = await resp.json();
-          const currentGenAt = data.generated_at || '';
-
-          // Check if data timestamp has updated
-          if (currentGenAt && currentGenAt !== initialGeneratedAt) {
-            console.log(`[Data Update Detected] Old: ${initialGeneratedAt} -> New: ${currentGenAt}`);
-            await loadNewsData(selectedDate === todayStr ? 'latest' : selectedDate);
-            return true;
-          }
-        }
-      } catch (e) {
-        console.warn(`Polling attempt ${attempt} failed:`, e);
-      }
-
-      if (attempt % 3 === 0) {
-        showToast(`⏳ (${attempt}/${maxAttempts}) 기사 수집 및 배포 처리 진행 중...`, 'info', 4000);
-      }
-    }
-
-    // Final fallback load
-    await loadNewsData(selectedDate === todayStr ? 'latest' : selectedDate);
-    return lastLoadedGeneratedAt !== initialGeneratedAt;
   }
 
   // Fetch Daily News Data (Bypassing Browser/CDN Cache)
@@ -516,7 +295,6 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       const data = await response.json();
       currentNewsData = data.news_items || [];
-      lastLoadedGeneratedAt = data.generated_at || '';
       
       if (data.date) {
         selectedDate = data.date;
@@ -525,7 +303,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       }
 
-      if (data.generated_at) {
+      if (data.generated_at && updateTimeText) {
         const timeObj = new Date(data.generated_at);
         const formattedTime = timeObj.toLocaleString('ko-KR', {
           month: 'long',
@@ -536,7 +314,9 @@ document.addEventListener('DOMContentLoaded', () => {
         updateTimeText.textContent = `${data.date} (${formattedTime} 수집 완료)`;
       }
 
-      mainHeroSubtitle.textContent = `경제 및 글로벌 2대 주요 분야의 뉴스 총 ${currentNewsData.length}개를 수집 및 심층 분석 하였습니다.`;
+      if (mainHeroSubtitle) {
+        mainHeroSubtitle.textContent = `경제, 글로벌, 비즈니스, IT/과학 4대 주요 분야의 뉴스 총 ${currentNewsData.length}개를 수집 및 심층 분석 하였습니다.`;
+      }
       
       renderNewsGrid();
       return true;
@@ -548,7 +328,6 @@ document.addEventListener('DOMContentLoaded', () => {
           if (fbResp.ok) {
             const fbData = await fbResp.json();
             currentNewsData = fbData.news_items || [];
-            lastLoadedGeneratedAt = fbData.generated_at || '';
             if (fbData.date) {
               selectedDate = fbData.date;
               if (selectedDateText) {
@@ -567,15 +346,45 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
+  // Check if article matches active category filter
+  function matchCategoryFilter(item, category) {
+    if (category === 'all') return true;
+    
+    // Check multiple categories array
+    if (Array.isArray(item.categories) && item.categories.includes(category)) {
+      return true;
+    }
+    // Check single category array or string
+    if (Array.isArray(item.category) && item.category.includes(category)) {
+      return true;
+    }
+    return item.category === category;
+  }
+
+  // Get normalized list of categories for an item
+  function getItemCategories(item) {
+    if (Array.isArray(item.categories) && item.categories.length > 0) {
+      return item.categories;
+    }
+    if (Array.isArray(item.category) && item.category.length > 0) {
+      return item.category;
+    }
+    if (item.category) {
+      return [item.category];
+    }
+    return ['경제'];
+  }
+
   // Render Grid Cards
   function renderNewsGrid() {
+    if (!newsContainer) return;
     if (!currentNewsData || currentNewsData.length === 0) {
       showEmptyState('수집된 뉴스 데이터가 없습니다.');
       return;
     }
 
     const filteredNews = currentNewsData.filter(item => {
-      const matchesCategory = activeCategory === 'all' || item.category === activeCategory;
+      const matchesCategory = matchCategoryFilter(item, activeCategory);
       const matchesSearch = !searchQuery || 
         item.headline.toLowerCase().includes(searchQuery) ||
         (item.summary && item.summary.overview && item.summary.overview.toLowerCase().includes(searchQuery)) ||
@@ -603,19 +412,24 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function createNewsCardHTML(item) {
+    const categories = getItemCategories(item);
+    const categoryBadgesHTML = categories.map(cat => 
+      `<span class="card-category-badge">${escapeHtml(cat)}</span>`
+    ).join(' ');
+
     const publisherBadges = item.publishers.slice(0, 3).map(p => 
       `<span class="pub-chip">${escapeHtml(p.name)}</span>`
     ).join('');
 
     const extraPubCount = item.publishers.length > 3 ? `<span class="pub-chip">+${item.publishers.length - 3}</span>` : '';
-    const hasFB = hasFeedback(item.id);
 
     return `
-      <article class="news-card ${hasFB ? 'has-feedback-card' : ''}" data-id="${item.id}">
+      <article class="news-card" data-id="${item.id}">
         <div class="card-image-wrapper">
           <img src="${item.image_url}" alt="${escapeHtml(item.headline)}" class="card-image" loading="lazy" onerror="this.src='https://picsum.photos/seed/${item.id}/600/400'">
-          <span class="card-category-badge">${escapeHtml(item.category)}</span>
-          ${hasFB ? '<span class="feedback-indicator-tag"><i class="fa-solid fa-comment"></i> 피드백 저장됨</span>' : ''}
+          <div class="card-badges-container">
+            ${categoryBadgesHTML}
+          </div>
         </div>
         <div class="card-body">
           <h2 class="card-headline">${escapeHtml(item.headline)}</h2>
@@ -636,6 +450,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Open Detailed View Modal with History API Push State
   function openNewsModal(item) {
+    const categories = getItemCategories(item);
+    const categoryTagsHTML = categories.map(cat => 
+      `<span class="modal-category-tag">${escapeHtml(cat)}</span>`
+    ).join(' ');
+
     const publisherLinksHTML = item.publishers.map(pub => `
       <a href="${pub.url}" target="_blank" rel="noopener noreferrer" class="publisher-link-item">
         <span class="publisher-name-badge">${escapeHtml(pub.name)}</span>
@@ -644,10 +463,10 @@ document.addEventListener('DOMContentLoaded', () => {
       </a>
     `).join('');
 
-    const savedFB = getFeedback(item.id);
-
     modalBody.innerHTML = `
-      <span class="modal-category-tag">${escapeHtml(item.category)}</span>
+      <div class="modal-categories-wrapper">
+        ${categoryTagsHTML}
+      </div>
       <h1 class="modal-headline">${escapeHtml(item.headline)}</h1>
 
       <!-- 1. 종합 요약 -->
@@ -665,113 +484,24 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="publisher-links-list">
         ${publisherLinksHTML}
       </div>
-
-      <!-- 3. 기사 피드백 입력란 -->
-      <div class="modal-section-title feedback-title">
-        <i class="fa-solid fa-comment-dots"></i> 기사 품질 피드백 (개발 메모)
-      </div>
-      <div class="feedback-input-container">
-        <p class="feedback-desc">요약 결과, 관점 비교, 분류 등 개선사항 메모를 작성하여 저장해둘 수 있습니다.</p>
-        <textarea id="modalFeedbackText" class="feedback-textarea" placeholder="예: 특정 파생 영향을 추가 요약에 포함하면 좋겠습니다.">${escapeHtml(savedFB)}</textarea>
-        <div class="feedback-actions">
-          <button id="saveFeedbackBtn" class="btn btn-secondary">
-            <i class="fa-solid fa-floppy-disk"></i> 메모 저장
-          </button>
-          ${savedFB ? `
-            <button id="deleteFeedbackBtn" class="btn btn-danger-outline">
-              <i class="fa-solid fa-trash"></i> 삭제
-            </button>
-          ` : ''}
-        </div>
-      </div>
     `;
 
     history.pushState({ modalOpen: true, newsId: item.id }, '', `#news-${item.id}`);
 
     newsModal.classList.add('active');
     document.body.style.overflow = 'hidden';
-
-    const saveFBtn = document.getElementById('saveFeedbackBtn');
-    const deleteFBtn = document.getElementById('deleteFeedbackBtn');
-    const fbText = document.getElementById('modalFeedbackText');
-
-    if (saveFBtn) {
-      saveFBtn.addEventListener('click', () => {
-        const val = fbText.value.trim();
-        if (val) {
-          saveFeedback(item.id, item.headline, item.category, val);
-          showToast('💾 피드백 메모가 저장되었습니다.');
-        } else {
-          removeFeedback(item.id);
-          showToast('피드백이 삭제되었습니다.');
-        }
-        openNewsModal(item);
-      });
-    }
-
-    if (deleteFBtn) {
-      deleteFBtn.addEventListener('click', () => {
-        removeFeedback(item.id);
-        showToast('피드백이 삭제되었습니다.');
-        openNewsModal(item);
-      });
-    }
   }
 
   function closeModalDOM() {
-    newsModal.classList.remove('active');
-    document.body.style.overflow = '';
-  }
-
-  // Feedback Store & Badge Helpers
-  function getFeedbacksMap() {
-    try {
-      return JSON.parse(localStorage.getItem('news_discover_feedbacks') || '{}');
-    } catch (e) {
-      return {};
-    }
-  }
-
-  function saveFeedback(id, headline, category, text) {
-    const map = getFeedbacksMap();
-    map[id] = { headline, category, text, updated_at: new Date().toISOString() };
-    localStorage.setItem('news_discover_feedbacks', JSON.stringify(map));
-    updateFeedbackBadge();
-    renderNewsGrid();
-  }
-
-  function removeFeedback(id) {
-    const map = getFeedbacksMap();
-    delete map[id];
-    localStorage.setItem('news_discover_feedbacks', JSON.stringify(map));
-    updateFeedbackBadge();
-    renderNewsGrid();
-  }
-
-  function getFeedback(id) {
-    const map = getFeedbacksMap();
-    return map[id]?.text || '';
-  }
-
-  function hasFeedback(id) {
-    const map = getFeedbacksMap();
-    return !!map[id];
-  }
-
-  function updateFeedbackBadge() {
-    if (!feedbackCountBadge) return;
-    const map = getFeedbacksMap();
-    const count = Object.keys(map).length;
-    if (count > 0) {
-      feedbackCountBadge.textContent = count;
-      feedbackCountBadge.style.display = 'inline-block';
-    } else {
-      feedbackCountBadge.style.display = 'none';
+    if (newsModal) {
+      newsModal.classList.remove('active');
+      document.body.style.overflow = '';
     }
   }
 
   // Toast UI Notification Helper
   function showToast(message, type = 'info', duration = 3500) {
+    if (!toastContainer) return;
     const toast = document.createElement('div');
     toast.className = `toast-item toast-${type}`;
     
@@ -790,6 +520,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function showLoading() {
+    if (!newsContainer) return;
     newsContainer.innerHTML = `
       <div class="loading-state">
         <div class="spinner"></div>
@@ -799,6 +530,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function showEmptyState(message) {
+    if (!newsContainer) return;
     newsContainer.innerHTML = `
       <div class="empty-state">
         <i class="fa-solid fa-folder-open" style="font-size: 48px; margin-bottom: 16px; opacity: 0.5;"></i>
