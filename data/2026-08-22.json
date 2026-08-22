@@ -1,14 +1,18 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T15:05:37.868336+09:00",
-  "total_count": 10,
+  "generated_at": "2026-08-22T15:53:14.670655+09:00",
+  "total_count": 20,
   "news_items": [
     {
       "id": "news-20260822-001",
-      "headline": "미국, 이란 경제 붕괴 유도 위해 동맹국 압박... 이란은 '경제 테러' 규정",
-      "category": "경제",
+      "headline": "일본 기록적 폭염에 남성 제모 수요 급증... 반바지 일상화가 부른 '이중 압박'",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
       "summary": {
-        "overview": "미국이 이란의 경제적 붕괴를 목적으로 동맹국들을 향한 압박 수위를 높이고 있습니다. 미국은 이란을 국제 경제 체제에서 완전히 고립시키기 위해 동맹국들이 제재에 적극적으로 동참할 것을 요구하는 상황입니다.\n\n이에 대해 이란 정부는 미국의 이러한 행보를 '경제 테러'라고 명명하며 강력히 반발했습니다. 이란은 국제 사회의 압박을 자국의 경제 기반을 무너뜨리려는 의도적인 공격으로 규정하며 맞서고 있습니다."
+        "overview": "일본에서 기록적인 폭염이 지속되면서 남성들의 체모 제모 수요가 급격히 늘었습니다. 최근 조사 결과 일본 남성 응답자 4명 중 1명은 지난 1년간 종아리 털 제모 시술을 받은 것으로 나타났습니다. 과거에는 주로 수염을 제모했다면, 이제는 다리를 포함한 신체 전반으로 시술 범위가 넓어지는 모양새입니다.\n\n이러한 흐름은 더위를 이기려는 개인적 욕구와 사회적 시선이 맞물린 결과입니다. 땀으로 인한 불쾌감을 줄이려는 목적 외에도, 도쿄도가 권장하는 '쿨비즈' 문화로 반바지 착용이 늘면서 노출된 체모에 대한 부담감이 커졌습니다.\n\n현재 일본 사회에서는 반바지 차림을 두고 의견이 엇갈립니다. 복장이 가벼워져 산뜻하다는 반응과 지나친 체모 노출이 불편하다는 의견이 공존합니다. 남성들은 개인의 쾌적함과 사회적 단정함을 동시에 충족하기 위해 제모를 선택하고 있습니다."
       },
       "publishers": [
         {
@@ -19,7 +23,7 @@
         {
           "name": "KBS 뉴스",
           "title": "미, ‘이란 경제 붕괴’에 동맹 참여 압박…이란 “경제 테러”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04cjU3UzhpdFNyLVZ0UE5CZFFuX05WZnRZblF5U3hhV0lORnhkWjlSNFZkdExtTlRLYk5yZkZHbExyeEZVY0xBY1JYVW9UT0l6dlpYTEN5YUhfNEU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpSFVpZHlTQ3F5NnFzRFlrTmJpLU96M1dMREVsbkctbW9oV2N2RGN0cDJBZkxjLW5UeDhUNWZfbU85V2NyZ2lad1htX1JLYU1rX1JXRDJGTWM5OW9DbDA5aVBMbVA5Zw?oc=5"
         },
         {
           "name": "KBS 뉴스",
@@ -65,24 +69,45 @@
           "name": "YTN",
           "title": "이란 협상단장, 미 압박에 \"부당한 제재 극복해야\"",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jN1lCLVJMcmFnTHMyZjcycGRvVXZpa09EX3I5TGtHdUtIWnRlY0hSR2tHWjFiVkRrQnl1N3NReU9WdlRXeUYxZi1VTVJZS0h1WG03UHJZeXdIclJWY0toRlRLQ2N2b1hFa2pWNVV4OXNUbDE1aGc?oc=5"
+        },
+        {
+          "name": "한겨레",
+          "title": "“안구 테러, 꼭 봐야 해?”…‘이중 압박’에 일 남성들 제모 폭증",
+          "url": "https://www.hani.co.kr/arti/international/japan/1274117.html"
+        },
+        {
+          "name": "YTN",
+          "title": "미국, 이란 경제 압박 강화...국제 유가 2%대 상승",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Jb1VCdkJXSG9aVGdEWklSci1YUVBKLVJQRXB5NzM0d2EwYmkzRGhWSTM1dTZkNlgyZU5MWUd4OGhJeVhSMjJBaWlTMWdGZm1pWTRRTE0tNk0ybHhtTGc?oc=5"
         }
       ],
       "keywords": [
-        "미국",
-        "이란",
-        "경제 제재",
-        "경제 테러"
+        "일본 폭염",
+        "남성 제모",
+        "쿨비즈",
+        "반바지",
+        "사회적 시선"
       ],
-      "image_url": "https://picsum.photos/seed/news-20260822-001/600/400"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0822/53_17873532707207_20260821502505.webp"
     },
     {
       "id": "news-20260822-002",
-      "headline": "국제유가 6일 연속 상승세, 브렌트유 94달러대 기록",
-      "category": "글로벌",
+      "headline": "국제유가 상승에도 석유제품 최고가격 동결, 정유사 손실보전 규모 관건",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
       "summary": {
-        "overview": "국제유가가 6일 연속 상승 흐름을 이어가며 가파른 오름세를 보였습니다. 특히 브렌트유 가격은 94달러 선을 돌파하며 높은 수치를 나타냈습니다.\n\n연일 계속되는 유가 상승은 원유 공급과 수요 사이의 불균형을 반영합니다. 이러한 흐름이 지속될 경우 에너지 가격 변동성은 더욱 커질 것으로 보입니다. 시장 참여자들은 유가 상승의 원인과 향후 추이를 면밀히 살피고 있습니다."
+        "overview": "정부가 국제유가 상승과 중동 정세의 불확실성에도 불구하고 9차 석유제품 최고가격을 기존 수준으로 동결했다. 휘발유는 리터당 1784원, 경유는 1773원, 등유는 1380원으로 향후 4주간 유지한다. 물가 안정과 민생 부담 완화를 우선해 지난 7차 결정 이후 두 차례 연속 상한선을 묶어두는 결정을 내렸다.\n\n최고가격제는 소비자 가격 상승을 막는 방파제 역할을 수행하지만, 원유 도입 비용 상승에 따른 정유사의 손실은 정부가 사후에 보전한다. 최근 국제유가가 다시 오름세로 돌아서면서 정유사의 비용 부담은 더욱 커질 것으로 보인다. 이에 따라 연말쯤 윤곽이 드러날 정부의 손실보전 규모에 시장의 관심이 쏠린다."
       },
       "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가, 중동 불안 지속에 6일 연속 상승‥브렌트유 94달러대",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TY1ZpT202Ty15aTBHM0Fib3ZSV0dyaW9KSFY1ZFd2UHhxXzFmTjBOVTNveVNUM2dEZmtzem9RMlFZOEhfcEh4YnFNMWEzcGhNd0hOWGJBMkQwMHMwUEN1OGdsbkRxUmI5bnlmNE5XcE9tajRK0gF0QVVfeXFMUEZBVm4wNndWVnpnSXhkaG5FZjhLNVllQWZvaWFNLUZwcUFPS3UzSGRzYnZBdU10WGhCVTNBR0FXZWdEcU85aFJmTVBMOTBKeTJ3SlQ4dkwyYzFvZTM2TkwzZ1p1b3oySU84Vm01THBvd2V6SDk?oc=5"
+        },
         {
           "name": "KBS 뉴스",
           "title": "국제유가, 6일 연속 상승…브렌트유 94달러대",
@@ -97,11 +122,6 @@
           "name": "MBC 뉴스",
           "title": "국제유가, 중동 불안 지속에 6일 연속 상승‥브렌트유 94달러대",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQVZuMDZ3VlZ6Z0l4ZGhuRWY4SzVZZUFmb2lhTS1GcHFBT0t1M0hkc2J2QXVNdFhoQlUzQUdBV2VnRHFPOWhSZk1QTDkwSnkyd0pUOHZMMmMxb2UzNk5MM2dadW96MklPOFZtNUxwb3dlekg50gF0QVVfeXFMUEZBVm4wNndWVnpnSXhkaG5FZjhLNVllQWZvaWFNLUZwcUFPS3UzSGRzYnZBdU10WGhCVTNBR0FXZWdEcU85aFJmTVBMOTBKeTJ3SlQ4dkwyYzFvZTM2TkwzZ1p1b3oySU84Vm01THBvd2V6SDk?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "9차 석유 최고가격도 동결‥\"민생 부담·국제 유가 고려\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XZ3RndU5pVVlTNFptcjJ2QWxsOWRMNjR6bUdxc1F2Z0dEbDd0cHd1REU4M1BjekNNUU1RV21NLUROaXR5YnlLZ3NUZlpCMGMzTVEwTUdTaE5xa2hlcUdOQ0JVLW1PYm9mNDFWOHViay1DaDQt0gF0QVVfeXFMT0MxdWVoSmhQb3I1ZGVJeG10aXozX3RxUGlHUHNMU0kxMnpSZ1ZITW9wMjNSQTY3ZFJTZ2NOODJuMVRVcXU5V082NVk0Y09OV3A1WFFwWEpFUTl0cFZ0Vy1KcnNsUENsTnFwa2dsekVUWXhrUzc?oc=5"
         },
         {
           "name": "MBC 뉴스",
@@ -124,25 +144,32 @@
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzWDRreEduZHZYdmhrR2NpdWFPWi1CSWZWcjQ4ZkM3SC1sdzJvMFFFVVppSEJyUDl2ZGRkeVRxUHAwa1JObE9jOVUyVUFrb2xEMlZCclFUeTVoZzlESkE?oc=5"
         },
         {
-          "name": "YTN",
-          "title": "미국, 이란 경제 압박 강화...국제 유가 2%대 상승",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Jb1VCdkJXSG9aVGdEWklSci1YUVBKLVJQRXB5NzM0d2EwYmkzRGhWSTM1dTZkNlgyZU5MWUd4OGhJeVhSMjJBaWlTMWdGZm1pWTRRTE0tNk0ybHhtTGc?oc=5"
+          "name": "동아일보",
+          "title": "국제유가 오르는데 기름값 상한은 그대로…손실보전 규모는?",
+          "url": "https://www.donga.com/news/Economy/article/all/20260822/134523584/1"
         }
       ],
       "keywords": [
         "국제유가",
-        "브렌트유",
-        "유가 상승",
-        "에너지 시장"
+        "석유제품 최고가격",
+        "동결",
+        "정유사 손실보전",
+        "물가 안정"
       ],
-      "image_url": "https://picsum.photos/seed/news-20260822-002/600/400"
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/22/134523585.1.jpg"
     },
     {
       "id": "news-20260822-003",
-      "headline": "삼성전자, 올해 최대 110조 원 규모 주주환원... 역대 최대 규모",
+      "headline": "삼성전자, 올해 역대 최대 규모인 110조원 주주환원 정책 시행",
       "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스",
+        "IT/과학"
+      ],
       "summary": {
-        "overview": "삼성전자가 올해 최대 110조 원 규모의 주주환원 정책을 펼친다. 이는 2020년에 기록한 기존 최대치보다 약 5배나 큰 규모로, 국내 기업 중 역대 최대 수준이다. 올해 3분기에는 정규배당을 포함해 약 30조 원을 현금으로 배당할 계획이다. 나머지 배당과 자사주 매입 및 소각 규모는 내년 1월 경영실적이 확정되는 시점에 결정한다.\n\n임직원 보상을 위해 15조 원 규모의 자사주 매입도 함께 결정했다. 해당 자사주는 성과 인센티브와 특별경영성과급으로 활용한다. 반도체 사업부 협력사 중소기업을 위한 789억 원 규모의 인센티브 기금 출연도 병행한다. 반도체 슈퍼사이클에 따른 이익을 주주와 임직원, 협력사에 폭넓게 나누어 기업의 성장과 주주가치의 선순환을 꾀한다."
+        "overview": "삼성전자가 올해 최대 110조원 규모의 주주환원 정책을 펼친다. 이는 기존 최대치였던 2020년 규모의 약 5배에 달하는 국내 기업 역대 최대 수준이다.\n\n올해 3분기에는 정규배당을 포함해 약 30조원 규모의 현금배당을 먼저 집행한다. 내년 1월에는 경영실적을 확정한 뒤 현금 배당과 자사주 매입, 소각 규모를 구체적으로 정한다. 삼성전자는 2026년까지 잉여현금흐름의 50%를 주주환원에 사용하는 방침을 유지한다.\n\n임직원 보상을 목적으로 한 15조원 규모의 자사주 매입도 함께 결정했다. 이 물량은 성과 인센티브와 특별경영성과급으로 지급할 예정이다. 협력사 지원을 위해 반도체 부문 중소기업에 789억원을 출연해 안전사고 예방과 생산성 향상을 돕기로 했다."
       },
       "publishers": [
         {
@@ -164,6 +191,26 @@
           "name": "YTN",
           "title": "삼성전자, 사상 최대 주주환원...장 마감 뒤 거래는 하락",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GT0EtdEJXdWowZDBJZGlpcHA1SHdoaVE0c2xUUG1wSWhXaHVVTm5BNFd4LWJLRHo4MnA0YVRpRmxMaHp0Mmc3ZVVRaTFULURRQ2pQYUFTN3J1ZjlKR1E?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "앤트로픽, '기업가치 2조 달러' IPO 추진…성공시 역대 최대",
+          "url": "https://www.yna.co.kr/view/AKR20260822032000009"
+        },
+        {
+          "name": "한겨레",
+          "title": "테슬라, 중국서 300만대 ‘역대 최대’ 리콜…비상문 손잡이 찾기 어려워",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1274106.html"
+        },
+        {
+          "name": "매일경제",
+          "title": "“유학비 부담 확 줄어 좋아요”…삼전닉스 주주환원 300조원의 ‘나비효과’",
+          "url": "https://www.mk.co.kr/news/economy/12133765"
+        },
+        {
+          "name": "Chosunbiz",
+          "title": "환율도 움직이는 ‘삼전닉스’… 역대급 주주환원, 환율 하락에 힘 보탠다 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVNuLXpxMVctLUltb1I0UVZTd2hXTTRZVnVOSW1RWEl0cks4SkpSTFhXWmxIRVhqVUUtN21WQ3RrbUtnRk5lb0I5OWltR0E5VDNUMXBPYUI3ZVhmQUhvMnI3YmFXVTBKVUpMcmVaNFpVNVMwSmlOVUVPbWhJSlNEV0NwWHFlUF8y0gGcAUFVX3lxTE5GQVFUT0VEZmt6M3FYQnZDejdZT18xWE15dndEcHB1bE5DSmlwb05pNC1KWjlGWFVnQ2xrOFBOTVhmWlBaaEo2akRTc0FTei1iVVZXSGJzb2hISHJxdy1SNWwyalhQTWdlRFBCYjUzcEJva0txU3UtaTNYeE5HZXZVc3VxemVsZW1jcXVSQ1ZZU25hU1lPSm9ZV1BnTQ?oc=5"
         }
       ],
       "keywords": [
@@ -177,10 +224,15 @@
     },
     {
       "id": "news-20260822-004",
-      "headline": "미·캐나다 무역협상 최종 결렬로 트럼프의 50% 고율 관세 발효",
+      "headline": "미·캐나다 무역협상 결렬로 50% 관세 부과…무역전쟁 재점화 위기",
       "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스",
+        "경제"
+      ],
       "summary": {
-        "overview": "미국과 캐나다 사이의 무역 협상이 최종적으로 무산됐습니다. 제이미슨 그리어 미 무역대표부(USTR) 대표는 캐나다가 합의 조건을 수용하지 않으면서 협상이 결렬됐다고 공식 발표했습니다. 이에 따라 트럼프 대통령이 예고했던 일부 캐나다산 수입품에 대한 50% 관세가 즉각 발효됐습니다.\n\n양국은 관세 부과 시한을 앞두고 팽팽하게 맞섰습니다. 캐나다는 자동차와 철강 등에 부과된 기존 관세의 철회를 요구했지만, 미국은 캐나다 일부 주에서 일어나는 미국산 주류 불매운동을 중단하라고 압박했습니다. 마크 카니 캐나다 총리는 미국이 협상 막판에 조건을 변경했다며 강하게 비판했습니다. 그는 미국의 조치에 대해 '달러 대 달러'로 맞대응하겠다고 선언했습니다. 양측의 입장 차이가 좁혀지지 않으면서 무역 전쟁이 다시 격화될 조짐을 보입니다."
+        "overview": "미국과 캐나다 사이의 무역 협상이 끝내 결렬됐다. 제이미슨 그리어 미 무역대표부(USTR) 대표는 캐나다가 이번 주 합의된 조건으로 무역협정을 최종 타결하는 것을 거부했다고 밝혔다.\n\n트럼프 대통령은 캐나다가 자동차, 주류, 유제품 분야에서 무역 차별을 하고 있다는 이유로 캐나다산 수입품에 50%의 관세를 부과하겠다고 예고한 상태다. 그동안 양측은 관세 부과 시한을 앞두고 마라톤 협상을 이어왔지만 결국 입장 차이를 좁히지 못했다.\n\n캐나다는 관세 부과 연기와 기존 관세 철회를 요구했고, 미국은 캐나다 내 미국산 주류 불매운동 중단을 요구하며 팽팽하게 맞섰다. 협상이 무산되면서 일부 캐나다산 수입품에 대한 50% 관세가 즉시 발효됐다.\n\n마크 카니 캐나다 총리는 미국이 막판에 제안 조건을 변경했다며 강하게 비판했다. 캐나다는 미국의 조치에 대해 '달러 대 달러'로 맞대응하겠다고 예고해 양국 간 무역전쟁이 다시 시작될 가능성이 커졌다."
       },
       "publishers": [
         {
@@ -202,23 +254,33 @@
           "name": "한겨레",
           "title": "미-캐나다 무역협상 결렬…“달러 대 달러” 관세전쟁 눈앞",
           "url": "https://www.hani.co.kr/arti/international/america/1274134.html"
+        },
+        {
+          "name": "동아일보",
+          "title": "트럼프, 합의했다더니…美-캐나다 무역협상 결렬 ‘50% 관세’ 임박",
+          "url": "https://www.donga.com/news/Inter/article/all/20260822/134523525/1"
         }
       ],
       "keywords": [
-        "미·캐나다 무역협상",
-        "트럼프 관세",
+        "미국",
+        "캐나다",
         "무역전쟁",
-        "마크 카니",
-        "보호무역주의"
+        "관세부과",
+        "트럼프"
       ],
       "image_url": "https://img.yna.co.kr/photo/ap/2025/10/08/PAP20251008034201009_P2.jpg"
     },
     {
       "id": "news-20260822-005",
-      "headline": "기준금리 향방과 출생통계 발표 등 다음 주 주요 경제 지표 공개",
+      "headline": "한국은행 기준금리 결정과 출생·연금 등 주요 경제 지표 발표 예정",
       "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
       "summary": {
-        "overview": "다음 주 한국은행 금융통화위원회는 기준금리를 결정합니다. 지난달 0.25%포인트 인상에 이어 두 달 연속 금리를 올릴지, 아니면 인상 효과를 점검하며 동결할지를 두고 시장의 의견이 나뉩니다. 반도체 수출 호조로 인한 성장세와 국제 유가 상승에 따른 물가 압력이 주요 변수입니다. 한은은 이날 수정 경제전망도 함께 내놓는데, 올해 실질 GDP 성장률 전망치를 3%대로 상향 조정할 가능성이 높습니다.\n\n인구 및 가계 지표 발표도 이어집니다. 국가데이터처는 작년 출생 현황을 담은 '2025년 출생통계'와 6월 인구 동향을 공개합니다. 이어 25일에는 11종의 연금 데이터를 분석한 통계가, 27일에는 2분기 가계동향 조사 결과가 발표되어 가계의 소득과 지출 변화를 확인할 수 있습니다.\n\n금융당국의 움직임도 활발합니다. 금융위원회는 주택 공급 촉진을 위해 금융·건설업계와 간담회를 열고 PF 애로사항 해소 방안을 논의합니다. 금융감독원 역시 보험사기 척결과 불공정 관행 개선을 위한 위원회 회의를 개최하고, 증권사를 소집해 투자자 보호 원칙을 강조할 예정입니다."
+        "overview": "다음 주 한국은행 금융통화위원회가 기준금리 결정과 함께 수정 경제전망을 발표합니다. 반도체 수출 호조로 인한 높은 성장세와 물가 상승 우려가 맞물리면서 금리 인상 여부를 두고 전망이 엇갈립니다. 한은은 올해 실질 국내총생산(GDP) 성장률 전망치를 기존 2.6%에서 3%대로 상향 조정할 가능성이 큽니다.\n\n주요 인구 및 가계 지표도 줄지어 공개됩니다. 국가데이터처는 26일 작년 출생 현황과 6월 인구 동향을 발표하며, 25일에는 11종의 연금 통계 결과를 내놓습니다. 27일에는 가구의 소득과 지출 변화를 보여주는 가계동향 조사 결과도 나옵니다.\n\n금융당국의 제도 개선 움직임도 활발합니다. 금융위원회는 주택 공급 촉진과 건설사 금융 애로 해소를 위한 간담회를 개최합니다. 금융감독원은 보험사기 척결과 투자자 보호를 위한 제도 개선 논의를 이어가며 증권사들을 대상으로 관련 원칙을 강조할 계획입니다."
       },
       "publishers": [
         {
@@ -230,6 +292,11 @@
           "name": "한겨레",
           "title": "장기금리 급등…금융시장·세계 경제에 울린 ‘경고’",
           "url": "https://www.hani.co.kr/arti/economy/economy_general/1274130.html"
+        },
+        {
+          "name": "YTN",
+          "title": "한국은행 부총재에 '국제통' 권민수...\"금리 인상 부작용도\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxUWI2NWZMbFhEMDlsX3AxV3BRQ1JCSk5lY3I1ZXNlbVdWNHZ0bVVMNU44eUhlSFpSOXd0dnQxbldBdU02UTVVZG9hVzlHSU9Ob1BvVExTTzgwT0VsVWc?oc=5"
         }
       ],
       "keywords": [
@@ -243,10 +310,14 @@
     },
     {
       "id": "news-20260822-006",
-      "headline": "카카오 노조, 인적분할 결정 반발하며 26일 판교서 공동교섭 선포식 개최",
-      "category": "경제",
+      "headline": "카카오 노조, 인적분할 결정 반발하며 판교역서 공동행동 및 공동교섭 선포",
+      "category": "비즈니스",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
       "summary": {
-        "overview": "카카오 노조가 회사의 인적분할 결정에 반발하며 공동교섭을 추진합니다. 전국화학섬유식품산업노동조합 카카오지회는 오는 26일 오후 1시 판교역 광장에서 카카오 공동체 공동교섭 선포식을 열겠다고 밝혔습니다.\n\n노조는 이번 분할 과정에서 구성원들이 충분한 정보를 얻지 못했고 노동조합과의 사전 협의도 없었다고 비판했습니다. 회사가 인공지능 중심의 '카카오에이아이'와 금융·콘텐츠·모빌리티를 담당하는 '카카오엑스'로 나뉘는 상황에서 경영 책임까지 분산되어서는 안 된다는 입장입니다.\n\n특히 분할 이후 발생할 수 있는 구조조정이나 사업 이관으로부터 노동자의 권리를 보호하는 데 집중할 계획입니다. 의사결정 구조가 복잡해지는 만큼 교섭력이 약화되지 않도록 공동교섭을 통해 고용 안정과 공정 보상 등 최소한의 안전망을 마련하고자 합니다. 노조는 선포식 전인 24일 조합원들과의 오픈 대화방을 통해 의견을 모으기로 했습니다."
+        "overview": "카카오 노조가 회사의 인적분할 결정에 반발하며 공동교섭을 추진한다. 전국화학섬유식품산업노동조합 카카오지회는 오는 26일 오후 1시 판교역 광장에서 공동교섭 선포식을 개최한다.\n\n카카오는 최근 이사회를 통해 AI 중심의 신설회사 '카카오에이아이'와 금융·콘텐츠·모빌리티 계열사를 거느리는 '카카오엑스'로 인적분할하기로 의결했다. 노조는 이번 결정 과정에서 대다수 구성원이 충분한 정보를 제공받지 못했으며 노동조합과의 사전 협의도 없었다고 비판했다.\n\n특히 노조는 분할 이후 발생할 수 있는 구조조정이나 사업 이관 상황에서 노동자의 권리를 어떻게 보호할지 대책 마련이 시급하다고 강조한다. 의사결정 구조가 복잡해지는 만큼 법인별로 교섭력이 흩어지지 않도록 공동교섭을 통해 고용안정과 공정보상의 최소 기준을 세우겠다는 입장이다."
       },
       "publishers": [
         {
@@ -258,12 +329,17 @@
           "name": "MBC 뉴스",
           "title": "[간추린 경제] 1. 10년 만 '가동 중단' 2. 카카오, 카카오AI·카카오X로 인적분할 결의",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82YTZpWEdIc1JqNVZYRUpITVBUWFJpbXJHeXhHUS1vdXdEcWxmWHJZNXZqTW55Z0VTX0pjXzBZUEE4b3ZvLU92NDFxVVlxRW5RM3JQSGppcnd1TkE1S3BCMmNWc2xLY3B3cmhrbGpneVdwdHFrWVFrdtIBeEFVX3lxTE9kemh4VDdrNUZ4TEoxZzhoaWhYQ2QyU2J5RVJzTUliQUwtRm5iWkVMR3M3VTA5Vk84R1htZkZkSTFSdXJneEJfbENZU1lWX0dCRmRIcEpCN1ZMZGxUWVc2ak5CX1lPWVhGbzZaUDRBR3RTa0xZYnBiQQ?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "카카오 인적분할에 160만 주주 당황…새로 상장하는 AI 회사의 정체는 [플러스 관심 종목]",
+          "url": "https://www.mk.co.kr/news/stock/12133589"
         }
       ],
       "keywords": [
         "카카오",
         "인적분할",
-        "노동조합",
+        "카카오 노조",
         "공동교섭",
         "고용안정"
       ],
@@ -271,72 +347,61 @@
     },
     {
       "id": "news-20260822-007",
-      "headline": "중국-인도네시아, 외교·국방 장관 '2+2 대화' 개최하며 전략적 협력 강화",
-      "category": "글로벌",
+      "headline": "벤츠의 핵심 가치 강조하는 '더 뉴 S-클래스' 출시로 시장 정면 돌파",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
       "summary": {
-        "overview": "중국과 인도네시아가 외교·국방 장관이 참여하는 '2+2 대화'를 열고 양국 관계를 한층 강화했습니다. 인도네시아는 중국이 장관급 2+2 대화 체계를 구축한 첫 번째 국가로, 이번 회의는 지난해 4월 이후 두 번째로 진행되었습니다. 양측은 깊은 전략적 소통을 통해 외부의 도전 과제에 함께 대응하고 서로의 핵심 이익을 지지하기로 약속했습니다.\n\n인도네시아 수기오노 외교장관은 '하나의 중국' 원칙에 대한 지지를 밝히며 반테러 분야와 정보 공유 협력을 강조했습니다. 중국은 미국의 일방주의와 패권 행위가 세계 안보에 충격을 주고 있다고 비판하며 남중국해의 평화와 안정을 수호하는 데 뜻을 모았습니다. 최근 대만 동부 해상에서 실시한 합동 훈련에 이어 이번 대화는 양국의 밀착된 협력 관계를 보여줍니다."
+        "overview": "메르세데스-벤츠 코리아가 올해 하반기 신차 전략의 핵심으로 '더 뉴 메르세데스-벤츠 에스클래스'를 내세웠다. 이번 출시는 벤츠가 오랫동안 지켜온 승차감과 안전, 품질이라는 브랜드 본연의 가치를 다시 한번 시장에 각인시키려는 의도가 담겨 있다. 한국은 글로벌 3대 에스클래스 시장 중 하나로, 국내 누적 판매량이 이미 10만 대를 넘어설 만큼 상징성이 큰 모델이다.\n\n최근 수입차 시장은 테슬라가 점유율 1위를 기록하고 BMW와 중국 BYD 등이 가세하며 경쟁이 매우 치열해진 상황이다. 벤츠는 전기차와 소프트웨어 기술력을 앞세운 신흥 강자들의 공세에 대응하기 위해, 브랜드의 전통적 강점인 안락함과 주행 안정성에 다시 집중했다.\n\n새로운 에스클래스 상위 모델은 이-액티브 보디 컨트롤과 리어 액슬 스티어링 기술을 통해 차체의 움직임을 섬세하게 제어한다. 8기통 엔진과 마일드 하이브리드 시스템을 결합해 부드러우면서도 강력한 주행 성능을 구현했다. 벤츠는 이번 신차를 통해 플래그십 세단의 기준을 제시하며 시장 주도권을 확보한다는 전략이다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "中·인니, 외교·국방장관 2+2 대화…합동훈련 이어 밀착↑",
-          "url": "https://www.yna.co.kr/view/AKR20260822027700089"
+          "name": "한겨레",
+          "title": "몸을 먼저 설득한 S클래스…벤츠 ‘가장 벤츠다운 차’ 꺼냈다",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1274073.html"
         },
         {
-          "name": "매일경제",
-          "title": "이 대통령 “‘한미훈련 축소해 대화여건 조성’ 트럼프 노력 경의”",
-          "url": "https://www.mk.co.kr/news/politics/12131710"
+          "name": "동아일보",
+          "title": "역대급 ‘회장님車’ 전쟁…제네시스 GV90에 벤츠 신형 S클래스·BMW 7시리즈 까지",
+          "url": "https://www.donga.com/news/Economy/article/all/20260822/134523591/1"
+        },
+        {
+          "name": "경향신문",
+          "title": "[타보니] “5년 만에 업그레이드”…벤츠 S-클래스로 보는 ‘명품의 조건’",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42OHlfR2ZTUHhqMmNlaXJxWEd0MGJSSEdtcWRtUUFLVmZsV3N2YXVPaVFJTW1Qa2NKWjdzRVlsaHRXcnpBeXFMcEpBaU9QS2lZRkRqZ0dGS0lqd9IBX0FVX3lxTFA4MDFWNDU2WkF2NmVocEZSQ2RUNHdoaEZZZmpzWl8xQ1pidFZmckZmNXJ0ZWo2b3RuVVdiMDFicm00TENQV2RWbUdIRDN1R2hDNXlBdExDLTNLZE1tSm5Z?oc=5"
         }
       ],
       "keywords": [
-        "중국",
-        "인도네시아",
-        "2+2 대화",
-        "남중국해",
-        "전략적 협력"
+        "벤츠 S클래스",
+        "메르세데스-벤츠 코리아",
+        "수입차 시장 경쟁",
+        "플래그십 세단",
+        "주행 안정성"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/22/AKR20260822027700089_01_i_P2.jpg"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0821/53_17872992689768_20260821502062.webp"
     },
     {
       "id": "news-20260822-008",
-      "headline": "미 연방법원, 75개국 대상 이민 비자 발급 중단 조치 위법 판결",
+      "headline": "김여정, 한미연합훈련 축소 비난하며 이재명 대통령 향한 고강도 발언",
       "category": "글로벌",
-      "summary": {
-        "overview": "미국 맨해튼 연방법원이 트럼프 행정부의 75개국 대상 이민 비자 발급 중단 조치가 법률에 위배된다고 판결했습니다. 법원은 이민자들이 미국 국민에게 재정적 부담을 준다는 행정부의 주장이 근거가 없다고 판단했습니다.\n\n특히 자립 가능성이 높은 이민자에게도 일률적으로 비자 발급을 거부하도록 지시한 점은 개별 심사를 원칙으로 하는 법률에 어긋난다고 보았습니다. 이번 판결에 따라 해당 정책을 근거로 내려진 기존의 모든 비자 거부 결정은 무효가 됩니다. 이에 따라 그동안 거부된 비자 신청 건들에 대한 전면적인 재검토가 필요할 것으로 보입니다.\n\n트럼프 행정부는 지난 1월 소말리아, 이란, 러시아를 포함한 75개국을 대상으로 이민 비자 발급을 중단한 바 있습니다. 이 명단에는 요르단과 이집트 등 미국의 동맹국들도 다수 포함되었습니다. 시민단체들은 이번 판결이 차별적인 비자 금지 조치로 혼란을 겪던 수많은 가정에 큰 승리를 가져다주었다며 환영했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "美 연방법원, 75개국 대상 이민 비자 중단 조치에 제동",
-          "url": "https://www.yna.co.kr/view/AKR20260822027400009"
-        },
-        {
-          "name": "한겨레",
-          "title": "미 연방법원, ‘75개국 이민 비자 중단’ 제동…백악관 침묵",
-          "url": "https://www.hani.co.kr/arti/international/america/1274132.html"
-        }
+      "categories": [
+        "글로벌"
       ],
-      "keywords": [
-        "미국 연방법원",
-        "이민 비자",
-        "트럼프 행정부",
-        "비자 발급 중단",
-        "이민 정책"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/22/AKR20260822027400009_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20260822-009",
-      "headline": "김여정 북한 부장, 한미연합훈련 축소에 대해 고강도 비난",
-      "category": "글로벌",
       "summary": {
-        "overview": "김여정 북한 노동당 총무부장이 한미연합훈련 축소와 관련해 우리 정부를 향한 고강도 비난을 쏟아냈다. 김 부장은 조선중앙통신을 통해 이번 훈련 변화를 언급하며 도발적인 태도를 보였다.\n\n그는 한미 양국의 군사 훈련을 '전쟁놀이'라고 비하하며 서울을 겨냥한 날 선 발언을 이어갔다. 이번 발언은 훈련 축소 결정에 대한 북한의 불만과 함께 남측 정부를 압박하려는 의도로 풀이된다."
+        "overview": "김여정 북한 노동당 총무부장이 한미연합훈련 축소 조치를 두고 강도 높은 비난을 내놓았습니다. 김 부장은 조선중앙통신을 통해 이번 훈련 상황을 언급하며 날 선 반응을 보였습니다.\n\n그는 한미 양국이 즐기던 전쟁놀이를 더 이상 하지 못하게 된 서울을 비꼬는 표현을 사용했습니다. 이번 발언은 훈련 축소에 대한 불만을 드러내는 한편 이재명 대통령을 직접 겨냥하며 공격적인 태도를 보였습니다. 북한은 훈련의 성격과 규모 변화를 두고 특유의 거친 언사를 사용하며 압박 수위를 높이고 있습니다."
       },
       "publishers": [
         {
           "name": "매일경제",
           "title": "[속보] 김여정, UFS훈련 축소에 “좋아하는 전쟁놀이 못하게 된 서울”",
           "url": "https://www.mk.co.kr/news/politics/12132706"
+        },
+        {
+          "name": "매일경제",
+          "title": "이 대통령 “‘한미훈련 축소해 대화여건 조성’ 트럼프 노력 경의”",
+          "url": "https://www.mk.co.kr/news/politics/12131710"
         },
         {
           "name": "매일경제",
@@ -347,17 +412,210 @@
       "keywords": [
         "김여정",
         "한미연합훈련",
+        "UFS",
         "북한",
-        "UFS훈련"
+        "이재명"
       ],
       "image_url": "https://pimg.mk.co.kr/news/cms/202608/20/news-p.v1.20260820.27645642654c4ee4802fe5a60c685ed2_R.jpg"
     },
     {
-      "id": "news-20260822-010",
-      "headline": "북한 핵무기 보유량 80~120개로 추산... 정부, 정확한 수치 공개는 제한적",
-      "category": "글로벌",
+      "id": "news-20260822-009",
+      "headline": "미·일 외환 개입에 따른 엔캐리 트레이드 청산 리스크 확대 및 시장 모니터링 필요",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "글로벌"
+      ],
       "summary": {
-        "overview": "안규백 국방부 장관이 북한의 핵무기 보유 현황에 대한 정부의 추산치를 밝혔다.\n\n정부는 북한이 현재 80개에서 120개 정도의 핵무기를 보유한 것으로 보고 있다. 다만 안 장관은 보안상의 이유로 정확한 수치를 구체적으로 언급하기는 어렵다는 입장을 분명히 했다. 이번 발언은 국회 보고 과정에서 나왔다. 북한의 핵 전력 규모를 가늠할 수 있는 정부의 공식적인 판단 기준을 직접 언급했다."
+        "overview": "미국과 일본의 외환시장 개입으로 엔화 약세 기대감이 꺾이면서 엔캐리 트레이드 청산 위험이 커지고 있습니다. 한국금융연구원은 최근 보고서를 통해 저금리 엔화를 조달해 고금리 자산에 투자하는 엔캐리 트레이드 환경에 경고등이 켜졌다고 밝혔습니다.\n\n일본은행이 정책금리를 1%로 올린 데 이어 미·일 양국이 엔화 가치 방어를 위해 외환시장에 개입하면서 엔화 강세 압력이 커지는 상황입니다. 엔화 가치가 오르면 원/달러 환율 상승 압력은 줄어들 수 있지만, 금리차 축소와 맞물려 급격한 자금 이탈이 발생하면 글로벌 금융시장이 요동칠 수 있습니다.\n\n실제로 지난 8월에는 미국 고용지표 악화와 일본의 금리 인상이 맞물려 엔캐리 포지션이 급격히 청산되며 국내 증시가 크게 하락했습니다. 금융연구원은 미·일 금리차가 단기간에 급격히 줄어들 가능성은 낮다고 보면서도, 예상치 못한 통화정책 변화에 대비해 엔화 자금 흐름을 상시 점검해야 한다고 권고했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "\"美日외환개입에 엔캐리 청산 우려…모니터링 필요\"",
+          "url": "https://www.yna.co.kr/view/AKR20260821173700002"
+        },
+        {
+          "name": "YTN",
+          "title": "미·일 엔화 개입에...'엔 캐리 트레이드' 청산 우려",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRFl1cGhIeTVydk1sU2s4VlNpSHdqeXFhY05YYVZ6ODFaM3RvN1R2WUl5Z0lGM0lGVm9KdTBfX09YTHNjYVlyYkVXZFJMY2I4TGxrdWR4U1FzeER5aWc?oc=5"
+        }
+      ],
+      "keywords": [
+        "엔캐리 트레이드",
+        "일본은행",
+        "외환시장 개입",
+        "금리차",
+        "금융시장 변동성"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/cms/2020/10/17/25/PCM20201017000025002_P2.jpg"
+    },
+    {
+      "id": "news-20260822-010",
+      "headline": "전북특별자치도, K-콘텐츠의 미래를 논하는 '2026 전북 콘텐츠 포럼' 개최",
+      "category": "비즈니스",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "전북특별자치도가 전북콘텐츠융합진흥원과 함께 오는 26일부터 11월까지 '2026 전북 콘텐츠 포럼 CONTENT : NEXT'를 연다.\n\n'K-콘텐츠의 넥스트, 전북 콘텐츠에서 답을 찾다'를 주제로 진행하는 이번 포럼은 창업, 계약과 법률, 인공지능(AI), 최신 트렌드 등 산업 전반을 릴레이 형식으로 다룬다. 8월 26일 스타트업 생존기를 시작으로 9월에는 법률 상담을, 10월에는 AI 기반 콘텐츠 제작을 주제로 전문가 강연을 이어간다. 마지막 4회차는 11월 초 전주시에서 '콘텐츠 신인류'를 주제로 마무리한다.\n\n콘텐츠 산업에 관심 있는 예비 창업자나 종사자라면 누구나 공식 누리집을 통해 신청하여 무료로 참여할 수 있다. 전북도는 이번 포럼이 종사자들의 현장 감각을 높이고 지역 콘텐츠 산업이 안정적으로 뿌리 내리는 계기가 되도록 행정력을 집중할 계획이다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "'K-콘텐츠 미래 그린다'…전북 콘텐츠 포럼, 11월까지 개최",
+          "url": "https://www.yna.co.kr/view/AKR20260822017500055"
+        }
+      ],
+      "keywords": [
+        "전북 콘텐츠 포럼",
+        "K-콘텐츠",
+        "콘텐츠 스타트업",
+        "AI 콘텐츠 제작",
+        "전북특별자치도"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/22/AKR20260822017500055_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20260822-011",
+      "headline": "정부, 석유 최고가격 9차 동결... 휘발유 1784원·경유 1773원 유지",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "정부가 중동 정세 불안으로 국제유가가 다시 오르는 상황에서도 민생 경제 부담을 고려해 9차 석유 최고가격을 기존과 동일하게 동결했습니다. 이번 결정에 따라 22일 0시부터 4주간 휘발유는 리터당 1784원, 경유는 1773원, 등유는 1380원의 상한가가 적용됩니다.\n\n최근 미국과 이란의 대치 지속으로 브렌트유 등 국제유가가 상승세로 돌아섰고, 국제 석유제품 가격도 함께 오르는 추세입니다. 하지만 정부는 현재의 가격 수준이 지난 8차 최고가격 결정 당시와 비슷한 수준이라고 판단했습니다.\n\n특히 최근 폭염과 집중호우 등 이상기후로 인해 서민들의 물가 부담이 커진 점을 이번 동결의 핵심 근거로 삼았습니다. 산업통상자원부는 앞으로도 중동 정세와 석유 수급 상황을 실시간으로 살피며 최고가격제를 유연하게 운영하겠다고 밝혔습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "석유 최고가격 9차도 동결…휘발유 1784원·경유 1773원",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1274100.html"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "9차 석유 최고가격도 동결‥\"민생 부담·국제 유가 고려\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XZ3RndU5pVVlTNFptcjJ2QWxsOWRMNjR6bUdxc1F2Z0dEbDd0cHd1REU4M1BjekNNUU1RV21NLUROaXR5YnlLZ3NUZlpCMGMzTVEwTUdTaE5xa2hlcUdOQ0JVLW1PYm9mNDFWOHViay1DaDQt0gF0QVVfeXFMT0MxdWVoSmhQb3I1ZGVJeG10aXozX3RxUGlHUHNMU0kxMnpSZ1ZITW9wMjNSQTY3ZFJTZ2NOODJuMVRVcXU5V082NVk0Y09OV3A1WFFwWEpFUTl0cFZ0Vy1KcnNsUENsTnFwa2dsekVUWXhrUzc?oc=5"
+        }
+      ],
+      "keywords": [
+        "석유 최고가격",
+        "국제유가",
+        "중동 정세",
+        "물가 부담",
+        "산업통상자원부"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0821/53_17873064431642_20260821502357.webp"
+    },
+    {
+      "id": "news-20260822-012",
+      "headline": "기업 로봇 도입 의지는 높지만 운영 전략과 인프라는 아직 부족한 실정",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "인텔이 발표한 '로보틱스 준비도 격차 조사'에 따르면, 많은 기업이 로봇 도입을 서두르고 있지만 실제 운영을 위한 체계적인 준비는 미흡한 상태다. 응답자의 60%가 5년 이내에 로봇을 운영하겠다고 답했으나, 인간과 로봇의 협업을 관리할 공식 전략을 갖춘 조직은 40%에 머물렀다.\n\n로봇 도입은 생산성을 최대 2배까지 높일 수 있다는 기대감을 주지만, 기술 및 인재 부족과 안전 문제 등이 걸림돌로 작용하고 있다. 특히 응답자의 절반 이상이 안전 문제로 도입이 지연된 경험이 있다고 밝혔으며, 명확한 글로벌 안전 표준의 마련이 필요하다고 입을 모았다.\n\n데이터 처리 속도 확보도 시급한 과제다. 로봇의 원활한 작업을 위해 100밀리초 이내의 빠른 의사결정이 필수적이지만, 엣지 또는 온디바이스 AI 전략과 예산을 확보한 기업은 42% 수준에 그쳤다. 결국 로봇 도입의 성패는 단순한 도입 가능성을 넘어 이를 확장할 수 있는 실질적인 준비 상태에 달려 있다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "[전북의 창] 남원시, 추석맞이 사회연대경제기업 ‘공감마켓’ 운영",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfaUp2eUFHaDlwcGQwS09fcUNibGVEUGI3V2Y0MFBKTkppRjcxS2w0Q2pFeTNlRVQ5NUR3UUZhT2c3RkRjRmJrLWRzdy1kRDRNTmFkU1Rib3ZTLVU?oc=5"
+        },
+        {
+          "name": "Inews24.com",
+          "title": "로봇 도입 속도 내는 기업들…\"5년 내 운영\" 60%, 준비는 40%",
+          "url": "http://www.inews24.com/view/1997086"
+        }
+      ],
+      "keywords": [
+        "로보틱스",
+        "인텔",
+        "로봇 도입",
+        "AI 전략",
+        "생산성"
+      ],
+      "image_url": "https://image.inews24.com/v1/633f78a5c49731.jpg"
+    },
+    {
+      "id": "news-20260822-013",
+      "headline": "명품 매장 늘어난 북한 평양, 대외 관계 기반의 일시적 호황에 그칠 우려",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "북한이 우크라이나 파병과 러시아와의 밀착을 바탕으로 유례없는 경제적 호황을 누리고 있습니다. 평양 도심에는 샤넬과 오메가 같은 유명 명품 매장들이 들어서며 화려한 소비 문화를 보여줍니다.\n\n영국 파이낸셜타임스 등 외신은 이러한 변화가 북한 경제의 근본적인 체질 개선으로 이어지기는 어렵다고 분석합니다. 지금의 호황은 대외 관계를 통해 유입된 자금에 의존한 일시적 현상일 가능성이 높습니다.\n\n눈에 보이는 소비 수준의 상승이 북한 내부의 구조적 경제 문제를 해결하는 근본적인 대책이 되기는 힘들어 보입니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "명품 넘치는 평양 백화점...외화벌이 호조 속 북한 경제의 명암",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOeDg5bzBDMUtyVjhzSk10WGdhYjVMUzZiY3lQTnFWdlhxdEVNbl8wV2dkS19hdk9ORnlheTVXTHBNb1o5VnVGb0dSX1lVVkpNb3g4UWNhNHYwdmdEejZwVTZ5QlhVbHEySFhqVWNjOTZmOGpkZGc?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "“평양이 이렇게 달라졌다고?”…샤넬·오메가 등 명품 매장 즐비한 북한 근황",
+          "url": "https://www.mk.co.kr/news/politics/12133773"
+        }
+      ],
+      "keywords": [
+        "북한 경제",
+        "명품 소비",
+        "북러 밀착",
+        "평양 근황"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202608/22/news-p.v1.20260822.1e74d596818149a4a30f0024e1a8f4fc_R.png"
+    },
+    {
+      "id": "news-20260822-014",
+      "headline": "중국-인도네시아 전략적 밀착과 미·필리핀의 군사적 행보가 맞물린 인도·태평양의 긴장",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "중국과 인도네시아가 외교·국방 장관이 참여하는 '2+2 대화'를 통해 전략적 협력 관계를 강화했습니다. 인도네시아는 중국의 '하나의 중국' 원칙을 지지하며 양국은 외부 세력의 간섭에 공동 대응하기로 뜻을 모았습니다. 양측은 남중국해의 평화와 안정을 수호하는 데에도 공감대를 형성했습니다.\n\n이러한 밀착 행보와 동시에 미국과 필리핀의 군사적 움직임이 이어지며 지역 내 긴장이 고조됐습니다. 미 해군 대잠 초계기가 대만해협을 통과하자 중국군은 이를 추적하며 강력히 반발했습니다. 필리핀 항공기가 남중국해 분쟁 해역에 진입한 사실을 두고 중국은 주권 침해를 주장하며 경고 조치를 취했습니다. 인도·태평양 지역을 둘러싼 각국의 이해관계가 날카롭게 충돌하는 양상입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "中·인니 '2+2 대화'로 밀착한 날…美초계기는 대만해협 통과(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20260822027751089"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "中·인니, 외교·국방장관 2+2 대화…합동훈련 이어 밀착↑",
+          "url": "https://www.yna.co.kr/view/AKR20260822027700089"
+        }
+      ],
+      "keywords": [
+        "중국",
+        "인도네시아",
+        "대만해협",
+        "남중국해",
+        "인도·태평양"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/22/AKR20260822027751089_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20260822-015",
+      "headline": "안규백 국방부 장관 “북한 핵무기 보유량, 약 80~120개로 추정”",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "안규백 국방부 장관이 북한의 핵무기 보유 현황에 대한 정부의 판단을 국회에서 밝혔습니다. 안 장관은 북한이 보유한 핵무기 수를 보통 80개에서 120개 사이로 파악하고 있다고 설명했습니다.\n\n다만 보안과 정보의 성격상 구체적인 수치를 명확히 밝히기에는 한계가 있다고 덧붙였습니다. 정부는 북한의 핵 능력을 정밀하게 분석하며 대응 체계를 점검하고 있습니다. 이번 발표는 북한의 핵 위협에 대한 우리 군의 감시 및 분석 수준을 보여줍니다."
       },
       "publishers": [
         {
@@ -372,12 +630,168 @@
         }
       ],
       "keywords": [
+        "안규백",
         "북한 핵무기",
         "국방부",
-        "핵 보유량",
-        "국회 보고"
+        "핵 보유량"
       ],
       "image_url": "https://pimg.mk.co.kr/news/cms/202608/20/rcv.YNA.20260820.PYH2026082008190001300_R.jpg"
+    },
+    {
+      "id": "news-20260822-016",
+      "headline": "우크라이나 정보당국 \"러시아, 북한산 탄도미사일 50여 발 보유하여 공격 강화\"",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "우크라이나 정보당국은 러시아가 북한으로부터 KN-23, KN-24, KN-30 등 탄도미사일 약 50기를 이전받았다고 발표했습니다. 특히 개량형인 KN-30은 최대 2.5톤의 탄두를 탑재할 수 있어 파괴력이 매우 클 것으로 분석됩니다. 러시아는 이미 보로네시주에 미사일 발사대를 배치해 키이우와 자포리자 등 우크라이나 7개 지역을 공격 사정권에 두었습니다.\n\n군사 전문가들은 북한산 미사일이 러시아산보다 탄두가 무거워 더 큰 폭발력을 내지만, 이스칸데르-M에 비해 정확도는 떨어진다고 평가합니다. 젤렌스키 대통령은 북한군의 추가 파병 가능성을 경고하며 한국에 방공 시스템 지원을 촉구했습니다. 한국 정부는 현재까지 기존의 신중한 입장을 고수하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "우크라 정보당국 “러, 북한산 탄도미사일 50발 보유”",
+          "url": "https://www.khan.co.kr/article/202608212019001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "우크라 정보 당국 “러 파병 북한군 8500명…푸틴, 5만명 추가 요청할 수도”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1274129.html"
+        }
+      ],
+      "keywords": [
+        "북한 탄도미사일",
+        "러시아-우크라이나 전쟁",
+        "KN-30",
+        "방공 시스템",
+        "북한군 파병"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0822/53_17873644548178_20260822500218.webp"
+    },
+    {
+      "id": "news-20260822-017",
+      "headline": "강원대학교-보라나대학, 국제 교육 교류 발전을 위한 업무협약 체결",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "강원대학교가 보라나대학과 국제교류 활성화를 위한 업무협약을 체결했다. 양 대학은 이번 협약을 통해 학술적 교류와 인적 자원 교류를 본격적으로 시작한다.\n\n학생과 교수진이 서로의 대학을 방문하며 교육 경험을 나누는 프로그램을 운영한다. 또한 양측의 전문성을 결합한 공동 연구와 정보 공유 체계도 구축할 계획이다. 이를 통해 양 대학은 글로벌 네트워크를 넓히고 교육 경쟁력을 강화한다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "강원대·보라나대학, 국제교류 업무협약 체결",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ydjlrVExmbzJHek5QczRnVktTMWJ0Z1RKdFZKZ285NXZYQWRRc3ozMS1TVHFXcDh2QmVkbzV1d3RGTUlQOHc0YllVTk5FZDRBLUZMQTRfd0FIZmc?oc=5"
+        },
+        {
+          "name": "YTN 사이언스",
+          "title": "연세대 간호대학, 120주년 기념 국제학술대회 열어",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXZIcjEyUjBaeHJqSU00cFk5cXFqbFFkMDVVM0FPbDN0cW93a3RsMWd5Q3h3MWF6dno5UG1qYXRlTTg3NXRkZlJOYjBBNDY5LVhpRTg3THFtem1VYU1WY2NLdjNhLS1PZU5uVTF4NXdpR2FCWDZzZlpGM2xraWdHM3pGZkZiZURqdzg1Y2tRZHRZcTg?oc=5"
+        }
+      ],
+      "keywords": [
+        "강원대학교",
+        "보라나대학",
+        "국제교류",
+        "업무협약",
+        "교육협력"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260822-017/600/400"
+    },
+    {
+      "id": "news-20260822-018",
+      "headline": "국제형사재판소, 미국의 제재를 사법 독립에 대한 노골적 공격으로 규정",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "국제형사재판소가 미국의 제재 조치를 사법권의 독립을 노골적으로 공격하는 행위라며 강하게 반발했습니다. 재판소는 미국의 움직임이 국제 형사 정의를 실현하려는 본연의 권한을 침해하고 있다고 보았습니다.\n\n사법적 판단이 정치적 압력에 휘둘리는 상황을 재판소는 매우 엄중하게 인식하고 있습니다. 미국의 이번 조치가 국제 사법 체계의 신뢰를 떨어뜨리는 결과를 초래할 수 있다는 우려도 나옵니다. 재판소는 사법 독립성을 수호하기 위해 이번 사태를 엄중히 다루겠다는 뜻을 밝혔습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "국제형사재판소, 미국 제재에 “노골적 사법독립 공격”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kdVFnRUNtVlhkbEUtWFYyTWZWaE9WRmVHOHIwbHBNNnJRUXlSX3V3bjE2b05jZ1JoZXdVRlpRMEh6ZGo4TFJfUzJmX0t4elhzMlBlcjByeGlUWHM?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "다카이치 \"미국의 일 출신 국제형사재판소 소장 제재 매우 유감\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4Nk1QZ1ZhNDQtVWdEajNEWVh1blRlVzlYeWxzU2NEZzYySVRWSXZIM2FxRGE4eVhZWXpXZ01zT1BpN3RaTjFYVDNGRU5GX1RPZmotZEFvUEtET2dwa19aQVBFcndHSUhTUE9aR0VFZlpCYVJU0gF0QVVfeXFMTnlGXzloa1p4TW52M3YyVHJpa3VUbGUyNWFMZWF3bkVoTjlaM0p2amZMeFIwX0o3ZjVvYktOVTdDa2hRcnNuU05PZ1RlNzFibmxUZDVJMTdqeDdRUWt2UDkwdWhjbVF6WkNoRTNsWmxfVUxHNVM?oc=5"
+        }
+      ],
+      "keywords": [
+        "국제형사재판소",
+        "미국 제재",
+        "사법 독립",
+        "국제 사법 체계"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260822-018/600/400"
+    },
+    {
+      "id": "news-20260822-019",
+      "headline": "한국인의 '애교'에 숨겨진 음향학적 원리: 목소리 공명 주파수의 변화",
+      "category": "IT/과학",
+      "categories": [
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "한국 고유의 문화인 '애교'를 부릴 때 목소리에 음향학적 변화가 일어난다는 연구 결과가 나왔다. 덕성여대 김지은 교수와 스위스 취리히대 볼케 델워 교수는 애교가 단순한 말투 변화를 넘어 목소리의 공명 주파수까지 바꾼다는 사실을 규명했다.\n\n실험 결과, 애교를 섞어 말할 때 모음 소리의 포먼트 1(F1) 주파수가 증가했다. 이는 목구멍의 길이를 조절해 성도를 짧게 만드는 효과를 내며, 결과적으로 목소리를 실제보다 더 어리고 작게 들리게 만든다.\n\n연구팀은 이러한 현상이 상대방에게 위협을 주는 대신 보호 본능을 자극하는 전략이라고 분석했다. 작고 어린 느낌의 목소리는 사회적 유대감을 높이고 타인과 친밀한 관계를 맺는 데 도움을 준다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "[이지 사이언스] '애교' 부리면 왜 귀여울까…목소리에 숨은 과학",
+          "url": "https://www.yna.co.kr/view/AKR20260821059900017"
+        },
+        {
+          "name": "한겨레",
+          "title": "K팝 아이돌 ‘애교’, 학술논문에…과학적으로 ‘혀 짧은 소리’ 아니다",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1273641.html"
+        }
+      ],
+      "keywords": [
+        "애교",
+        "음향학",
+        "공명 주파수",
+        "사회적 유대감"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/08/21/AKR20260821059900017_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20260822-020",
+      "headline": "강남 고가 아파트 호가는 내리고 노·도·강은 오르는 부동산 시장 양극화 현상 뚜렷",
+      "category": "경제",
+      "categories": [
+        "비즈니스",
+        "IT/과학",
+        "경제"
+      ],
+      "summary": {
+        "overview": "강남 3구와 30억 원을 초과하는 고가 아파트 단지에서 집주인들이 매물을 내놓는 호가를 낮추는 움직임이 포착됐다. 조사 대상 중 85%에 달하는 강남 지역 집주인이 기존보다 낮은 가격을 제시하며 가격 조정에 나섰다. 119억 원대 매물 인근에 92억 원대 매물이 등장하는 등 고가 시장의 하락세가 눈에 띈다.\n\n이와 대조적으로 15억 원 미만 아파트나 노원·도봉·강북 지역은 호가가 상승하는 양상을 보인다. 해당 지역 집주인의 63%가 매매가를 높여 부르며 시장의 양극화가 심화되는 모습이다.\n\n전문가들은 이러한 현상이 시장 전체의 흐름을 뒤바꿀 정도의 장기적 영향력은 낮다고 판단한다. 지역별 수급 상황에 따른 일시적인 차이일 가능성이 크다."
+      },
+      "publishers": [
+        {
+          "name": "v.daum.net",
+          "title": "부동산세제 개편에 강남권 재건축 매물 40% 이상 늘어",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00clFsNzNRdTdVZTU4YXVFQnViaGNqY3JJNXhoR1JfSVl0QlZvWmUtUm9xRG1ncWVfRjljMDlGNldzci1odE9WWF9nSEZEdDQ?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "“119억 매물 옆에 92억짜리 나왔다”…강남 집주인 6명 중 5명 호가 내렸다",
+          "url": "https://www.mk.co.kr/news/realestate/12133731"
+        }
+      ],
+      "keywords": [
+        "강남 부동산",
+        "호가 하락",
+        "부동산 양극화",
+        "노도강",
+        "아파트 매물"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202608/22/news-p.v1.20260821.bc828da47b2249f1b6845f20b931e8e6_R.jpg"
     }
   ]
 }
