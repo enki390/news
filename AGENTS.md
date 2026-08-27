@@ -6,14 +6,33 @@ NewPaper는 주요 언론사의 공식 RSS 피드 및 웹 크롤링을 통해 �
 ## 아키텍처 & 기술 스택
 - **Backend / Collector**: Python 3.x (`scripts/collector.py`)
   - RSS & 본문 크롤링: `feedparser`, `beautifulsoup4`, `requests` (`scripts/sources/`)
-  - 형태소 분석 & 동일 뉴스 클러스터링: `kiwipiepy` (`scripts/processors/clustering.py`)
-  - AI 요약 & 복수 카테고리 태깅: `google-genai` (Gemini API) (`scripts/processors/summarizer.py`)
+  - 형태소 분석 & 동일 뉴스 클러스터링: `kiwipiepy` (`scripts/processors/clustering.py`)\n  - AI 요약 & 복수 카테고리 태깅: `google-genai` (Gemini API) (`scripts/processors/summarizer.py`)
   - 4대 핵심 카테고리: `경제`, `글로벌`, `비즈니스`, `IT/과학`
   - 데이터 저장 & 보존: `data/` 경로 하위 JSON 파일 (기본 30일 보관, `scripts/storage/`)
 - **Frontend**: Vanilla Web Stack (`index.html`, `index.css`, `app.js`)
   - 순수 HTML/CSS/JS (반응형 모던 UI, 다크/라이트 테마, 커스텀 캘린더 날짜 선택기)
   - 복수 카테고리 뱃지 렌더링 및 동적 필터링
-- **CI/CD**: GitHub Actions (`.github/workflows/daily_news.yml`), GitHub Pages
+- **CI/CD**: GitHub Actions (`.github/workflows/daily_news.yml`, `.github/workflows/ai_issue_agent.yml`), GitHub Pages
+
+---
+
+## 🤖 GitHub Issue 기반 자율 개발 & 배포 워크플로우
+
+GitHub Issue를 통해 기능을 요청하거나 버그를 제보하면 **Gemini 3.7 Flash**가 설계, 계획 수립, 피드백 반영, 코드 작성, 자가 치유(Self-Healing) 및 배포를 자율적으로 수행합니다.
+
+### 워크플로우 동작 순서
+1. **이슈 등록**: GitHub 이슈를 등록하면 `.github/workflows/ai_issue_agent.yml`이 자동 실행됩니다.
+2. **설계 및 계획 코멘트 등록**: Gemini 3.7 Flash가 요구사항을 분석하여 설계 및 세부 작업 계획서를 작성하고 이슈 댓글로 등록합니다.
+3. **사용자 확인 및 지시**:
+   - **승인**: 댓글에 `**/승인**` 을 작성하면 코드를 작성하고 배포를 시작합니다.
+   - **수정**: 댓글에 `**/수정 [지시사항]**` 을 작성하면 지시사항을 반영하여 계획을 수정하고 새 코멘트로 등록합니다 (승인될 때까지 반복 가능).
+4. **코드 생성, 자가 치유 검증 및 자동 배포**:
+   - Gemini가 승인된 계획에 맞춰 코드를 생성합니다.
+   - 문법/빌드 검증을 거치며, 실패 시 에러 로그를 Gemini에 재전송하여 성공할 때까지 자가 치유를 수행합니다 (최대 5회).
+   - 성공 시 GitHub `main` 브랜치로 자동 커밋 & 푸시됩니다.
+5. **작업 완료 안내**: 배포 완료 후 작업 요약 및 변경 파일 목록을 이슈 코멘트로 최종 등록합니다.
+
+---
 
 ## 주요 개발 규칙 & 지침
 

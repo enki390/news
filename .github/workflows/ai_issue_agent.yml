@@ -1,0 +1,47 @@
+name: AI Issue Agent & Auto Deploy
+
+on:
+  issues:
+    types: [opened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  ai-agent:
+    # Trigger on:
+    # 1. New issue opened (not a PR)
+    # 2. New comment created on an issue by a human user (not a Bot and not on a PR)
+    if: |
+      (github.event_name == 'issues' && github.event.action == 'opened' && !github.event.issue.pull_request) ||
+      (github.event_name == 'issue_comment' && github.event.action == 'created' && !github.event.issue.pull_request && github.event.comment.user.type != 'Bot')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Process Issue / Comment with Gemini 3.7 Flash
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GEMINI_KEY || secrets.GEMINI_APIKEY || secrets.GEMINI_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python scripts/ai_issue_agent.py
