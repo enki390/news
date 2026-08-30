@@ -191,7 +191,7 @@ def handle_issue_opened(issue_number: int, issue_title: str, issue_body: str):
 3. 📝 단계별 세부 작업 계획 (수정/생성할 대상 파일 및 구체적 변경 내용 명시)
 4. 🧪 검증 및 테스트 방안 (문법 검사, 동작 확인 등)
 5. 💡 다음 단계 안내:
-   - 본 계획대로 작업을 진행하시려면 댓글로 `**/승인**` 을 입력해 주세요.
+   - 본 계획대로 작업을 진행하시려면 댓글로 `**/승인**` 또는 `**/재시도**` 를 입력해 주세요.
    - 수정이나 추가 요청이 있으시면 댓글로 `**/수정 [지시사항]**` 을 입력해 주세요.
 """
 
@@ -244,7 +244,7 @@ def handle_plan_revision(issue_number: int, issue_title: str, issue_body: str, r
    - 📝 세부 작업 계획 (대상 파일 및 수정 내역)
    - 🧪 검증 방안
 3. 코멘트 하단에 항상 다음 안내를 포함하세요:
-   - 본 계획대로 진행을 원하시면 `**/승인**` 을 입력해주세요.
+   - 본 계획대로 진행을 원하시면 `**/승인**` 또는 `**/재시도**` 를 입력해주세요.
    - 추가 수정이 필요하시면 `**/수정 [지시사항]**` 을 입력해주세요.
 """
 
@@ -446,7 +446,15 @@ def handle_execution_and_deploy(issue_number: int, issue_title: str, issue_body:
         if diff_proc.returncode != 0:
             full_commit_msg = f"{commit_msg} (fixes #{issue_number})"
             subprocess.run(["git", "commit", "-m", full_commit_msg], check=True)
-            subprocess.run(["git", "push", "origin", "main"], check=True)
+            
+            # Fetch & Rebase to prevent non-fast-forward conflicts with remote
+            try:
+                subprocess.run(["git", "fetch", "origin", "main"], check=True, capture_output=True, text=True)
+                subprocess.run(["git", "rebase", "origin/main"], check=True, capture_output=True, text=True)
+            except Exception as rb_err:
+                print(f"Rebase attempt note: {rb_err}")
+
+            subprocess.run(["git", "push", "origin", "HEAD:main"], check=True, capture_output=True, text=True)
             print("Successfully committed and pushed to origin main.")
         else:
             print("No git diff detected to commit.")
@@ -470,12 +478,33 @@ def handle_execution_and_deploy(issue_number: int, issue_title: str, issue_body:
         post_issue_comment(issue_number, completion_comment)
         print(f"Posted completion comment to Issue #{issue_number}")
 
+    except subprocess.CalledProcessError as e:
+        stderr_msg = (e.stderr or e.stdout or str(e)).strip()
+        print(f"Subprocess error during git push: {stderr_msg}")
+        error_comment = f"""⚠️ **[Git 커밋/푸시 오류 발생]**
+
+코드 작업 및 문법 검증은 성공하였으나, 저장소로 푸시(`git push`)하는 중 오류가 발생했습니다:
+```
+{stderr_msg}
+```
+
+💡 **조치 및 재시도 방법 안내**:
+1. 저장소 권한(`Settings` → `Actions` → `General` → `Workflow permissions`에서 **Read and write permissions** 허용 여부) 및 브랜치 보호 규칙을 확인해 주세요.
+2. 재시도를 원하시면 댓글로 `**/재시도**` 또는 `**/승인**`을 입력해 주시면 다시 실행됩니다.
+3. 추가 수정이 필요하시면 `**/수정 [지시사항]**`을 입력해 주세요.
+"""
+        post_issue_comment(issue_number, error_comment)
+
     except Exception as e:
         print(f"Error during git push or comment posting: {e}")
-        post_issue_comment(
-            issue_number,
-            f"⚠️ 코드 작업 및 검증은 완료되었으나, Git 커밋/푸시 중 오류가 발생했습니다:\n`{e}`"
-        )
+        error_comment = f"""⚠️ **[배포 중 예외 발생]**
+
+코드 배포 처리 중 오류가 발생했습니다:
+`{e}`
+
+💡 **재시도 안내**: 댓글로 `**/재시도**` 또는 `**/수정 [지시사항]**`을 입력해 주세요.
+"""
+        post_issue_comment(issue_number, error_comment)
 
 # ---------------------------------------------------------
 # Main Router
@@ -486,49 +515,68 @@ def main():
         print(f"Event path not found: {EVENT_PATH}")
         return
 
-    with open(EVENT_PATH, "r", encoding="utf-8") as f:
-        event = json.load(f)
+    try:
+        with open(EVENT_PATH, "r", encoding="utf-8") as f:
+            event = json.load(f)
 
-    issue = event.get("issue", {})
-    issue_number = issue.get("number")
-    issue_title = issue.get("title", "")
-    issue_body = issue.get("body", "")
-    comment = event.get("comment", {})
+        issue = event.get("issue", {})
+        issue_number = issue.get("number")
+        issue_title = issue.get("title", "")
+        issue_body = issue.get("body", "")
+        comment = event.get("comment", {})
 
-    if not issue_number:
-        print("No issue found in event payload.")
-        return
-
-    # Check if comment event
-    if comment:
-        author_type = comment.get("user", {}).get("type", "")
-        author_login = comment.get("user", {}).get("login", "")
-        if author_type == "Bot" or author_login == "github-actions[bot]":
-            print("Ignoring bot comment.")
+        if not issue_number:
+            print("No issue found in event payload.")
             return
 
-        comment_body = comment.get("body", "").strip()
-        print(f"Processing comment from {author_login}: {comment_body[:80]}...")
+        # Check if comment event
+        if comment:
+            author_type = comment.get("user", {}).get("type", "")
+            author_login = comment.get("user", {}).get("login", "")
+            if author_type == "Bot" or author_login == "github-actions[bot]":
+                print("Ignoring bot comment.")
+                return
 
-        if "/승인" in comment_body:
-            all_comments = fetch_issue_comments(issue_number)
-            handle_execution_and_deploy(issue_number, issue_title, issue_body, all_comments)
-        elif "/수정" in comment_body:
-            idx = comment_body.find("/수정")
-            instruction = comment_body[idx + len("/수정"):].strip()
-            if instruction.startswith(":") or instruction.startswith("-"):
-                instruction = instruction[1:].strip()
-            all_comments = fetch_issue_comments(issue_number)
-            handle_plan_revision(issue_number, issue_title, issue_body, instruction, all_comments)
+            comment_body = comment.get("body", "").strip()
+            print(f"Processing comment from {author_login}: {comment_body[:80]}...")
+
+            # Check trigger keywords: /승인, /재시도, /다시시도, /재실행
+            is_approval_or_retry = any(k in comment_body for k in ["/승인", "/재시도", "/다시시도", "/재실행"])
+            if is_approval_or_retry:
+                all_comments = fetch_issue_comments(issue_number)
+                handle_execution_and_deploy(issue_number, issue_title, issue_body, all_comments)
+            elif "/수정" in comment_body:
+                idx = comment_body.find("/수정")
+                instruction = comment_body[idx + len("/수정"):].strip()
+                if instruction.startswith(":") or instruction.startswith("-"):
+                    instruction = instruction[1:].strip()
+                all_comments = fetch_issue_comments(issue_number)
+                handle_plan_revision(issue_number, issue_title, issue_body, instruction, all_comments)
+            else:
+                print("Comment does not contain /승인, /재시도, or /수정 trigger keywords. Skipping.")
         else:
-            print("Comment does not contain /승인 or /수정 trigger keywords. Skipping.")
-    else:
-        # Issue opened event
-        action = event.get("action", "")
-        if action == "opened":
-            handle_issue_opened(issue_number, issue_title, issue_body)
-        else:
-            print(f"Unhandled issue action: {action}")
+            # Issue opened event
+            action = event.get("action", "")
+            if action == "opened":
+                handle_issue_opened(issue_number, issue_title, issue_body)
+            else:
+                print(f"Unhandled issue action: {action}")
+
+    except Exception as fatal_e:
+        print(f"Fatal error in main: {fatal_e}")
+        try:
+            if EVENT_PATH and os.path.exists(EVENT_PATH):
+                with open(EVENT_PATH, "r", encoding="utf-8") as f:
+                    event = json.load(f)
+                issue_num = event.get("issue", {}).get("number")
+                if issue_num:
+                    post_issue_comment(
+                        issue_num,
+                        f"❌ **[에이전트 실행 오류 안내]**\n\n작업 처리 중 예기치 않은 오류가 발생했습니다:\n```\n{fatal_e}\n```\n잠시 후 `**/재시도**` 댓글을 입력해 주세요."
+                    )
+        except Exception as post_err:
+            print(f"Failed to post fatal error comment: {post_err}")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
