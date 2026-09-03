@@ -67,36 +67,82 @@ def update_issue(issue_number: int, state: Optional[str] = None, labels: Optiona
 # Gemini API Helpers
 # ---------------------------------------------------------
 
-def get_gemini_client() -> genai.Client:
-    if not GEMINI_API_KEY:
-        raise ValueError("GEMINI_API_KEY environment variable is missing.")
-    return genai.Client(api_key=GEMINI_API_KEY)
+PREFERRED_MODELS = [
+    "gemini-3.6-flash",
+    "gemini-flash-latest",
+    "gemini-3.5-flash",
+    "gemini-flash-lite-latest",
+    "gemini-3.7-flash",
+    "gemini-3.1-pro-preview",
+    "gemini-pro-latest"
+]
 
-def call_gemini(prompt: str, json_mode: bool = False) -> str:
-    client = get_gemini_client()
-    preferred_models = [
-        "gemini-2.5-flash",
-        "gemini-2.0-flash",
-        "gemini-1.5-flash",
-        "gemini-1.5-pro",
-        "gemini-2.5-pro",
-        "gemini-pro"
-    ]
+EXCLUDED_KEYWORDS = [
+    "tts", "image", "audio", "transcribe", "clip",
+    "banana", "computer-use", "robotics", "deep-research",
+    "lyria", "gemma", "high-res", "customtools"
+]
 
-    models_to_try = preferred_models
+DEPRECATED_MODELS = {
+    "gemini-2.5-flash",
+    "gemini-2.5-pro",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-exp",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-latest",
+    "gemini-1.5-pro",
+    "gemini-pro"
+}
+
+_CACHED_AGENT_MODELS: Optional[List[str]] = None
+
+
+def is_valid_text_model(model_name: str) -> bool:
+    """Filter out audio/image/TTS/unsupported models."""
+    lowered = model_name.lower()
+    if lowered in DEPRECATED_MODELS:
+        return False
+    if any(kw in lowered for kw in EXCLUDED_KEYWORDS):
+        return False
+    return "flash" in lowered or "pro" in lowered
+
+
+def get_available_agent_models(client: genai.Client) -> List[str]:
+    """Discover available text generation models with caching across calls."""
+    global _CACHED_AGENT_MODELS
+    if _CACHED_AGENT_MODELS is not None:
+        return _CACHED_AGENT_MODELS
+
+    discovered = []
     try:
-        api_models = []
         for m in client.models.list():
             m_name = getattr(m, 'name', '')
             if m_name:
                 clean_name = m_name.replace("models/", "")
                 methods = getattr(m, 'supported_generation_methods', []) or getattr(m, 'supported_actions', []) or []
                 if not methods or "generateContent" in str(methods):
-                    api_models.append(clean_name)
-        if api_models:
-            models_to_try = [m for m in preferred_models if m in api_models] + [m for m in api_models if m not in preferred_models]
+                    if is_valid_text_model(clean_name):
+                        discovered.append(clean_name)
+        if discovered:
+            ordered = [m for m in PREFERRED_MODELS if m in discovered] + [m for m in discovered if m not in PREFERRED_MODELS]
+            _CACHED_AGENT_MODELS = ordered
+            return _CACHED_AGENT_MODELS
     except Exception as e:
-        print(f"Model discovery note: {e}")
+        print(f"Model discovery note (falling back to PREFERRED_MODELS): {e}")
+
+    _CACHED_AGENT_MODELS = list(PREFERRED_MODELS)
+    return _CACHED_AGENT_MODELS
+
+
+def get_gemini_client() -> genai.Client:
+    if not GEMINI_API_KEY:
+        raise ValueError("GEMINI_API_KEY environment variable is missing.")
+    return genai.Client(api_key=GEMINI_API_KEY)
+
+
+def call_gemini(prompt: str, json_mode: bool = False) -> str:
+    client = get_gemini_client()
+    models_to_try = get_available_agent_models(client)
 
     for model_name in models_to_try:
         for attempt in range(1, 3):

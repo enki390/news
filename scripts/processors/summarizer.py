@@ -3,7 +3,7 @@ import json
 import re
 import time
 import datetime
-from typing import List
+from typing import List, Optional
 
 from google import genai
 from google.genai import types
@@ -11,33 +11,79 @@ from google.genai import types
 from sources.base import NewsArticle
 from config import ALLOWED_CATEGORIES, GEMINI_API_KEY, MAX_CLUSTERS
 
-def summarize_with_gemini(featured_article: NewsArticle, api_key: str, candidate_categories: List[str] = None):
-    """Summarize strictly based on the full body of the primary selected featured article using official google-genai SDK."""
-    client = genai.Client(api_key=api_key)
+# Preferred Gemini models for text generation (in order of priority)
+PREFERRED_MODELS = [
+    "gemini-3.6-flash",
+    "gemini-flash-latest",
+    "gemini-3.5-flash",
+    "gemini-flash-lite-latest",
+    "gemini-3.7-flash",
+    "gemini-3.1-pro-preview",
+    "gemini-pro-latest"
+]
 
-    preferred_models = [
-        "gemini-1.5-flash-latest",
-        "gemini-1.5-flash",
-        "gemini-2.0-flash-exp",
-        "gemini-1.5-pro",
-        "gemini-pro"
-    ]
+EXCLUDED_KEYWORDS = [
+    "tts", "image", "audio", "transcribe", "clip",
+    "banana", "computer-use", "robotics", "deep-research",
+    "lyria", "gemma", "high-res", "customtools"
+]
 
-    models_to_try = preferred_models
+DEPRECATED_MODELS = {
+    "gemini-2.5-flash",
+    "gemini-2.5-pro",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-exp",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-latest",
+    "gemini-1.5-pro",
+    "gemini-pro"
+}
+
+_CACHED_MODELS: Optional[List[str]] = None
+
+
+def is_valid_text_model(model_name: str) -> bool:
+    """Filter out audio/image/TTS/unsupported models."""
+    lowered = model_name.lower()
+    if lowered in DEPRECATED_MODELS:
+        return False
+    if any(kw in lowered for kw in EXCLUDED_KEYWORDS):
+        return False
+    return "flash" in lowered or "pro" in lowered
+
+
+def discover_supported_models(client: genai.Client) -> List[str]:
+    """Discover available text generation models with caching across batch runs."""
+    global _CACHED_MODELS
+    if _CACHED_MODELS is not None:
+        return _CACHED_MODELS
+
+    discovered = []
     try:
-        api_models = []
         for m in client.models.list():
             m_name = getattr(m, 'name', '')
             if m_name:
                 clean_name = m_name.replace("models/", "")
                 methods = getattr(m, 'supported_generation_methods', []) or getattr(m, 'supported_actions', []) or []
                 if not methods or "generateContent" in str(methods):
-                    api_models.append(clean_name)
-        if api_models:
-            print(f"Discovered active models from Gemini API: {api_models}")
-            models_to_try = [m for m in preferred_models if m in api_models] + [m for m in api_models if m not in preferred_models]
+                    if is_valid_text_model(clean_name):
+                        discovered.append(clean_name)
+        if discovered:
+            print(f"Discovered active text models from Gemini API: {discovered}")
+            ordered = [m for m in PREFERRED_MODELS if m in discovered] + [m for m in discovered if m not in PREFERRED_MODELS]
+            _CACHED_MODELS = ordered
+            return _CACHED_MODELS
     except Exception as e:
-        print(f"Model discovery info: {e}")
+        print(f"Model discovery warning (falling back to PREFERRED_MODELS): {e}")
+
+    _CACHED_MODELS = list(PREFERRED_MODELS)
+    return _CACHED_MODELS
+
+
+def summarize_with_gemini(featured_article: NewsArticle, api_key: str, candidate_categories: List[str] = None):
+    """Summarize strictly based on the full body of the primary selected featured article using official google-genai SDK."""
+    client = genai.Client(api_key=api_key)
+    models_to_try = discover_supported_models(client)
 
     target_cat = featured_article.target_category if featured_article.target_category in ALLOWED_CATEGORIES else '경제'
     article_body = featured_article.full_content or featured_article.summary
@@ -98,6 +144,7 @@ def summarize_with_gemini(featured_article: NewsArticle, api_key: str, candidate
                 time.sleep(1)
 
     return None
+
 
 def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict = None):
     """Process clusters into final news items by summarizing the selected featured article's full body."""
