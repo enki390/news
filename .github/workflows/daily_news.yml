@@ -2,7 +2,7 @@ name: Daily News Collector
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # Runs automatically every day at 06:00 KST (UTC 21:00) on GitHub Cloud
+    - cron: '23 20 * * *'  # Runs automatically every day at 05:23 KST (UTC 20:23) on GitHub Cloud
   workflow_dispatch:
     inputs:
       mode:
