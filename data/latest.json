@@ -1,18 +1,231 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T09:28:33.817077+09:00",
+  "generated_at": "2026-09-23T08:11:34.680475+09:00",
   "total_count": 20,
   "news_items": [
     {
       "id": "news-20260922-001",
-      "headline": "중동 긴장 속 외교적 해법 기대감에 국제유가 하락세 전환",
+      "headline": "미·이란 유엔 회담 당일 호르무즈 해협 게슘섬 인근 해역서 폭발음 발생",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "이란 국영 IRNA 통신은 23일 새벽 호르무즈 해협의 전략적 요충지인 이란 게슘섬 인근 해역에서 폭발음이 발생했다고 보도했습니다. 게슘섬은 호르무즈 해협 북부에 위치한 이란의 주요 해상 거점입니다.\n\n폭발음은 바다 쪽에서 들려온 것으로 파악되었으나, 섬 내부의 직접적인 피해 상황은 아직 확인되지 않았습니다.\n\n현지 폭발 소식이 전해진 비슷한 시각 미국 뉴욕 유엔본부에서는 유엔총회를 계기로 미국과 이란 대표단 간 회담이 진행되었습니다. 도널드 트럼프 미국 대통령은 이란 대표단과의 회담을 마친 직후 대화가 매우 잘 진행되었다고 밝혔습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "미-이란 유엔 회담날에 호르무즈 게슘섬 인근 폭발음",
+          "url": "https://www.yna.co.kr/view/AKR20260923017000009"
+        },
+        {
+          "name": "경향신문",
+          "title": "유엔본부서 미·이란 3시간 회담···트럼프 “아주 좋은 회담, 이란은 위대한 국가 될 수 있어”",
+          "url": "https://www.khan.co.kr/article/202609230711001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "트럼프, 유엔 연설서 “이란, 합의와 전멸 중 선택하라”…서반구 패권 과시",
+          "url": "https://www.khan.co.kr/article/202609230629001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "“트럼프, 조건 맞는다면 뉴욕서 이란과 회담하고 싶어”",
+          "url": "https://www.khan.co.kr/article/202609222248001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "이란 “미국이 압박 완화하면 7일 내 호르무즈 재개방 제안”",
+          "url": "https://www.khan.co.kr/article/202609222137001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "트럼프 “전멸” 겁박 직후, 미-이란 3시간 협상…“호르무즈 재개방 조건 논의”",
+          "url": "https://www.hani.co.kr/arti/international/america/1279181.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "트럼프 유엔 연설 “이란, 합의냐 전멸이냐 결정해야…선거 후 합의 믿어”",
+          "url": "https://www.hani.co.kr/arti/international/america/1279159.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "미 당국자 “트럼프, 조건 맞으면 뉴욕서 이란과 회담”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1279156.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "“이란, 미 군사 압박 줄이면 7일내 호르무즈 개방”",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1279142.html"
+        },
+        {
+          "name": "YTN",
+          "title": "미·이란·우크라 등 각국 정상 집결...뉴욕 유엔총회 22일 개막",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oUjNtOURucm10TTdyT25iSXZCYXpZX1NNZExiZHdtV0hVVEJTaFdyaWFLZFhvaTJaQlAyc1hOaHRuU2NSemdXOExvVERXUDc0alg4WTdiZ3VXQ1VmZ1E?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "[속보] 나스닥 장중 ‘사상 최고치’ 찍었다…미·이란 회담 기대에 4개월만",
+          "url": "https://www.mk.co.kr/news/stock/12159859"
+        }
+      ],
+      "keywords": [
+        "호르무즈 해협",
+        "게슘섬",
+        "미국 이란 회담",
+        "트럼프",
+        "유엔총회"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/ap/2026/04/18/PAP20260418157401009_P2.jpg"
+    },
+    {
+      "id": "news-20260922-002",
+      "headline": "대미 전략투자 1호 사업에 텍사스 가스발전소 선정…연내 21억9000만달러 송금",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "정부가 2000억 달러 규모의 대미 전략투자 첫 사업으로 미국 텍사스주 엔시날 가스복합화력발전 프로젝트를 확정했습니다. 이 사업은 텍사스에 약 6.5기가와트 규모 발전소를 지어 데이터센터에 전력을 공급하는 프로젝트로, 총 사업비는 223억 달러에 달합니다.\n\n정부는 올해 1호 사업 집행액 21억9000만 달러와 원전 건설 관련 추가 자금 100억 달러를 미국에 송금할 계획입니다. 투자금 회수 가능성을 검토한 결과 20년간 430억~454억 달러 수준의 회수가 가능하다고 판단했습니다.\n\n향후 검토 대상인 후속 프로젝트로는 미국 내 원전 8기 건설과 웨스팅하우스 지분 인수 방안, 알래스카 액화천연가스 개발 사업이 국회에 함께 보고됐습니다. 정부는 후속 사업들의 경우 아직 개별 추진이 확정되지 않았으며 상업적 합리성과 국내 법적 절차를 거쳐 최종 결정할 방침이라고 설명했습니다.\n\n국회에서는 막대한 재정이 투입되는 사업인 만큼 단시간 보고만으로 상업성을 판단하기 어렵다며 국회 동의와 면밀한 사전 검증을 요구하는 목소리가 나왔습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "‘대미 투자 1호’ 텍사스 발전소 선정…올해 21.9억달러 송금",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1279138.html"
+        },
+        {
+          "name": "동아일보",
+          "title": "‘대미투자 1호’ 가스발전소 확정… “원전-알래스카 LNG 검토중”",
+          "url": "https://www.donga.com/news/Politics/article/all/20260923/134723642/2"
+        },
+        {
+          "name": "동아일보",
+          "title": "韓이 전액 투자하는 텍사스 발전소, 美가 지분 절반 요구",
+          "url": "https://www.donga.com/news/Politics/article/all/20260923/134723504/2"
+        },
+        {
+          "name": "동아일보",
+          "title": "“대미투자, 年 200억달러-총 2000억달러로 제한” 재확인",
+          "url": "https://www.donga.com/news/Economy/article/all/20260923/134723501/2"
+        },
+        {
+          "name": "Chosunbiz",
+          "title": "[마켓뷰] AI 모멘텀·대미 투자 소식에도…코스피, 상승폭 반납해 강보합 - 조선비즈",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3A0NmJNeFc0SE5mekYzVkJZQURKYURKVUJTMXZRLVlIV0NfZnRfQTdPY0dyRlZFR0pibUdGMjVHTkFmcUFHRTNCZV9PbXFwa2hPRWFZWjBVQWpyTHRObVFJMzc0THZ0YzlEMUpLbUxhNHlsQjlEU1pxZ3gxMnhGZmF5QWRiSkZC0gGcAUFVX3lxTE5tV3otdmQ1UUh6ejk3RTAyNklnUWl2Xy12cFo4M01SVHlTa2JIeFlxY1FuU0JkYkhfTlZ5Ym9CUXJ5LTN0QWNGYllaWUpIZ0t1OUpZbFNKU3ZnNmlWNEJzMjFTQnBMMmxLQ2d2RjZmTzFzcjZtbFV5NS1iUkxjUC1WZEJ1QXlOcW91VWFLNDN3YW5vWFdDcy02eWxVOA?oc=5"
+        }
+      ],
+      "keywords": [
+        "대미투자",
+        "텍사스발전소",
+        "원전프레임워크",
+        "알래스카LNG",
+        "산업통상자원부"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0922/53_17900756873841_20260922503813.webp"
+    },
+    {
+      "id": "news-20260922-003",
+      "headline": "이 대통령, 이형일 경제부총리·강신철 국방장관·홍지선 국토장관 임명 재가",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "이 대통령이 신임 경제부총리 겸 기획재정부 장관에 이형일, 국방부 장관에 강신철, 국토교통부 장관에 홍지선을 각각 임명하는 안을 재가했습니다.\n\n이번 인사는 경제, 안보, 건설·교통 등 주요 국정 분야의 컨트롤타워를 확립하고 국정 운영의 동력을 확보하기 위해 이루어졌습니다.\n\n새롭게 내각에 합류한 장관들은 각 부처의 산적한 현안을 해결하고 민생 안정과 국가 안보를 강화하는 데 역량을 집중할 예정입니다.\n\n주요 부처 수장에 대한 임명 절차가 완료됨에 따라 정부의 핵심 국정과제 추진에 더욱 속도가 붙을 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "이 대통령, 이형일 경제부총리·강신철 국방장관·홍지선 국토장관 임명 재가",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XQkdIRDV5TlNEejJkVVdQbEhNRURadWdQbjFkSl92eHVqOEFfNTFWcXZ3RjVxbWhWVFY3VGVXaHBoRFdOamJJQ3ZMUEpNQ0doTFVUNE1Fd0c0UHc?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "이형일 경제부총리 취임…“모든 국민이 성장의 성과 체감할 수 있도록 하겠다”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UdFd1Y1JnUGstb3QtSVZjZHdMRURpSHVIR0FqOHpnNzBmWGprSlpqZWlZTVlrZGo0bWgzVXE2cWl3QTF3U29hc0kyMDZGdW9Tc3o3Z1U2NkdUNGc?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "이형일 경제부총리·강신철 국방장관·홍지선 국토장관 임명 재가",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VMkxZMTZLcG9Eb05rbGxvMmg2dERqZEZqUkl5Z0JDMWlXb25LTjRvYzB0WVZCYkJ3VUxEMEFrb2VsN0ZQN1pQLXNOR2ZzempPYk1JcmViVEwydDQ?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "이형일 \"경제성장, 숫자만으로 체감 안 돼‥성장 성과 체감하게 하겠다\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCV0pOWFdDUmhkdm1ucVFHZlRPZDNxLVlJXzVxanZiUl9mQTBtQTZiRDlDX0tTTVg0R2h4MDctQjFlX0NsMFRzbHEtQTRzOGhRZ1NMdGd1SHZ2R2p6ZXFQem1xckZiRThfTm9YemxsMk9BREVY0gF0QVVfeXFMT0tsOWloZ1lOc2MxY3BFQXFRWHl1X3pIMUZST3RtelFON1lfR08zUVhkcnN2a051ZDYxZ3RZazNnTHIzSmUzUElqYVBXMS1ndVVWYTJnWG51blBsQmp5OUNjRUYyRWxsNjg1aEl2V181S3UxQW4?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "이형일 \"경제성장, 숫자만으로 체감 안 돼...온기 퍼지게 하겠다\"",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hOU1KQk1LX0c2NFE2cmVJWmloTHZYTExwWTk4cXFucF9KVURsQl9uZHNuZ3dmaUp4WExxbjJkNXpLNEZmV0dwd0JKcjR2LURlRXVMdmJjbGtuYlRiVU9BamdoNUJlaHM5YThZZWR0X0oyd0Z2ZlE?oc=5"
+        }
+      ],
+      "keywords": [
+        "임명 재가",
+        "이형일 경제부총리",
+        "강신철 국방장관",
+        "홍지선 국토장관",
+        "개각"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260922-003/600/400"
+    },
+    {
+      "id": "news-20260922-004",
+      "headline": "9월 소비심리 한 달 만에 반등…증시 안정과 실물경제 호조 영향",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "한국은행이 발표한 '소비자동향조사'에 따르면 9월 소비자심리지수(CCSI)가 106.6을 기록하며 전월 대비 2.1포인트 상승했습니다. 지난 8월 일시적 하락세를 보인 지 한 달 만의 반등으로, 반도체 수출 호조와 실물경제의 긍정적 흐름이 가계 소득 여건 개선으로 이어진 결과입니다.\n\n소비심리를 구성하는 6개 지수 중 현재경기판단 지수가 가장 큰 폭으로 올랐으며, 가계수입전망도 7개월 만에 최고치를 나타냈습니다. 반면 주택가격전망지수는 125로 전월과 동일한 수준을 유지했으나, 수도권 아파트 가격의 높은 오름세 영향으로 집값 상승 기대감은 여전히 높게 형성되어 있습니다.\n\n금리수준전망지수는 기준금리 인상 기조가 반영되며 상승세를 보였고, 향후 1년 소비자물가 상승률 전망치인 기대인플레이션율은 2.7%로 전월 수준을 지켰습니다. 한국은행은 중동 지역 긴장과 주식시장 상황 등 돌발 변수가 존재하는 만큼 향후 소비자심리지수의 지속적인 우상향 여부는 신중히 살펴봐야 한다고 밝혔습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "9월 소비심리 한 달 만에 반등…\"집값 상승 기대 여전히 높아\"",
+          "url": "https://www.yna.co.kr/view/AKR20260922176500002"
+        },
+        {
+          "name": "한겨레",
+          "title": "9월 소비심리 반등...실물 호조·증시 안정 영향",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1279179.html"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "소비자심리지수 한 달 만에 반등‥\"증시 변동성 축소 등 영향\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YU1QxQm1PM3NCbXZqRlVGSnpSQkJvUloxZzZXX2JYd1U1N0NrN0htTVNBQkFXV0d6S2ZMVHE2UkkwTEhDZEwtUzV1Q0tXLTY3YTByNzBsSjJHeW5GVGNSaklveDlUREw3Q0dDWFZjVVNueHRj0gF0QVVfeXFMT0lLOUlFSlZrQlN3MFlHaUt6M25jLWFNT1p4V0ZLQ1Z0OVkxUGRPWDIxb09NLXB6UWVLZHBTRTRpdkdwUDFRV0ZJREI2aEJ0bFAzSDNHY1c5VDFhTGFaSExLcmU2QllxZWhiNnE0Q3I0alVWcU4?oc=5"
+        },
+        {
+          "name": "연합뉴스TV",
+          "title": "“집값 상승·가계빚 압력…금융불균형 누증 우려”",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80QzBKUjhac1pTMHQ3UUFBd05HYkhEREpCa2tQNlJmMlBzeVZSTFJTWmlNdmdiTDZzc1NYNDJOSG9MZmNmcDFzN1JEMlZiekN3bm96R3BaSEtETmM4bGZOSTJsenBzUzg?oc=5"
+        }
+      ],
+      "keywords": [
+        "소비자심리지수",
+        "소비심리",
+        "한국은행",
+        "주택가격전망",
+        "실물경제"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/08/30/PYH2026083004650001300_P2.jpg"
+    },
+    {
+      "id": "news-20260922-005",
+      "headline": "중동 갈등 외교적 해법 기대감에 국제유가 하락세로 돌아서",
       "category": "글로벌",
       "categories": [
         "글로벌",
         "경제"
       ],
       "summary": {
-        "overview": "중동 지역을 둘러싼 군사적 충돌 우려 속에서 외교적 해법 모색 움직임이 나타나며 국제유가가 하락세를 보였습니다.\n\n이란과 이스라엘 간 무력 충돌 위기가 고조되면서 원유 공급 차질에 대한 시장의 불안감이 컸으나, 주요국들의 중재와 협상 가능성이 부각되자 유가 상승 압력이 다소 완화되었습니다.\n\n시장 참여자들은 공급망 붕괴 가능성을 경계하면서도 사태가 전면전으로 번지지 않고 외교적 합의점을 찾을 수 있다는 기대에 무게를 싣고 있습니다.\n\n향후 중동 정세의 추가적인 전개 방향과 주요 산유국들의 공급 정책 변화에 따라 원유 시장의 가격 변동성이 이어질 전망입니다."
+        "overview": "중동 지역의 지정학적 긴장이 완화될 조짐을 보이면서 국제유가가 하락세를 나타내고 있습니다. 이스라엘과 이란 간의 무력 충돌 우려가 지속되는 가운데, 사태를 해결하기 위한 외교적 중재 노력이 본격화되면서 시장의 불안 심리가 일부 해소된 영향으로 풀이됩니다.\n\n시장은 당초 우려했던 물리적 충돌이나 정유 시설 타격과 같은 극단적인 시나리오의 가능성이 낮아진 점에 안도하는 분위기입니다. 주요국들이 중동 유혈 사태를 막기 위해 외교적 해법을 모색하면서, 원유 공급 차질에 대한 우려가 크게 잦아들었습니다.\n\n당분간 글로벌 외교 협상 추이에 따라 유가 변동성이 유지될 것으로 보입니다. 다만 전면전으로의 확산 가능성이 통제 범위 내에 머문다면, 급격한 유가 급등세는 진정 국면을 이어갈 전망입니다."
       },
       "publishers": [
         {
@@ -26,400 +239,174 @@
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JdEtZMkRnSl9xMTdMc2VoM19iY2tmYUFxSFZaY1BoeDN6eG8zT1BSTXZkdFdlc20zZXVUVGIwWkF5N1dKcWdYZS1wZmh4N255MzU4MHpaVy1QTE9VRDBxdXdkSl93QQ?oc=5"
         },
         {
-          "name": "KBS 뉴스",
-          "title": "국제유가, 사우디 공급 차질 우려 완화에 사흘째 하락",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNUlMOU92TVpzanczV2NxNzRkQmFIMU4wVFBZUU93VG0xdnVHeTZmMUZkRXI1THk2VHJSSlBDa1BMLTUwVEV4bjZRZ3VSTjh4ZXE4WHJWa3dFSE0?oc=5"
+          "name": "MBC 뉴스",
+          "title": "국제유가, 사우디 원유 공급 회복 조짐에 100달러 아래로",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56WXRNLVpBaDhRa1NnT1QxSXlvYmJDY3ZGUHMyLTZ0MkkxNWlpaE15bklITjVBdnNmbEZ2N2lVNjRWRzk1Y2NOSXo4a2FOQkhYaWt5ekxvMzhITldXTjZfaVc2cE94TDgzQkt0SzNjVVRUTXJJ0gF0QVVfeXFMTjA5U3g2RjZBY3Nuc2Y3dVFJU21nRGVLRU93Qm9CYmtwTGY4Ri0wVVN4UUFINzhrWDZSb0M1WFlWejNJMHV4LXBCYTRINkNmcXBaTXM1ZlllQkRMTjcwc2VITE5fckFLdnNQWjZDZnpKck52b3I?oc=5"
         },
         {
-          "name": "KBS 뉴스",
-          "title": "국제 유가 치솟는데…석유 최고가격 동결 언제까지?",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zY0t0Y3FiRFBnMm1kdVNuQ3ZjbmM4amZ1ak1GcG1zZi1QWXl0Rm1JRE5FN3VnUEZwbTg4RmJ1MVZWS1daa2xMOGtnRFk2UEtOZ2FmTkEzMjhPTFk?oc=5"
-        },
-        {
-          "name": "imnews.imbc.com",
+          "name": "MBC 뉴스",
           "title": "후티 \"사우디 전투기 격추\"‥국제유가 '비상'",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53NUZ2OU9ibDFNOGtfZXNoTjR5MFBfZE8yRFJPZ0ptQjBuaWN2T0dFa3ZESXhxVENZYjlRSWVMRFN6MHpPS0VNWjBsQlUyVURtVlB4SVZBS1hwSHdoZ2NMelJreTR1bnd5OFZ2VldSUjZHbXFkb3dF0gF3QVVfeXFMTV9ua2xyZjR6VS1KbGNHeDdRZVFoNVRRV0R0eExUVjNDZ0dHRlZpamFJQkhJd1RlQ2k1NXd2N1dYT1RHSjBINHZXSHNoa3JHVWtSU2RoLWUyemE4eGo3RzVpckVoOXRMOWFkOGpha3NnUFlaVlFmMEk?oc=5"
-        },
-        {
-          "name": "imnews.imbc.com",
-          "title": "국제유가, 사우디 공급 차질 우려 완화에 사흘째 하락",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRU3lLMFYyaWh2OVpjNTktQUM1RWlOOHI1RG80ZlhvY2E1Z09CNGR5WXplNmdTeW9yN3FtM1BKaGt5NmJuckRpVmxvVDVqWlpEcnF1M3RncjlmYzhkWDBxdDJfUDkwRVMwT0ItaVJKTlg4emh00gF0QVVfeXFMUFFTeUswVjJpaHY5WmM1OS1BQzVFaU44cjVEbzRmWG9jYTVnT0I0ZHlZemU2Z1N5b3I3cW0zUEpoa3k2Ym5yRGlWbG9UNWpaWkRycXUzdGdyOWZjOGRYMHF0Ml9QOTBFUzBPQi1pUkpOWDh6aHQ?oc=5"
-        },
-        {
-          "name": "imnews.imbc.com",
-          "title": "뉴욕증시 4거래일만에 반등‥국제유가 이틀째 하락",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0ybGNnNHdLZ0VqdzdRZzA0ZF83MldNVm9EeFBfbjVjWDFJWFdfWHUtd3hxMHpBdkNGZ0h5RFdNRHROQV91eFdvMjh5WE8xX3Jnb1dsbVp6TldSUWNlUjlYZGxtRmNNWGVtcHc4V3Z0amRXYlhf0gF0QVVfeXFMTTJsY2c0d0tnRWp3N1FnMDRkXzcyV01Wb0R4UF9uNWNYMUlYV19YdS13eHEwekF2Q0ZnSHlEV01EdE5BX3V4V28yOHlYTzFfcmdvV2xtWnpOV1JRY2VSOVhkbG1GY01YZW1wdzhXdnRqZFdiWF8?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "국제유가 상승에도 국내 주유소 기름값 18주째 하락",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQkhxd3NOOUd3RDR6QTNkVlUyeGRPaDc1VVhZQWNjQXJhMmtpeVhfb3FfMGh1UTJ3NUJXVjY2RUhOUFpIdXdIdFlwQVpJUUVXTFlfRVNGWHlQRUt5a2c?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "국제 유가, 사우디 공급 차질 우려 완화에 하락",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpd2RuRXRqMWxxR2xCWnVMMHNmWWV1Q3ZUODA4ajF1Q3gzaW9vLXNLNUg0TDRBdGVEOEV4cHhwcERrUE4tWnczcGlGTmdDS2xVaTktTi14N1VvQ19fb2c?oc=5"
         }
       ],
       "keywords": [
         "국제유가",
-        "중동 정세",
-        "이란",
-        "외교적 해법",
-        "원유 공급"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260922-001/600/400"
-    },
-    {
-      "id": "news-20260922-002",
-      "headline": "아산시, 공공임대형 지식산업센터 건립 본격화…내년 2월 준공",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "충남 아산시가 배방읍 장재리 일원에 유망 기술기업을 지원하는 '공공임대형 지식산업센터'를 조성하고 있습니다. 국비 160억 원과 시비 170억 원을 합쳐 총 330억 원을 투입하는 이번 시설은 지하 1층, 지상 5층, 연면적 9천69㎡ 규모로 들어섭니다.\n\n센터 내부에는 입주기업과 공공기관, 공유오피스를 포함한 44실의 공간과 함께 공유 라운지, 투자설명회실(IR룸) 같은 지원 시설을 갖춥니다. 지난해 4월 첫 삽을 뜬 뒤 8월 기준 공정률 52.9%를 기록 중이며, 내년 2월 준공을 목표로 순조롭게 공사를 이어가고 있습니다.\n\n아산시는 단순한 사무 공간 임대에 그치지 않고 입주 기업의 기술개발과 투자 유치, 사업화, 규모 확장을 다각도로 뒷받침할 계획입니다. 센터에서 성장한 기업이 지역 내 민간 지식산업센터와 산업단지로 자연스럽게 이어지도록 연결 거점 역할을 맡깁니다.\n\n오세현 아산시장은 지역 창업기업과 전국의 잠재력 높은 기술기업을 유치해 투자와 고용이 선순환하는 산업 생태계를 일구겠다고 밝혔습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "아산시, 공공임대형 지식산업센터 건립…내년 2월 준공 목표",
-          "url": "https://www.yna.co.kr/view/AKR20260922036500063"
-        },
-        {
-          "name": "YTN",
-          "title": "[스타트 경제] 정부 '주거안정플랜' 발표...공공임대-분양 119만 호 4년 내 공급",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRUHhKYTV4clkzZk91bl9FcDB2R1VpNU1ya3Y0Wk8xSzVxa0dJa3NpVGRmcXlUZ1VETDNDYWhjNzJvdTh6ZjdldHp0RlZ3Q0I2alRDN3RDd0NyTXNLOWc?oc=5"
-        },
-        {
-          "name": "매일경제",
-          "title": "\"공공임대 체질개선은 긍정적 … 당장 전월세난 잡기엔 한계\"",
-          "url": "https://www.mk.co.kr/news/realestate/12158508"
-        },
-        {
-          "name": "매일경제",
-          "title": "전세대란 심상찮은 민심에 … '중산층 공공임대' 19만가구 공급",
-          "url": "https://www.mk.co.kr/news/realestate/12158509"
-        }
-      ],
-      "keywords": [
-        "아산시",
-        "지식산업센터",
-        "창업지원",
-        "공공임대",
-        "기술기업"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922036500063_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20260922-003",
-      "headline": "한국해외인프라도시개발지원공사, 호주 시드니 45층 아파트 개발 투자계약 체결",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "IT/과학",
-        "글로벌",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "한국해외인프라도시개발지원공사가 현대건설, 한국투자리얼에셋운용과 함께 호주 시드니 채스우드 지역에서 초고층 아파트 개발사업에 나선다.\n\n이번 프로젝트는 총사업비 3천500억원 규모로, 260가구 규모의 45층 아파트를 건설한 뒤 임대하는 방식으로 추진된다.\n\n3사는 공공과 민간의 역량을 결합한 '팀 코리아' 방식을 도입해 현대건설이 지분 투자와 시공 관리를, 한국투자리얼에셋운용이 자산운용을, KIND가 금융구조화를 각각 담당한다.\n\n사업지는 시드니 북부 최대 상권과 채스우드역 인근에 위치하며, 오는 11월 철거를 시작으로 내년 3월 본공사에 착수해 2029년 10월 입주를 목표로 진행된다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "해외인프라공사, 시드니 45층 아파트 개발…사업비 3천500억원",
-          "url": "https://www.yna.co.kr/view/AKR20260922038000003"
-        },
-        {
-          "name": "매일경제",
-          "title": "공사기간 확 줄였는데 층간소음은 1등급…국내 최고층 모듈러 아파트 온다",
-          "url": "https://www.mk.co.kr/news/realestate/12158843"
-        },
-        {
-          "name": "매일경제",
-          "title": "“재개발 49층? 옆동네는 해 안 들어요”…구역 밖 아파트 주민들 ‘속앓이’",
-          "url": "https://www.mk.co.kr/news/realestate/12158800"
-        }
-      ],
-      "keywords": [
-        "KIND",
-        "현대건설",
-        "시드니개발",
-        "해외주택사업",
-        "팀코리아"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922038000003_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20260922-004",
-      "headline": "정부, 223억 달러 규모 텍사스 발전소 프로젝트 등 대미 투자 협안 국회 비공개 보고",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "정부가 223억 달러 규모의 미국 텍사스 발전소 건설 사업을 포함한 대미 투자 협상 경과를 국회에 비공개로 보고합니다. 국회 재정경제기획위원회와 산업통상자원중소벤처기업위원회는 22일 오전 전체회의를 열고 재정경제부와 산업통상자원부로부터 관련 안건을 보고받습니다.\n\n이번 회의에서는 대미 투자 1호 사업으로 꼽히는 텍사스 발전소 건립 구상의 실현 가능성과 구체적인 협상 조건들이 집중 논의될 예정입니다. 정부는 보안 유지 속에서 프로젝트 추진에 따른 경제적 실익과 대외 리스크를 종합 분석해 국회 상임위에 전달합니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "‘223억달러 텍사스 발전소’ 세워질까…정부, 오늘 대미투자 1호 국회 보고",
-          "url": "https://www.mk.co.kr/news/politics/12158882"
-        },
-        {
-          "name": "한겨레",
-          "title": "미 전문가 “쿠팡 문제·대미투자 지연, 한미 불협화음 원인”",
-          "url": "https://www.hani.co.kr/arti/international/america/1278965.html"
-        },
-        {
-          "name": "YTN",
-          "title": "명절 앞두고 물가·환율 비상...대미투자협상 '고비'",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvbXJwbHQzTDVGUWw0R2gteUhVUy1BeVI1anpLYTFlOHFZbWhVV3hmRFlOZlY4SWcxNXhrMHVjeEFpZVJDV2pqd3BabllaSlBBMEpWTERRMm5XMElfeEE?oc=5"
-        }
-      ],
-      "keywords": [
-        "대미투자",
-        "텍사스발전소",
-        "국회보고",
-        "재정경제부",
-        "산업통상자원부"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.426c20437280473997c26395746fb260_R.jpg"
-    },
-    {
-      "id": "news-20260922-005",
-      "headline": "이 대통령, 이형일 경제부총리·강신철 국방장관·홍지선 국토부 장관 임명안 재가",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "이 대통령이 신임 경제부총리와 국방부 장관, 국토교통부 장관에 대한 임명안을 최종 재가했습니다.\n\n이번 인사를 통해 경제 사령탑인 기획재정부 장관 겸 경제부총리에는 이형일 후보자가 공식 임명되었습니다. 안보 부처를 이끌 국방부 장관에는 강신철 후보자가, 부동산과 교통 정책을 총괄할 국토교통부 장관에는 홍지선 후보자가 각각 임명되었습니다.\n\n주요 부처의 개각이 완료됨에 따라 정부는 경제 회복과 안보 강화 등 핵심 국정과제 추진에 속도를 낼 계획입니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "[속보] 이 대통령, 이형일 경제부총리·강신철 국방장관·홍지선 국토부 장관 임명 재가",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XQkdIRDV5TlNEejJkVVdQbEhNRURadWdQbjFkSl92eHVqOEFfNTFWcXZ3RjVxbWhWVFY3VGVXaHBoRFdOamJJQ3ZMUEpNQ0doTFVUNE1Fd0c0UHc?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "최만림 경상남도 ‘경제부지사’ 임명…“업무 확대”",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Sa3gzMlRQMjFmS3Y5MlA3a1hBV0hwNnphZTFNWWhHWGIwWW9SNHZQc1Y1UUh6S1NXUXdKM1dSTjlnb0k3SURqV2tjZzgxSV9Wa2FLSnpxTXMwVXMxbDVxekVIcUx6dw?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "이 대통령 \"경제지표 개선, 민생 변화로 이어지지 않아\" [현장영상+]",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TThucThYYXNUU0V4UXFGMHJkNzlCVy1hdmFHTXdKc0lDUmZWZUxsNkxsNjZFam13b0dhN016V2Jyb2xNYnRQNThDQ2Z4LUhyMkwwQ0RHQlRZdWtldElhMy1IeFNkTlZDbTcyUy1oYUpEbnVRd1E?oc=5"
-        }
-      ],
-      "keywords": [
-        "임명 재가",
-        "이형일 경제부총리",
-        "강신철 국방장관",
-        "홍지선 국토부장관"
+        "중동갈등",
+        "외교적해법",
+        "원유시장",
+        "이란"
       ],
       "image_url": "https://picsum.photos/seed/news-20260922-005/600/400"
     },
     {
       "id": "news-20260922-006",
-      "headline": "전쟁 충격 맞은 이란 경제, 석 달간 마이너스 10% 역성장 기록",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "이란 경제가 중동 내 군사적 긴장과 전쟁 여파로 심각한 타격을 입으며 가파른 침체 국면에 접어들었습니다. 최근 석 달간 경제성장률은 마이너스 10%를 기록하며 급격한 역성장을 나타냈습니다.\n\n전쟁 장기화에 따른 무역 위축과 공급망 차질, 기존 서방 제재가 복합적으로 얽히면서 제조업을 비롯한 주요 산업 생산 활동이 크게 위축되었습니다. 통화 가치 급락과 치솟는 물가로 인해 민간 소비와 기업 투자 역시 급속히 얼어붙었습니다.\n\n지정학적 위기가 고조되면서 원유 수출과 외화 수급 불안정이 커졌고, 이에 따라 국가 재정 부담도 가중되고 있습니다. 대외 경제 여건이 극도로 악화한 상황이어서 단기간 내 경기 회복의 실마리를 찾기는 쉽지 않은 모습입니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "이란 경제 ‘전쟁 직격탄’…석달간 10% 역성장",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SN0tDOTlMdVFIMXZHX2NuX1NhckRLdGJtcTBSSVJCc2ZHSmRsTHVQbzJVZGRLbDhOYy1Cb1hBRTdLMmZ5bXpDZEltT1BYaUNDMVVPcUdKa3Y4M2s?oc=5"
-        },
-        {
-          "name": "imnews.imbc.com",
-          "title": "이란 경제 '전쟁 직격탄'‥석 달간 10% 역성장",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sdWxqcUcwTWNsQ0RpdkVJTlJ3WjJzUm1VUzZsTFNCX3JLcl9IQlhuOTZmU3J4S1lTNTRBY3l4djZSemZRa3EwbndsZlM1WnBvRldCcWR5OUgyWGxmdHNRNFB0YTA2TXFscmRRNFEtUU5uX0ZO0gF0QVVfeXFMTmx1bGpxRzBNY2xDRGl2RUlOUndaMnNSbVVTNmxMU0JfcktyX0hCWG45NmZTcnhLWVM1NEFjeXh2NlJ6ZlFrcTBud2xmUzVacG9GV0JxZHk5SDJYbGZ0c1E0UHRhMDZNcWxyZFE0US1RTm5fRk4?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "이란 경제 전쟁 직격탄...석 달 만에 10% 역성장",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wQzB4ZFNYY1U5dnk0aU9oNWprYUNRTGlROWI1RVgxT2dNcjZDVHhkaVdibVBmcGJCeFBJbHhPd3c1UllQNUY5QzJteElHbUpoZjZ6eUEyaEt2cFY4Nk43VjVBLVJHOTR5NTlONTI3dVFyRXZlcUE?oc=5"
-        }
-      ],
-      "keywords": [
-        "이란 경제",
-        "역성장",
-        "중동 전쟁",
-        "경제성장률",
-        "지정학적 위기"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20260922-006/600/400"
-    },
-    {
-      "id": "news-20260922-007",
-      "headline": "미중 경제수장 뉴욕 회동서 무역과 AI 현안 집중 논의",
-      "category": "경제",
+      "headline": "타지키스탄, 한국 ODA 연계 '한-타 IT 파크' 조성…관세 면제 'AI 프리존' 추진",
+      "category": "IT/과학",
       "categories": [
         "경제",
         "글로벌",
+        "비즈니스",
         "IT/과학"
       ],
       "summary": {
-        "overview": "미국과 중국의 경제 수장이 미국 뉴욕에서 만나 양국 간 무역 갈등과 인공지능(AI) 협력 방안을 논의했습니다.\n\n이번 회동에서 양측은 첨단 기술 경쟁과 통상 마찰을 둘러싼 핵심 현안을 폭넓게 점검했습니다.\n\n스콧 베선트 미국 재무장관은 회담 직후 취재진에게 이번 논의가 매우 성공적이었다고 평가했습니다.\n\n글로벌 공급망 재편과 첨단 기술 규제가 이어지는 가운데 열린 이번 접촉은 향후 양국 경제 관계의 방향성을 가늠할 분기점으로 꼽힙니다."
+        "overview": "나지마 노요프토바 타지키스탄 AI위원회 부위원장이 방한해 한국의 우수한 기술력과 타지키스탄의 청정 수력에너지를 결합한 중앙아시아 AI 거점 구축 구상을 밝혔다. 타지키스탄은 농업 중심 경제에서 지식정보화 사회로의 전환을 국정과제로 추진 중이나, IT 인프라와 스타트업 생태계가 상대적으로 취약한 상황이다.\n\n이에 한국국제협력단(KOICA)은 타지키스탄 혁신디지털기술청과 협력하여 2027년부터 2032년까지 약 1천350만 달러를 투입해 수도 두샨베에 '한-타 IT 파크'를 조성할 계획이다. 이 사업은 파크 건설 외에도 AI 기반 학습 진단 시스템 개발과 기술 스타트업 육성 프로그램을 종합적으로 지원한다.\n\n타지키스탄 정부는 IT 파크 입주 기업을 위해 세제 혜택을 다각도로 검토 중이며, 특히 수입 관세와 제반 수수료를 전면 면제하는 'AI 프리존'을 단지 내에 구축할 예정이다. 노요프토바 부위원장은 하드웨어와 로봇, 드론 및 위성 관측 등 다양한 첨단 산업 분야에서 한국 기업들의 투자와 공동 개발 참여를 적극 제안했다."
       },
       "publishers": [
         {
-          "name": "imnews.imbc.com",
-          "title": "미중 경제수장 뉴욕서 무역·AI 논의‥베선트 \"매우 성공적\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14bGVKZUNDNFIwN3VWa01BWnVib1UxU0tVQm13SkRvdlZIeVZJMGoybWZlNFp2bWtPeVl4T09VT2FJb3pyYUI3T3dHMXB5ZXZUa0RMVDJhRjhNZFR1eXRhcUJuRGEzVUNOQkF5bmlfUXNWa2850gF0QVVfeXFMTXhsZUplQ0M0UjA3dVZrTUFadWJvVTFTS1VCbXdKRG92Vkh5VkkwajJtZmU0WnZta095WXhPT1VPYUlvenJhQjdPd0cxcHlldlRrRExUMmFGOE1kVHV5dGFxQm5EYTNVQ05CQXluaV9Rc1Zrbzk?oc=5"
-        },
-        {
-          "name": "imnews.imbc.com",
-          "title": "트럼프-시진핑, 다음 주' AI·관세' 논의‥만찬에 AI 수장들 참석",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXQVgwTjE4T2puVVMteXdFbU5vOTRrSFZtcU52R2F5WUJULWRQWTZZcHdpVGh0SUxtT3MtT3gza2NBNzQ2ZC1ZS3FIYzBaMHFLYW0zNUdSb0tRZGtNeGxfaXZBRUdBN2RtQUlnNEFESXczSlRE0gF0QVVfeXFMTXFLR0dkZEtmeDNFNV9EaEE3NzhrbG8wV1dVVFh6V0ZDMmxlVDE0Z21ZZEx5ZmxfOEF2YkN2WmFpSV9ZbVZxUTRrS2xWbnFkS1NpRThNYlpOVk84dUw0ejBlRFgwRFR6S3h5NlpVNElqaWt2OUE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "미중 경제수장 뉴욕서 막판 담판...베선트 \"매우 성공적\"",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DT0RYM29jZnJsWTh6Tk55U1JHWTJyNXpnb3lwenNuY1hTOUxWZy1ILVJmVVlzSWJXOExoS09Ba3NjdHJubi1fYkMyWkoydnZPWmVraTMyRUs0YzA1UzhkZG9rRHEteGttN1VfNml6TlBWS0JzUVE?oc=5"
+          "name": "연합뉴스",
+          "title": "타지키스탄 AI 부위원장 \"韓 ODA로 IT 파크 조성…무관세 추진\"",
+          "url": "https://www.yna.co.kr/view/AKR20260922157900371"
         }
       ],
       "keywords": [
-        "미중회담",
-        "베선트",
-        "무역갈등",
-        "인공지능",
-        "글로벌경제"
+        "타지키스탄",
+        "코이카",
+        "IT파크",
+        "소버린AI",
+        "AI프리존"
       ],
-      "image_url": "https://picsum.photos/seed/news-20260922-007/600/400"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922157900371_01_i_P2.jpg"
     },
     {
-      "id": "news-20260922-008",
-      "headline": "속도 조절이냐 자율 책임이냐, AI 개발 방향 두고 갈라선 실리콘밸리",
-      "category": "경제",
+      "id": "news-20260922-007",
+      "headline": "김혜경 여사, 멜라니아 주최 유엔 정상 배우자 오찬 참석",
+      "category": "글로벌",
       "categories": [
         "경제",
-        "IT/과학",
         "글로벌"
       ],
       "summary": {
-        "overview": "인공지능(AI) 기술이 급격하게 발전하면서 실리콘밸리 내부에서 개발 속도와 규제 방식을 둘러싼 의견 대립이 격화하고 있습니다.\n\n한 축에서는 안전장치 없이 질주하는 기술 개발이 인류에게 치명적인 위험을 초래할 수 있다며 속도 조절과 강력한 사전 규제를 촉구합니다. 반면 다른 한 축에서는 과도한 규제가 혁신을 가로막는다고 반박하며, 기업 스스로 책임을 지고 시장 자율에 맡겨야 기술 경쟁력을 유지할 수 있다고 맞서고 있습니다.\n\n양측의 갈등은 단순한 개발 철학의 차이를 넘어 향후 글로벌 AI 패권과 각국 정부의 규제 정책 수립에도 직접적인 기준점으로 작용하고 있습니다. 빅테크 기업들과 유력 투자자들 사이에서도 입장 차이가 뚜렷해지면서 기술 생태계의 분열 양상은 한층 짙어지는 모습입니다."
+        "overview": "이재명 대통령의 유엔총회 순방에 동행 중인 김혜경 여사가 도널드 트럼프 미국 대통령 부인 멜라니아 여사가 주최한 오찬 행사에 참석했습니다.\n\n김 여사는 행사에서 각국 정상 배우자들과 만나 반갑게 인사를 나누며 다각적인 친교 활동을 펼쳤습니다. 자리를 마련해 준 멜라니아 여사에게 직접 감사의 뜻을 전하며 각국 배우자들과의 화합을 도모했습니다.\n\n이번 오찬은 유엔총회를 계기로 뉴욕에 모인 주요국 정상 배우자 간 소통과 유대를 강화하기 위해 열렸습니다. 김 여사는 남은 일정 동안도 다양한 교류 행사에 참석해 정상 외교를 측면에서 지원할 예정입니다."
       },
       "publishers": [
         {
-          "name": "imnews.imbc.com",
-          "title": "[뉴스 속 경제] \"속도 조절\" vs \"스스로 책임\"‥갈라진 실리콘 밸리",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xdmdfVkNKVk05aFFiRlVSUFN3YmYwbllrTXprMXl0ZHJkM1c2U0tfcWZKMFg2eldHOE1lSS1iTkhWOXV3VUZ2M2lBejI4ZDR3dWRORFVnUmx4ZGlzZzVNVkY0dGVUbllFTlh5LTVLd1E2TGtvNThpbVVB0gF6QVVfeXFMT1BSblBzSGVmTkd4cENlcFF3Q1ZYdm83anNRTGxieWhyYlQ3elRpc2RUNmh6dGtpNmFibjdrNnNkZkRWSDhlZTBSNGs5RTM1NnEtWnFTemUxQm1OTTRucGNqQTJqWmVjaUV4SEprMWhqc0VYRHgyOXJmSXc?oc=5"
+          "name": "매일경제",
+          "title": "김혜경 여사, 멜라니아 주최 오찬 참석…“뜻깊은 자리 마련에 감사”",
+          "url": "https://www.mk.co.kr/news/politics/12159946"
         },
         {
-          "name": "imnews.imbc.com",
-          "title": "[경제쏙] \"AI 속도조절론, K 증시에 치명타‥그런데 알고 보니 짜고 쳤다?\"",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45anJ1ZUtlQW1aeWZ5OW1QX19sZHBOR2l5UDltaHJxaWd1T1RxVlJuekQxaW1uaHdUWWFHdU44a1JJMkhDSmdaTXJvUFlsNkRGMUtvRXNlaGxDSUdLZkhTSlNDTEdEQlRXcVk2SzRsWnV6V0FsdW1jNdIBeEFVX3lxTE0yU3liT1d3aGNyRHZlQ1pZbzh5YmRqWDNmOU5EWFFyVmNUZjlCVUdSZms1b29iZUFKNWlkVzBNQUdMT1ZVUFhOWmNpRk0yLUVWQjNoZ2J2dGdkNlp6dzFSWXRGc3hMLWhhV1hvb09GV1VWaEwtY2NUQQ?oc=5"
+          "name": "매일경제",
+          "title": "트럼프 연설 참석한 북한 대표단…이재명 대통령 연설 땐 자리 비워",
+          "url": "https://www.mk.co.kr/news/politics/12159932"
         },
         {
-          "name": "YTN",
-          "title": "미국이 조여버린 이란 '경제 숨통'…중동 안보 요동칠 조짐 [지금이뉴스]",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02S1FFbjQ2YWEydGZETDdKc1BYcXotZDNib1NFbzkwOVVQSjlSd2lOR3VWNVQ0YXRrWk1GcEN0UkRiUHozQ28tREF4UkRjYWlhYjdwNjhZWlVKUHhFb1d3dy1hTGFjTXN5N1JUQzdQN2JHUGc0bmc?oc=5"
+          "name": "KBS 뉴스",
+          "title": "김 여사, 멜라니아 여사 주최 행사 참석…‘디지털 전환 과제’ 국제 협력 강조",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0NzVJOU4wVXBrdHdNd3AwWHNxNkVwUUVhRm5uSzZ3YkRKQUphT2toX1pPbkg0Zjk4WC1lNHhncllLdGRlOEhBWjlEZ1owWHV2MktoYlFuVWlPWGM?oc=5"
         }
       ],
       "keywords": [
-        "실리콘밸리",
-        "AI 규제",
-        "인공지능 개발",
-        "빅테크",
-        "기술 혁신"
+        "김혜경",
+        "멜라니아",
+        "유엔총회",
+        "정상 배우자",
+        "순방 외교"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260923.ab9360c856e24bf9becc08c3d815223c_R.jpg"
+    },
+    {
+      "id": "news-20260922-008",
+      "headline": "코스피, 장 후반 상승 힘 빠지며 7,000선 마감…코스닥은 하락 전환",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "국내 주식시장에서 코스피 지수가 장 후반 상승 동력을 잃고 7,000선에서 거래를 마쳤습니다. 장 초반의 강세 흐름을 끝까지 유지하지 못하고 상승폭을 대부분 반납한 모습입니다.\n\n반면 코스닥 지수는 상승세를 이어가지 못하고 결국 하락세로 돌아섰습니다. 양대 지수 모두 장 막판 매수세가 약화하거나 차익 실현 매물이 쏟아지며 힘이 빠졌습니다. 시장 전반에 관망세가 짙어지는 가운데 향후 주가 흐름에 대한 투자자들의 경계감이 커지고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "코스피, 장 후반 상승폭 줄이며 7천 선에서 마감‥코스닥은 하락 전환",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45VWQzQW9Ccml1NUgwelBabW11RG1YbmU1bXZBb1lOUGJxbkR5bWgzUG83WUQ4NC0wNVY4VEQ0cWNVTGc5QndvS0xnZTRHaXRGNnp5MC12UVg3ZFdMeEEwemdDbFpTUUpzaDNXYnRNdl9feDYy0gF0QVVfeXFMUHpJWlBPa0J0elBSOFZOeVZpQ18wSTEzUEJEZFNqOGhWOF9GTmFsWmZXdjRnRWp0TEpJNWVVWDA3YUFIOUx2a3VTTnFTbkF0WURPUEpOQVQxQXl0R08wWGVUNlRUcWw1NVZlemh0RUVLZ3BvN2g?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "코스피, 장 초반 1% 안팎 상승‥지수 7천 회복 시도 중",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Qbm5QYjhzWll5NjJKd3g4bFpmMEtKWFFncEVTaEdjUUx0anhtRV9wZDZrOXkzU0xFU0lCR0w2c2xja0tNUmxPNHlqa0pxaXRZdjlKSWpDSmVWdm54WGlwQ0ZvUGtiSThvOHRIWkdWRWduSl9B0gF0QVVfeXFMTzdyaWlndklVWHFqTVhvTldjTk82VlZBNk9pc3NvbXFWY1kwODR5U1BWQkw3bnFaY3A4cW5WSEd5ZzQzS1VubUNubklFVlQ5T1oxYU1LbGRqZFN2YmZxT2JadWpZRzFlSU9LZlRqeFNpR0pZSUk?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "반도체 훈풍·국제유가 하락에 코스피 2%대 상승 출발‥7,100선 넘어",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0VlBOT1lwYTQ5OFhtVlphZ3VZd0V3ZjZSclpkb2hPR01ZNzJ0SFhxZ3FvYVFQUlFBMy1kYmloZ2Foby1MZXBNV2FXa295STFsM2xJWUhFeWo2TGk3cDM0MTNwVlJ3SDNDMUZiUS1sU0dDNWVK0gF0QVVfeXFMT3dyLUY0T2NxcEstalE1eXJLeEd2ZnRYU0dETzBzSWk3TUQ2RHZIbTNWRHZ6TjVMOXJRamxWSWxsM21Tc1VpUF9kUkhYWi1HTUliZ09QcFJ6d2hURjJwVWFNSDc2RmZvLUUtMmhBZGJFYUd4NHc?oc=5"
+        }
+      ],
+      "keywords": [
+        "코스피",
+        "코스닥",
+        "주식시장",
+        "장마감",
+        "주가동향"
       ],
       "image_url": "https://picsum.photos/seed/news-20260922-008/600/400"
     },
     {
       "id": "news-20260922-009",
-      "headline": "트럼프, 시진핑 국빈 방미에 파격 의전…B-2 폭격기 띄우고 멜라니아 여사도 동행",
+      "headline": "이재명 대통령, 유엔총회 연설서 한반도 종전 및 단계적 비핵화 구상 제시",
       "category": "글로벌",
       "categories": [
-        "글로벌",
-        "IT/과학"
+        "글로벌"
       ],
       "summary": {
-        "overview": "도널드 트럼프 미국 대통령이 11년 만에 백악관을 국빈 방문하는 시진핑 중국 국가주석을 맞이해 전례 없는 수준의 파격적인 의전을 선보입니다. 트럼프 대통령은 워싱턴 인근 앤드루스 공군기지에 직접 나가 시 주석 부부를 영접할 예정이며, 이는 2기 행정부 출범 이후 외국 정상에게 행하는 첫 공항 마중입니다.\n\n백악관 공식 환영 행사에서는 미군 최정예 자산인 B-2 전략폭격기와 F-22 전투기가 축하 비행을 펼쳐 환영의 의미와 함께 공중 전력을 과시합니다. 대외 활동을 자제해 온 영부인 멜라니아 여사 역시 공식 석상에 나서 시 주석의 부인 펑리위안 여사와 함께 국립 아시아미술관을 둘러보는 등 친교 일정을 소화합니다.\n\n국빈 만찬에는 엔비디아와 오픈AI, 테슬라, 구글 등 주요 글로벌 빅테크 기업의 최고경영자들이 대거 자리해 양국 간 핵심 현안인 인공지능 분야 논의를 뒷받침합니다. 외신과 관계자들은 이번 극진한 영접이 의전을 중시하는 중국 지도부의 성향을 공략해 실질적인 정책 성과를 이끌어내려는 고도의 외교적 전략이라고 분석했습니다."
+        "overview": "이재명 대통령이 제81차 유엔총회 기조연설을 통해 한반도의 항구적 평화 정착을 위한 정책 구상을 발표했습니다. 이 대통령은 오랜 전쟁 상태를 끝내고 평화체제를 구축하는 일이 한반도를 넘어 국제사회의 안정을 위해 지속해서 논의되어 온 과제임을 분명히 했습니다.\n\n이번 연설에서 공개된 비핵화 접근법은 '핵·미사일 고도화 중단'을 출발점으로 '단계적 축소'를 거쳐 최종적으로 '핵 없는 한반도'를 완성하는 방식입니다. 이 대통령은 이러한 단계적 구상을 실현하기 위해 북미 대화의 조속한 재개가 필수적이라고 촉구했습니다. 미국과 중국을 비롯한 관련국들과 지속적인 협력을 바탕으로 한반도 평화 프로세스를 추진하겠다는 의지도 함께 드러냈습니다."
       },
       "publishers": [
         {
-          "name": "경향신문",
-          "title": "트럼프, B-2 띄워 시진핑 환영식…‘은둔의 영부인’ 멜라니아도 출동",
-          "url": "https://www.khan.co.kr/article/202609220721001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "name": "매일경제",
+          "title": "이재명 대통령 “한반도 전쟁 종식·평화체제 구축…북미대화 조속히 재개해야”",
+          "url": "https://www.mk.co.kr/news/politics/12159923"
         },
         {
-          "name": "경향신문",
-          "title": "트럼프·시진핑 ‘AI 대화 채널’ 논의한다",
-          "url": "https://www.khan.co.kr/article/202609212109025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "한겨레",
-          "title": "트럼프, 시진핑에 ‘최고 예우’ 준비…스텔스 전략자산까지 동원",
-          "url": "https://www.hani.co.kr/arti/international/america/1278963.html"
-        }
-      ],
-      "keywords": [
-        "트럼프",
-        "시진핑",
-        "미중 정상회담",
-        "B-2 폭격기",
-        "멜라니아"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0922/53_17900301780665_20260922500047.webp"
-    },
-    {
-      "id": "news-20260922-010",
-      "headline": "미국, 유엔 총회 참석하는 이란 대통령 취재진 비자 발급 거부…이란 '적대적 조처' 강력 반발",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "미국 정부가 제81차 유엔 총회에 참석하는 마수드 페제슈키안 이란 대통령의 동행 취재진에 대해 비자 발급을 거부했습니다.\n\n이란 국영 이르나(IRNA) 통신 등 현지 매체들은 이를 두고 미국의 전례 없는 적대적 조처이자 상습적인 방해 공작이라며 강력히 비판했습니다. 대통령실 공보실장 역시 취재와 보도를 담당할 언론인들의 입국이 막힌 것에 대해 유감을 표했습니다.\n\n페제슈키안 대통령은 예정대로 뉴욕을 방문해 유엔 총회 연설, 타국 정상과의 회담, 미국 내 전문가들과의 대화 등 닷새 동안의 일정을 소화할 예정입니다. 대통령은 23일 총회 연설을 마친 뒤 26일 테헤란으로 귀국하며, 이번 일정에는 모센 하지미르자에이 비서실장 등이 동행합니다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "미, 유엔 총회 ‘이란 취재진’ 비자 발급 거부…“상습적 방해 공작”",
-          "url": "https://www.hani.co.kr/arti/international/arabafrica/1278933.html"
+          "name": "매일경제",
+          "title": "李대통령 “북미대화, 어렵지만 불가능 단정할 수도 없다”",
+          "url": "https://www.mk.co.kr/news/politics/12156378"
         },
         {
           "name": "YTN",
-          "title": "미·이란·우크라 등 각국 정상 집결...뉴욕 유엔총회 22일 개막",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oUjNtOURucm10TTdyT25iSXZCYXpZX1NNZExiZHdtV0hVVEJTaFdyaWFLZFhvaTJaQlAyc1hOaHRuU2NSemdXOExvVERXUDc0alg4WTdiZ3VXQ1VmZ1E?oc=5"
-        },
-        {
-          "name": "한국무역협회-KITA.NET",
-          "title": "\"AI 통제 가능하다\"…유엔총회 계기 정부·기업·전문가 한자리",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVNSWUFpcmJISWhrMnBhcndzamVTVWZycUp0a2hGbjFkUUQ2cmZzRThXRGtrcmxRMWl2TU1NSmtvSXBxVzNqSGRDYTBfY1lmSFFDWWV2aG5DZVRaTG9fN25WMVpBOHZpNDZpUllWZENrVkpEWE1lT08yVWkzZkpySld1R21TTUxoWXF2bW5DWldSdkRGaTB0WTRkaDNmOTZUdTdBdTgxSS1WSHVlTjU4ajlqRDdSazZfQ2ZWVXJZYWVyVF9GSGxBUndkY1M5OXdqMEJFeVFR?oc=5"
+          "title": "이 대통령, 유엔 총회 기조연설...한반도 구상 주목",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5VUJkaFU5bTVOWHM2SmRQdFZReXFqSXpTTm1tZm42RDdCbERaSGNkcHJ6NlpMeXlRVFRHQ1lydm5NeVpLbERFc0N1ekZEY09WZ2tBWGUyVjNqelZ6SEE?oc=5"
         }
       ],
       "keywords": [
-        "유엔 총회",
-        "비자 발급 거부",
-        "이란 대통령",
-        "미국 이란 갈등"
+        "유엔총회",
+        "한반도 평화체제",
+        "북미대화",
+        "단계적 비핵화",
+        "이재명 대통령"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0921/53_17899906197375_20260921503814.webp"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260923.949e7442192a47e18b436a7f6a94e222_R.png"
     },
     {
-      "id": "news-20260922-011",
-      "headline": "한국은행, ‘원화국제결제망’ 시범운영 개시…내년 본운영 돌입",
+      "id": "news-20260922-010",
+      "headline": "한국은행, 원화국제결제망 시범운영 착수…내년 정식 개시",
       "category": "경제",
       "categories": [
         "글로벌",
         "경제"
       ],
       "summary": {
-        "overview": "한국은행이 원화를 외국의 금융기관과 직접 결제할 수 있도록 지원하는 '원화국제결제망'의 시범운영을 시작했습니다. 이번 시범운영은 국가 간 송금과 결제의 편의성을 높이고 원화의 국제적 활용 범위를 넓히기 위해 추진하는 조치입니다.\n\n그동안 원화를 활용한 국가 간 거래는 상대적으로 복잡한 중개 절차를 거쳐야 하는 번거로움이 있었습니다. 새로운 결제망을 구축하면 국내외 금융기관 사이의 원화 결제 처리 속도가 빨라지고 거래 비용도 절감할 수 있습니다.\n\n한국은행은 이번 시범운영 기간에 시스템의 안정성과 보안성을 면밀히 점검할 계획입니다. 운영 과정에서 나타나는 보완 사항을 개선하여 내년부터 본격적인 본운영에 들어갑니다."
+        "overview": "한국은행이 원화를 통한 국가 간 결제 편의성을 높이기 위해 '원화국제결제망' 시범운영을 본격적으로 시작했습니다.\n\n이번 시범운영은 결제 시스템의 안정성을 검증하고 기술적 보완점을 사전에 점검하기 위한 조치입니다.\n\n한국은행은 참가 금융기관들과 함께 실제 거래 환경을 가정한 연계 테스트를 진행하며 시스템 완성도를 다질 예정입니다.\n\n검증 작업을 거쳐 내년에 본운영이 시작되면 국가 간 원화 거래 절차가 한층 간소화될 것으로 보입니다.\n\n금융 당국은 정식 서비스 개시 전까지 시범운영을 단계적으로 확대하며 안전한 결제 인프라를 구축하는 데 집중할 방침입니다."
       },
       "publishers": [
         {
@@ -428,7 +415,7 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vNnJnTFIwZlFLQ0xkZ0FUMUJJUVNkbjM1OHFLOE9kQmNhMXNnZU1WSnkyY0p3YmZ4dnljNlZTVGZGejd0QThBVWdEMnFXUHVZWG92WW9YbTNJSms?oc=5"
         },
         {
-          "name": "imnews.imbc.com",
+          "name": "MBC 뉴스",
           "title": "오늘부터 한국은행 원화국제결제망 시범운영‥내년 본운영",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fWDc3bHBwbGJzT2JVaHBuMTF0UnZIdktUZm1PVzMwQmpPa0Z3d3A4MFZIODNPRDVuOVdzUFlmZXhNX1Q2dUdzYTB4N0VFdTlWVVdTWklHb1VjaEJ6OWpMSEFfZXpOYVJHZDJQVU9Udklkb1Zk0gF0QVVfeXFMTUdYRHZBYXU0bXdBRlIxUmJLWG4ycDBVN0tPOHowUENfWjJweHlJWnVfWFpzVi1jc3Rkd19Ia0pfYThObkF5eEIwV3BBZE5OeENIZ1JHMURYbEw1WjhNdlVNaUw2QXJpZlhzQXcyZlU4WlVkWmE?oc=5"
         },
@@ -441,128 +428,47 @@
       "keywords": [
         "한국은행",
         "원화국제결제망",
-        "금융결제망",
-        "시범운영"
+        "시범운영",
+        "외환결제",
+        "금융인프라"
       ],
-      "image_url": "https://picsum.photos/seed/news-20260922-011/600/400"
+      "image_url": "https://picsum.photos/seed/news-20260922-010/600/400"
+    },
+    {
+      "id": "news-20260922-011",
+      "headline": "이찬진 금감원장, 은행지주 자회사 CEO 선임 공정성 강화 및 내부통제 당부",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "이찬진 금융감독원장이 은행연합회장 및 8대 은행지주회장들과 간담회를 열고 금융회사 자회사 최고경영자(CEO) 선임 과정의 공정성과 투명성을 대폭 강화해 줄 것을 주문했습니다. 이 원장은 특정 계파나 친소관계에 매몰되지 않고 능력에 기반해 적임자를 뽑아야 한다며, CEO 자격 요건과 평가 단계별 검증기간 등 핵심 절차가 미흡한 지주사는 선임절차 개시 전 보완을 마무리하라고 지시했습니다.\n\n또한 지자체 금고 입찰에서 자본력을 무기로 협력사업비 경쟁을 벌이는 대형 은행의 행태를 '기울어진 운동장'으로 비판하며, 지역 자금 순환과 균형 발전을 고려해 관련 지출을 엄격히 점검하겠다고 밝혔다. 아울러 최근 횡령과 배임 등 대형 금융사고가 지속적으로 늘어나는 상황을 지적하며, 현장에서 내부통제가 실질적으로 작동하도록 조직문화를 개선할 것을 촉구했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "이찬진 \"금융 자회사 CEO 선임절차 개시 전 미흡한점 보완해라\"",
+          "url": "https://www.yna.co.kr/view/AKR20260922185300002"
+        },
+        {
+          "name": "연합인포맥스",
+          "title": "이찬진 \"금융지주 CEO 선임 절차 미흡…자회사 임추위 역할 보장해야\"",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iSDJvS1pob2tuZWw0QS12RkNMM1lWNDBXMWRLMmVtOFJjUURidzdRSEVYaHlnVDlKZjlnVTRkZ19SenpnOFRDUXRTTkVOQXVYNkx1aktkUlZnVHNMeHV4RWxjTl9NS0xuZVVROWc3QWI?oc=5"
+        }
+      ],
+      "keywords": [
+        "금융감독원",
+        "CEO 선임",
+        "지배구조",
+        "내부통제",
+        "지자체 금고"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/09/17/PYH2026091718290001300_P2.jpg"
     },
     {
       "id": "news-20260922-012",
-      "headline": "CJ푸드빌, 체험형 채용설명회 개최…하반기 대졸 신입사원 공채 진행",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "CJ푸드빌은 대졸 신입사원 공개채용 지원자 약 50명을 초청해 브랜드 체험형 채용설명회 '푸드빌 그로스 온'을 개최했다.\n\n이번 행사는 일방적인 정보 전달 방식에서 벗어나 지원자들이 브랜드와 직무를 직접 경험할 수 있도록 기획됐다.\n\n참가자들은 브랜드 챌린지와 퀴즈, 직무 추리 게임에 참여하고 실제 뚜레쥬르 제품과 올리페페 메뉴를 맛보며 회사를 이해하는 시간을 가졌다.\n\n현직자 멘토링 세션에서는 임직원들이 직접 업무 경험과 커리어 과정을 설명하고 지원자들의 질문에 답했다.\n\nCJ푸드빌은 이번 하반기 공채에서 글로벌사업과 영업, 마케팅, 연구개발 등 다양한 분야의 인재를 모집한다.\n\n한편 CJ그룹은 최근 4년 중 역대 최대 규모로 하반기 신입사원 채용을 진행하고 있으며 서류 접수는 오는 30일에 마감된다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "CJ푸드빌, 대졸 신입 채용설명회…브랜드 체험·현직자 멘토링",
-          "url": "https://www.yna.co.kr/view/AKR20260922031600030"
-        }
-      ],
-      "keywords": [
-        "CJ푸드빌",
-        "신입사원 공채",
-        "채용설명회",
-        "브랜드 체험",
-        "현직자 멘토링"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922031600030_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20260922-013",
-      "headline": "현대그린푸드, 안유성 조리명장 손잡고 현대백화점 판교점에 '가매일식' 1호점 개점",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "현대그린푸드가 대한민국 제16대 조리명장인 안유성 셰프와 손잡고 일식당 브랜드 '가매일식'을 현대백화점 판교점에 선보인다. 오는 23일 문을 여는 판교점 매장은 218㎡ 규모로 60개의 좌석과 3개의 프라이빗 다이닝 룸을 갖추어 고객 편의를 높였다.\n\n이번에 선보이는 가매일식은 안 명장이 전남 광주에서 운영하는 동명의 일식당 메뉴와 조리법을 오피스 상권에 맞게 재구성했다. 기존의 한상차림을 1인 반상 형태로 바꾸어 텐동정식과 가매초밥정식 등 40여 종의 메뉴를 판매한다.\n\n두 사람이 공동 개발한 볼락구이솥밥, 장어덮밥, 카이센동을 비롯해 일본식 고급 코스 요리인 가이세키 방식을 가미한 신메뉴도 함께 선보인다. 현대그린푸드는 내년까지 주요 오피스 상권을 중심으로 가매일식 2호점과 3호점을 추가로 열 계획이다.\n\n현대그린푸드는 유명 셰프 및 레스토랑과의 협업을 지속해서 확대해 외식 콘텐츠 경쟁력을 강화한다는 방침이다. 한편, 현대그린푸드가 운영하는 베이커리 브랜드 베즐리는 추석을 맞아 디저트 선물세트 3종을 오는 24일까지 판매한다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "현대그린푸드, 현대百 판교점서 안유성 명장 '가매일식' 개점",
-          "url": "https://www.yna.co.kr/view/AKR20260922038900030"
-        }
-      ],
-      "keywords": [
-        "현대그린푸드",
-        "안유성명장",
-        "가매일식",
-        "현대백화점판교점",
-        "외식콘텐츠"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922038900030_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20260922-014",
-      "headline": "CJ제일제당, 뉴욕서 전통 증류주 브랜드 '자리' 출시",
-      "category": "비즈니스",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "CJ제일제당이 미국 뉴욕 맨해튼의 한식 레스토랑 '무노'에서 K-증류주 브랜드 '자리(jari)' 출시 행사를 열고 제품 3종을 공개했습니다. 이번에 선보인 제품은 '자리 문배술 24', '자리 가무치 24', '자리 문배술 41'로 구성됐습니다. 이 가운데 자리 문배술 41은 문배 고유의 풍미를 깊게 즐길 수 있도록 도수를 높여 미국 시장에 처음 내놓은 제품입니다.\n\n행사 현장에서는 자리를 베이스로 제조한 칵테일과 어울리는 한식 코스 요리를 제공했습니다. 이어 현지 외식업계 관계자들을 초청해 문배주양조원, 다농바이오, 예산사과와인, 회곡양조장 등 국내 협업 양조장을 소개하는 자리도 마련합니다.\n\nCJ제일제당은 이번 출시를 기점으로 뉴욕 내 주요 한식 파인다이닝과 프리미엄 바를 중심으로 유통망을 넓혀갈 계획입니다. K-푸드 확산 흐름에 발맞춰 한국 전통주를 세계 시장에 널리 알리고 미식 경험의 폭을 넓히겠다는 구상입니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "CJ제일제당, 뉴욕서 K-증류주 '자리' 출시…\"K-푸드와 시너지\"",
-          "url": "https://www.yna.co.kr/view/AKR20260922034600030"
-        }
-      ],
-      "keywords": [
-        "CJ제일제당",
-        "자리",
-        "K-증류주",
-        "전통주",
-        "뉴욕"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922034600030_02_i_P2.jpg"
-    },
-    {
-      "id": "news-20260922-015",
-      "headline": "미국 반도체주 강세에 코스피 2%대 상승…장 초반 7,150선 돌파",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "22일 국내 증시가 미국 뉴욕 증시의 훈풍을 이어받아 개장 직후 강한 상승세를 나타내고 있습니다.\n\n미국 증시에서 반도체 관련 종목들이 큰 폭으로 오르며 국내 대형주 중심의 투자 심리를 자극했습니다.\n\n이날 오전 9시 1분 기준 코스피는 전 거래일 대비 151.10포인트(2.16%) 오른 7,158.82를 기록했습니다. 지수는 전장보다 153.89포인트 오른 7,161.61로 출발한 뒤 견조한 오름세를 유지하는 모습입니다.\n\n같은 시각 코스닥 지수 역시 전 거래일보다 9.98포인트(1.19%) 오른 846.25를 기록하며 동반 상승세를 나타냈습니다.\n\n글로벌 기술주 반등 흐름이 국내 시장 전반에 긍정적인 영향을 미치며 장 초반 상승 동력을 키우고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "코스피, 美증시 훈풍 힘입어 장 초반 2%대 오른 7,100대",
-          "url": "https://www.yna.co.kr/view/AKR20260922038300008"
-        },
-        {
-          "name": "imnews.imbc.com",
-          "title": "코스피, 장 초반 1% 안팎 상승‥지수 7천 회복 시도 중",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Qbm5QYjhzWll5NjJKd3g4bFpmMEtKWFFncEVTaEdjUUx0anhtRV9wZDZrOXkzU0xFU0lCR0w2c2xja0tNUmxPNHlqa0pxaXRZdjlKSWpDSmVWdm54WGlwQ0ZvUGtiSThvOHRIWkdWRWduSl9B0gF0QVVfeXFMTzdyaWlndklVWHFqTVhvTldjTk82VlZBNk9pc3NvbXFWY1kwODR5U1BWQkw3bnFaY3A4cW5WSEd5ZzQzS1VubUNubklFVlQ5T1oxYU1LbGRqZFN2YmZxT2JadWpZRzFlSU9LZlRqeFNpR0pZSUk?oc=5"
-        }
-      ],
-      "keywords": [
-        "코스피",
-        "반도체주",
-        "미국 증시",
-        "코스닥",
-        "증시 동향"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/09/22/PYH2026092202990001300_P2.jpg"
-    },
-    {
-      "id": "news-20260922-016",
-      "headline": "국내 규제 장벽에 막힌 디지털채권 발행…한국 기업들 홍콩 금융시장으로 발길 돌린다",
+      "headline": "정부·블랙록 20조 원 규모 AI 투자, 1년째 후속 진전 없이 답보",
       "category": "경제",
       "categories": [
         "경제",
@@ -570,87 +476,54 @@
         "IT/과학"
       ],
       "summary": {
-        "overview": "국내 주요 금융회사와 대기업들이 블록체인 기술을 활용한 디지털채권을 발행하기 위해 홍콩으로 향하고 있습니다.\n\n올해 들어 미래에셋증권, 포스코, KB국민은행 등이 홍콩의 금융 인프라를 활용해 디지털채권을 발행한 사례가 잇따라 나타났습니다. 디지털채권은 분산원장 기술을 적용해 채권 발행과 거래 과정을 대폭 단축하고 비용을 절감하는 이점이 있습니다.\n\n글로벌 주요 금융 허브들은 이미 관련 제도를 정비하고 디지털 금융 영토를 선점하기 위해 속도를 내는 중입니다. 반면 한국은 규제 장벽과 제도 정비 지연으로 인해 국내에서 이러한 혁신 채권을 발행하기가 사실상 불가능합니다. 이로 인해 국내 기업들이 해외 시장으로 눈을 돌리면서 금융 경쟁력 저하에 대한 우려가 커지고 있습니다."
+        "overview": "정부가 세계 최대 자산운용사 블랙록과 손잡고 추진하기로 한 20조 원 규모의 인공지능(AI) 및 재생에너지 투자 사업이 1년째 구체적 성과 없이 제자리를 걷고 있습니다.\n\n지난해 9월 양측은 한국을 아시아·태평양 지역의 AI 거점으로 육성하기 위한 업무협약(MOU)을 체결했고, 이어 블랙록 계열 뷔나그룹이 20조 원 규모의 투자의향서(LOI)를 전달했습니다. 그러나 법적 구속력이 없는 LOI 제출 이후 구체적인 투자 약정이나 법인 설립, 금융 조달, 인허가 등 후속 절차는 전혀 진행되지 않은 것으로 파악됐습니다.\n\n정부가 투자 구체화를 위해 예고했던 공식 실무 태스크포스(TF) 역시 지난 1년간 단 한 차례도 열리지 않았습니다. 과학기술정보통신부는 실무선에서 수시로 소통하고 있다는 입장을 밝혔으나, 공식적인 논의 테이블조차 마련하지 못한 상태입니다.\n\n업계에서는 대규모 AI 데이터센터 구축에 필요한 전력 공급과 부지 확보, 세제 지원 등 복잡한 사업 조건 협의가 사업 지연의 주요 원인이라고 분석합니다. 단순한 협약 체결을 넘어 실질적인 인프라 투자로 이어지기 위해서는 전력망 확보와 인허가 문제 등을 풀어낼 구체적인 협의가 선행되어야 한다는 지적이 나옵니다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "“시장은 컸는데 제도가 발목”…디지털채권 찍으러 홍콩 가는 韓 기관들",
-          "url": "https://www.mk.co.kr/news/stock/12158915"
+          "name": "연합뉴스",
+          "title": "[AI프리즘] \"한국, 아태 AI 수도로\"…블랙록 20조 투자 1년째 '답보'",
+          "url": "https://www.yna.co.kr/view/AKR20260922183300017"
         }
       ],
       "keywords": [
-        "디지털채권",
-        "블록체인",
-        "금융 규제",
-        "홍콩 금융시장",
-        "자금 조달"
+        "블랙록",
+        "AI 데이터센터",
+        "과학기술정보통신부",
+        "투자의향서",
+        "재생에너지"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260921.6744e2c692d84429baab55969dd56bad_R.png"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922183300017_01_i_P2.jpg"
     },
     {
-      "id": "news-20260922-017",
-      "headline": "삼성물산, 美 카이로스 파워에 7000만 달러 투자…차세대 SMR 시장 본격 공략",
-      "category": "비즈니스",
-      "categories": [
-        "경제",
-        "IT/과학",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "삼성물산 건설부문이 미국의 차세대 소형모듈원자로(SMR) 개발사인 카이로스 파워와 전략적 협약을 맺고 약 7000만 달러 규모의 투자를 진행합니다. 카이로스 파워는 액체 용융염을 냉각재로 활용하는 비경수로 방식의 SMR 기술을 보유한 핵심 기업입니다.\n\n이번 협력에 따라 삼성물산은 미국 내에서 진행되는 실증로 프로젝트의 설계와 시공성 검토 단계부터 참여합니다. 나아가 향후 카이로스 파워가 추진하는 상용로 건설 프로젝트에서 설계·조달·시공(EPC)을 전담할 우선권을 확보했습니다.\n\n삼성물산은 대형 원전 시공에서 쌓은 기술력을 바탕으로 이번 SMR 사업 참여를 통해 차세대 에너지 분야 경쟁력을 한층 높일 계획입니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“차세대 SMR 사업 공략”…삼성물산, 美 카이로스 파워와 맞손",
-          "url": "https://www.mk.co.kr/news/realestate/12158907"
-        }
-      ],
-      "keywords": [
-        "삼성물산",
-        "카이로스 파워",
-        "SMR",
-        "소형모듈원자로",
-        "EPC"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.04c683acc0c64f18b245b31d542f4b9f_R.jpg"
-    },
-    {
-      "id": "news-20260922-018",
-      "headline": "현대자동차, 코이카와 협력해 모로코 마라케시에 '일렉시티' 전기버스 공급",
+      "id": "news-20260922-013",
+      "headline": "\"명절 상차림 수고 덜고 연휴 후엔 간편하게\"…외식·유통업계 델리·버거 특수",
       "category": "경제",
       "categories": [
         "경제",
-        "글로벌"
+        "비즈니스"
       ],
       "summary": {
-        "overview": "한국산 전기버스가 공적개발원조 사업을 거쳐 모로코의 대중교통 현장에 투입된다.\n\n현대자동차는 코이카와 손잡고 모로코 마라케시 시에 전기버스 '일렉시티'와 관련 충전 인프라를 공급한다.\n\n이번 공급은 국내 친환경 상용차 기술이 해외 공공 인프라 시장에 진출하는 계기를 만든다.\n\n현대차와 코이카는 현지 교통 환경 개선과 탄소 배출 저감을 목표로 사업을 추진한다."
+        "overview": "추석 연휴를 앞두고 명절 상차림 부담을 덜려는 수요와 연휴 후반 간편하게 끼니를 해결하려는 소비 요구가 맞물리면서 마트 델리(즉석조리식품)와 버거 등 간편식 매출이 늘고 있다. 외식·유통업계는 이러한 명절 특수를 겨냥해 할인 행사와 맞춤형 세트 메뉴를 연이어 선보이고 있다.\n\n이랜드이츠의 '델리바이애슐리'는 3천 원대 가성비 메뉴를 중심으로 이번 달 판매량이 지난해 같은 기간보다 약 10% 증가했다. 명절 기간에는 상차림에 직접 활용하기 좋은 너비아니구이나 잡채 같은 메뉴의 판매가 두드러지며, 이번 추석을 앞두고는 약밥을 신메뉴로 선보였다.\n\n연휴 후반과 귀경길에는 명절 음식 대신 익숙한 메뉴를 찾는 소비자가 늘며 버거류의 매출이 급증하는 경향을 보인다. 신세계푸드 분석에 따르면 지난 명절 연휴 마지막 날 노브랜드 버거 매장의 일 매출은 해당 주 평균보다 최대 20% 늘었고, 특히 휴게소와 터미널 매장 매출은 평시보다 150% 급증했다.\n\n이에 따라 신세계푸드는 모바일 금액권 할인과 함께 고속터미널점 및 동서울터미널점의 영업시간을 새벽부터 연장 운영한다. 버거킹, KFC, bhc 등 주요 브랜드도 한가위 전용 할인 쿠폰과 패밀리 팩을 선보이며 추석 소비 수요를 잡는 데 힘을 쏟고 있다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "“모로코에 K-전기버스 도입”…현대차, 마라케시에 ‘일렉시티’ 공급",
-          "url": "https://www.mk.co.kr/news/business/12158903"
-        },
-        {
           "name": "연합뉴스",
-          "title": "현대차·코이카, 모로코에 전기버스 '일렉시티' 15대 보낸다",
-          "url": "https://www.yna.co.kr/view/AKR20260922033000003"
+          "title": "\"명절 음식만 먹나요\"…대형마트, 간편한 델리·버거 '특수'",
+          "url": "https://www.yna.co.kr/view/AKR20260922169100030"
         }
       ],
       "keywords": [
-        "현대자동차",
-        "일렉시티",
-        "모로코",
-        "코이카",
-        "전기버스"
+        "간편식",
+        "델리",
+        "추석 특수",
+        "외식업계",
+        "노브랜드 버거"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.9ce0344949ae42e48440657fa5a801d0_R.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922169100030_01_i_P2.jpg"
     },
     {
-      "id": "news-20260922-019",
-      "headline": "삼성전자서비스, 추석 연휴 가전 고장 걱정 던다…‘긴급 서비스’ 및 주말케어센터 운영",
+      "id": "news-20260922-014",
+      "headline": "유정훈 도로공사 사장 \"퇴직자 단체 휴게소 운영 배제하고 직접 계약으로 임대료 낮출 것\"",
       "category": "경제",
       "categories": [
         "경제",
@@ -658,60 +531,210 @@
         "비즈니스"
       ],
       "summary": {
-        "overview": "삼성전자서비스가 추석 연휴 기간 고객들의 불편을 해소하기 위해 긴급 수리 서비스를 지원합니다. 명절 음식 보관 등으로 냉장고 등 필수 가전의 사용량이 급증하는 시기에 발생할 수 있는 고장 피해를 최소화하려는 조치입니다.\n\n연휴 첫날과 추석 당일에는 서비스센터가 휴무에 들어가지만, 연휴 후반인 26일과 27일에는 ‘주말케어센터’를 운영해 긴급한 수리 요청에 대응합니다. 이를 통해 연휴 중 발생한 가전제품 고장 문제를 신속하게 해결할 수 있도록 돕습니다.\n\n연휴 기간 서비스 이용에 대한 상세한 안내와 수리 접수 방법은 삼성전자서비스 공식 홈페이지와 고객센터를 통해 미리 확인할 수 있습니다. 명절 연휴에도 고객 편의를 최우선으로 고려한 맞춤형 서비스 제공에 집중하는 모습입니다."
+        "overview": "유정훈 한국도로공사 사장이 취임 100일을 맞아 고속도로 휴게소의 운영 구조를 전면 개편하겠다는 구상을 밝혔습니다. 도로공사 퇴직자 모임인 '도성회'의 휴게소 운영 참여를 뿌리 뽑고, 직계약 방식을 확대해 고객 서비스의 질을 높이겠다는 취지입니다.\n\n도로공사는 퇴직자 재취업 업체의 입찰참가자격사전심사 단계에서 감점을 부여하는 방식으로 도성회 관련 업체의 신규 진입을 사실상 차단할 방침입니다. 이와 함께 기존 다단계 운영 구조를 직접 계약 형태로 바꾸어 입점 업체의 수수료 부담을 덜어주고, 이를 통해 평균 임대료 수준을 8~9%대로 낮추어 이용객들에게 합리적인 가격과 서비스를 제공할 계획입니다.\n\n아울러 다가오는 추석 연휴 기간 귀성객들의 유류비 부담을 덜기 위해 전국 고속도로 주유소의 기름값을 리터당 100원씩 인하합니다. 원활한 공급을 위해 평소보다 1.5배 많은 물량을 확보하고 혼잡을 예방할 지원 인력도 배치할 예정입니다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "“명절에 냉장고 고장나면 큰일”…삼성전자서비스, 추석 연휴 ‘긴급 서비스’",
-          "url": "https://www.mk.co.kr/news/business/12158880"
+          "name": "한겨레",
+          "title": "유정훈 도로공사 사장 “고속도로 휴게소 고객 만족 경영 최우선“",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1279157.html"
         },
         {
-          "name": "imnews.imbc.com",
+          "name": "MBC 뉴스",
           "title": "국제유가 폭등에도 기름값 동결‥추석 연휴 고속도로 주유소 리터당 100원 할인",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wc2kySERBTE9wMW5LS296V3V5bDNUaEhhWXRQTkFLVWdRSXZZZW5seDRhazZfdU9ZRU4xY2pXZF9xV3FfdFBBQXloRl9SREVYdTk0MGk0VXZSY1FnU001SG05bjRoRVVidzgxOV9jeFQxaGoyVjVMQ9IBeEFVX3lxTE5jdFFWeEpsU1FJcG9Qb1FKZ1M1bkVDbDY2bEpDOUIwenJQeG5Ndm1MZTBfNkFVazc0WjhBU3poWF82MTFyeW1jeERsS3hadXIyVllyN3ctMFo1WnJYb3RtbTJKTHcwLTl4Nm9CajNaYXFtVUtUU0ZpNA?oc=5"
         }
       ],
       "keywords": [
-        "삼성전자서비스",
-        "추석 연휴",
-        "긴급 수리",
-        "주말케어센터",
-        "가전 AS"
+        "한국도로공사",
+        "유정훈",
+        "고속도로휴게소",
+        "도성회",
+        "추석 유류비 인하"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.623b537bd0df4243be913caeb50babff_R.jpg"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/0922/53_17900871190981_20260922504126.webp"
     },
     {
-      "id": "news-20260922-020",
-      "headline": "대기업 은행대출 연체율 급증, 중앙그룹 구조조정 여파에 상승폭 확대",
+      "id": "news-20260922-015",
+      "headline": "9월 23일 수요일 주요 경제 캘린더 안내",
       "category": "경제",
       "categories": [
-        "경제",
-        "비즈니스"
+        "경제"
       ],
       "summary": {
-        "overview": "지난 7월 말 국내 은행의 원화대출 연체율이 0.63%를 기록하며 상승세를 이어갔습니다. 이는 대기업 대출 연체율이 급증한 영향이 큽니다.\n\n대기업 연체율은 1년 전보다 0.22%포인트 상승한 0.36%로 집계되며 2021년 7월 이후 가장 높은 수준을 기록했습니다. 이러한 상승 배경에는 중앙그룹 계열사의 구조조정 진행이 자리잡고 있습니다. 구조조정 기간에는 채무조정 협의가 끝날 때까지 원리금 상환이 중단되기 때문에 신규 연체 채권으로 분류되는 대출이 늘어났습니다.\n\n실제로 7월 한 달간 발생한 신규 연체액은 3조 2천억 원에 달해 전월 대비 6천억 원 늘어났습니다. 반면 중소기업 연체율은 소폭 상승하는 데 그쳤고, 가계 연체율은 오히려 소폭 하락하며 대조적인 모습을 보였습니다.\n\n금융당국은 앞으로도 연체율이 더 오를 가능성이 높다고 전망합니다. 시장금리가 오름세를 보이는 상황에서 대외 경제 여건의 불확실성까지 겹쳐 차주들의 이자 부담이 커지고 있기 때문입니다. 대표적 지표인 국고채 3년물 금리는 올해 초 연 2.9%대에서 최근 4%대까지 상승하며 금융 시장의 긴장감을 높이고 있습니다."
+        "overview": "9월 23일 수요일 예정된 주요 국내외 경제 일정을 정리해 전달합니다.\n\n해당 일자에는 주요 정부 부처의 경제 정책 발표와 함께 국내외 주요 거시경제 지표 공개가 예정되어 있습니다.\n\n각국 금융시장 동향 및 주요 기업들의 공시와 실적 발표 일정 등 시장 참여자들이 참고해야 할 세부 지표들이 순차적으로 발표됩니다.\n\n투자자와 시장 관계자들은 공개되는 지표 발표 시간과 주요 경제 이벤트를 사전에 확인하여 시장 변동성에 대비할 필요가 있습니다."
       },
       "publishers": [
         {
-          "name": "한겨레",
-          "title": "대기업 은행대출 연체율 5년 만에 최고치…중앙그룹 구조조정 여파",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1278981.html"
+          "name": "YTN",
+          "title": "■9월 23일 (수) 경제 캘린더",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBON3RyX25pdUIxcklTNWVSekFqMTV4STUyWk5ub2lPdXpmOEZXajdYRnBsc2xRc3MxZXpDd1dERFNWelh4QjJkblJ3dEJocWIwdTQ5YlRJTkYzZlI5Snc?oc=5"
         },
         {
           "name": "YTN",
-          "title": "은행권 대출 연체율 또 올라...중소기업 1%대 근접",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qb0NuN0docl9jZ3ZHQlQwWjdIV0g2Vkg3ZzNVV2dGaWZWQWd3Nk9LUzRuVHppQVlPUnRpbUdLeDFBQjFlY0g2dlNuVi1NWEZUZ0R0Q0hJb3k0aWIxZWc?oc=5"
+          "title": "■ 9월 22일 (화) 경제 캘린더",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02ZVdXTEJLbXVHOTlUREpMdVU5Q2dRNld3SlpGM05DSmVISERzWVQ5OHhuTjJJak5KdnFpYlVBZzFRenBMWXNTZmNCcFpBLV9Gc1pmdEd5T0luYlpFbGc?oc=5"
         }
       ],
       "keywords": [
-        "은행 연체율",
-        "대기업 연체율",
-        "중앙그룹 구조조정",
-        "시장금리",
-        "금융감독원"
+        "경제캘린더",
+        "경제일정",
+        "거시경제",
+        "시장지표"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/original/2026/0922/20260922500504.webp"
+      "image_url": "https://picsum.photos/seed/news-20260922-015/600/400"
+    },
+    {
+      "id": "news-20260922-016",
+      "headline": "시진핑, 미중 정상회담서 대만 무기 판매 중단 촉구 가능성",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미중 정상회담을 앞두고 시진핑 중국 국가주석이 미국 측에 대만 대상 무기 판매를 중단할 것을 직접 요구할지 관심이 쏠립니다.\n\n중국은 대만 문제를 자국의 핵심 이익이자 넘어서는 안 될 '레드라인'으로 규정해 왔습니다. 이에 따라 이번 회담에서 대만에 대한 미국의 군사적 지원을 차단하려는 압박을 거듭 이어갈 것으로 보입니다.\n\n미국은 대만관계법을 근거로 대만의 자체 방어 능력 유지를 위한 무기 판매를 지속하고 있어 양국 간 치열한 외교적 충돌이 예상됩니다.\n\n이번 논의 결과는 양국 군사 대화의 복원 여부와 향후 대만해협을 둘러싼 정세 안정에 직접적인 분수령이 될 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "[스타트 경제] 시진핑, 미중 정상회담서 대만 무기판매 중단 요구하나",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kRTFnOXJfUW44XzdvR0JGa2ZMUHhqcEwyUzUzMkJoNVNTLXdrY3pQUU1tbFZ6cjZaT2ZvYzBJNXQ1U0xUMG10MGVhMll2RTJab2RMaFhyMnpULVV1amc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "[스타트 경제] 정부 '주거안정플랜' 발표...공공임대-분양 119만 호 4년 내 공급",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRUHhKYTV4clkzZk91bl9FcDB2R1VpNU1ya3Y0Wk8xSzVxa0dJa3NpVGRmcXlUZ1VETDNDYWhjNzJvdTh6ZjdldHp0RlZ3Q0I2alRDN3RDd0NyTXNLOWc?oc=5"
+        }
+      ],
+      "keywords": [
+        "미중정상회담",
+        "시진핑",
+        "대만",
+        "무기판매",
+        "대만해협"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260922-016/600/400"
+    },
+    {
+      "id": "news-20260922-017",
+      "headline": "마약 유통 넘어 직접 제조 단계 진입…위험 수위 도달한 대한민국 실태",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "대한민국이 마약 단순 유통 단계를 넘어 직접 제조하고 공급하는 단계에 진입했다는 경고등이 켜졌습니다. 국립과학수사연구원이 신종 합성 대마 제조 중간체 2종을 확인하면서, 해외 완제품 수입에 의존하던 기존 유통 구조가 국내 직접 생산 방식으로 변하고 있음이 증명되었습니다.\n\n10대 청소년의 마약 오남용 문제도 단순 일탈 수준을 넘어 심각한 사회적 위기로 대두되었습니다. 또래 집단에서의 소속감 저해 우려나 심리적 결핍으로 인해 중독에 빠지는 청소년이 급증하고 있으나, 정작 보호자들은 이를 제대로 인지하지 못하는 실정입니다.\n\n중국과 북한 등 인접 국가들의 영향도 사태를 키우는 요인입니다. 세계 최대 마약 원료 공급지인 중국은 신종 합성 마약의 원료를 국내로 밀반입하는 배후지로 작용하고 있으며, 북한 역시 공해상 환적을 통해 고순도 마약을 지속해서 유입시키고 있습니다.\n\n정부는 단순 처벌에 그치지 않고 규제와 예방 교육을 아우르는 강도 높은 통합 대책을 세워야 합니다. 국제 공조를 강화해 마약 완제품과 원료 물질의 밀반입 경로를 원천 차단하는 정교한 안전망 구축이 시급합니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "[율곡로] 한국판 '브레이킹 배드'는 그저 기우일까",
+          "url": "https://www.yna.co.kr/view/AKR20260922136100546"
+        }
+      ],
+      "keywords": [
+        "마약 제조",
+        "신종 마약",
+        "청소년 중독",
+        "원료 밀반입",
+        "국제 공조"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/22/AKR20260922136100546_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20260922-018",
+      "headline": "북한, 단거리 탄도미사일 발사 3시간 만에 동해상으로 추가 발사체 발사",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "북한이 20일 오후 동해상으로 미상의 발사체를 추가 발사했습니다. 합동참모본부는 북한의 이번 발사 동향을 포착하고 관련 사실을 긴급 공표했습니다.\n\n이번 추가 발사는 북한이 동해상으로 단거리 탄도미사일(SRBM) 1발을 쏜 지 불과 3시간 만에 감행되었습니다. 군 당국은 추가 발사체의 비행거리와 고도, 속도 등 정확한 제원을 분석하고 있습니다.\n\n우리 군은 북한의 추가 도발 가능성에 대비해 감시 및 경계를 강화했습니다. 현재 한미 간 공조를 긴밀히 유지하면서 철저한 대비태세를 확립하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "[속보] 합참 “북한, 동해상으로 미상 발사체 추가 발사”",
+          "url": "https://www.mk.co.kr/news/politics/12157630"
+        },
+        {
+          "name": "매일경제",
+          "title": "[속보] 합참 “북한, 동해상으로 미상 발사체 발사”",
+          "url": "https://www.mk.co.kr/news/politics/12157422"
+        }
+      ],
+      "keywords": [
+        "북한 미사일",
+        "단거리 탄도미사일",
+        "합동참모본부",
+        "추가 발사"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260920.9585b1d5733e46a68530e42addb46aef_R.jpg"
+    },
+    {
+      "id": "news-20260922-019",
+      "headline": "이 대통령, 유엔 기조연설서 ‘K-이니셔티브’ 선포…‘글로벌 AI 기본사회’ 비전 제시",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "이 대통령이 유엔 총회 기조연설을 통해 대한민국의 새로운 외교·기술 비전인 'K-이니셔티브'를 전 세계에 선포했습니다. 이번 연설의 핵심은 인공지능(AI) 기술의 급격한 발전에 발맞추어 인류 공동의 번영을 도모하는 '글로벌 AI 기본사회' 구축 제안입니다.\n\n이 대통령은 기술 격차가 국가 간 불평등을 심화시키지 않도록 디지털 권리를 보장하고 포용적인 디지털 생태계를 조성해야 한다고 역설했습니다. 한국이 디지털 선도국으로서 단순한 기술 개발을 넘어 국제적인 기술 규범 마련에 앞장서겠다는 의지를 분명히 한 셈입니다. 정부는 이번 비전을 바탕으로 개발도상국의 디지털 전환을 돕고 국제사회와의 실질적인 기술 연대를 넓혀갈 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "이 대통령, 유엔 기조연설 ‘K-이니셔티브’ 비전 발표…‘글로벌 AI 기본사회’ 강조",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EUmhWVF9mMzJUcFprWEpQZ1pYN3A4TVZrNGVhckV3NXd2c3JzY3lYMjV3N0M3R1VsOE5wdFgzbVJIWnZzWVlTNWk0RHhQTDRRVkh4bWdjMnpkQ0U?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "이 대통령, 미국·멕시코 순방...내일 유엔 기조연설",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVUdlM2ZMY0NrdU1MYUNvazRid3BCODVORFlnLUQzWUxvOEtyTlRPY2dBOFM1YmQxSEJkYWFkWkVCWk5FWjIyMjVxZUU1TjM0M0gxRFVuQnNGUEg5b3c?oc=5"
+        }
+      ],
+      "keywords": [
+        "유엔 기조연설",
+        "K-이니셔티브",
+        "글로벌 AI 기본사회",
+        "디지털 격차",
+        "AI 규범"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260922-019/600/400"
+    },
+    {
+      "id": "news-20260922-020",
+      "headline": "서울서 막 올린 '피지컬 AI 글로벌 서밋'…휴머노이드 로봇의 미래 방향성 모색",
+      "category": "IT/과학",
+      "categories": [
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "인공지능 기술과 물리적 하드웨어를 결합한 '피지컬 AI'의 최신 동향을 논의하는 '피지컬 AI 글로벌 서밋'이 서울에서 막을 올렸습니다.\n\n이번 행사에는 국내외 학계와 산업계 전문가들이 참여해 인간의 신체 구조를 닮은 휴머노이드 로봇의 발전 가능성을 진단합니다.\n\n피지컬 AI는 디지털 영역을 넘어 현실 세계 속에서 유연한 상호작용을 수행할 수 있도록 돕는 핵심 기술을 뜻합니다.\n\n행사 참석자들은 제조 공정을 포함해 인간의 일상 영역 전반에 걸쳐 로봇 제어 능력을 강화하는 구체적인 방안을 제시했습니다.\n\n안전한 작업 환경을 조성하기 위해 선행해서 해결해야 할 기술적 제약과 실질적인 극복 방안에 대해서도 심도 깊은 논의가 이어졌습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "피지컬 AI 글로벌 서밋 서울서 개막…휴머노이드 미래 논의",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4UVA4NWpZMlYtUi1MSEdnTFllOFFQejc4U3RXUDVCUlVLOTAwNWlMOWJjOE50WDlBNTdCLVZrX2xlQkkzNkV5THhCdkR1eFQxYWpBX0lPUnpjNzQ?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "“헨리 8세의 아내들이 콘서트를?”…글로벌 뮤지컬 ‘식스 더 뮤지컬’ 12월 개막",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vcl9zRktMLWY1ZmwyQXdsenFsQUlmb29WLXJlYjdQdE9zZXAtLWh5YTFDdmFCaGhURVBPaUFaZHRxeU9iSGJyZXl1Z2NvdHBKLUJveU1BNUR0S00?oc=5"
+        }
+      ],
+      "keywords": [
+        "피지컬 AI",
+        "휴머노이드",
+        "글로벌 서밋",
+        "인공지능 로봇"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20260922-020/600/400"
     }
   ]
 }
