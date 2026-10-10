@@ -1,177 +1,121 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T09:15:51.928863+09:00",
+  "generated_at": "2026-10-11T08:45:00.895681+09:00",
   "total_count": 20,
   "news_items": [
     {
       "id": "news-20261010-001",
-      "headline": "국제법 거물 필라이 노벨평화상 수상…미국·이스라엘 향한 경고 메시지",
+      "headline": "노벨평화상 필라이, ICC 제재한 미국 강력 규탄…사법 판결 보복 용납 못해",
       "category": "글로벌",
       "categories": [
         "글로벌"
       ],
       "summary": {
-        "overview": "국제사법재판소(ICJ) 임시 재판관인 나바네템 나비 필라이가 2026년 노벨평화상 수상자로 선정되었습니다. 국제법 분야에서 오랜 기간 활동해 온 필라이의 이번 수상을 두고 국제 규범과 법치주의를 무력화하려는 미국과 이스라엘에 대한 강력한 반박이자 경고라는 평가가 나옵니다.\n\n노벨위원회는 수상 발표에서 힘의 정치가 확대되고 국제사법기관에 대한 공격이 가해지는 현실을 지적했습니다. 특히 법치를 지키는 법관들이 오히려 제재 대상이 되는 상황을 비판하며 평화를 위해서는 정의가 필수적임을 강조했습니다. 이는 국제형사재판소(ICC) 인사들을 제재하고 규범을 무시해 온 도널드 트럼프 미국 행정부를 겨냥한 발언으로 풀이됩니다.\n\n필라이는 그동안 가자지구 내 이스라엘의 집단학살 혐의를 조사하는 등 국제법 위반 행위를 강하게 비판해 왔습니다. 이스라엘 외교부는 이번 수상이 편견을 정당화하기 위해 상을 무기화한 것이라며 반발했으나, 국제법학계는 법치주의가 도전에 직면한 시점에 나온 뜻깊은 결정이라며 환영했습니다."
+        "overview": "올해 노벨평화상 수상자로 선정된 나비 필라이 전 유엔인권최고대표가 국제형사재판소(ICC)를 상대로 제재를 단행한 미국 정부를 강력히 비판했습니다. 필라이 수상자는 오슬로 노벨평화센터 행사에서 가진 화상 연설을 통해 개별 국가가 사법적 판단을 이유로 국제 재판소에 제재를 부과하는 행위는 전례가 없으며 결코 용인될 수 없다고 지적했습니다.\n\n미국 트럼프 행정부는 ICC가 아프가니스탄 내 미군 행위를 조사하고 베냐민 네타냐후 이스라엘 총리에 대해 체포영장을 발부하자 자국 주권을 위협한다며 반발해 왔습니다. 미 국무부는 필라이 수상자 발표 직후 ICC 전체를 겨냥한 추가 제재 조치를 발표했으며, 이번 제재로 회원국들의 운영비 납부 제한 등 재판소 운영 전반에 차질이 생길 우려가 제기됩니다.\n\n남아프리카공화국 출신 법률가인 필라이는 평화와 국제법 증진을 위해 활동한 공로로 노벨평화상을 받았습니다. 그러나 트럼프 대통령은 필라이의 노벨평화상 수상을 두고 수치스러운 일이라며 강하게 비난했습니다."
       },
       "publishers": [
         {
-          "name": "경향신문",
-          "title": "‘국제법계 거물’ 필라이에 노벨평화상 간 이유는···“국제법 어긴 미국, 이스라엘에 경고”",
-          "url": "https://www.khan.co.kr/article/202610092204001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "name": "연합뉴스",
+          "title": "노벨평화상 필라이, ICC 제재한 미국 규탄",
+          "url": "https://www.yna.co.kr/view/AKR20261011007100009"
         },
         {
           "name": "경향신문",
-          "title": "“괴벨스가 지옥에서 환호할 것”···필라이 노벨평화상 수상에 이스라엘 ‘반발’",
-          "url": "https://www.khan.co.kr/article/202610092132001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "title": "나비 필라이 노벨평화상에 이스라엘은 맹비난…“괴벨스가 지옥에서 환호하겠네”",
+          "url": "https://www.khan.co.kr/article/202610101713001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
           "name": "경향신문",
-          "title": "남아공서 ‘5번째 노벨평화상’ 수상자···“인종차별 맞선 인물들”",
-          "url": "https://www.khan.co.kr/article/202610092039001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "나비 필라이 노벨평화상 수상에 각계 축하···“국제법의 화신”",
-          "url": "https://www.khan.co.kr/article/202610091924001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "인권변호사에서 국제사법의 최전선까지, 노벨평화상 인권법률가 필라이",
-          "url": "https://www.khan.co.kr/article/202610091921001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "노벨평화상에 남아공 출신 나비 필라이 국제사법재판소 재판관",
-          "url": "https://www.khan.co.kr/article/202610091805001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "title": "트럼프, 또 ‘뒤끝 작렬’···“필라이, 미·이스라엘 노골적 증오” 노벨평화상 수상자 비난글 SNS에 공유",
+          "url": "https://www.khan.co.kr/article/202610100938001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
           "name": "한겨레",
-          "title": "노벨평화상 필라이 “ICC 공격은 불량국가의 독단”…트럼프 직격",
+          "title": "노벨평화상 필라이, 나치 전범재판 법정서 “법 아닌 힘의 시대 막아야”",
           "url": "https://www.hani.co.kr/arti/international/europe/1281723.html"
         },
         {
-          "name": "한겨레",
-          "title": "“박수 더 받으면 트럼프와 노벨평화상 나눠야”…필라이의 ‘웃픈’ 수상소감",
-          "url": "https://www.hani.co.kr/arti/international/europe/1281715.html"
+          "name": "YTN",
+          "title": "미국, 국제형사재판소 신규 제재 부과",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3Qk9vajFOTzlNSE94OUx1cE41ZXZIbHhDVlZZa1lRRjJPVl9SNURhTTNQRHZfdHAxUjdYZlBhRm1sc1ZIdFZQcFZWSm9PMUhHbkJhOHBOSUdYUDNmRXc?oc=5"
         },
         {
-          "name": "한겨레",
-          "title": "“노벨평화상 필라이는 국제법 수호자”…트럼프·이스라엘에 경종",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1281713.html"
-        },
-        {
-          "name": "한겨레",
-          "title": "노벨평화상에 ‘전쟁범죄·집단학살 단죄’ 나비 필라이 선정",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1281707.html"
+          "name": "YTN",
+          "title": "트럼프 행정부, 노벨 평화상 발표 직후 ICC 제재 발표...의도적 제재?",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MWGppdEp1MkpEd2MtOHp5MmY2dWhyRUJXdFZBeWVTNjFRNGRpa1ZYVkVJUE9RaUE5SnZrcnJtOHlvTGVLQ0tCRVJoTlZRelVFYmxVMDUtUXZGa283d2w0Q090XzZxZ2dsbmF2eks2Q3lSMl9kMnc?oc=5"
         }
       ],
       "keywords": [
         "노벨평화상",
         "나비 필라이",
-        "국제법",
         "국제형사재판소",
+        "미국 제재",
         "트럼프"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1009/53_17915574188509_20261009501800.webp"
+      "image_url": "https://img.yna.co.kr/photo/etc/up/2026/10/10/PUP20261010000201009_P2.jpg"
     },
     {
       "id": "news-20261010-002",
-      "headline": "경찰, 금융권 해킹 전담수사팀 확대…국제 공조 수사 착수",
-      "category": "IT/과학",
+      "headline": "서울 성동구 성수우방2차 59㎡ 13억 5천만원 거래… 3년 만에 신고가 경신",
+      "category": "경제",
       "categories": [
-        "글로벌",
-        "비즈니스",
         "IT/과학",
         "경제"
       ],
       "summary": {
-        "overview": "경찰이 금융권 해킹 사건에 대응하기 위해 전담수사팀의 규모를 대폭 확대하기로 했습니다. 최근 늘어나는 금융 기관 대상 사이버 공격과 해킹 위협에 보다 신속하고 전문적으로 대응하기 위한 조치입니다.\n\n경찰은 전담 수사 인력을 추가로 배치해 전산망 침입 및 정보 유출 경위를 면밀히 추적할 방침입니다. 해킹 범죄의 특성상 해외 서버나 국외 범죄 조직이 연계되었을 가능성이 높은 만큼, 해외 수사기관과의 국제 공조 수사 체계도 강화합니다.\n\n수사당국은 금융 시스템의 안전성을 위협하는 해킹 범죄에 엄정 대응하며 추가 피해 방지에 수사력을 집중하고 있습니다."
+        "overview": "서울 성동구 성수동2가 성수우방2차아파트 전용면적 59.82㎡가 13억 5,000만 원에 매매되었습니다. 국토교통부 실거래가 공개시스템에 신규 등록된 이번 거래는 해당 면적 기준 최근 3년 내 최고가를 기록했습니다.\n\n성수동 일대는 한강변 입지와 재개발 기대감이 맞물리며 거래 가격이 꾸준한 상승 흐름을 보이는 지역입니다. 중소형 평형임에도 13억 원대를 넘어서며 강한 매수세가 이어지는 모습을 보여줍니다.\n\n시장에서는 이번 신고가 거래가 성수동 아파트 단지 전반의 매매 가격 상승 분위기를 반영한 사례라고 파악했습니다."
       },
       "publishers": [
         {
-          "name": "YTN",
-          "title": "경찰, '금융권 해킹' 전담수사팀 규모 확대...\"국제 공조 수사\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kcGxxaThDMHNlU095UklWWUNqTGsxSjVMeVk1ZTBfTnlDN1RZeTIyMW80cmNIRmk1NF84T0hFLUFHelMwd1dxcmtPOG50T2prMURuTllwTlhOdUZJd0E?oc=5"
+          "name": "매일경제",
+          "title": "성동구 성수우방2차아파트 59.82㎡ 13억 5천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12172779"
         },
         {
-          "name": "YTN",
-          "title": "경찰, '금융권 해킹' 전담수사팀 규모 확대...\"국제 공조 수사\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uY3NfUnduODA5N2dvRkVhelJVTDIzMGNvZl9FVXUxMUdnZEZPckVDREtiLWQzdnRUdy1iaGgzejdsbUp0LUhjdlhsTkVDUHVlV2ZxeXdQSlVvMklldVE?oc=5"
+          "name": "매일경제",
+          "title": "광진구 광장힐스테이트 59.99㎡ 24억 9500만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12172780"
         },
         {
-          "name": "YTN",
-          "title": "조국, 한동훈 딸 수사 국제공조 반려 보도에 \"분노 치민다\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVSXkwX0pUTzRrc2JxY1JVZVF2djFGZ25xcTFwRnVSekkyY19oTXhHNGZYWEZ1OWFEVFRyT2EzMGV6NEJEWkVRZFhWdXhCNVZ3cE56N3cxUGVFNmhxVHc?oc=5"
+          "name": "매일경제",
+          "title": "광진구 e편한세상광진그랜드파크 115.947㎡ 28억 5천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12172781"
         },
         {
-          "name": "YTN",
-          "title": "민주 \"한동훈 딸 '허위 스펙' 수사, 검찰이 국제공조 요청 묵살\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93WkFhSDhSYnZ2RU9Rc1lfWFMyNGNTaDRoWUVodXlJODFBd3JBdjNNOGx3WXZBTU9EdmJrd0N5WlhxVXdjVmloaWlxN3pJWlNxeHhDOXk1RUx6b1UwUnc?oc=5"
+          "name": "매일경제",
+          "title": "동대문구 답십리파크자이 84.83㎡ 16억 2천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12172782"
         },
         {
-          "name": "연합뉴스TV",
-          "title": "\"한국 금융권 해킹 공격 배후, 中 디도스 대행 조직 정황\"",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GUTlyUTBfZ2FVQ1g5dVIwN2lkaVFRUXBWLWxtb3FZVV8xbjBlT1F6aWVBeGlhVk04MUJsUHlQQlMzUW9BNWpYZTFBN0xOaF9nV1pRT2RvRENhZlcxM0R6c3hwMHZlcWc?oc=5"
+          "name": "매일경제",
+          "title": "동대문구 이문동 대림e-편한세상 59.958㎡ 12억 2천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12172783"
+        },
+        {
+          "name": "매일경제",
+          "title": "중랑구 면목한신 58.46㎡ 7억원 거래…최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12172784"
         }
       ],
       "keywords": [
-        "경찰",
-        "금융권 해킹",
-        "전담수사팀",
-        "국제 공조 수사"
+        "성수우방2차",
+        "성동구 아파트",
+        "신고가",
+        "국토부 실거래가",
+        "부동산 매매"
       ],
       "image_url": "https://picsum.photos/seed/news-20261010-002/600/400"
     },
     {
       "id": "news-20261010-003",
-      "headline": "부산국제영화제 오늘 개막…열흘간 펼쳐지는 영화의 바다",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "부산국제영화제가 오늘 개막을 알리며 열흘간의 일정에 돌입합니다. 이번 영화제는 세계 각국의 다채로운 작품들을 선보이며 영화 팬들을 맞이합니다.\n\n축제 기간 동안 부산 주요 상영관에서는 다양한 장르의 영화들이 관객들과 만납니다. 개막식을 시작으로 감독 및 배우들이 참여하는 다채로운 행사도 함께 진행합니다.\n\n국내외 영화인들과 관객들이 함께 어우러져 작품 세계를 공유하고 소통하는 장이 열립니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "부산국제영화제 오늘 개막…열흘간 영화의 바다",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WlktTHg0Z0pMLUh5bTh6VkJycUdMNnVWY0hrZkt0VXREMFM1ZzhHLUl5WjJMMTNOSkxVRmFWN0lFMkZJNUhYUWRoS3h0bDAzNVIwakFYclpFZjZkcXRwWXFoNVVqUQ?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "부산국제영화제 내일 개막…남포동 ‘들썩’",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRkMtMi11aTRSWVRFXzVJMThfdEdrS1c2d3RHNmExZHJ3UjVza0VMZEJCcXl0OElLVFBKWHE1WkdJUlhRVU9MTThsVFhYNHdsSHR2RXdQclZPNUU?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "[문화연예 플러스] 알폰소 쿠아론 감독, 부산국제영화제 참석",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JYUJZd01MWHdwVWZMWGh4MjIwMS1nbkV0NHNWdjd3NkhXc1k4VVZoLUIxVE1Nb016aVpFZmNHcjVKU3k4NjladjFiMUwyM2lOdzlkSGtnNVNCRWpOc2h3b2FtelFRdm1pVzc1YXVFTUpxUmZTM0hCd1Zn0gF6QVVfeXFMTVEwbUtBQlNITW8zei1RUkxSYU1LRlZuaS00ajMySU1pZnBfNVNLZDhXRHpwV1lJVVhBU0xTNEc0SERCaGFhaGViSU9TTU1UYmI5SzUyQUZLN1pRQzZ1cGFMSUV3Zm5VdTZOQXhQZ3JibWUyc2RGV1BkX0E?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "국힘 TK의원들 \"암살자(들) 상영중단·국제영화제 철회해야\"",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11UGMxa0lsMmszQzB2U19wVWpFRkNMck0zU1VJdThvdk9YamEwRE5lakU1SkdaRS1Vd3hZeVZoMlNSblp3NF9nc3pDZTFITTZrWmZZR0Y4LXlJRnQ4ZFhhdUhLSDZvTUZ4NHp6OVR6M2ZmZnkzdk42Y9IBeEFVX3lxTE5iaS1jWW5nTkRWTER5Y2p2QXBxSVQyU0pkUUIxY1lSVEZydHo2SzVUSlJjNFVXRWlLVWF5R2d5X2ZTMmRheVhiM2RCZDhGeUx6VDdUSk5VUEJUbmdPQmNId2syMkpseGRod2RHNkg5NVI1UUhqUWZRVA?oc=5"
-        }
-      ],
-      "keywords": [
-        "부산국제영화제",
-        "영화제 개막",
-        "영화 축제",
-        "부산"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261010-003/600/400"
-    },
-    {
-      "id": "news-20261010-004",
-      "headline": "미국 멕시코만 원유 생산 차질에 국제유가 상승…WTI 0.39% 오름세",
+      "headline": "미국 멕시코만 원유 생산 차질 여파로 국제유가 상승…WTI 0.39% 오름세",
       "category": "글로벌",
       "categories": [
         "글로벌",
         "경제"
       ],
       "summary": {
-        "overview": "미국 멕시코만 지역의 원유 생산에 차질이 발생하면서 국제유가가 상승세를 나타냈습니다. 서부텍사스산원유(WTI) 가격은 전 거래일 대비 0.39% 오르며 강세를 보였습니다.\n\n원유 공급 차질에 대한 우려가 시장에 즉각 반영되면서 유가 상승을 끌어올렸습니다. 특히 멕시코만 일대의 생산 설비 가동에 차질이 생기며 단기적인 공급 불안정성이 커졌습니다.\n\n에너지 시장에서는 생산 차질의 장기화 여부와 석유 제품 수급 균형에 미칠 여파를 면밀히 살피고 있습니다. 향후 현장 복구 속도와 글로벌 수요 변화가 유가의 추가 움직임을 결정짓는 주요 요인이 될 전망입니다."
+        "overview": "미국 멕시코만 일대의 원유 생산에 차질이 생기면서 국제유가가 상승세를 기록했습니다. 서부텍사스산원유(WTI) 가격은 전 거래일 대비 0.39% 오르며 상승 흐름으로 거래를 마감했습니다.\n\n이번 유가 상승은 멕시코만 해상 시설의 운용 문제 등으로 현지 원유 공급량이 줄어들 것이라는 우려가 시장에 반영된 영향입니다. 공급 감소 가능성이 제기되면서 석유 시장 내 수급 불안 심리가 커졌습니다.\n\n향후 멕시코만 생산 설비의 정상화 시점과 주간 원유 재고 지표의 변화가 향후 단기 유가 향방을 결정할 핵심 요소로 꼽힙니다."
       },
       "publishers": [
         {
@@ -187,7 +131,12 @@
         {
           "name": "MBC 뉴스",
           "title": "국제유가, 美 이란 공격 우려·중동 유조선 피격에 급등",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjX2FRWHFaVWRLb0hfQmhmWkpQWlpKaEtoT0UyUlRjWkgxOVNyZldneFd1NUdNSEJmWTFCMjQ2aDNCYmVrY0dXYlhzWW1HbDVoWjlveW1zWjVMUlZicy1tNWg5cnZNcVpFdTYyNjZIV1hWUmNu0gF0QVVfeXFMTWpkbTRqWjQ2UUNwdjVZTjFKRVF6OGRQeUNuT2lWNm50bUt3Z2FWemhWbE91Z3cxRnNhWWZkZFNhWGZoNjJ5TnlvZElkbGxEY0QwbTkzSVpuNDhhaVVKaVhfdFB3T3dXYWZjOHNOSVFlTDhTN1I?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZG00alo0NlFDcHY1WU4xSkVRejhkUHlDbk9pVjZudG1Ld2dhVnpoVmxPdWd3MUZzYVlmZGRTYVhmaDYyeU55b2RJZGxsRGNEMG05M0labjQ4YWlVSmlYX3RQd093V2FmYzhzTklRZUw4UzdS0gF0QVVfeXFMTWpkbTRqWjQ2UUNwdjVZTjFKRVF6OGRQeUNuT2lWNm50bUt3Z2FWemhWbE91Z3cxRnNhWWZkZFNhWGZoNjJ5TnlvZElkbGxEY0QwbTkzSVpuNDhhaVVKaVhfdFB3T3dXYWZjOHNOSVFlTDhTN1I?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가, IEA 비축유 방출 가속에 하락‥WTI 1.3%↓",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5td2Z2b3JjUFQxTDEycHc3OUFzS0lOQklZNVB6VmRqTXRLbjZxNndFd3JuSXdET19valBzaDNrdVlTT1Z1M0pFZ0FjZDRLVXZWTlVnSDF4bUdCODhsdVE5dkdya0w0T2JiaVVOYWEteVZkYzJY0gF0QVVfeXFMTmthZW1hWU5aTTEwek5DMjNTY3U5ZURGUmdCMjd6VFBFeS1FNXZ1eU5QMDVKN1JSZEx0LWh0RnVSaHVuZ2pIa0R4VXBLempxV3NtNExkUFlWdl8wY3J6VmFoYTNTbHQ1c2FTUGpFWG5WMU5zbmQ?oc=5"
         },
         {
           "name": "YTN",
@@ -197,88 +146,87 @@
       ],
       "keywords": [
         "국제유가",
-        "멕시코만",
-        "원유생산",
         "WTI",
-        "에너지시장"
+        "멕시코만",
+        "원유 생산 차질",
+        "유가 상승"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261010-004/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261010-003/600/400"
     },
     {
-      "id": "news-20261010-005",
-      "headline": "유리천장 깨고 다자무역 지키는 WTO 첫 여성 수장 오콘조이웨알라의 개혁 행보",
-      "category": "글로벌",
+      "id": "news-20261010-004",
+      "headline": "국내 최초 컨테이너선 북극항로 왕복 성공…팬스타 아크로호 50일 항해 마치고 부산 귀환",
+      "category": "경제",
       "categories": [
         "경제",
         "글로벌",
         "비즈니스"
       ],
       "summary": {
-        "overview": "세계무역기구(WTO) 최초의 여성이자 아프리카 출신 수장인 응고지 오콘조이웨알라 사무총장은 유년 시절 나이지리아 내전의 참상을 겪으며 빈곤 퇴치에 뜻을 두었습니다. 미국 유학 후 세계은행 부총재에 올랐으며, 나이지리아 재무장관 시절에는 끈질긴 협상으로 300억 달러 규모의 국가 부채를 탕감하고 강도 높은 재정 개혁을 단행했습니다. 부패 카르텔의 모욕과 어머니 납치라는 극단적인 위기 속에서도 단호하게 소신을 지켜내며 개혁가로서의 면모를 입증했습니다.\n\n2020년 WTO 사무총장 선거에서 한국의 유명희 통상교섭본부장과 경쟁한 끝에 수장에 올랐으며, 취임 후 보호무역주의 기조에 맞서 자유무역의 가치를 지키는 데 앞장서고 있습니다. 그는 전쟁 폐허를 딛고 성장한 한국을 다자무역체제의 성공 사례로 평가하며, 소외된 국가를 무역 주류로 이끄는 '재세계화'를 대안으로 제시합니다. 특유의 아프리카 전통 의상은 바쁜 워킹맘 시절부터 이어진 실용주의의 결과물로, 이러한 리더십과 성과를 인정받아 연임에 성공하며 두 번째 임기를 이어가고 있습니다."
+        "overview": "국내 최초로 북극항로 왕복 시범 운항에 나선 컨테이너선 '팬스타 아크로호'가 50일간의 항해를 성공적으로 마치고 11일 부산항으로 돌아왔습니다. 지난 8월 22일 부산에서 출항한 선박은 북동항로를 통해 영국 펠릭스토우, 네덜란드 로테르담, 폴란드 그단스크를 거친 뒤 다시 북극해를 지나 무사히 복귀했습니다.\n\n과거 국내 선박의 북극항로 운항 사례는 있었으나, 해운 물류의 핵심인 컨테이너선으로 왕복 운항에 성공한 것은 이번이 처음입니다. 정부는 이번 운항을 통해 본격적인 상업 항로로서 북극항로가 가진 가능성을 정밀하게 확인했습니다.\n\n해양수산부는 이번 항해에서 수집한 운항 거리, 소요 시간, 비용, 연료 소모량 등 경제성 데이터를 종합 분석할 예정입니다. 이를 바탕으로 2030년 정기 서비스 항로를 개통하고, 2035년까지 선박을 대형화해 본격적인 상업 운항 체계를 구축할 방침입니다. 아울러 북극항로의 핵심 거점인 부산을 중심으로 남부 해양수도권을 육성하는 국정과제 추진에도 속도를 낼 계획입니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
-          "url": "https://www.yna.co.kr/view/AKR20260921172200079"
+          "title": "북극항로 시범운항 선박, 50일 항해 마치고 부산 도착",
+          "url": "https://www.yna.co.kr/view/AKR20261010045400051"
         }
       ],
       "keywords": [
-        "오콘조이웨알라",
-        "WTO 사무총장",
-        "다자무역체제",
-        "재세계화",
-        "나이지리아"
+        "북극항로",
+        "팬스타 아크로호",
+        "컨테이너선",
+        "부산항",
+        "해양수산부"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921172200079_01_i_P2.jpg"
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/08/20/PYH2026082015130005100_P2.jpg"
     },
     {
-      "id": "news-20261010-006",
-      "headline": "미 국방부의 총기난사범 사형 생중계 방침에 정치권과 유엔 일제히 비판",
-      "category": "글로벌",
+      "id": "news-20261010-005",
+      "headline": "충청북도, 지역 맞춤형 경제 성장 전략 수립 연구 용역 착수",
+      "category": "경제",
       "categories": [
-        "경제",
-        "글로벌"
+        "경제"
       ],
       "summary": {
-        "overview": "미국 국방부가 2009년 발생한 미군 기지 총기난사 사건 피의자의 사형 집행을 생중계하겠다는 방침을 밝혀 큰 논란이 일고 있습니다. 미국 역사상 사형 집행 장면을 대중에 공개 생중계하는 사례는 이번이 처음입니다.\n\n국방부의 발표 직후 미국 정치권은 여야를 가리지 않고 강하게 반발했습니다. 민주당은 물론 공화당 내부에서도 인권 침해 및 잔혹성 유포 우려를 제기하며 방침 철회를 요구하고 있습니다.\n\n유엔 인권기구 역시 해당 결정이 국제 인권 규범에 부합하지 않는다며 깊은 우려를 표명했습니다. 전문가들은 이번 조치가 범죄 예방 효과를 거두기보다 사회적 불쾌감과 폭력성을 자극할 수 있다고 지적합니다."
+        "overview": "충청북도가 지역 경제의 지속적인 발전과 미래 성장 동력 확보를 위해 종합적인 경제 성장 전략 연구 용역에 착수했습니다.\n\n이번 연구 용역은 충북 지역의 경제 여건과 산업 구조를 면밀히 분석하고 실효성 있는 중장기 발전 방안을 모색하기 위해 추진됩니다. 충북도는 이를 통해 주요 경제 정책을 구체화하고 지역 특성에 맞는 미래 전략 산업을 발굴할 방침입니다.\n\n아울러 전문가들의 의견을 종합 수렴해 실행력 높은 정책 과제를 도출하는 데 중점을 둡니다. 연구 결과는 향후 충청북도의 경제 정책 수립과 기업 유치, 투자 활성화를 위한 핵심 지침으로 활용될 예정입니다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "“미국 역사상 첫 사형 생중계”…트럼프 국방부 방침에 여야·유엔도 비판",
-          "url": "https://www.mk.co.kr/news/world/12172646"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "\"미국이 이란인가\" 총기난사범 사형 생중계 방침에 비판 속출",
-          "url": "https://www.yna.co.kr/view/AKR20261010012700071"
+          "name": "KBS 뉴스",
+          "title": "충청북도, 경제 성장 전략 연구 용역 착수",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LRVN6Z1lwb1lMRUQ2dXRVQTFDOU0zZV9HZFJkU2gwcDNIRzFpbERlNzVIOWdzTXNSbXk1WjBxT3V1blNub1BTWjFtN1Y5UWw4dHdEVjdjR2lkaE1EaXlPOFljaFZEZw?oc=5"
         },
         {
           "name": "KBS 뉴스",
-          "title": "국제인권단체 “한국, 유엔 사형집행 중단 결의안 공동제안 참여해야”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od0pveXZNUWFrNEE3R2ptenFma29BazROXzE1cFNtV01mMGQtZ05VeExITHJtenNiUEU0a1JsSF9PRzZ2dURDZGM0a1lGVTFLTkwxWDd3SlI0ZTA?oc=5"
+          "title": "세계은행, ‘대홍수’ 네팔 경제성장률 전망치 4.2% → 3.7% 조정",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuaEdtWU9QWldPVmw2Uks3QTl5ZkJobGlhM1YyLUNEUzdtSW8xTDQyRVJWbDU2Z3BoRy1VamtTZEx3eDVTYWlBSlBhZ0M4NFRmMmMwekR1NURLbzg?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "생태도시에서 미래경제도시로...지역경제 성장 목표",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UYVJCSlJKUm9BQXpMa0lTSTRMZXpJTm1CM1FhdTRlaE9YcnpQVnVMbUtCa2xWRng0YVpENHpvUC1FZzZPRC1SWl84N3R1R0dsZy1neGRHWnBoN3Z4a2JwanJFa0dZOThramdTMW4yN3FSaVFLcHc?oc=5"
         }
       ],
       "keywords": [
-        "미국 국방부",
-        "사형 생중계",
-        "총기난사범",
-        "트럼프 행정부",
-        "유엔 비판"
+        "충청북도",
+        "경제성장전략",
+        "연구용역",
+        "지역경제",
+        "산업구조"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/10/news-p.v1.20261010.2c4cbe028dfd4cce85df22798cdacb57_R.jpg"
+      "image_url": "https://picsum.photos/seed/news-20261010-005/600/400"
     },
     {
-      "id": "news-20261010-007",
-      "headline": "한국-이집트 포괄적경제동반자협정(CEPA) 공식 협상 개시",
+      "id": "news-20261010-006",
+      "headline": "한국과 이집트, 포괄적 경제동반자 협정(CEPA) 협상 공식 개시",
       "category": "경제",
       "categories": [
         "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "한국과 이집트가 양국 간 포괄적경제동반자협정(CEPA) 체결을 위한 공식 협상에 착수했다. 이번 협상은 상품과 서비스 교역 확대를 넘어 공급망과 신산업 협력까지 아우르는 포괄적인 경제 협력 체계를 구축하기 위해 추진된다.\n\n이집트는 중동과 아프리카를 잇는 지리적 요충지이자 거대 내수 시장을 보유한 핵심 파트너다. 양국 정부는 이번 협상을 통해 관세 장벽을 낮추고 투자 환경을 개선해 교역 규모를 본격적으로 키워나갈 방침이다. 협상이 최종 타결되면 한국 기업의 현지 시장 진출과 북아프리카 지역 내 공급망 다변화에 속도가 붙을 전망이다."
+        "overview": "한국과 이집트가 양국 간 경제 협력을 한층 강화하기 위해 포괄적 경제동반자 협정(CEPA) 협상을 개시했습니다. 이집트는 아프리카와 중동을 연결하는 전략적 요충지로, 양국은 교역 및 투자 확대를 위한 제도적 기반 마련에 착수했습니다.\n\n협상 과정에서 양측은 상품과 서비스 시장 개방뿐 아니라 공급망 안정화, 인프라, 에너지 등 폭넓은 분야의 협력 방안을 다룰 계획입니다. 정부는 이번 협상을 통해 국내 기업의 북아프리카 시장 진출을 뒷받침하고 수출 다변화를 추진하겠다는 방침을 세웠습니다. 양국은 세부 분과별 실무 협상을 이어가며 실질적인 경제 성과를 거둘 수 있는 합의안을 도출해 나갈 예정입니다."
       },
       "publishers": [
         {
@@ -298,23 +246,23 @@
         }
       ],
       "keywords": [
-        "포괄적경제동반자협정",
+        "한·이집트 협력",
+        "포괄적 경제동반자 협정",
         "CEPA",
-        "이집트",
-        "통상교섭",
-        "무역협정"
+        "통상 협상",
+        "경제 협력"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261010-007/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261010-006/600/400"
     },
     {
-      "id": "news-20261010-008",
-      "headline": "김여정 담화 속 정동영 발언 논란…국민의힘, 통일부 장관 탄핵 거론하며 공세",
+      "id": "news-20261010-007",
+      "headline": "정동영 통일부 장관 발언 논란…국민의힘 '탄핵 소추' 강력 공세",
       "category": "글로벌",
       "categories": [
         "글로벌"
       ],
       "summary": {
-        "overview": "국민의힘이 김여정 북한 노동당 총무부장의 담화 발표 이후 정동영 통일부 장관을 향해 강도 높은 공세를 펼쳤습니다. 김 부장은 담화에서 정 장관의 발언을 직접 언급하며 대남 메시지를 던졌습니다.\n\n여당 측은 정 장관의 안보관을 문제 삼으며 안보 위협 상황에서 부적절한 태도를 보였다고 강력히 비판했습니다. '공화국 공격으로 단정하기 어렵다'는 취지의 발언이 국익과 안보에 반한다는 이유입니다.\n\n국민의힘은 정 장관이 통일부 수장으로서의 자격을 상실했다며 탄핵 추진까지 거론하고 나섰습니다. 정치권에서는 북한의 담화 메시지와 장관의 대응을 둘러싸고 대북 정책 및 국가 안보관을 둘러싼 정쟁이 한층 격화하고 있습니다."
+        "overview": "국민의힘이 김여정 북한 노동당 총무부장의 담화 발표 이후 정동영 통일부 장관을 향한 정치적 공세를 대폭 강화했습니다. 야당은 정 장관의 최근 안보 관련 발언을 문제 삼으며 장관 탄핵 추진 가능성까지 언급하고 나섰습니다.\n\n이번 논란은 정 장관이 북한 관련 사태를 두고 공격으로 단정하기 어렵다는 취지의 발언을 하면서 비롯되었습니다. 김여정 부장이 담화에서 정 장관의 언급을 직접 거론하자, 여권 내부에서는 안보관을 둘러싼 비판 목소리가 급격히 커졌습니다.\n\n국민의힘은 정 장관의 발언이 대북 경계심을 무너뜨리고 국가 안보에 혼선을 초래했다고 강력히 주장했습니다. 야권은 정 장관의 사퇴와 엄중한 책임 규명을 요구하며 대정부 압박 수위를 높여갈 계획입니다."
       },
       "publishers": [
         {
@@ -343,101 +291,220 @@
       "image_url": "https://pimg.mk.co.kr/news/cms/202610/08/news-p.v1.20260819.9bc9b1640840495a9010c4172ac71612_R.jpg"
     },
     {
-      "id": "news-20261010-009",
-      "headline": "정부 '원양어선 안전펀드' 지원선박 일부 해외 건조…평가기준 실효성 논란",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "정부의 노후 원양어선 교체 지원사업인 '원양어선 안전펀드'를 지원받은 선박 중 일부가 해외 조선소에서 건조된 것으로 밝혀졌습니다. 국회 농림축산식품해양수산위원회 소속 이양수 의원이 해양수산부로부터 받은 자료에 따르면, 2019년 이후 펀드 지원 대상 11척 가운데 2척은 중국에서 건조를 마쳤고 1척은 대만에서 건조를 추진하고 있습니다.\n\n중국에서 건조된 2척에는 166억 8천만 원의 무이자 융자가 지원됐으며, 대만 건조 추진 선박에도 최대 232억 원의 예산이 투입될 예정입니다. 국민 세금이 들어간 정책 자금이 해외 조선사의 이익으로 이어지면서 사업 취지를 제대로 살리지 못한다는 지적이 나옵니다.\n\n이는 지원 대상 선정 기준의 허점과 연관되어 있습니다. 초기에는 선사의 과거 국내 건조 실적만 평가했을 뿐 해당 선박의 국내 건조 여부를 제대로 검증하지 않았으며, 최근에는 오히려 국내 건조 관련 평가 비중이 축소된 것으로 파악됐습니다. 이 의원은 국민 세금으로 지원하는 사업인 만큼 국내 조선업계와 상생할 수 있도록 평가 기준의 실효성을 높여야 한다고 강조했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "정부 '원양어선 안전펀드' 지원받은 11척 중 2척 중국서 건조",
-          "url": "https://www.yna.co.kr/view/AKR20261008084400051"
-        }
-      ],
-      "keywords": [
-        "원양어선 안전펀드",
-        "해양수산부",
-        "이양수",
-        "해외 건조",
-        "국내 조선업"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008084400051_02_i_P2.jpg"
-    },
-    {
-      "id": "news-20261010-010",
-      "headline": "삼성전자·SK하이닉스 대신 지수·방산으로…변화하는 레버리지 ETF 투자 트렌드",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "개인 투자자들의 정방향 레버리지 ETF 투자 흐름이 대형 개별 종목에서 시장 지수와 특정 테마형 상품으로 빠르게 이동하고 있습니다.\n\n정방향 레버리지 ETF 62종을 분석한 결과, 과거 투자 비중이 높았던 삼성전자와 SK하이닉스 등 개별 종목 중심의 레버리지 ETF 비중은 8.9% 수준으로 크게 낮아졌습니다.\n\n반면 코스피200이나 코스닥150 등 시장 대표 지수를 따르는 지수형 레버리지 ETF 비중은 기존 28.0%에서 69.8%로 대폭 확대됐습니다.\n\n최근 시장을 주도하는 방위산업과 반도체 등 특정 산업 테마에 집중하는 레버리지 ETF 비중 역시 3.8%에서 20% 수준으로 크게 늘었습니다.\n\n이는 개인 투자자들이 단일 대형주 변동성에 직접 노출되기보다, 시장 전반의 방향성이나 확실한 성장 모멘텀을 가진 업종에 분산 투자하려는 전략적 변화를 보여줍니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "삼전닉스 대신 방산·반도체 테마형으로…변화하는 레버리지 ETF 판도",
-          "url": "https://www.mk.co.kr/news/stock/12172657"
-        }
-      ],
-      "keywords": [
-        "레버리지 ETF",
-        "투자 트렌드",
-        "시장지수형",
-        "방산 테마",
-        "반도체 ETF"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/10/news-p.v1.20261008.99dc555eb97f4ea0a5b74b3500eb6e25_R.png"
-    },
-    {
-      "id": "news-20261010-011",
-      "headline": "트럼프 2기 행정부 백악관 대변인에 보수 방송평론가 케이티 자카리아 발탁",
+      "id": "news-20261010-008",
+      "headline": "트럼프, 젤렌스키의 러 정유시설 공격 강행에 '러시아산 경유 제재 해제'로 맞불",
       "category": "글로벌",
       "categories": [
-        "경제",
-        "글로벌"
+        "글로벌",
+        "경제"
       ],
       "summary": {
-        "overview": "도널드 트럼프 미국 대통령 당선인이 2기 행정부의 백악관 대변인으로 보수 성향 방송평론가 케이티 자카리아를 지명했습니다. 트럼프 당선인은 자신의 사회관계망서비스를 통해 자카리아의 발탁 소식을 공식 발표하며 강한 신뢰를 보냈습니다.\n\n케이티 자카리아는 보수 성향 매체와 방송에서 활발히 활동하며 트럼프의 주요 정책을 적극적으로 대변해 온 인물입니다. 뛰어난 언론 대응 능력과 정교한 메시지 전달력을 인정받아 차기 행정부의 핵심 요직을 맡게 됐습니다.\n\n이번 인사는 트럼프 2기 출범에 맞춰 백악관 공보 라인을 신속히 정비하려는 의도로 풀이됩니다. 신임 대변인은 향후 트럼프 행정부의 주요 국정 과제와 대외 메시지를 전달하는 공식 창구로서 언론 소통을 전담할 예정입니다."
+        "overview": "도널드 트럼프 미국 대통령이 우크라이나의 계속되는 러시아 정유시설 공격에 대응해 러시아산 경유 수출 제재를 해제하고 직접 공급 거래를 결정했습니다.\n\n미국 언론 액시오스 보도에 따르면, 트럼프 대통령은 볼로디미르 젤렌스키 우크라이나 대통령에게 정유시설 공격을 6차례나 중단해 달라고 요청했으나 모두 거부당했습니다. 미국 정부 당국자들은 우크라이나의 공격 강행이 국제 경유 시장의 불안을 키우고 트럼프 대통령과의 관계를 약화시켰다고 전했습니다.\n\n젤렌스키 대통령은 러시아가 우크라이나 발전소 공격을 먼저 멈춰야 한다고 맞섰지만, 트럼프 대통령은 우크라이나의 선제적인 공격 중단을 요구했습니다. 결국 트럼프 대통령은 블라디미르 푸틴 러시아 대통령과의 통화를 거쳐 미국과 세계 시장에 대규모 러시아산 경유를 단계적으로 공급받기로 합의했습니다.\n\n젤렌스키 대통령은 이번 합의에 즉각 반발했습니다. 한편, 미국과 우크라이나, 유럽 연합 및 나토 관계자들은 마이애미에 모여 겨울철 전쟁 완화와 종전을 위한 논의를 진행했습니다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "“이 나라에 특권이자 축복”…트럼프 2기 새 대변인 베일 벗었다, 누구길래",
-          "url": "https://www.mk.co.kr/news/world/12172645"
+          "name": "경향신문",
+          "title": "트럼프·푸틴 ‘경유 거래’는 젤렌스키 때문?···“러시아 공격 그만하란 말 6차례 무시, 결국 제재 해제 결정한 것”",
+          "url": "https://www.khan.co.kr/article/202610101840001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
-          "name": "경향신문",
-          "title": "트럼프, 새 백악관 대변인에 ‘금발 보수 평론가’ 자카리아 임명···“충성스런 지지자”",
-          "url": "https://www.khan.co.kr/article/202610100840001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "name": "한겨레",
+          "title": "“트럼프, 젤렌스키가 ‘공격 중단’ 요청 6차례 무시하자 푸틴과 경유 거래”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1281744.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "트럼프 “푸틴과 러 경유 30만t 공급 합의”…우크라 “전쟁 투자” 맹비난",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1281736.html"
         }
       ],
       "keywords": [
         "트럼프",
-        "백악관 대변인",
-        "케이티 자카리아",
-        "트럼프 2기",
-        "미국 행정부"
+        "젤렌스키",
+        "푸틴",
+        "경유 제재 해제",
+        "정유시설 공격"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/10/news-p.v1.20261010.4c52e7657277450c9f01087d03df4fdc_R.jpg"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1010/53_17916179975641_20261010500354.webp"
+    },
+    {
+      "id": "news-20261010-009",
+      "headline": "나비 필라이, 나치 재판 법정서 \"노벨상은 국제범죄 생존자들의 몫\"",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "나비 필라이 전 유엔 인권고등판무관이 과거 나치 전범 재판이 열렸던 역사적 법정에서 노벨상 수상의 영예를 전 세계 국제범죄 생존자들에게 돌렸습니다.\n\n필라이 전 판사는 상징적인 역사 현장에서 진행된 연설을 통해 가혹한 범죄 속에서도 존엄성을 지켜낸 피해자들의 용기를 기렸습니다. 인류를 향한 범죄를 잊지 않고 법적 정의를 바로 세우는 일이 국제 평화를 지속하는 핵심 과제임을 분명히 밝혔습니다.\n\n이번 발언은 과거의 비극을 되새기는 데 그치지 않고, 여전히 세계 곳곳에서 발생하는 인권 침해 피해자들을 향한 국제사회의 책임과 연대를 촉구했습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "필라이, 나치 법정서 “국제범죄 생존자에 노벨상 바쳐”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnQ3p3bkZzQkdkcjJsZndoNzVwbUtXRmNZMEdiQl85eFhfVFZSaTlOcUNNTjRpZExESlVQaGZfcG5GbGwwYTM4N0RQaWd0TWo5TkJEWWw5V3lpbW8?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "아동 성착취 '디스코드 국제범죄망' 운영 인도인 프랑스에서 중형",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tc1YxUG1fdzh4YWt5WmNNLUM3SF9PUUREZ0F2ckxhTF9KUTFwNkpFcjR3NmFCbE1neFh5R0dKV2syTUotUWtZdGR4MVM3cGl6N1RrSUljYTFta2Vzdnc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "필라이, 나치 법정에서 \"국제범죄 생존자들에게 노벨상 바쳐\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pc19RTWJVdnFoZnlzSHVfbDVXTzJRdlNMUk96UkR1Z3czRUJNbmJzSkJVUE1BUmdWUHVCanFWV3V0OHJ2MjJZVjR3TlR0T1dITzdJQ3VHYXc5bFZ1bFE?oc=5"
+        }
+      ],
+      "keywords": [
+        "필라이",
+        "나치 법정",
+        "노벨상",
+        "국제범죄 생존자",
+        "인권"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261010-009/600/400"
+    },
+    {
+      "id": "news-20261010-010",
+      "headline": "부산국제영화제 오늘 개막…열흘간 이어지는 영화의 축제",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "부산국제영화제가 오늘 개막식을 시작으로 열흘간의 공식 일정에 들어갑니다. 이번 행사에서는 아시아를 비롯한 세계 각국의 다채로운 영화가 상영되어 수많은 영화 팬을 맞이합니다.\n\n개막식이 열리는 부산 해운대 영화의전당 일대에서는 감독과 배우들이 참석하는 레드카펫 행사와 무대 인사가 펼쳐집니다. 관객들은 관객과의 대화(GV)와 야외 상영 등 여러 프로그램에 참여해 영화 제작진과 깊이 있는 이야기를 나눌 수 있습니다.\n\n올해 상영작들은 다채로운 주제와 시도를 담아내며 관람객들에게 특별한 경험을 선사할 것으로 보입니다. 영화제는 열흘간 부산 일대를 영화의 열기로 가득 채운 뒤 막을 내립니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "부산국제영화제 오늘 개막…열흘간 영화의 바다",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WlktTHg0Z0pMLUh5bTh6VkJycUdMNnVWY0hrZkt0VXREMFM1ZzhHLUl5WjJMMTNOSkxVRmFWN0lFMkZJNUhYUWRoS3h0bDAzNVIwakFYclpFZjZkcXRwWXFoNVVqUQ?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "부산국제영화제 내일 개막…남포동 ‘들썩’",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRkMtMi11aTRSWVRFXzVJMThfdEdrS1c2d3RHNmExZHJ3UjVza0VMZEJCcXl0OElLVFBKWHE1WkdJUlhRVU9MTThsVFhYNHdsSHR2RXdQclZPNUU?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국힘 TK의원들 \"암살자(들) 상영중단·국제영화제 철회해야\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11UGMxa0lsMmszQzB2U19wVWpFRkNMck0zU1VJdThvdk9YamEwRE5lakU1SkdaRS1Vd3hZeVZoMlNSblp3NF9nc3pDZTFITTZrWmZZR0Y4LXlJRnQ4ZFhhdUhLSDZvTUZ4NHp6OVR6M2ZmZnkzdk42Y9IBeEFVX3lxTE5iaS1jWW5nTkRWTER5Y2p2QXBxSVQyU0pkUUIxY1lSVEZydHo2SzVUSlJjNFVXRWlLVWF5R2d5X2ZTMmRheVhiM2RCZDhGeUx6VDdUSk5VUEJUbmdPQmNId2syMkpseGRod2RHNkg5NVI1UUhqUWZRVA?oc=5"
+        }
+      ],
+      "keywords": [
+        "부산국제영화제",
+        "개막",
+        "영화의전당",
+        "영화 축제"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261010-010/600/400"
+    },
+    {
+      "id": "news-20261010-011",
+      "headline": "올해 크레딧물 발행 24% 증가…특수은행채 급증 속에 회사채는 위축",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "올해 국내 신용채권(크레딧물) 시장에서 은행채와 공사채 발행은 큰 폭으로 늘어난 반면, 일반 회사채 발행은 줄어들며 대조적인 모습을 보였습니다. 1월부터 10월 초까지 집계된 전체 크레딧물 발행액은 355조 원으로 지난해 같은 기간보다 24.1% 증가했습니다. 시장 전체의 발행 규모 확대는 전체 증가분의 대부분을 차지한 은행채가 주도했습니다.\n\n특히 KDB산업은행, IBK기업은행, 한국수출입은행 등 특수은행이 발행한 채권이 140조 원을 넘어서며 전체 증가세를 끌어올렸습니다. 정책 금융 확대와 첨단산업 지원, 기업 해외 진출 및 공급망 안정화 과정에서 자금 조달 수요가 대폭 늘어난 영향입니다. 주요 시중은행들 역시 발행 한도를 소진하고 신규 일괄신고서를 제출하는 등 추가 발행을 이어가고 있습니다.\n\n반면 일반 회사채 발행액은 62조 4천억 원에 그치며 전년 동기 대비 19.6% 감소했습니다. 은행채와 공사채 공급이 대량으로 늘어나면서 전체 크레딧물 시장 내 두 채권의 비중은 82.4%까지 올라섰지만, 일반 기업이 발행하는 회사채 비중은 17.6%로 하락했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "올해 크레딧물 발행 24%↑…은행채 늘고 회사채는 줄고",
+          "url": "https://www.yna.co.kr/view/AKR20261009029200008"
+        },
+        {
+          "name": "연합뉴스TV",
+          "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건 ↑",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KbUo1WGIzX3BXNnE3clRtakxrMWRYZ2NDd2ZIYjJ6VFpyaEtCNlpTRlVVSXM1SVlneVRpTE9wdlRpOUxHbUc2M3JhODRpTnRqUzV3TXM4SU95MkpOTDBGOHBYOXJvVXc?oc=5"
+        }
+      ],
+      "keywords": [
+        "크레딧물",
+        "은행채",
+        "특수은행채",
+        "공사채",
+        "회사채"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/09/AKR20261009029200008_01_i_P2.jpg"
     },
     {
       "id": "news-20261010-012",
-      "headline": "숭실대 박찬준 교수 연구팀, 자연어처리 국제학술대회 'AACL-IJCNLP 2026' 논문 4편 채택",
+      "headline": "부산 기장읍성, 600년 역사 담은 체류형 문화공간으로 탈바꿈",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "부산 기장군이 유서 깊은 기장읍성을 배경으로 역사와 휴식이 어우러진 가을 축제를 선보입니다. 오는 10월 8일부터 나흘간 열리는 이번 행사는 대형 무대 위주의 일회성 공연에서 벗어나 성곽 일대를 살아있는 역사 문화 공간으로 꾸밉니다.\n\n방문객들은 600년 세월을 간직한 성곽길을 걸으며 기장의 과거와 현재를 자연스럽게 마주할 수 있습니다. 전시와 체험, 쉼터가 성곽 곳곳에 자리 잡아 누구나 편안하게 머무르며 가을 정취를 즐기도록 기획했습니다.\n\n단순한 관람을 넘어 오래된 성곽 자체의 멋을 살린 체류형 프로그램을 통해 지역 관광 자원의 가치를 높이고 방문객들에게 색다른 여행 경험을 선사할 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "600년 시간 담은 테마파크…부산 기장읍성의 가을 여행이 다른 이유 [페스티벌 플러스]",
+          "url": "https://www.mk.co.kr/news/culture/12172834"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "[문화연예 플러스] 알폰소 쿠아론 감독, 부산국제영화제 참석",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JYUJZd01MWHdwVWZMWGh4MjIwMS1nbkV0NHNWdjd3NkhXc1k4VVZoLUIxVE1Nb016aVpFZmNHcjVKU3k4NjladjFiMUwyM2lOdzlkSGtnNVNCRWpOc2h3b2FtelFRdm1pVzc1YXVFTUpxUmZTM0hCd1Zn0gF6QVVfeXFMTVEwbUtBQlNITW8zei1RUkxSYU1LRlZuaS00ajMySU1pZnBfNVNLZDhXRHpwV1lJVVhBU0xTNEc0SERCaGFhaGViSU9TTU1UYmI5SzUyQUZLN1pRQzZ1cGFMSUV3Zm5VdTZOQXhQZ3JibWUyc2RGV1BkX0E?oc=5"
+        }
+      ],
+      "keywords": [
+        "기장읍성",
+        "역사문화축제",
+        "부산여행",
+        "성곽길",
+        "지역관광"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/11/news-p.v1.20261007.80adf9969d93451f8796a68cb4cb8e79_R.jpg"
+    },
+    {
+      "id": "news-20261010-013",
+      "headline": "스마트폰 후면 카메라가 늘어난 구조적 배경과 광학 렌즈 기술의 진화",
       "category": "IT/과학",
       "categories": [
         "경제",
         "IT/과학"
       ],
       "summary": {
-        "overview": "숭실대학교 소프트웨어학부 박찬준 교수 연구팀이 작성한 논문 4편이 자연어처리 분야 국제학술대회인 'AACL-IJCNLP 2026'에 채택되었습니다. 이번에 채택된 연구 중 3편은 학부생 연구원이 주도했으며, 대형언어모델(LLM)의 판단 편향과 내부 표현, AI 에이전트의 안전한 도구 실행을 주요 주제로 다뤘습니다.\n\n이시현 연구원은 도덕적 갈등 상황에서 LLM이 적극적 개입 대신 무행동을 택하는 부작위 편향을 분석하고 이를 완화할 방안을 제시했습니다. 추교준 연구원은 사용자 요청을 처리하는 데 필요한 기능이 모델 내부에 어떻게 형성되는지 추적해, 내부 인지 수준과 언어 설명 능력 사이에 괴리가 발생한다는 점을 밝혔습니다.\n\n조성현 연구원은 도쿄대 연구진과 협업해 AI 에이전트가 외부 도구를 실행하기 전 안전한 복구 가능성을 따져 위험한 작동을 사전에 막는 프레임워크를 개발했습니다. 연구를 주도한 세 학부생은 졸업 후 숭실대 대학원에 진학해 연구를 이어갈 계획입니다."
+        "overview": "스마트폰 디자인에서 후면 카메라 모듈이 차지하는 비중과 면적이 지속해서 커지고 있습니다. 단일 렌즈만으로는 초광각부터 망원까지 다양한 화각을 온전히 구현하기 어려운 하드웨어적 한계 때문입니다.\n\n제조사들은 이러한 광학적 제약을 극복하고자 메인 카메라를 중심으로 초광각과 망원 렌즈를 각각 독립적으로 배치하는 방식을 채택해 왔습니다. 이에 따라 단말기 후면에는 여러 개의 렌즈가 나열되는 형태가 정착했습니다.\n\n최근에는 렌즈 수를 무작정 늘리기보다 성능을 집약하는 기술 개발이 이어지고 있습니다. 차세대 폴더블폰인 갤럭시 Z 폴드8 등에서는 두 개의 렌즈만으로도 광학 줌 기능을 안정적으로 구현하는 기술적 시도가 이루어지고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“인덕션같다고 욕했는데”…스마트폰 ‘줄줄이 카메라’, 이유 있었네",
+          "url": "https://www.mk.co.kr/news/business/12172818"
+        },
+        {
+          "name": "매일경제",
+          "title": "“인덕션같다고 욕했는데”…스마트폰 ‘줄줄이 카메라’, 이유 있었네",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvSUlrV1hDMHJpTjlPR0RRaUMzU0twVUxyRVdfdWZ6Q01zb1lCV2g5bHZrTnpITHU0eWhLczhhblVSV0I4UHhuek5VOVo0NWxxUUk2enlR?oc=5"
+        }
+      ],
+      "keywords": [
+        "스마트폰 카메라",
+        "광학줌",
+        "렌즈 모듈",
+        "화각",
+        "Z폴드8"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/11/news-p.v1.20261008.82bee4978f5348a1a89539c787365f51_R.jpg"
+    },
+    {
+      "id": "news-20261010-014",
+      "headline": "숭실대 박찬준 교수 연구팀, 학부생 주도 논문 포함 AACL-IJCNLP 2026 논문 4편 채택",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "숭실대학교 소프트웨어학부 박찬준 교수 연구팀의 논문 4편이 자연어처리 분야 국제학술대회 'AACL-IJCNLP 2026'에 최종 채택됐습니다. 채택된 연구 중 3편은 학부 연구생들이 주도적으로 작성한 성과로, 대형언어모델(LLM)의 판단 편향과 내부 표현, AI 에이전트의 안전성을 중점적으로 다뤘습니다.\n\n이시현 연구원은 도덕적 갈등 상황에서 LLM이 적극적 행동 대신 무행동을 선호하는 '부작위 편향'을 체계적으로 분석하고 답변 전 도덕적 원칙을 고려하도록 유도해 편향을 줄이는 방안을 제시했습니다. 추교준 연구원은 외부 도구 활용 등에 필요한 기능이 LLM 내부에 구조적으로 형성돼 있으나 이를 언어로 설명할 때 정확도가 떨어지는 괴리 현상을 규명했습니다.\n\n조성현 연구원은 도쿄대 연구진과 함께 AI 에이전트가 외부 도구를 쓰기 전 시스템 복구 가능성을 따져 위험한 실행을 사전에 차단하는 프레임워크를 제안했습니다. 연구를 주도한 세 학부생은 졸업 후 숭실대 대학원에 진학해 후속 연구를 이어갈 예정입니다."
       },
       "publishers": [
         {
@@ -452,24 +519,90 @@
         }
       ],
       "keywords": [
-        "숭실대",
-        "박찬준",
+        "숭실대학교",
+        "박찬준 교수",
+        "AACL-IJCNLP",
         "대형언어모델",
-        "자연어처리",
-        "AACL-IJCNLP"
+        "자연어처리"
       ],
       "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/original/2026/1009/2917915539201384.webp"
     },
     {
-      "id": "news-20261010-013",
-      "headline": "빚더미에 앉은 유럽 경제 대국, 공공 인프라 붕괴와 주거비 폭등으로 민생 위기 직면",
+      "id": "news-20261010-015",
+      "headline": "사이버한국외대, 대구시교육청과 위탁교육 협약…교직원 수업료 50% 장학 지원",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "사이버한국외국어대학교가 대구광역시교육청과 산업체 위탁교육 협약을 체결하고 소속 교직원들의 역량 강화 지원에 나섭니다. 이번 협약에는 사이버한국외대를 포함한 6개 사이버대학교가 함께 참여해 대구 교육 현장의 직무 교육 기반을 다지기로 뜻을 모았습니다.\n\n협약에 따라 대구광역시교육청 관할 기관과 각급 학교에 재직 중인 교원, 지방공무원, 교육공무직, 사립학교 교직원은 산업체 위탁전형으로 사이버한국외대 학사 및 석사과정에 입학할 수 있습니다. 위탁 입학생에게는 졸업할 때까지 정규학기 수업료의 50%를 장학금으로 감면해 학습 비용 부담을 낮췄습니다.\n\n사이버한국외대는 보유하고 있는 AI 인프라와 외국어 특성화 교육 과정을 활용해 급변하는 교육 환경에 맞춘 디지털·글로벌 커리큘럼을 제공할 계획입니다. 한편 대학 측은 오는 12월 초부터 10개 학부에서 신·편입생 모집을 진행합니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "사이버한국외국어대학교, 대구광역시교육청과 산업체 위탁교육 협약 체결",
+          "url": "https://www.hani.co.kr/arti/economy/biznews/1281719.html"
+        },
+        {
+          "name": "Zdnet.co.kr",
+          "title": "핀테크 포워드 2026, 2900명의 참가자 유치한 가운데 바레인에서 60건 이상의 전략적 협약 체결하며 폐막",
+          "url": "https://zdnet.co.kr/view/?no=20261010021003"
+        }
+      ],
+      "keywords": [
+        "사이버한국외대",
+        "대구광역시교육청",
+        "위탁교육 협약",
+        "장학 혜택",
+        "사이버대학교"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/original/2026/1009/2017915529744053.jpeg"
+    },
+    {
+      "id": "news-20261010-016",
+      "headline": "쿠팡, 시스템 접속 장애 피해에 쇼핑 5천원·배달 3천원 보상안 발표",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "쿠팡이 9일 새벽 발생한 대규모 전산 장애로 불편을 겪은 이용자와 점주, 배달 라이더를 대상으로 피해 보상안을 발표했습니다.\n\n시스템 오류로 배송이 불가해 주문이 자동 취소된 이커머스 쇼핑 고객에게는 사과문과 함께 유효기간 6개월의 쿠팡캐시 5000원을 적립했습니다. 배달 앱 쿠팡이츠의 경우 주문 취소 피해를 본 고객에게 3000원 쿠폰을, 주문에 실패한 고객에게는 1000원 쿠폰을 지급하기로 결정했습니다.\n\n입점 점주와 배달 라이더를 위한 구제책도 함께 마련했습니다. 쿠팡이츠 측은 주문 접수 후 취소된 음식점주에게 취소분을 보상하며, 픽업 후 취소 건에 대해서는 배달 라이더에게 배달비를 정상 지급합니다. 매장에 도착했으나 배달을 마치지 못한 라이더에게도 1000원을 지원합니다.\n\n이번 장애는 9일 자정 무렵부터 약 2시간 동안 쿠팡과 쿠팡이츠, 쿠팡플레이 전반에서 일어났으며, 물류 시스템 마비로 배송 차질과 주문 취소가 잇따랐습니다. 쿠팡은 서비스 업그레이드 과정에서 일시적인 전산 오류가 빚어졌다며 공식 사과했습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "‘접속 장애’ 쿠팡, 주문취소 고객 5천원 보상…쿠팡이츠 3천원",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1281656.html"
+        },
+        {
+          "name": "녹색경제신문",
+          "title": "쿠팡 장애 보상, 고객·라이더엔 지급… 퀵플렉스 기사는 ‘0원' 논란",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51aTFKM3VGZWlIczh3QW1abDdqSklWSXRsQzVfRGYyclFlYmJETG0zTk1HNHJLTUlfa1EzbVlzOVV5dnMwTV91ZjdIcFExMVR3bEZGRDVrU2FsUUE2Qkl0MUVpeGROV19H?oc=5"
+        }
+      ],
+      "keywords": [
+        "쿠팡",
+        "쿠팡이츠",
+        "접속 장애",
+        "피해 보상",
+        "쿠팡캐시"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1009/53_17915156263365_20261009500810.webp"
+    },
+    {
+      "id": "news-20261010-017",
+      "headline": "재정 위기와 물가 폭등으로 신음하는 유럽 경제 대국들의 실태",
       "category": "경제",
       "categories": [
         "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "유럽 주요 경제 대국들이 누적된 국가 부채와 재정 적자로 심각한 사회적 위기에 직면했습니다. 공공 재정이 한계에 다다르면서 교육 시설을 비롯한 기본 공공 인프라가 제대로 관리되지 못하고 노후화되는 실정입니다.\n\n재정 압박 속에서 주거비와 생활비마저 가파르게 상승해 일반 서민들의 경제적 부담이 한층 가중되고 있습니다. 기초 생활 환경이 급격히 무너지면서 사회 전반의 불안감과 불만도 고조되는 모양새입니다.\n\n과거 유럽 성장을 이끌던 중심국들이 재정 악화의 악순환을 끊어내지 못하면서 장기적인 침체 우려가 깊어지고 있습니다. 근본적인 재정 건전성 회복과 공공 안전망 복구가 시급한 과제로 떠올랐습니다."
+        "overview": "유럽을 대표하는 주요 경제 대국들이 감당하기 어려운 수준의 부채와 인플레이션 여파로 흔들리고 있습니다. 국가 재정이 악화되면서 공공 서비스와 기초 인프라 지원이 제대로 이루어지지 않는 악순환이 이어지는 상황입니다.\n\n일부 국가에서는 공립 학교 건물이 노후화되어 위생 문제가 발생하고 열악한 환경이 방치되는 실정입니다. 이와 동시에 부동산 가격과 집세가 급등하면서 서민들의 주거비 부담은 극에 달했습니다.\n\n유럽 대국들의 재정 위기는 단순한 경제 지표의 후퇴를 넘어 국민들의 삶의 질을 직접적으로 위협하고 있습니다. 막대한 국가 빚과 물가 상승이 복합적으로 작용하면서 유럽 경제의 침체가 장기화될 수 있다는 우려가 커지고 있습니다."
       },
       "publishers": [
         {
@@ -486,47 +619,47 @@
       "keywords": [
         "유럽 경제",
         "재정 위기",
-        "국가 부채",
-        "주거비 급등",
-        "공공 인프라"
+        "집세 급등",
+        "부채 부담"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261010-013/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261010-017/600/400"
     },
     {
-      "id": "news-20261010-014",
-      "headline": "세계은행, 대규모 홍수 여파로 네팔 경제성장률 전망치 3.7%로 하향",
+      "id": "news-20261010-018",
+      "headline": "정부의 기업 투자 애로 해소 방침에 경제단체 '유연한 정년 연장' 제시",
       "category": "경제",
       "categories": [
         "경제",
-        "글로벌"
+        "글로벌",
+        "비즈니스"
       ],
       "summary": {
-        "overview": "세계은행(WB)이 최근 대규모 홍수 피해를 본 네팔의 올해 경제성장률 전망치를 기존 4.2%에서 3.7%로 하향 조정했습니다.\n\n기록적인 폭우와 침수 피해로 인해 주요 도로와 인프라는 물론 핵심 산업인 농경지가 파괴되면서 경제 활동 전반이 위축되고 있습니다.\n\n재해 복구와 이재민 지원에 막대한 예산이 들어가면서 네팔 정부의 재정 부담도 대폭 늘어났습니다. 농물 생산량 감소와 도로 파손에 따른 물류 차질은 물가 불안을 유발하며 민간 소비를 저해할 우려가 큽니다.\n\n세계은행은 자연재해 여파로 네팔의 경기 회복 속도가 당초 기대보다 더딜 수 있다고 평가했습니다.\n\n향후 복구 작업의 진행 상황과 국제사회의 지원 규모가 네팔 경제의 추가 하락을 막는 핵심 변수로 작용할 전망입니다."
+        "overview": "이형일 차관이 기업들의 현장 투자 애로를 적극적으로 해소하겠다는 뜻을 밝혔습니다.\n\n이러한 정부의 지원 의지에 발맞추어 주요 경제단체들은 유연한 방식의 정년 연안을 공식 제안했습니다. 급격한 인구 구조 변화와 고령화에 대응해 숙련 인력을 계속 활용하고 현장의 인력난을 완화하려는 취지입니다.\n\n경제계는 일률적인 정년 연장 대신 임금 체계 개편과 연계하여 기업 부담을 낮추는 방식의 고용 연장 모델을 요청했습니다. 정부 역시 기업 투자를 저해하는 걸림돌을 적극 발굴하고 규제 완화 등 맞춤형 지원을 이어가겠다는 입장을 다졌습니다.\n\n이번 논의를 바탕으로 기업 투자 촉진을 위한 정책 마련과 함께 노동 시장의 유연성을 확보하기 위한 구체적인 제도 개선책이 마련될 것으로 기대됩니다."
       },
       "publishers": [
         {
           "name": "KBS 뉴스",
-          "title": "세계은행, ‘대홍수’ 네팔 경제성장률 전망치 4.2% → 3.7% 조정",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuaEdtWU9QWldPVmw2Uks3QTl5ZkJobGlhM1YyLUNEUzdtSW8xTDQyRVJWbDU2Z3BoRy1VamtTZEx3eDVTYWlBSlBhZ0M4NFRmMmMwekR1NURLbzg?oc=5"
+          "title": "이형일 “기업 투자 애로 해소”…경제단체 “유연한 정년 연장 제안”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NektCRzRhZ0NuVkxJbEJNUEkyQmlkbzhTMmQ1dEtmcHRhVnQwSGNhRzA2ZVV5dUQzS0JjVzFrOTJUVElxTllZeTNhcUFtYnZNbFo3UFk3dmZsc28?oc=5"
         },
         {
-          "name": "YTN",
-          "title": "생태도시에서 미래경제도시로...지역경제 성장 목표",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UYVJCSlJKUm9BQXpMa0lTSTRMZXpJTm1CM1FhdTRlaE9YcnpQVnVMbUtCa2xWRng0YVpENHpvUC1FZzZPRC1SWl84N3R1R0dsZy1neGRHWnBoN3Z4a2JwanJFa0dZOThramdTMW4yN3FSaVFLcHc?oc=5"
+          "name": "KBS 뉴스",
+          "title": "국제인권단체 “한국, 유엔 사형집행 중단 결의안 공동제안 참여해야”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od0pveXZNUWFrNEE3R2ptenFma29BazROXzE1cFNtV01mMGQtZ05VeExITHJtenNiUEU0a1JsSF9PRzZ2dURDZGM0a1lGVTFLTkwxWDd3SlI0ZTA?oc=5"
         }
       ],
       "keywords": [
-        "세계은행",
-        "네팔",
-        "경제성장률",
-        "대홍수",
-        "전망치 하향"
+        "이형일",
+        "기업 투자",
+        "정년 연장",
+        "경제단체",
+        "규제 완화"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261010-014/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261010-018/600/400"
     },
     {
-      "id": "news-20261010-015",
-      "headline": "대만 TSMC, AI 반도체 수요 폭증에 3분기 매출 50% 급증하며 역대 최대 기록",
+      "id": "news-20261010-019",
+      "headline": "TSMC, AI 반도체 특수에 3분기 매출 50% 급증…분기 기준 역대 최대 달성",
       "category": "경제",
       "categories": [
         "경제",
@@ -534,7 +667,7 @@
         "글로벌"
       ],
       "summary": {
-        "overview": "세계 최대 반도체 위탁생산 기업인 대만 TSMC가 인공지능(AI) 반도체 수요 증가에 힘입어 올해 3분기 역대 최대 매출을 달성했습니다. 글로벌 IT 기업들의 AI 투자 확대가 이어지면서 고성능 반도체 주문이 대폭 늘어난 영향입니다.\n\nTSMC의 3분기 매출은 지난해 같은 기간과 비교해 약 50% 급증하며 시장 전망치를 뛰어넘었습니다. 엔비디아를 비롯한 주요 글로벌 고객사들의 첨단 공정 칩 발주가 실적 성장을 이끌었습니다.\n\n업계에서는 최첨단 미세 공정 기술을 확보한 TSMC의 실적 호조가 당분간 지속할 것으로 보고 있습니다. AI 시장의 가속화와 함께 글로벌 반도체 공급망 전반의 매출 성장세도 이어질 전망입니다."
+        "overview": "세계 최대 반도체 위탁생산(파운드리) 기업인 대만 TSMC가 인공지능(AI) 열풍에 힘입어 분기 기준 역대 최대 매출을 갈아치웠습니다. TSMC의 올해 3분기 매출은 지난해 같은 기간보다 약 50% 급증하며 시장의 기존 예상치를 크게 웃돌았습니다.\n\n이번 호실적은 엔비디아를 비롯한 글로벌 빅테크 기업들이 AI 서버용 가속기와 고성능 칩 주문을 대폭 늘린 결과입니다. 첨단 3나노미터와 5나노미터 공정에서 독보적인 제조 역량을 보유한 점이 매출 급증을 직접적으로 견인했습니다.\n\n범용 반도체 시장의 더딘 회복세 속에서도 고부가 AI 칩 수요는 견고한 확장세를 이어가고 있습니다. 주요 고객사의 물량 요청이 잇따르면서 첨단 패키징 라인이 풀가동을 지속해 하반기 성장 동력도 뚜렷하게 유지될 전망입니다."
       },
       "publishers": [
         {
@@ -551,168 +684,42 @@
       "keywords": [
         "TSMC",
         "AI 반도체",
+        "파운드리",
         "3분기 매출",
-        "대만",
-        "파운드리"
+        "어닝 서프라이즈"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261010-015/600/400"
-    },
-    {
-      "id": "news-20261010-016",
-      "headline": "美, 韓에 정보·방첩 분야 동맹 기준 준수 요구…대북 정보공유 차질 여파",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "미국 행정부가 한국을 향해 정보 및 방첩 분야에서 오랫동안 유지해 온 동맹의 기준을 준수해야 한다는 입장을 표명했습니다. 미 행정부 고위 당국자는 양국 정보 협력 상황에 대한 질의에 한국이 수십 년간 이어져 온 양국 동맹의 기준을 지키길 기대한다고 응답했습니다. 이번 발언은 최근 불거진 한미 당국 간 정보 공유 제한과 협력 차질 논란에 대해 미국 측이 원칙 준수를 강조한 것으로 풀이됩니다.\n\n양국 간 정보 협력 균열은 지난 3월 정동영 통일부 장관이 북한 평안북도 구성의 우라늄 농축시설을 공개 언급하면서 시작됐습니다. 해당 시설은 미국이 독자적 정보자산을 동원해 파악한 민감 구역으로, 미국은 정보 유출에 불만을 제기하며 대북 정보 공유를 제한해 온 것으로 전해졌습니다. 진영승 합참의장 역시 국정감사에서 일부 핵심 정보 공유가 제한되고 있음을 인정하며 조속한 해소가 필요하다고 밝혔습니다.\n\n이외에도 지난 6월 열린 북한 사이버 위협 대응 한미일 실무그룹 회의에서 미국 측 요구로 국가정보원이 제외된 사실이 뒤늦게 확인됐습니다. 이에 대해 국정원은 수개월 전 일시적인 오해가 있었으나 이미 해소된 사안이라고 해명했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "美 \"韓, 정보·방첩 분야서 수십년 된 동맹 기준 준수 기대\"",
-          "url": "https://www.yna.co.kr/view/AKR20261010009600071"
-        },
-        {
-          "name": "한겨레",
-          "title": "한미 정보 공유 갈등 속…미 고위 “한국, 정보·방첩 분야 동맹 기준 준수해야”",
-          "url": "https://www.hani.co.kr/arti/international/america/1281724.html"
-        }
-      ],
-      "keywords": [
-        "한미동맹",
-        "정보공유",
-        "방첩",
-        "대북정보",
-        "국가정보원"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/reuters/2026/10/10/PRU20261010091601009_P2.jpg"
-    },
-    {
-      "id": "news-20261010-017",
-      "headline": "나비 필라이 전 유엔 인권최고대표, 나치 법정서 국제범죄 피해자들에게 노벨평화상 헌정",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "나비 필라이 전 유엔 인권최고대표가 과거 나치 전범들을 단죄했던 유서 깊은 법정에서 국제범죄 피해자들을 기리는 메시지를 전했습니다. 필라이 전 대표는 과거 뉘른베르크 재판이 열렸던 600호 법정에서 연설하며, 자신이 받은 상과 영예를 전 세계 국제범죄 생존자들에게 헌정한다는 뜻을 밝혔습니다.\n\n그는 전쟁범죄와 반인도적 범죄, 집단학살 등 극심한 인권 침해 속에서도 살아남아 정의를 증언한 피해자들의 용기를 높이 평가했습니다. 아울러 국제사회가 불처벌의 관행을 끊어내고 가해자들에게 법적 책임을 묻는 정의의 원칙을 흔들림 없이 지켜나가야 한다고 강조했습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "필라이, 나치 법정서 “국제범죄 생존자에 노벨상 바쳐”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnQ3p3bkZzQkdkcjJsZndoNzVwbUtXRmNZMEdiQl85eFhfVFZSaTlOcUNNTjRpZExESlVQaGZfcG5GbGwwYTM4N0RQaWd0TWo5TkJEWWw5V3lpbW8?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "필라이, 나치 법정에서 \"국제범죄 생존자들에게 노벨상 바쳐\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pc19RTWJVdnFoZnlzSHVfbDVXTzJRdlNMUk96UkR1Z3czRUJNbmJzSkJVUE1BUmdWUHVCanFWV3V0OHJ2MjJZVjR3TlR0T1dITzdJQ3VHYXc5bFZ1bFE?oc=5"
-        }
-      ],
-      "keywords": [
-        "나비 필라이",
-        "유엔 인권최고대표",
-        "나치 법정",
-        "국제범죄",
-        "생존자"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261010-017/600/400"
-    },
-    {
-      "id": "news-20261010-018",
-      "headline": "주식 투자로 수천억에서 수조 원 수익 거둔 기업인들의 과감한 투자 행보",
-      "category": "비즈니스",
-      "categories": [
-        "비즈니스",
-        "경제"
-      ],
-      "summary": {
-        "overview": "국내 주요 기업인들과 기업들이 전략적 주식 투자로 거대한 수익을 올리고 있습니다. 최규옥 전 오스템임플란트 회장은 주성엔지니어링 주식을 2만 원대에 집중적으로 매집해 2대 주주로 올라선 후 10배에 달하는 수익을 달성했습니다.\n\n곽동신 한미반도체 부회장은 반도체 장비업체 HPSP 투자로 545% 수익률을 기록했습니다. KCC 역시 삼성물산 지분 투자로 약 4조 원을 벌어들이며 성공적인 투자 결실을 맺었습니다.\n\n오너 경영인들의 이 같은 선제적이고 과감한 투자는 본업 성과를 넘어 막대한 금융 수익으로 이어졌습니다. 이들의 명확한 안목과 결단력은 기업 자산 가치를 크게 끌어올린 모범 사례로 평가받습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "[단독] “1100억으로 1.2조 수익 냈습니다”…주식으로 대박낸 회장님",
-          "url": "https://www.mk.co.kr/news/stock/12172464"
-        },
-        {
-          "name": "매일경제",
-          "title": "\"1100억 투자해 1.2조 수익\"… 회장님은 주식 고수",
-          "url": "https://www.mk.co.kr/news/stock/12172429"
-        }
-      ],
-      "keywords": [
-        "주식투자",
-        "최규옥",
-        "주성엔지니어링",
-        "곽동신",
-        "KCC"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/09/news-g.v1.20261009.91156caa8b454b68bcdba101b4950f6c_R.jpg"
-    },
-    {
-      "id": "news-20261010-019",
-      "headline": "최태원 SK 회장, 호남 반도체 클러스터 부지 점검… \"가장 빠른 속도로 건설\"",
-      "category": "비즈니스",
-      "categories": [
-        "비즈니스",
-        "IT/과학",
-        "경제"
-      ],
-      "summary": {
-        "overview": "최태원 SK그룹 회장이 전남광주에 추진 중인 호남 반도체 클러스터 예정 부지를 찾아 현장 점검에 나섰습니다. 최 회장은 현장에서 여건이 갖춰지는 대로 가장 빠른 속도로 공장을 건설하겠다는 뜻을 밝혔습니다.\n\n이번 방문은 지난 6월 사업 계획을 처음 발표한 이후 이루어진 첫 현장 일정입니다. 최 회장은 민형배 전남광주시장과 함께 약 248만 평 규모의 부지를 둘러보며 구체적인 사업 방향을 살펴봤습니다.\n\n현재 계획상 호남 클러스터는 용인 반도체 클러스터의 3분의 2 규모이지만, 부지가 추가로 확보되면 사업 규모가 더 커질 수 있다고 덧붙였습니다. 최 회장은 급증하는 반도체 수요에 대응하려면 용인 클러스터 완공을 앞당기는 것만으로는 부족하다며 적극적인 투자 의지를 나타냈습니다."
-      },
-      "publishers": [
-        {
-          "name": "동아일보",
-          "title": "광주 팹 부지 찾은 최태원 “가장 빠른 속도로 건설”",
-          "url": "https://www.donga.com/news/Economy/article/all/20261009/134816843/2"
-        },
-        {
-          "name": "동아일보",
-          "title": "광주 팹 회의론에 직접 나선 최태원 “용인 3분의 2 크기 계획”",
-          "url": "https://www.donga.com/news/Economy/article/all/20261009/134816652/2"
-        }
-      ],
-      "keywords": [
-        "최태원",
-        "SK하이닉스",
-        "호남 반도체 클러스터",
-        "광주 팹",
-        "반도체 투자"
-      ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/09/134816937.1.jpg"
+      "image_url": "https://picsum.photos/seed/news-20261010-019/600/400"
     },
     {
       "id": "news-20261010-020",
-      "headline": "서울 동대문구 답십리청솔우성 전용 114㎡, 12억 1000만 원에 3년 내 최고가 거래",
+      "headline": "엔비디아 넘은 분기 이익 기록한 삼성전자, 실적 대비 주가 향방 분석",
       "category": "경제",
       "categories": [
-        "IT/과학",
-        "경제"
+        "경제",
+        "비즈니스",
+        "IT/과학"
       ],
       "summary": {
-        "overview": "국토교통부 실거래가 공개시스템에 따르면 서울 동대문구 답십리동에 위치한 '답십리청솔우성' 아파트 전용면적 114.76㎡가 12억 1,000만 원에 거래되었습니다. 이번 거래는 최근 3년 동안 해당 단지에서 동일 면적이 기록한 매매가 중 가장 높은 수준입니다.\n\n최근 서울 부동산 시장의 혼조세 속에서도 중대형 면적을 선호하는 수요층의 매수세가 이번 신고가 경신에 영향을 준 것으로 파악됩니다. 실수요자 중심의 매수세가 유입되면서 단지 내 매물 호가와 거래 가격 모두 상승 흐름을 보이고 있습니다. 인근 지역의 교통망 개선과 주거 환경 정비 사업에 대한 기대감이 이번 거래 가격에 고스란히 반영되었다는 평가가 나옵니다."
+        "overview": "삼성전자가 글로벌 인공지능(AI) 반도체 대장주인 엔비디아를 뛰어넘는 대규모 분기 실적을 거두며 시장의 눈길을 끌었습니다. 메모리 반도체 업황 개선과 탄탄한 수익성을 바탕으로 기록적인 이익을 달성했으나, 주가 흐름은 실적 지표와 다소 엇갈리는 양상을 나타내고 있습니다.\n\n글로벌 빅테크 기업들의 AI 데이터센터 투자 확대로 메모리 수요가 살아나면서 전반적인 실적 반등을 이끌었습니다. 고대역폭 메모리(HBM) 공급망 경쟁이 치열한 상황에서 분기 이익 성과가 주가 상승 동력으로 충분히 이어질지 투자자들의 관심이 쏠립니다.\n\n시장에서는 단기적인 이익 지표를 넘어 차세대 기술 경쟁력과 주요 고객사 납품 성과를 주가 반등의 핵심 요인으로 보고 있습니다. 기술 격차 유지와 미래 성장성 입증 여부가 향후 주가 흐름을 가를 쟁점으로 꼽힙니다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "동대문구 답십리청솔우성 114.76㎡ 12억 1천만원… 최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12172180"
+          "name": "MBC 뉴스",
+          "title": "[경제쏙] 엔비디아도 못 한 분기 이익 100조 삼성전자가 했다‥주가는?",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GVDl0WGNFb0JJRnRxLTNzcU84aGpxTEh4ejJmTlVPQXpuTXVrMkZqVmFIRlh4NV8yV2Q2MXlXNHBOaE5CWVVBVVk1bTE3NVkweGIxNzh6WnFQcS1YQks2T0V2STJUejhrTjd0SjdoQW4wLWpLY0FHbtIBeEFVX3lxTE5Oc0sycmU1a194UFJwMzFPdU1OWm1XdGxUNy0wTGNxUkp0c2U1QzFZamc5TEpFV0ZtdDA4N0U5Wlh0VTlIOXZ6ZUg1T19fMDh1aDdZR3dPZnNUc2l5Nm44cHJsM1Y3V25fU3hkZEd4d2lNUUJjQ1prQQ?oc=5"
         },
         {
-          "name": "매일경제",
-          "title": "동대문구 이문동 중앙하이츠빌 84.81㎡, 10억 9500만원에 거래… 최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12172181"
+          "name": "세계일보",
+          "title": "‘100조 영업익’에도 삼성전자 주가 발목잡은 AI거품론",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BR1FQdHNnZnMtMlRJekxTcEtKNkU0N2oyNmtRYkNYNVB1U0RvRW5XSmFORi0yaXI2anhEZXowVHVfUllzV0twMnBtS0VPZE4tWXgxZEtqR1Q?oc=5"
         }
       ],
       "keywords": [
-        "답십리청솔우성",
-        "신고가",
-        "동대문구",
-        "실거래가",
-        "아파트매매"
+        "삼성전자",
+        "엔비디아",
+        "분기 실적",
+        "반도체",
+        "주가"
       ],
       "image_url": "https://picsum.photos/seed/news-20261010-020/600/400"
     }
