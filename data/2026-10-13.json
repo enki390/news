@@ -1,0 +1,707 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T11:17:53.306883+09:00",
+  "total_count": 20,
+  "news_items": [
+    {
+      "id": "news-20261013-001",
+      "headline": "코스피 6000선 붕괴·사이드카 발동…중국 반도체 추격 우려에 대형주 폭락",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "코스피가 급락세를 보이며 두 달 가까이 지켜온 6000선 아래로 내려앉았습니다. 지수가 5000선으로 떨어진 것은 서킷 브레이커가 발동됐던 지난 7월 말 이후 처음입니다. 개장 직후 낙폭을 키운 코스피200선물 지수가 5% 이상 하락하면서 프로그램 매도호가 효력을 일시 정지하는 매도 사이드카가 발동됐습니다.\n\n지수 급락은 유가증권시장 시가총액 상위권을 차지하는 반도체 대형주들이 주도했습니다. 삼성전자가 7% 넘게 내렸고 SK하이닉스는 9% 이상 폭락했으며, 관련 연동 종목들도 일제히 큰 폭의 하락세를 기록했습니다.\n\n시장에서는 중국 메모리 반도체 기업 창신메모리(CXMT)의 기술 진전 발표가 투자 심리를 크게 위축시킨 것으로 보고 있습니다. 창신메모리가 차세대 서버용 D램 출시 계획을 밝히면서, 향후 글로벌 메모리 공급 확대와 국내 주요 기업들의 시장 점유율 하락에 대한 우려가 확산된 결과입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "[속보] 코스피 6000선 무너져…‘폭락의 달’ 7월 수준 복귀",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1282081.html"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "[속보] 코스피, 6%대 급락에 6,000선 아래로",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mS3FnSVpVLS10N3ZKb2NLZFBzcWNYaTB0cTNybUxiVW5KeHRickpYbF9vZzd2WEpBRmRDYzhBcnVuN0tqQ1FNTUJ4a2FPNzVWVUVjekdNaHM2Z1d1U3FLUmRRUUdlNmVPQy1hMFhpT2FYRlRD0gF0QVVfeXFMT0p3NU5DZzFVS042TEZRcFp0SGNYdlVXMW9MdUNSdFVnZkFjaThHbkFSblpVWlVpYW5kay05bVlNcEgwWHhVWFlDZkVOaEVrZGd4VTR5R2VvTGdkYzg5ODcxV0JBYUpVdVg0VXl1dnc1SGZRUk0?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "[스타트 경제] 코스피 6,300선 후퇴...107조 번 삼전 외국인 지분, 금융위기 수준",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IN1hjQXJqNjIxbTRTSTY1SXY0d3NfQTJWQ2dSaVJXUldVR0VQNGRScldpRVNwaDl6anpPcFdkRWpUMmQwalZfNzBHVmd6dVlzeGdFSUZ3a1BhWGJiX19GM1l4X09vUkZaTTYzOUkyWXlERXlRMEE?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "[속보] 코스피, 6000선도 무너졌다…삼전·하이닉스 동반 급락",
+          "url": "https://www.mk.co.kr/news/stock/12174245"
+        },
+        {
+          "name": "매일경제",
+          "title": "[속보] 코스피, 장중 4%대 급락…매도 사이드카 발동",
+          "url": "https://www.mk.co.kr/news/stock/12174186"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "[속보] 코스피, 장중 4%대 급락‥두 달 만에 '매도 사이드카'",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pWkJ3X3R3RDJSVVpaOVU5OXVsNV9ZWGFhU1kzRTgwMDVvR3RMNEJoazlEME92QnRQMlBrTlpSc1dGOWJJZUdmTXJPNmhDWUZRMVNrT3QtbWVGMzAzUFRlQU1fZUxWbWdHdE9RemJsMGhCcjFS0gF0QVVfeXFMUGQ3QTctNWRfT240UVVaeGFEUTVYMDg2YmRCY01ZNlUxRnYyc041VlhTazM0aFFEZy1tLXdFYkxTdXktTmZ2RElPSGxESDJVeXpvS1Qtb2Rzd0p4Mlo5S2xreEI0NmtDWWNYQk1iemFkTXB6WHE?oc=5"
+        }
+      ],
+      "keywords": [
+        "코스피",
+        "사이드카",
+        "삼성전자",
+        "SK하이닉스",
+        "창신메모리"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1013/53_17918533104622_20261013500838.webp"
+    },
+    {
+      "id": "news-20261013-002",
+      "headline": "북극항로 상업화 대비 본격화…부산을 해상 물류 핵심 허브로 육성",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "이 대통령이 북극항로의 상업적 운항이 본격화될 경우 막대한 경제적 파급효과가 발생할 것이라고 밝혔습니다. 새로운 해상 물류길 개척에 선제 대응해 국가 물류 경쟁력을 한 단계 끌어올리겠다는 구상입니다.\n\n정부는 북극항로 개방 흐름에 맞춰 부산을 글로벌 해상 교통의 중심 거점으로 집중 육성할 방침입니다. 기존 수에즈 운하 경로 대비 운항 거리와 소요 시간을 대폭 줄일 수 있는 만큼, 부산항의 처리 역량과 물류 인프라를 대대적으로 확충합니다.\n\n동북아시아와 유럽을 잇는 지리적 장점을 바탕으로 환적 화물 유치와 항만 배후단지 연계 산업 육성에도 속도를 냅니다. 해운·조선 분야 전반의 부가가치를 극대화해 부산을 세계적인 복합 물류 관문으로 완성하겠다는 전략입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "이 대통령 “북극항로 상업화 시 엄청난 경제효과…부산 핵심 허브로 키워야”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQ2ZfcWhla2dhSWFneHNZbDhiU2FsdjlTRjRLcjBhWDZjQ3g5LVFzcmN3R0lBZ051TldvNS00YW10U3dOMDhLRTlvSTA3RHNiOWlOSGFNOTdITzA?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "IMF 총재 \"AI 투자, 세계 경제 3% 성장 떠받치는 핵심 동력\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96cnlpX3pRVEdMUHhfblBHUUdyN3J5emZaV09Id01BUmJHbVJzRGxwM1RTeTI2VjZ2X0t1RG9LamYwcjdlX2xNRlRWaGV6LWRyTXg4a0l3UnhQLWc3ZGxqckRnTTBzd0M3U2k3blozLW51bEZB0gF0QVVfeXFMTk5RQjZpUzlsY19JY0hSdGx3M1VOY2RUMWlzU0RBaDhyNUpSeEs0QVE4ZGtwc3FSbE84b293QkJ5YzdQWVJWdThRVWkwUVpGRmJnYkdwRVRxQ0pCekNZNTVuMk5GdHN3aW1GT3NkdTBzbUZqdkg?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "BTS 페루 첫 공연에 15만 명 모여‥\"251억 경제효과\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04dlFZaHdrN0F5VDQ5Z0xzM0xZQjJUWlBOTnpLMF9JMVdZQlYyYzVxdTBwM0dERkQtb25qcnpubUQ0TnBoMXV2ZHZfU1E4MXcwNzFwd3UzNWtUOE04d1RWbWg2b09IbmRKaDRVSEZNTWVXNnc20gF0QVVfeXFMTXBMMmQ1UTU5Y043ejJRYzNFMzlJR1NMSmxzVlZkLVQyQllRS0VrcHNxN1ltYjlnUWNEbVFzMDF3WnJxTENKLXZ5clpiVjZOOXBtN0MycmNBclNwalgwcTN1TTZ2X0F4RGpnQ2g4cGFLYWtSUnU?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "\"시장의 기대가 경제정책 효과 좌우\" 미 경제학자 2명 노벨상",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lOUMxMDZxTWJJVWxnTzlPTmZzYVlGbTd5YzlKRm1JZVlma0k1X2RjX0ZWdG85ZDJtN0tlTm1VaGdCVFNvQmVibnJScE11eVZNTFQxTkM2RHI1cFlPQzloTThnb2ZNYjM0Q216SEVGeExSOVRrekE?oc=5"
+        }
+      ],
+      "keywords": [
+        "북극항로",
+        "부산항",
+        "해운물류",
+        "물류허브",
+        "경제효과"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261013-002/600/400"
+    },
+    {
+      "id": "news-20261013-003",
+      "headline": "노벨경제학상에 거시경제 안정성 연구한 로버트 홀·마이클 우드퍼드 선정",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "올해 노벨경제학상 수상자로 거시경제 안정성을 연구해 온 학자들이 이름을 올렸습니다.\n\n스웨덴 왕립과학원 노벨위원회는 거시경제 변동과 통화정책 분야에서 이론적 토대를 마련한 로버트 홀 스탠퍼드대 교수와 마이클 우드퍼드 컬럼비아대 교수를 공동 수상자로 선정했습니다.\n\n두 학자는 경기 변동 과정에서 정부와 중앙은행이 취해야 할 거시경제 정책의 방향성을 이론적으로 규명했습니다. 특히 인플레이션 안정화와 고용 유지 사이의 균형점을 제시하며 현대 통화정책 수립에 직접적인 지침을 제공했습니다.\n\n이번 수상 결정은 글로벌 복합 위기 속에서 각국 중앙은행의 정책 운용 기준이 다시 시험대에 오른 시점과 맞물려 발표됐습니다. 학계에서는 두 사람의 연구가 불확실성이 커진 거시경제 환경을 분석하는 기본 틀로 자리 잡았다고 평가합니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "노벨경제학상에 '거시경제 안정성' 홀·우드퍼드",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ncm5wWEtvRjgwZFZRdzR1aFBNOG13enRrM3ZFbk5nSlBHbkNKZHNwU3hVYXl5NXpIdXVkOXU0SG1sX0dqMkZ5UHFLWV9mVUd2Qy1sRU1KVzE2SmtoV1QzaDg4TGRCRnVrcjlXeVF5dS0zVmpu0gF0QVVfeXFMUERpMnVobGt2QUN0RW40ZGtnYXFDal93TlVNZ1UzMUdTdjRGLXl4T3hBUS1UVmdLRzNQNXhhWGZzUmFZbUxELXZ5bXRONFppQUUxeG9xdXMwTHRUT1JSemJGX0ZhRTRDQzZ4TWI4eTBDbFhHRnQ?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "'노벨경제학상' 우드퍼드 \"레버 당기듯 경제정책 운용해선 안 돼\"",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qYkNOLXBqa1BCeS12SGkwTk5qU2tVdHlvblhnNmpOVmczeWVkNGxkRTFDQmVIQ05Ca3E3ejdIV0h2T3ZxaWdPcWlKMEZXVURadUtOSGhqaDBmZWZybVY4bW4yelZyQ1o1QmRYYXcxdlZ3amFTZGc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "'노벨경제학상' 홀 \"흥미로운 질문이 이끄는 어디든 따라갔다\"",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53LUJEWC1zRGVQTXg4QzJTNkxDS09JaVpuYTZVU0VYMDZjaEhqNGZkRW8tRkp1ZGxCZEMtbzNFdGYtM3UyUzhBOEhhMFFQSHdsRjhFMEhEUllHSHRwTDIxSDFiTU5sUWlldE5rSWRLVk02ZEt4cWc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "노벨경제학상에 '거시경제 안정성' 홀·우드퍼드",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ubGJZTUx1enJDUjJJaVZMbTJxc1RwNm81RHRmSlo4QXEwUy10LUFBanRUMWg5dmw4dmwtLXRxNndNNkh1cGwySkc0eVV2MjFiMXdXcWZFQ1BMOG5DbEwyYmxaNjNMdjFqYVlzNGdqV1p5cUxtSmc?oc=5"
+        }
+      ],
+      "keywords": [
+        "노벨경제학상",
+        "거시경제 안정성",
+        "로버트 홀",
+        "마이클 우드퍼드",
+        "통화정책"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261013-003/600/400"
+    },
+    {
+      "id": "news-20261013-004",
+      "headline": "트럼프의 '에너지 휴전' 선언…우크라이나 타격 수단 묶고 러시아 편들기 논란",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 미국 대통령이 러시아와 우크라이나 간 '에너지 휴전'을 일방적으로 선언하면서 러시아의 손을 들어주고 있다는 비판이 제기되었습니다. 앞서 트럼프 대통령은 미국 내 경윳값을 안정시키기 위해 러시아산 경유 30만 톤 이상을 수입하기로 합의하며 국제사회의 대러 제재 기조를 뒤흔들었습니다.\n\n이어 트럼프 대통령은 양국이 에너지 기반 시설 공격을 중단하기로 합의했다고 발표하고, 볼로디미르 젤렌스키 우크라이나 대통령을 향해 러시아 정유시설 타격을 멈추지 않으면 지도부를 교체해야 할 것이라며 강하게 압박했습니다. 그러나 정유시설 타격은 우크라이나가 러시아의 전쟁 자금줄을 차단할 수 있는 사실상 유일한 핵심 수단이어서, 이를 중단할 경우 우크라이나만 일방적인 불이익을 떠안게 됩니다.\n\n에너지 시설 공격이 멈추더라도 러시아가 우크라이나의 곡물 수출 관문인 흑해 항만과 제철소 등 산업 기반 시설을 계속 타격할 수 있다는 점도 문제입니다. 전문가들은 미국의 경유 수입으로 약 40억 달러가 러시아로 유입되는 데다 우크라이나의 반격 카드마저 사라져 경제전의 승기가 러시아 쪽으로 크게 기울 수 있다고 경고하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "트럼프 에너지 휴전 선언은 우크라에 '차포 떼라' 압박",
+          "url": "https://www.yna.co.kr/view/AKR20261013062300009"
+        },
+        {
+          "name": "경향신문",
+          "title": "트럼프 경유딜에 러·우 종전 논의도 멈춰···“트럼프, 우크라에 크게 분노해 행동 예측 안 돼”",
+          "url": "https://www.khan.co.kr/article/202610131105001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "러, 트럼프 ‘에너지 휴전’ 발표에 “회담 진행 중”…우크라 공격은 지속",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1282075.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "다급한 트럼프 “러-우 에너지 휴전” 일방 발표…선거 부진에 또 무리수",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1282056.html"
+        }
+      ],
+      "keywords": [
+        "도널드 트럼프",
+        "에너지 휴전",
+        "러시아산 경유",
+        "우크라이나 전쟁",
+        "대러 제재"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/ap/2025/05/02/PAP20250502021401009_P2.jpg"
+    },
+    {
+      "id": "news-20261013-005",
+      "headline": "부산국제영화제 7일차, 다채로운 관객 참여 프로그램 진행",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "제29회 부산국제영화제가 개막 7일 차를 맞이하며 현장을 찾은 영화 팬들을 위한 다양한 관객 행사를 이어가고 있습니다.\n\n영화제 중반부에 접어든 해운대 영화의전당 일대에서는 감독과 배우들이 관객과 직접 소통하는 무대인사와 오픈토크가 활발히 펼쳐집니다.\n\n주요 상영작 관람에 이어 작품에 얽힌 이야기를 나누는 관객과의 대화(GV) 프로그램 역시 풍성하게 마련되어 영화제의 열기를 더하고 있습니다.\n\n야외 광장을 비롯한 행사장 곳곳에서는 일반 관람객이 참여할 수 있는 다채로운 문화 체험 부스와 부대 행사가 함께 진행됩니다.\n\n영화제 측은 남은 일정 동안에도 관객들의 참여를 이끌어내는 현장 소통 행사를 지속적으로 선보일 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "부산국제영화제 7일차…관객 행사 다채",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yRUc0WXUzdWpnYkxBcXFrM1cwekN2UXpkdEhoSFBEdUlfZUIwTUpJRVRGUTJFWjhERFZSMTVXTWo3a0F4WnVwcU80RW5VODlzZ3BQTUN4cjNHVExHTXo5d21oYlJsdw?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "부산국제영화제 오늘 개막…열흘간 영화의 바다",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WlktTHg0Z0pMLUh5bTh6VkJycUdMNnVWY0hrZkt0VXREMFM1ZzhHLUl5WjJMMTNOSkxVRmFWN0lFMkZJNUhYUWRoS3h0bDAzNVIwakFYclpFZjZkcXRwWXFoNVVqUQ?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "[문화연예 플러스] '제31회 부산국제영화제'‥뜨거운 흥행 열기",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sNVd3MkoySFVrcElUaUJHb0FlVWMtc1V4bkRTMXplTnVmS1h5RVRuU01vVURkZ0doUnlLYmdIeTlvSzlueFlrSTVRUWVLZFFNdEVBLTItRXJtdER0YWczUFFsdlN2cURpTW5yRXh1UjhvRHNLM2o3cjB30gF6QVVfeXFMTWcxeXBuWk9UUFplWlkzb0Nxc19XRGhZVXFSWjZvYTJLcXV3VXkxNUFwNGluRlBkRjd6aWRPQ3ZxZHlxa1hfa0phNjJMM3RUeHlpanp3MVpWUUxkZzFaTmo3amwxaHVfQTh3aXVlMGQ5YmpqUTBCX3RlZUE?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국힘 TK의원들 \"암살자(들) 상영중단·국제영화제 철회해야\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11UGMxa0lsMmszQzB2U19wVWpFRkNMck0zU1VJdThvdk9YamEwRE5lakU1SkdaRS1Vd3hZeVZoMlNSblp3NF9nc3pDZTFITTZrWmZZR0Y4LXlJRnQ4ZFhhdUhLSDZvTUZ4NHp6OVR6M2ZmZnkzdk42Y9IBeEFVX3lxTE5iaS1jWW5nTkRWTER5Y2p2QXBxSVQyU0pkUUIxY1lSVEZydHo2SzVUSlJjNFVXRWlLVWF5R2d5X2ZTMmRheVhiM2RCZDhGeUx6VDdUSk5VUEJUbmdPQmNId2syMkpseGRod2RHNkg5NVI1UUhqUWZRVA?oc=5"
+        }
+      ],
+      "keywords": [
+        "부산국제영화제",
+        "영화의전당",
+        "관객과의대화",
+        "오픈토크",
+        "영화제행사"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261013-005/600/400"
+    },
+    {
+      "id": "news-20261013-006",
+      "headline": "병무청, 예술요원 병역특례 기준 대폭 상향 추진…국제콩쿠르 1위만 인정",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "병무청이 예술 분야 대체복무 편입 기준을 대폭 강화하는 제도 개선을 추진합니다.\n\n그동안 클래식 음악이나 무용 등 순수예술 분야 국제콩쿠르에서 2위 이상 입상자에게 주어지던 예술요원 편입 자격을 1위 수상자로 한정하는 방안이 핵심입니다.\n\n병역 자원이 급격히 줄어드는 상황에서 일반 장병과의 형평성을 확보하려는 조치입니다. 제도가 개편되면 국제대회 입상만으로 병역 혜택을 받던 문턱이 한층 높아집니다.\n\n관계 부처는 인정 대상 대회 수를 정비하고 복무 요건을 점검하는 등 세부 규정 개정 절차를 밟을 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "병무청 “예술 병역특례기준 상향 추진…국제콩쿠르 2위→1위”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uYldCMzAwc0pRa2VlbVd1UmJTM3o4dHViV19mLWp5NWtrYUZCUFpNeHYwbkhhMndVdDZ6bE05RVc0aTFaY09fcmRtQURpRlZaUVJhYUtTbFlqc3M?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "병무청장 \"병역특례, 국제대회 1위만 인정\"",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95SWVHWTZURVE3X1NEYU5uTGtjTmw2VndTbU12N01Ndnhqc2Fua2ZvZXBXZ2hiRWlTTjRvNGdGUENvMHJUbUFiQm40Z2swb1hHSFFzckN4c1hnTnd2ME4yaTZ2LWZudVQ0Tnh1RkhLVnNSRDVWUWZ2a1N30gF6QVVfeXFMTk92a2FtNzFleW94ZFhJeDloU1FoZEh2XzFvX3MyZjdRWEFJaWZxUmoxcnBjM0xnTWRzN3FWMk9vRl9fM0V4VmFMRWVCQ1Jqb3VHeXdzZkN0UVBObVpQSWtOdFdMRl9JVDNPNHo0UGFmTUhfWFJyMWU3Rmc?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "병무청, 예술 병역특례기준 상향 추진‥\"국제콩쿠르 1위만\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YRlM3MEYzbUNDNDVNalJXVlR2eVlNNlF0MF9zMDd2RXRIRE9CUnhQUExNSDFhMTVjR2NRdDhSV00yZlllSGlMR1loM2hWRXRsRE9XZk5HU2RyeEt5NzZSNjV0cTlEVGREc01uUmN6M0t0NTRQQ1dMTNIBeEFVX3lxTE92ZEM4V2tjd29haHQxN3p3RWF6Z05ZMzJYZy1mX2xzLXJjaVo3ZTRPUUFiYTdoYnlkOVJyLVZueXJRVEs5anQyREFJdnFnUkFIVENtakFDc3FrZXZoYlNnRldkUXg2ZTdiWkJGZWJDQ0ZjWnFTTjVFdw?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "병무청장, 병역 특례 논란에 \"유감\"‥예술 특례 '국제대회 1위'로 제한",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hb25pUUdRdTdzRzhOQzZ2a1ZqenVZTG9JR0JoQjZHR3o0TUloWlZXYUxubmpkUVhSenFYcFg2QzRDV0d5NkVuM1NqdmpZOVF5cnNXbUxEVmN1dnIxYW9BMWxUM2lWYzg0YWpYTWNJTVM5MFJfd0dadNIBeEFVX3lxTFBIazZPTWxBQ0Vvdk1QS0U5MVVXZEdQelpmQmhnTWxKMzRMenZIbDFfZjN5N1dWTUNpY1RqMnpyTEptcFJuLWNHOXZRUkUyMmx0SzAyZDZvb1J1Z3F0X0g2RDI3bFM2ekVLUXh2Qm5sMk5FUW5wN1NOaQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "병무청",
+        "병역특례",
+        "예술요원",
+        "국제콩쿠르",
+        "대체복무"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261013-006/600/400"
+    },
+    {
+      "id": "news-20261013-007",
+      "headline": "증시 하락세 속 ‘호남 반도체’ 테마주 급등…실체 없는 과열 주의보",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "국내 증시 시가총액 상위 종목들이 장 초반 일제히 급락세를 보이는 가운데, 이른바 ‘호남 반도체 클러스터’ 테마주들이 나홀로 강세를 보이고 있습니다.\n\n대표적으로 금호전기는 전날 상한가를 기록한 데 이어 장 초반 25% 넘게 급등하며 매수세를 끌어모았습니다.\n\n지수 전반이 하락 압력을 받는 상황에서 특정 정책 이슈나 입지 관련 재료를 중심으로 단기 수급이 몰리는 양상입니다.\n\n시장에서는 기업 본연의 실적이나 사업 연관성이 뚜렷하지 않은 테마성 과열 현상에 대해 신중한 접근이 필요하다는 지적이 나옵니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "주가 급락 속 ‘호남 반도체’ 테마주만 활개…실체 없는 급등 ‘주의보’",
+          "url": "https://www.mk.co.kr/news/stock/12174291"
+        },
+        {
+          "name": "매일경제",
+          "title": "호남 반도체 테마株 ‘나홀로 급등’…삼전닉스 하락세와 대조",
+          "url": "https://www.mk.co.kr/news/stock/12174254"
+        }
+      ],
+      "keywords": [
+        "호남 반도체",
+        "테마주",
+        "금호전기",
+        "증시 하락",
+        "변동성"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.6399655f1b904d20a2f62d3d0a53c163_R.jpg"
+    },
+    {
+      "id": "news-20261013-008",
+      "headline": "신케인스주의 거시모델 정립한 로버트 홀·마이클 우드퍼드, 노벨경제학상 공동 수상",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "스웨덴 왕립과학원 노벨위원회는 거시경제 안정화 정책에 미시적 기초를 세운 로버트 어니스트 홀 스탠퍼드대 교수와 마이클 우드퍼드 컬럼비아대 교수를 노벨 경제학상 수상자로 선정했습니다. 위원회는 두 학자가 경제의 급격한 과열과 침체를 완화하고 효과적인 통화·재정 정책을 펼칠 수 있는 새로운 거시경제 모델을 구축해 경기 변동폭을 줄였다고 평가했습니다.\n\n과거 전통적 거시경제학은 단순 지표 간 상관관계에만 의존해 1970년대 오일쇼크로 촉발된 스태그플레이션을 설명하지 못했습니다. 반면 두 수상자는 가계와 기업 등 개별 경제주체가 미래를 내다보고 의사결정을 내린다는 미시적 기초를 토대로 새로운 모델을 설계했습니다. 홀 교수는 가계 소비가 현재 소득뿐 아니라 미래 소득에 대한 기대에 의해 좌우된다는 점을 규명했고, 우드퍼드 교수는 기업이 가격을 조정할 때 미래 물가 전망을 반영한다는 점을 밝혔습니다.\n\n이들의 연구는 정부와 중앙은행이 시장과 투명하게 소통하는 '포워드 가이던스'의 이론적 토대가 되었습니다. 중앙은행이 정책 방향을 사전에 제시하는 것만으로도 시장의 기대를 조정해 물가와 경기를 안정화할 수 있음을 입증하며 현대 거시경제 정책의 핵심 틀을 마련했습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "노벨경제학상 미 로버트 홀·마이클 우드퍼드…새 케인스주의 모델 구축",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282051.html"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "노벨경제학상 우드퍼드 “시장과 당국 간 소통해야”…수상날도 시험 감독",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RRFczb3pIMlh1cGZseGVlcHFZaXgwa1ZaWWJEZGZ4SjlZMlNBeExQNTl0NU95QW1yamNfTmRVazZGamF2V04zZWhBWWtZcWpjQUkxUHJRRGJwXzA?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "노벨경제학상에 ‘거시경제 안정성’ 홀·우드퍼드",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMbFY1aTBvSTdBQlZaVGF6bVZwT0lBdW1kcjFoQmRaNXVRRXZYTW1tb1l4dmE5TnllMUZsNUpvdUFYelpFZUVTR2pqVlpfRUtNYkJJQTZadHozd0k?oc=5"
+        }
+      ],
+      "keywords": [
+        "노벨경제학상",
+        "로버트 홀",
+        "마이클 우드퍼드",
+        "신케인스주의",
+        "포워드 가이던스"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1012/53_17918064892785_20261012503405.webp"
+    },
+    {
+      "id": "news-20261013-009",
+      "headline": "쏠레어파트너스·일본 퀘스트리, 1천억원 규모 한일 공동 콘텐츠 펀드 조성 추진",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "국내 콘텐츠 전문 투자사 쏠레어파트너스가 일본 엔터테인먼트 금융기업 퀘스트리와 손잡고 1천억원 규모의 한일 공동 콘텐츠 펀드 조성을 추진합니다. 양사는 부산에서 공동 펀드 조성을 위한 업무협약을 맺고 한국과 일본에서 각각 500억원씩 출자받는 방안을 추진하기로 합의했습니다.\n\n이번 협력은 한국의 콘텐츠 투자 노하우와 일본의 금융 구조 설계 역량을 결합해 영화, 드라마, 애니메이션 등 양국 콘텐츠와 지식재산권(IP)의 글로벌 진출을 지원하고자 마련됐습니다. 두 회사는 펀드를 관리하고 운영하는 공동 업무집행조합원(Co-GP)을 맡아 구체적인 투자 대상과 운용 구조 협의를 이어갈 계획입니다.\n\n쏠레어파트너스는 영화 '기생충', '서울의 봄', '파묘' 등의 제작 투자에 참여한 기업이며, 퀘스트리는 일본 콘텐츠 분야에서 외부 투자 구조를 설계하고 자문하는 엔터테인먼트 금융사입니다. 양사는 이번 펀드를 통해 양국 창작 생태계에 안정적인 제작 자금을 공급하고 문화 교류를 넓혀갈 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "쏠레어파트너스, 1천억원 규모 한일 콘텐츠 펀드 조성 추진",
+          "url": "https://www.yna.co.kr/view/AKR20261013069300005"
+        },
+        {
+          "name": "YTN",
+          "title": "오산시, '김창준 글로벌 리더십 공간' 조성 추진",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfZjVFbTctRzMzOGdlcnJ5ZU1VZjc0ajI0dkxhcFNFX2hFemlOX2V0SGEycmlsNzcybnpkdzdxUEwzYjBkNnh0LW5rNXdXbHdsR3JQRFVaUDJ6OFFJQlE?oc=5"
+        }
+      ],
+      "keywords": [
+        "쏠레어파트너스",
+        "퀘스트리",
+        "콘텐츠펀드",
+        "지식재산권",
+        "한일합작"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013069300005_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261013-010",
+      "headline": "해킹 위협 고조에 AI 사이버보안 ETF 한 달 수익률 1위 기록",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "인공지능(AI) 기반 사이버보안 상장지수펀드(ETF)가 최근 한 달간 전체 ETF 시장에서 수익률 1위를 차지했습니다. 하락장에 베팅하는 인버스 2X(곱버스) 상품의 성과까지 뛰어넘으며 가파른 상승세를 나타냈습니다.\n\n시중은행의 보안망마저 위협받는 해킹 사고가 잇따르면서 금융권을 비롯한 산업계 전반에 걸쳐 보안 위기의식이 크게 높아졌습니다. 고도화된 AI 기술을 악용한 해킹 공격이 사회 전 영역으로 확산하자 보안 시스템 구축 수요가 급증했고, 관련 기업들의 가치가 빠르게 재평가받고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "곱버스도 제친 괴력의 ETF…한달 수익률 1위 AI사이버보안",
+          "url": "https://www.mk.co.kr/news/stock/12174290"
+        }
+      ],
+      "keywords": [
+        "사이버보안",
+        "ETF",
+        "해킹",
+        "인공지능",
+        "수익률"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.ede4e9bc118a4143b2a4fceed5c44eda_R.png"
+    },
+    {
+      "id": "news-20261013-011",
+      "headline": "이성훈 LH 사장의 잇따른 발언 논란, 서민 대출 축소 이어 부동산 매수 경고까지",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "이성훈 한국토지주택공사(LH) 사장이 부동산 시장을 둘러싸고 잇따라 내놓은 공개 발언이 시장 안팎에서 거센 논란을 빚고 있습니다.\n\n이 사장은 최근 무주택 서민을 대상으로 한 대출 규제를 강화해야 한다는 입장을 밝힌 데 이어, 국정감사 자리에서도 현재 시점에 주택을 매수하는 것은 손해라는 취지의 발언을 내놓았습니다. 공공주택 공급과 서민 주거 안정을 총괄하는 공기업 수장으로서 부적절한 시장 개입성 발언을 거듭하고 있다는 비판이 제기됩니다.\n\n공공 주거 정책을 책임지는 기관장으로서 신중한 태도를 취하기보다 서민층의 자금 조달 여건을 압박하고 시장 불안을 자극하는 발언을 이어가면서 향후 정책 신뢰도에도 부정적인 파장이 미칠 것으로 보입니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“서민 대출 줄여라” 소신 밝히더니…이성훈 LH 사장 “지금 집 사면 손해”",
+          "url": "https://www.mk.co.kr/news/realestate/12174288"
+        }
+      ],
+      "keywords": [
+        "LH",
+        "이성훈",
+        "부동산",
+        "서민 대출",
+        "국정감사"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.803c1da1aed743b78540b3b13bd62f6c_R.png"
+    },
+    {
+      "id": "news-20261013-012",
+      "headline": "증시 불안 속 초고수 선택은 SK스퀘어…SK하이닉스 팔고 모회사 담았다",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "13일 오전 코스피 6000선이 무너지는 등 증시 변동성이 커진 상황에서 주식 투자 수익률 상위 1% 초고수들은 SK스퀘어를 가장 많이 순매수한 것으로 나타났습니다. SK스퀘어에 이어 삼성SDI, 삼성증권, 삼성전자우, 에스티아이 등이 순매수 상위 목록에 올랐습니다.\n\nSK스퀘어는 SK하이닉스 지분 약 20%를 보유한 모회사로, 기업가치가 SK하이닉스 주가와 밀접하게 연동되는 특성을 갖습니다. 이날 SK스퀘어가 전 거래일 대비 8% 넘게 하락하며 SK하이닉스보다 더 큰 낙폭을 기록하자, 투자자들은 SK하이닉스를 매도하는 동시에 상대적으로 가격 하락 폭이 컸던 SK스퀘어를 매수하는 양방향 전략을 취했습니다.\n\n반면 초고수 투자자들이 가장 많이 순매도한 종목은 삼성전자로 집계됐으며, SK하이닉스도 순매도 3위에 오르는 등 주요 반도체 종목에 대한 매도세가 뚜렷했습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“코스피 6000 붕괴를 기회로” 초고수가 고른 종목은 [주식 초고수는 지금]",
+          "url": "https://www.mk.co.kr/news/stock/12174285"
+        }
+      ],
+      "keywords": [
+        "SK스퀘어",
+        "SK하이닉스",
+        "삼성전자",
+        "주식 초고수",
+        "순매수"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/rcv.YNA.20261013.PYH2026101302840001300_R.jpg"
+    },
+    {
+      "id": "news-20261013-013",
+      "headline": "신한은행, 해운업계 친환경 선박 전환과 자금 조달 지원 착수",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "신한은행이 국내 해운업계의 친환경 선박 도입을 촉진하고 중소·중견 선사의 원활한 자금 조달을 돕기 위해 금융지원에 나섭니다. 이를 위해 한국해운협회와 업무협약을 체결하고 맞춤형 금융 공급 체계를 마련하기로 뜻을 모았습니다.\n\n이번 지원은 글로벌 환경 규제 강화 흐름에 맞춰 선사들이 친환경 고효율 선박으로 신속히 전환할 수 있도록 뒷받침하는 데 초점을 맞췄습니다. 신한은행은 대형사에 비해 금융 접근성이 취약한 중소·중견 선사를 중심으로 유동성을 공급해 선박 건조 및 도입에 따른 자금 부담을 덜어줄 방침입니다.\n\n조선·해운 산업의 실물 경제 지원 흐름 속에서 이뤄진 이번 협약은 국적 선사의 친환경 경쟁력 제고와 지속 가능한 해운 생태계 조성에 실질적인 도움을 줄 것으로 보입니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "친환경 선박 전환에 자금 공급…신한은행, 해운업계 금융지원 나선다",
+          "url": "https://www.mk.co.kr/news/economy/12174279"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "자선단체로 기부금 받아 테러단체 자금 지원",
+          "url": "https://www.yna.co.kr/view/AKR20261013070700054"
+        }
+      ],
+      "keywords": [
+        "신한은행",
+        "한국해운협회",
+        "친환경 선박",
+        "해운업계",
+        "금융지원"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.fca3c8e05d824c10beddbb820cc1cee8_R.png"
+    },
+    {
+      "id": "news-20261013-014",
+      "headline": "IMF, 반도체 초호황 힘입어 한국 성장률 전망치 3.3%로 대폭 상향",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "국제통화기금(IMF)이 올해 한국의 경제성장률 전망치를 기존 2.6%에서 3.3%로 0.7%포인트 상향 조정했습니다. 중동 지역의 군사적 긴장 고조에도 인공지능(AI) 수요 급증에 따른 반도체 산업의 호황이 경기 성장을 강력하게 이끌었다는 분석입니다. 내년 성장률 전망치 역시 종전 2.5%에서 2.8%로 높여 잡았습니다.\n\n보고서는 한국과 대만을 글로벌 AI 컴퓨팅 하드웨어 순수출의 62%를 담당하는 핵심 제조국으로 꼽으며 수출 호조의 파급효과를 긍정적으로 평가했습니다. 다만 기술 기업 비중이 높은 경제 구조상 향후 AI 관련 수익성 기대가 약화할 경우 자산 가격 조정과 주가 변동성 위험에 노출될 수 있다고 경고했습니다.\n\n원자재 가격 상승과 전자기기 수요 증가 여파로 올해 한국의 물가상승률 전망치는 기존 2.5%에서 2.7%로 상향됐습니다. 정부는 외형적 성장세 뒤에 자리한 고물가·고금리 부담과 민생 양극화 문제를 완화하기 위해 서민 금융 및 일자리 지원 정책에 집중할 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "IMF, 한국 성장률 3.3%로 상향…“AI 기대 후퇴하면 위험에 노출”",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282096.html"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "IMF, 올해 한국 경제성장률 3.3% 전망…0.7%p 상향 조정",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vV3JQRHgxZWloUEgwUktDbnhVMGs4NVg4OE5OSXRFMVhFOE54N2laNnRKVEFkMXhSeFE1UXZBOFNkSDVRRHoyRUtaVGp4VER5WGlGbC1uVlpmN3M?oc=5"
+        }
+      ],
+      "keywords": [
+        "국제통화기금",
+        "경제성장률",
+        "반도체슈퍼사이클",
+        "인공지능",
+        "물가상승률"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/original/2026/1013/20261013501202.webp"
+    },
+    {
+      "id": "news-20261013-015",
+      "headline": "미국·영국 등 서방 29개국, 영국 공군기지 테러 모의 배후로 이란 지목하며 강력 규탄",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국과 영국을 비롯한 서방 29개국이 지난달 발생한 영국 페어퍼드 공군기지 테러 음모 사건에 이란이 관여했다고 공식 확인하며 강력하게 규탄했다. 이들은 미 국무부를 통해 발표한 공동성명을 통해 이란 이슬람혁명수비대(IRGC)가 대리 세력과 은밀한 네트워크를 동원해 국경을 넘어 적대적 활동을 벌이고 있다고 지적했다.\n\n앤디 버넘 영국 총리는 의회에서 해당 공격이 이란에서 조직되었을 가능성이 매우 크며 IRGC가 지휘했다고 밝혔다. 영국 정부는 영토 내 위협을 용인하지 않겠다고 경고하며 범죄 네트워크와 자금 경로를 집중 단속하기로 했다. 아울러 외무부는 주영 이란 대사를 초치하고, 해외에서 적대적 행위를 주도한 이란 국적자 2명을 제재 대상으로 지정했다.\n\n앞서 페어퍼드 공군기지 인근에서 테러 모의 혐의로 남성들이 체포되었으며 영국 경찰은 추가 체포를 진행해 총 7명을 붙잡았다. 미국은 테러 위협을 이유로 해당 기지에 배치되었던 전략폭격기 B-1 12대를 전량 본토로 철수시켰다. 이란은 이번 사건과 무관하다며 관련 증거를 제시하라고 반박했다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "“지상전 카드 만지작?”…미국-이란 전쟁 숨은 변수는? [경제한방]",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NVmlKT2o3YW1hSXlRbEsyMGRVTEk4ZGJWWTlVZUtsUVE1Z2U2T1pHN09sZEJoVGh0ZXR5V2xFNzBZcHdPNG1hVXFqdEtMMkdLbVVIdHduVkxCdnFjVG9uODhTS3dIZw?oc=5"
+        },
+        {
+          "name": "경향신문",
+          "title": "미국·영국 등 29개국 “영국 공군기지 테러 모의에 이란 관여” 강력 규탄",
+          "url": "https://www.khan.co.kr/article/202610131048001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        }
+      ],
+      "keywords": [
+        "이란",
+        "테러모의",
+        "페어퍼드공군기지",
+        "영국",
+        "IRGC"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261013-015/600/400"
+    },
+    {
+      "id": "news-20261013-016",
+      "headline": "트럼프, 다음 달 아시아 순방 계기 김정은과 회동 가능성 시사",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 미국 대통령이 다음 달 예정된 아시아 순방 일정 중 김정은 북한 국무위원장과 만날 가능성을 열어두었습니다.\n\n트럼프 대통령은 아시아태평양경제협력체(APEC) 정상회의 참석을 계기로 아시아 지역을 방문할 계획이며, 이 과정에서 북미 정상 간 접촉이 이뤄질 수 있음을 언급했습니다.\n\n그는 연내 김 위원장과 대화를 재개하겠다는 의지를 거듭 내비치며 외교적 접촉 가능성을 타진하고 있습니다. 이번 순방을 계기로 교착 상태에 빠진 북미 대화가 새로운 국면을 맞이할지 외교가의 시선이 쏠립니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "트럼프 “김정은 만날 수도”…내달 아시아 순방 중 회동 가능성",
+          "url": "https://www.mk.co.kr/news/politics/12174061"
+        },
+        {
+          "name": "한겨레",
+          "title": "트럼프 “내달 APEC 때 김정은 만날 수도”…구체적 일정은 언급 안 해",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1282072.html"
+        }
+      ],
+      "keywords": [
+        "도널드 트럼프",
+        "김정은",
+        "북미 정상회담",
+        "아시아 순방",
+        "APEC"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20260930.2a8ef7f3ef5044049a793828466cf01b_R.png"
+    },
+    {
+      "id": "news-20261013-017",
+      "headline": "강경화 주미대사, 한미 정보협력 문제 지적하며 충분한 해소 안 됐다 언급",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "강경화 주미한국대사가 워싱턴DC에서 열린 국회 외교통일위원회 국정감사에서 한미 간 정보협력에 문제가 있다는 지적을 접했다고 밝혔습니다.\n\n강 대사는 당시 문제들이 충분히 해소되었다고 생각하지 않는다는 입장을 내놓았습니다.\n\n이와 함께 최근 진행된 미북정상회담에 대해서는 구체적인 진전이 없었다고 평가했습니다.\n\n이번 발언은 한미 양국 간의 정보 공유 체계와 대북 정책 공조 상황을 점검하는 과정에서 나왔습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "강경화 “한미 정보협력, 문제 있단 얘기 들어…충분히 해소됐다 생각 안 해”",
+          "url": "https://www.mk.co.kr/news/politics/12174048"
+        },
+        {
+          "name": "한겨레",
+          "title": "강경화 “백악관과 소통 한계…미, 정보협력 문제 해소 안 됐다고 생각”",
+          "url": "https://www.hani.co.kr/arti/international/america/1282069.html"
+        }
+      ],
+      "keywords": [
+        "강경화",
+        "주미대사",
+        "한미 정보협력",
+        "국정감사",
+        "미북정상회담"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.5c90be60e27e41708f56207b0b4df069_R.jpg"
+    },
+    {
+      "id": "news-20261013-018",
+      "headline": "미 이민 당국, 트럼프 비판한 진보 성향 일한 오마르 하원의원 자택 전격 압수수색",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 미국 대통령을 강하게 비판해온 일한 오마르 민주당 하원의원의 워싱턴 자택이 이민관세청 산하 국토안보수사국의 전격적인 압수수색을 받았다. 이번 조처는 소말리아 출신인 오마르 의원이 어린 시절 돌아가신 부친의 이민 서류와 관련된 이민 사기 혐의를 적용받아 진행됐다.\n\n오마르 의원은 이번 급습이 트럼프 대통령이 정치적 정적을 제거하기 위해 연방 기관을 무기로 악용한 사례라고 강하게 반발했다. 민주당 지도부 역시 선거를 앞두고 연방 정부의 권력 남용과 정치적 공작이 도를 넘었다며 거세게 비판했다.\n\n특히 이번 압수수색은 오는 11월 중간선거를 불과 3주 앞둔 시점에 단행됐다. 전통적으로 미 법무부는 선거 임박 시기 후보자를 향한 수사 절차를 자제해왔으나, 전문가들은 이번 조처가 과거의 관행을 완전히 깨뜨렸다고 지적했다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "미 이민 당국, 트럼프 비판한 오마르 의원 자택 전격 압수수색",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1282074.html"
+        },
+        {
+          "name": "Khan.co.kr",
+          "title": "미 여야 상원의원 6명, 트럼프 ‘러 경유 수입’에 반발…“푸틴에 재정적 생명줄”",
+          "url": "https://www.khan.co.kr/article/202610120825001"
+        }
+      ],
+      "keywords": [
+        "일한 오마르",
+        "이민세관단속국",
+        "도널드 트럼프",
+        "미국 중간선거",
+        "압수수색"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1013/53_17918465088708_20261013500261.webp"
+    },
+    {
+      "id": "news-20261013-019",
+      "headline": "국제사회, 사우디 리야드공항 겨냥한 예멘 반군 후티 공격 강력 규탄",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "예멘 반군 후티가 사우디아라비아의 리야드공항을 향해 미사일 공격을 감행한 사건에 대해 국제사회가 일제히 규탄의 목소리를 높이고 있습니다.\n\n안토니우 구테흐스 유엔 사무총장은 이번 공격 소식에 깊은 충격을 받았다는 입장을 표명하며 민간 시설을 겨냥한 무력 행사를 강하게 비판했습니다.\n\n이번 사태로 인해 중동 지역의 긴장이 다시금 고조되고 있으며, 민간인 안전을 위협하는 행위에 대한 국제사회의 공동 대응 요구가 커지고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "국제사회, 후티 리야드공항 공격 규탄…유엔총장 “깊은 충격”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aZXFOODF0TnFEWU5QTlJSOFQ4aTFPVnEwbklwVDgyWkNtU3MyMjBwa1N1SDZaN3RXaDdTMkJjUlJCN2Z1NHd5QjNiUDhHSFZGWDRhU2ZxTEhuYUE?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "후티 공격에 사우디 국제석유회의도 타격‥빅오일 CEO 무더기 불참",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vX2EzLXZ3M1NYM0ZzbDdKYkdsWDhEVDhoQ2NRYklqbU5RM1Uxa3YxREFxbjBNVFRqMXRsNzJGc0V5R0ZhLXhWcFNyT1pCWWVlTkFmWElWRmYzU1h0ZWdFeW8zLWpyRVBuUnAwb3Q1QlJCX3A10gF0QVVfeXFMUG9YWTNWSWtGYmVwcWhPX3FFbDdSWk9hbXpYSFMzNzZ4Y3JCa3o2dTZ3Wl9mb3Z2UGt0cmF6b043OG5hU1pIUExRZTcyVnRkYzJSdEZwRjFIUmhsbHFMRVMtYzZDSi1YR2dKU3BFSjdXaTNBcjg?oc=5"
+        }
+      ],
+      "keywords": [
+        "후티 반군",
+        "리야드공항",
+        "유엔",
+        "사우디아라비아",
+        "국제사회"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261013-019/600/400"
+    },
+    {
+      "id": "news-20261013-020",
+      "headline": "명분과 실리 모두 잃은 트럼프식 외교… 국제유가 오히려 반등세",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 전 미국 대통령의 대외 정책 및 행보가 기대했던 정책적 실익을 거두지 못하고 외교적 명분마저 잃었다는 비판이 커지고 있습니다.\n\n당초 에너지 가격 안정과 시장 통제를 노렸던 구상과 달리 국제유가는 오히려 상승세를 기록하며 역풍을 맞았습니다. 유가 안정을 통해 물가 부담을 낮추겠다는 전략적 계산이 빗나가면서 시장의 불안감만 키웠다는 지적이 나옵니다.\n\n전문가들은 일방적인 압박과 예측하기 어려운 정책 기조가 글로벌 원자재 시장의 불확실성을 가중했다고 평가합니다. 정치적 파급력을 노린 행보가 실질적인 경제 지표 안정으로 이어지지 못하면서 향후 정책 추진 동력에도 적지 않은 타격이 예상됩니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "명분 잃고 실리 놓친 트럼프 ...국제유가는 오히려 상승",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zcmlaNDBpVnN2aWRYOHZBdzNFN0VNeEFFUlF5a1E1Q3VXSXpnMUIyVkJPcHNlTl83TkhfUUxFX25rSG15TU9sNDVnREVJY05ERGhqSi1Pa3UyU0JBdmc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "트럼프 \"러시아와 합의완료\"...국제사회에 미칠 대혼란은 [자막뉴스]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HVVZ2MjYwQnJ4Vlc4WEpIVFN6LWNfR1lPRVM0ekNBQS03S1ZNVVh1N29EVUxYc0pGRVRLSU81Y1JvLTIwSDZxXzhxSlJzdk43U2Yycy14WDgxU3BQbUE?oc=5"
+        }
+      ],
+      "keywords": [
+        "트럼프",
+        "국제유가",
+        "유가상승",
+        "글로벌경제",
+        "원자재시장"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261013-020/600/400"
+    }
+  ]
+}
