@@ -1,92 +1,91 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-14T08:52:47.891818+09:00",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-15T08:25:21.478394+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261013-001",
-      "headline": "IMF, 올해 한국 경제성장률 전망치 3.3%로 상향 조정",
+      "id": "news-20261014-001",
+      "headline": "미국 고유가 여파로 물가 불안 재점화‥기준금리 추가 인상 전망 확산",
       "category": "경제",
       "categories": [
         "경제",
-        "비즈니스",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "국제통화기금(IMF)이 올해 한국의 경제성장률 전망치를 기존보다 높은 3.3%로 상향 조정했습니다.\n\n이번 전망치 수정은 글로벌 경기 회복 흐름과 주요 수출 품목의 수요 개선세 등을 반영한 결과로 풀이됩니다. 대외 불확실성 속에서도 한국 경제가 견조한 성장 흐름을 이어갈 것으로 내다본 셈입니다.\n\n정부와 주요 기관들도 이번 상향 조정이 실물 경기 회복과 투자 심리 안정으로 이어질지 면밀히 점검하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "IMF, 올해 한국 경제성장률 전망치 3.3%로 상향",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tbWo3dVZRdVZOMGpmNTJFM2pMTEhjazIzT2xBQk1JY3N5UklBYlpnUVBqVHhOMGVoRlRTQWU4LUJqZTNOVFp3WGVoXy1tMzNCV0paNkFPRTdfWDA?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "IMF, 올해 한국 경제성장률 3.3% 전망…0.7%p 상향 조정",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vV3JQRHgxZWloUEgwUktDbnhVMGs4NVg4OE5OSXRFMVhFOE54N2laNnRKVEFkMXhSeFE1UXZBOFNkSDVRRHoyRUtaVGp4VER5WGlGbC1uVlpmN3M?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "IMF, 올해 세계 성장률 3.1%로 상향‥한국은 3.3%로 '껑충'",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QNUdycEM1dWowOEVtYWFQR1BoQmh0S2Z3MzF6WDRITHVYNkhSdVZ6d1phZEIwYnNZSS1zVEZIcTExRG16eWQ4ZWk2SUpPelg2OEtDNEM4czAwa0h2dm9uNms0V1JTT2RyaU5fRFltOVdhcC0t0gF0QVVfeXFMTTFGSUJ6cGMzbXZnbzdvUWkxTGRiazNVZEFzYjV2TTdDYWN2T3BXUzB6YjdfZHZJQWJSLWFRdE55TEQ3WEhPWWlleVlMMHdTbS01bTUyS0xxY0E3VVI5V3NiaklKbEpwTUVPVTN6NGhFUEdoc2s?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "IMF, 올해 한국 경제성장률 3.3%로 상향‥반도체 중심 대외수요 영향",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HWktEaGJDWm1ld2kxWGh0SWtzcU1ORHNVRkZ0TUl4VFQ0S291djEzM29uMmx2b3VJWkRSNHoyVENwNWIwMGlfT0tJcjVPeENrbHJmTnRWckgxRk5YUDJZOWRUeHRmWEdzTERjeHNBR2FfdEk00gF0QVVfeXFMTUdaS0RoYkNabWV3aTFYaHRJa3NxTU5Ec1VGRnRNSXhUVDRLb3V2MTMzb24ybHZvdUlaRFI0ejJUQ3A1YjAwaV9PS0lyNU94Q2tscmZOdFZySDFGTlhQMlk5ZFR4dGZYR3NMRGN4c0FHYV90STQ?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "IMF 성장 전망 4.5% 낮추자...중국 \"경제 기초 좋다\"",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwUXdpenMzTTVGbzQ3R1owaUZmZTJxbDMyQjF6amxLdmhfWU9FbkpJNlZ1ZlpxeWQ1NDVxZVF1VW95TmpPZE1uN3BmRFdmM1gtRXpoeEI4cHV0S2VXdlhCMUJPdDhzSUpxUlRxa2VnM2EtR2VYWUE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "IMF \"올해 한국 경제 3.3% 성장...내년은 2.8%\"",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WRmhhQ1A5U01BUlF5a1JMN252WjJNNmkwSHVXUlBtZFd1ZkdrSG5VeGRHT0dLZFh1SFNFNEJqWGtsRm5GT3E3Z2pqZldxR216UWdrbGszYXg2bk55ZXlVc1JLTGlMWlJ3UE9iQ2JyUTNLQVFEbHc?oc=5"
-        },
-        {
-          "name": "연합인포맥스",
-          "title": "IMF, 올해 韓 1인당 GDP 4만弗 돌파 전망…명목 GDP 2.2조달러 관측",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sTGQ3OGV4TW55VElfaEZWN0FWak8tLTVXZHpOY0VKTVZkTzNCOXNHcEIzejFEYWYyVnU0d2dBQURsMlBIYWdKZ21ZenkwQlNCT0g0NkJLNGx3LVAxWWo5VERwZUJvTGtRcG5RYXd3SVg?oc=5"
-        }
-      ],
-      "keywords": [
-        "IMF",
-        "경제성장률",
-        "한국경제",
-        "전망치상향"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261013-001/600/400"
-    },
-    {
-      "id": "news-20261013-002",
-      "headline": "사우디 아람코 본사 단지 미사일 피격… 후티 반군 소행 추정",
-      "category": "글로벌",
-      "categories": [
         "글로벌",
-        "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "사우디아라비아 국영 석유회사 아람코의 본사 단지가 미사일 공격을 받아 화재가 발생했다.\n\n사우디 에너지부는 동부주 다란시에 위치한 아람코 사무용 건물이 타격당해 제한적인 화재가 발생했으나 당국이 신속히 대처했으며 사상자는 없다고 밝혔다.\n\n로이터 통신에 따르면 탄도미사일 1발이 다란 단지를 명중해 사무용 건물 상층부가 파손됐다.\n\n해당 단지는 방대한 원유 생산망을 관리하는 핵심 운영센터가 밀집한 곳이다.\n\n사우디 정부는 공격 주체를 공식 발표하지 않았으나, 사우디군이 동부주 방향으로 날아오는 미사일 경보를 발령한 직후 발생한 점으로 미루어 예멘 반군 후티의 소행으로 보관된다."
+        "overview": "미국 내 국제유가 상승세가 이어지면서 물가 상승 압력이 다시 커지고 있습니다. 에너지 가격 강세가 전체 물가 지표를 끌어올려 인플레이션 장기화 우려를 자극하는 모양새입니다. 이에 따라 미국 연방준비제도의 추가 기준금리 인상 가능성을 점치는 시장 관측도 빠르게 늘어났습니다.\n\n물가 안정 흐름이 주춤해지자 금융시장에서는 긴축 기조가 예상보다 길어질 수 있다는 경계감이 번지고 있습니다. 금리 인상 확률이 가파르게 뛰면서 글로벌 통화 정책과 자산 시장 전반의 불확실성도 한층 짙어졌습니다. 고금리 환경이 지속될 경우 기업과 가계의 금융 비용 부담 역시 가중될 수 있습니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "사우디 아람코 본사 미사일 공격받아 화재…후티 공격 추정",
-          "url": "https://www.yna.co.kr/view/AKR20261014026500009"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "후티 공격에 사우디 진땀…간판급 투자회의 원격참여도 허용",
-          "url": "https://www.yna.co.kr/view/AKR20261014022900009"
+          "name": "MBC 뉴스",
+          "title": "미국 고유가에 물가 상승‥금리 인상 확률 '쑥'",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ncnR4dFlzeGdIMjBMeDdFbmNBeERiR1VQV2xsbFlUclVuODlyVDV1WTlsUy00OE1xWXZQdE9ydUFtNTZfMmU2ZDVYMGx2Vi04NHk1dXc0UzdQLUEyaGlza3hFcElua1RXajBmc04yLUZCWkdteXByZGt30gF6QVVfeXFMTWRjWXhHZzNmSnRCR19RZC1NZ0JKN25oaHhCdFBtal92a2N5LXRmMmJOOUFtS0hsLTM4cVdzN2pLMi1yQ2ZBOHRuYzYwc3pWbUJzUVVmbHN0RHRfVnBPTmdFUDFfdlRZQWdhZXg5QlM5RjJvRmY4dExlcFE?oc=5"
         },
         {
           "name": "KBS 뉴스",
-          "title": "국제사회, 후티 리야드공항 공격 규탄…유엔총장 “깊은 충격”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aZXFOODF0TnFEWU5QTlJSOFQ4aTFPVnEwbklwVDgyWkNtU3MyMjBwa1N1SDZaN3RXaDdTMkJjUlJCN2Z1NHd5QjNiUDhHSFZGWDRhU2ZxTEhuYUE?oc=5"
+          "title": "국제유가, 사우디 아람코 피격·IEA 공급 경고에 상승",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DZ0NxMF8zWjl5WTNyTWUwYWJBRGV3VzFEODlsMUozRldGTUlJWmJFQzZXMkYwbFFmNk9YZG1PSVYycUZIRDJvdFJqR1E0Mk44ckRtQ1hsUHQ4VkU?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "나스닥 2% 가까이 급락‥국제유가는 상승",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFYVdCY1I1elV6R01sa2RwRVU3SWEwU3hULVJDcjAwSU5zaU1IMzVaTldiWVZDVVktT3c3OV9Sd3JJNm5obWlLejRGMVh4cVJ4QzdVQldjbkNhS2xWQlRMYVQzdHBwX2JyeUJqQWJjZ1JFVkpV0gF0QVVfeXFMUDQ1VkxsYXprZVlfOXFZOHJDSDhKWjgydk9SUWF1X1hQZm1fTnhWYWpjTzBLajBybzZwYTZCM2dzYVUyTWdMUkl2NURoa2o0WEY3RW1SMlNSakZNMUNSTE9PaHZQSGUzYURpSTc1VkNRRmtZX3U?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "국제 유가, 사우디 아람코 피격·IEA 공급 경고에 상승",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rVUtGNTdZQjZBcFJybHloOXpCd0RkSU1jVi1JcmlFNjhocHdwQ2pXcldLcERKQl9ZRGhRbE5SdGFYQVc5bXFqYkkyTlU0TU1PQkNLdWdYLUVNc2g3TXc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "국제 유가 혼조 마감...미국·러시아 경유 거래·중동 주시",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80NmZzWlJDaUxTX2hWcFFhUTE3MDRZRzlfcGVlb0RETmJhZ0RxSlV3dWNLdmkyUTIxMndIZ1pTYl9XR2hOeFU0ckR3NGlGVHVPU0oxMlNEaV9ZSGhJdXc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "연준 베이지북 \"고유가에 물가 상승 압력 심화\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aVVdtWGMwamw1Q0kxR3REalpwekh2cWJSd1RFRzBsZWVSSUxmRWdnclU3NFluOHhJdlBYM2VFNkJLekZDTll4bEhmaG1MVlJaUXRDa2RGRjYzOVpjVGc?oc=5"
+        }
+      ],
+      "keywords": [
+        "미국 물가",
+        "국제유가",
+        "기준금리",
+        "인플레이션",
+        "연방준비제도"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261014-001/600/400"
+    },
+    {
+      "id": "news-20261014-002",
+      "headline": "예멘 후티 반군, 사우디 리야드 국제공항 연일 미사일 타격 주장",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "예멘의 친이란 무장세력 후티 반군이 사우디아라비아 수도 리야드에 위치한 킹칼리드 국제공항을 겨냥해 탄도미사일 공격을 감행했다고 밝혔습니다. 야히야 사리 후티 군사 대변인은 성명을 통해 발사한 탄도미사일이 목표 지점을 정밀 타격했다고 발표했습니다.\n\n후티 측은 공항 공격 외에도 라스 알아라라와 알무다바라 일대에 모여 있던 사우디군 병력 집결지를 향해 탄도미사일 3발을 발사해 타격했다고 덧붙였습니다.\n\n앞서 지난 10일에도 해당 공항이 후티의 공격을 받아 다국적 민간인 13명이 숨지고 300여 명이 다쳤습니다. 이튿날인 11일에도 발사체가 공항 터미널을 타격해 사상자가 연이어 발생하는 등 사우디 내 안보 불안이 급격히 커지고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "후티, 사우디 공항 연일 공격…“킹칼리드에 미사일 타격”",
+          "url": "https://www.khan.co.kr/article/202610150641001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "후티 “리야드 국제공항 미사일로 명중”…사우디 스포츠 행사 ‘불똥’",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00c1V5Y0s2YndHdEZGSHJ1N0lZTlZtQlNkMkl1V0tPZDZOdkt5SXJib2NtcXcxajFuTVJnSWZ5aHo3RUlZbFpRNHRWRlRVNWJfSE1UN1NOZFgtaHM?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "후티 반군 “사우디 리야드 국제공항 탄도미사일 공격”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmVmtPMUZJdEdRT3o1bFJxejNJVzhFUUxYdFozN3h0UmRMSzJheDVzSzNzakFtQy13TXBGeGRuZnJtRUJwQlVnMWR2M1hNd05MY3VybjJZd3hldjQ?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "후티 공격으로 사우디 스포츠 국제행사 ‘연기’",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YQm1DTlkxalVuQ2dfSzZjNlhWY2d5YUhSZXJkaFZ3VjhDbE1VQXpxVHJtdXkxZUdwV0k2anBBUVdEUFZzcEo4MnFTQ1FHWnptX2U2NUVoSlhjck0?oc=5"
         },
         {
           "name": "MBC 뉴스",
@@ -95,30 +94,208 @@
         }
       ],
       "keywords": [
+        "후티 반군",
         "사우디아라비아",
-        "아람코",
-        "미사일 공격",
-        "예멘 반군 후티",
-        "원유 생산시설"
+        "킹칼리드 국제공항",
+        "탄도미사일",
+        "리야드"
       ],
-      "image_url": "https://img.yna.co.kr/photo/etc/af/2026/10/12/PAF20261012140801009_P2.jpg"
+      "image_url": "https://picsum.photos/seed/news-20261014-002/600/400"
     },
     {
-      "id": "news-20261013-003",
-      "headline": "병무청, 예술요원 병역특례 기준 강화…국제콩쿠르 수상 요건 2위에서 1위로 상향",
+      "id": "news-20261014-003",
+      "headline": "이형일 부총리, G20 재무장관회의 참석차 출국해 글로벌 경제 현안 논의",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "이형일 부총리가 주요 20개국(G20) 재무장관회의에 참석하기 위해 출국했습니다.\n\n이번 회의에서 참가국들은 세계 경제의 성장 둔화 우려와 인플레이션 대응 등 글로벌 경제 현안을 심도 있게 다룰 예정입니다. 각국 재무장관과 중앙은행 총재들은 국제 금융시장 안정 방안과 다자간 경제 협력 체계 강화 방안을 집중적으로 논의합니다.\n\n한국 정부는 주요국과의 정책 공조 필요성을 강조하고 대외 불확실성에 선제 대응하기 위한 논의에 적극 참여할 방침입니다. 아울러 다자회의 일정을 소화하며 주요국 경제 수장들과의 양자 면담을 통해 실질적인 협력 관계를 다질 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "이형일 부총리, G20 재무장관회의 참석차 출국…글로벌 경제 현안 논의",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OVXo4Q2I4TlpIckZrVnBwSHJPVG0zTmN6SUVZelQtbmtaaXZZdVlDa2dnWng3TnIxSWszSkFDTUotelZHeUJvUEd0Z1NaZUk0YlYxM0RhRmdUVkk?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "한미 재무수장 화상 면담‥\"경제·금융협력 중요성 재확인\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oQ2hjWXpfWWd1RklxV1BNdUhPQWlqZU4waGNCYkktVzVzbzlqR2FlTUtTYmQxUUliZUxiODFrVE1ybTVWT1BHTmlYeWE3RWJDclppdXk5b3g3d2VQOFd2Sll5Z3VfZUNHcllLeXplREVoWnZx0gF0QVVfeXFMTmhDaGNZel9ZZ3VGSXFXUE11SE9BaWplTjBoY0JiSS1XNXNvOWpHYWVNS1NiZDFRSWJlTGI4MWtUTXJtNVZPUEdOaVh5YTdFYkNyWml1eTlveDd3ZVA4V3ZKWXlndV9lQ0dyWUt5emVERWhadnE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "경제 부총리 \"불확실성 지속...대외경제 영향 면밀히 점검해야\"",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mSi1DWVMzczgtSm53ZkJDaHBkdF9rYmJ3UWdJMjhIOFVic19WVmIyWjNWVkNmNEpLampHMjhycnl3VmJfZ2dCd2dZOU1pMjB3eWxMWm5iSnhyTVJIQzZOR1VVYktEOWZHZmVGM3FFSjE0ejBnZFE?oc=5"
+        }
+      ],
+      "keywords": [
+        "G20 재무장관회의",
+        "이형일",
+        "글로벌 경제",
+        "국제금융",
+        "경제협력"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261014-003/600/400"
+    },
+    {
+      "id": "news-20261014-004",
+      "headline": "최재호 경남상의협 회장, 비수도권 법인세 차등 적용 입법 촉구",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "IT/과학",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "최재호 경남상공회의소협의회 회장은 심화하는 수도권 쏠림 현상을 완화하고 지역경제를 살리기 위해 비수도권 기업에 대한 세제 개편이 절실하다고 강조했다. 국토의 12%에 불과한 수도권에 인구와 일자리가 집중되면서 청년 유출과 지방 기업의 구인난이 반복되는 악순환을 끊어내려면 직접적인 유인책이 필수적이라는 진단이다.\n\n비수도권상공회의소협의회는 비수도권 중소·중견기업의 법인세율을 3%포인트 인하하고 지방 취업 근로자의 소득세를 연 500만 원 한도 내에서 절반으로 감면하는 법안 통과를 추진하고 있다. 영호남과 충북 등 5개 권역 30여 개 상공회의소가 연대해 국회에 건의서를 전달했으며, 관련 법안은 현재 국회 조세소위원회에서 심사 중이다.\n\n최 회장은 기존 지원책이 수도권에서 지방으로 이전하는 기업에만 치우쳐 오랜 기간 지역사회를 지켜온 향토기업과 지방 창업기업이 배제됐다고 지적했다. 세율 자체를 차등화하면 지역 기업 전반에 고루 혜택이 돌아가며, 연평균 약 1조 8천억 원 수준의 법인세 감면액은 국가 재정으로 충분히 감당할 수 있는 규모라고 설명했다. 지방이 자생력을 갖춰야 수도권의 과밀 문제도 함께 풀 수 있다는 점을 거듭 역설했다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "[인터뷰] 경남상의협 회장 \"지방살아야 수도권도 숨통…법인세 차등 필요\"",
+          "url": "https://www.yna.co.kr/view/AKR20261014164100052"
+        },
+        {
+          "name": "매일경제",
+          "title": "PF보증 수도권만 몰리고 … 돈 급한 지방은 찬밥",
+          "url": "https://www.mk.co.kr/news/realestate/12175854"
+        },
+        {
+          "name": "매일경제",
+          "title": "[단독] 정부보증 PF 65%가 수도권…지방은 ‘보증 가뭄’",
+          "url": "https://www.mk.co.kr/news/realestate/12175685"
+        }
+      ],
+      "keywords": [
+        "비수도권",
+        "법인세 차등",
+        "경남상공회의소협의회",
+        "지역균형발전",
+        "근로소득세 감면"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/10/14/PYH2026101417980005200_P2.jpg"
+    },
+    {
+      "id": "news-20261014-005",
+      "headline": "LS증권, 원가 부담에 기아 3분기 실적 기대치 하회 전망…목표주가 하향",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "LS증권이 기아의 3분기 실적이 시장 기대치를 밑돌 것으로 내다봤습니다. 완성차 판매량 증가세에도 불구하고 원가 상승에 따른 부담이 수익성에 부정적인 영향을 미쳤다는 분석입니다.\n\n이에 따라 LS증권은 기아의 목표주가를 기존 18만 5,000원에서 16만 5,000원으로 10.8% 하향 조정했습니다. 다만 중장기적인 경쟁력과 펀더멘털을 고려해 투자의견은 기존의 '매수'를 유지했습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "판매 늘어도 원가 부담…“기아, 3분기 실적 기대치 밑돌 ”",
+          "url": "https://www.mk.co.kr/news/stock/12176365"
+        },
+        {
+          "name": "Zdnet.co.kr",
+          "title": "HCL테크, 33억 달러 수주 신기록에 힘입어 2분기 호실적 달성",
+          "url": "https://zdnet.co.kr/view/?no=20261013231023"
+        }
+      ],
+      "keywords": [
+        "기아",
+        "LS증권",
+        "목표주가",
+        "3분기 실적",
+        "원가 부담"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.9f9878c576f0490490866a5c3400579e_R.png"
+    },
+    {
+      "id": "news-20261014-006",
+      "headline": "정부 미 웨스팅하우스 지분 인수에 SK·삼성 등 10여개 대기업 참여 검토",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "정부가 추진하는 미국 원전기업 웨스팅하우스 지분 인수에 SK그룹을 비롯한 국내 주요 대기업들이 참여를 검토하고 나섰습니다. SK, 삼성, 현대, 두산 등 10여개 기업이 정부 측에 지분 투자에 대한 긍정적 의사를 전달한 것으로 확인되었습니다.\n\n한미 양국은 최근 미국 내 한국형 원전을 포함한 8기 건설과 함께 웨스팅하우스 지분 5~10%를 공모가 대비 10% 할인된 가격에 인수하는 프레임워크에 합의했습니다. 최대 10% 지분을 인수할 경우 전체 투자금은 약 3조원대에 이를 전망입니다.\n\n협약에는 한국전력과 한국수력원자력이 서명했으나, 누적 부채가 커 민간 기업들과의 '민관합동 팀코리아' 구성이 불가피한 상황입니다. 미 소형모듈원전(SMR) 개발사 테라파워의 2대주주인 SK그룹은 다른 기업들의 합산 금액에 버금가는 대규모 투자를 검토하는 등 지분 인수에 가장 적극적인 움직임을 보이고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "미 웨스팅하우스 지분 인수에 SK 등 10여개 기업 참여 검토",
+          "url": "https://www.hani.co.kr/arti/economy/marketing/1282440.html"
+        },
+        {
+          "name": "동아일보",
+          "title": "SK, 美웨스팅하우스 지분 확보 나선다",
+          "url": "https://www.donga.com/news/Economy/article/all/20261015/134843948/2"
+        },
+        {
+          "name": "연합뉴스TV",
+          "title": "SK그룹, 웨스팅하우스 지분투자 검토…대형 원전으로 확장",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UMUlmRFR4ZjB4VXlubFlPTklsdkRfYWhtTW1WX3dZNnh3ZDFwX3oweHNneTRHV1VIVzBYeDgzMzZra2NhZG82YTdYNjJ6ei14a1B2b2ZtMTZKQlRON0d0NGZEWWMxSHM?oc=5"
+        }
+      ],
+      "keywords": [
+        "웨스팅하우스",
+        "원전 수주",
+        "SK",
+        "팀코리아",
+        "지분 인수"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1014/53_17919808724321_20261014503449.webp"
+    },
+    {
+      "id": "news-20261014-007",
+      "headline": "우크라이나 “스타링크 속도 제한 걸려 작전 차질”…정치적 압박 의혹 제기",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "우크라이나 정부가 스페이스X의 군용 위성 인터넷 서비스인 스타실드 단말기에 시속 약 160㎞의 이동 속도 제한이 걸렸다고 밝혔습니다. 우크라이나 대통령실 기술고문은 사전 통보 없는 제한 조치로 요격용 드론 운용을 비롯한 여러 군사 작전에 심각한 차질이 발생했다고 주장했습니다.\n\n우크라이나 측은 이번 조치가 최근 격화한 미국과의 정치적 갈등과 맞닿아 있다고 보고 있습니다. 도널드 트럼프 미국 대통령은 유가 관리를 이유로 러시아 정유시설 공습 중단을 요구했으나 우크라이나는 이를 거부했고, 이후 트럼프 대통령이 러시아산 경유 수입에 합의하면서 양국 정상 간 설전이 이어졌습니다.\n\n논란에 대해 일론 머스크 스페이스X 최고경영자는 스타실드 시스템의 소유와 통제권이 미군 당국에 있으며 최종 결정권은 미국 대통령에게 있다고 해명했습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 미국의 이러한 행보에 배신감을 토로하며 국가 방어 역량 약화에 깊은 우려를 표했습니다."
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "우크라 “정치적 이유로 스타링크 이동속도 제한”",
+          "url": "https://www.khan.co.kr/article/202610150725001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "젤렌스키 “트럼프가 다른 편 선택할 때 고통스럽다”…스타링크 속도 제한에 “배신감”",
+          "url": "https://www.hani.co.kr/arti/international/europe/1282473.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "우크라 “서방서 미사일 조기 경보 못 받아…군용 스타링크 속도도 제한”",
+          "url": "https://www.hani.co.kr/arti/international/europe/1282445.html"
+        }
+      ],
+      "keywords": [
+        "스타링크",
+        "우크라이나",
+        "스페이스X",
+        "도널드 트럼프",
+        "스타실드"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/original/2026/1015/20261015500287.webp"
+    },
+    {
+      "id": "news-20261014-008",
+      "headline": "병무청장, 예술·체육 병역특례 기준 '국제대회 1위'로 축소 방침 밝혀",
       "category": "글로벌",
       "categories": [
         "글로벌"
       ],
       "summary": {
-        "overview": "병무청이 순수예술 분야 대체복무 편입 기준을 대폭 강화하는 방안을 추진합니다.\n\n현재 국제예술경연대회 2위 이상 입상자에게 주어지던 예술요원 편입 자격을 1위 입상자로 한정하는 방안이 유력하게 논의되고 있습니다. 저출생으로 인한 병역 자원 감소와 일반 장병들과의 형평성 논란을 고려해 특례 문턱을 높이겠다는 취지입니다.\n\n정부는 수상 요건 상향과 함께 특례 인정 대상 대회 수 자체를 축소하는 방안도 검토 명단에 올려두었습니다. 국방부와 문화체육관광부 등 관계 부처 협의를 거쳐 구체적인 시행 시기와 유예 기간을 확정할 예정입니다."
+        "overview": "병무청이 예술 및 체육 분야의 병역특례 수혜 대상을 국제대회 1위 입상자로 대폭 축소하는 방안을 추진합니다.\n\n병무청장은 언론 인터뷰를 통해 현행 병역특례 제도의 형평성 문제를 지적하며 엄격한 기준 적용의 필요성을 공식적으로 언급했습니다. 기존 제도에서는 올림픽 3위 이상, 아시안게임 1위 입상자뿐만 아니라 특정 국내외 예술경연대회 상위 입상자에게도 병역특례 혜택을 부여해 왔습니다.\n\n최근 저출생 여파로 인한 병역 자원 부족이 심화하면서 특례 제도 전반에 대한 개편 요구가 이어졌습니다. 이에 따라 병무청은 병역 의무 이행의 공정성을 확보하기 위해 특례 인정 범위를 '국제대회 1위'로 제한하여 수혜 인원을 최소화하겠다는 구상을 내놓았습니다.\n\n이번 발표는 병역 자원 확보와 제도 투명성을 고도화하기 위한 조치로 해석됩니다. 병무청은 향후 문화체육관광부 등 관계 부처와의 협의를 거쳐 구체적인 개편안을 구체화할 방침입니다."
       },
       "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "병무청 “예술 병역특례기준 상향 추진…국제콩쿠르 2위→1위”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uYldCMzAwc0pRa2VlbVd1UmJTM3o4dHViV19mLWp5NWtrYUZCUFpNeHYwbkhhMndVdDZ6bE05RVc0aTFaY09fcmRtQURpRlZaUVJhYUtTbFlqc3M?oc=5"
-        },
         {
           "name": "MBC 뉴스",
           "title": "병무청장 \"병역특례, 국제대회 1위만 인정\"",
@@ -132,581 +309,381 @@
         {
           "name": "MBC 뉴스",
           "title": "병무청장, 병역 특례 논란에 \"유감\"‥예술 특례 '국제대회 1위'로 제한",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hb25pUUdRdTdzRzhOQzZ2a1ZqenVZTG9JR0JoQjZHR3o0TUloWlZXYUxubmpkUVhSenFYcFg2QzRDV0d5NkVuM1NqdmpZOVF5cnNXbUxEVmN1dnIxYW9BMWxUM2lWYzg0YWpYTWNJTVM5MFJfd0dadA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hb25pUUdRdTdzRzhOQzZ2a1ZqenVZTG9JR0JoQjZHR3o0TUloWlZXYUxubmpkUVhSenFYcFg2QzRDV0d5NkVuM1NqdmpZOVF5cnNXbUxEVmN1dnIxYW9BMWxUM2lWYzg0YWpYTWNJTVM5MFJfd0dadNIBeEFVX3lxTFBIazZPTWxBQ0Vvdk1QS0U5MVVXZEdQelpmQmhnTWxKMzRMenZIbDFfZjN5N1dWTUNpY1RqMnpyTEptcFJuLWNHOXZRUkUyMmx0SzAyZDZvb1J1Z3F0X0g2RDI3bFM2ekVLUXh2Qm5sMk5FUW5wN1NOaQ?oc=5"
         }
       ],
       "keywords": [
-        "병무청",
+        "병무청장",
         "병역특례",
-        "국제콩쿠르",
-        "예술요원",
-        "대체복무"
+        "국제대회",
+        "병역 자원",
+        "제도 개편"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261013-003/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261014-008/600/400"
     },
     {
-      "id": "news-20261013-004",
-      "headline": "국제유가, 미·러 경유 거래와 중동 긴장 속 혼조세 마감",
-      "category": "글로벌",
+      "id": "news-20261014-009",
+      "headline": "제시 리버모어가 전하는 낚시 투자법…\"매일 매매하지 말고 시장과 거리둬야\"",
+      "category": "비즈니스",
       "categories": [
-        "글로벌",
+        "비즈니스",
         "경제"
       ],
       "summary": {
-        "overview": "국제유가가 미국과 러시아 간 경유 거래 흐름과 중동 지역의 지정학적 긴장을 살피며 엇갈린 흐름으로 장을 마쳤습니다. 시장 참여자들은 공급망 변동성과 안보 리스크가 동시에 맞물린 상황에서 뚜렷한 매수·매도 방향을 정하지 못하고 신중한 움직임을 보였습니다.\n\n중동 정세 악화에 따른 원유 수송 차질 우려가 유가 하단을 지지했으나, 글로벌 경기 둔화 우려와 복합적인 정제유 유통 변수가 추가 상승을 제한했습니다. 원유 시장에서는 주요 산유국의 공급 전략과 지정학적 불안 요인의 전개에 따라 단기 변동성이 이어질 가능성을 열어두고 있습니다."
+        "overview": "전설적인 투자자 제시 리버모어는 '시장은 매일 열리지만 매일 매매할 필요는 없다'는 확고한 투자 원칙을 지켰습니다.\n\n그는 큰 수익을 거둔 뒤에는 반드시 시장을 떠나 스스로에게 보상을 주는 독특한 루틴을 유지했습니다.\n\n리버모어가 선택한 대표적인 시장 거리두기 방식은 바로 낚시였습니다.\n\n물 위에 머물며 투자 압박감에서 벗어나는 동시에, 복잡한 생각을 정리하며 새로운 시장 아이디어를 얻었습니다."
       },
       "publishers": [
         {
-          "name": "MBC 뉴스",
-          "title": "국제유가, 미러 경유 거래·중동 긴장 주시하며 혼조 마감",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOdDRmY3RNazUzVDU3dEN3MERFc3hhQ1FEYU1lZFNFZVAzY2pSMXc2T1NlNmNIQzJXdGhEMDZLN0lNNFpYTzBKRUpjTnEwTm9qTG40aEEtVEF0V2VsVjQ4U01sTDNtX1VycTBXM1pDWnQxV0hN0gF0QVVfeXFMTkY1bGlONjJaLURtNXhQZ1IzNXA5UzNYODRrYkF4bGdGVVh1S1IyMGpUbG5yYjEyTTU5OWExWUw1VHpLRENmZ25QOWlVbHFjaEpvdDQwanp3Rm5wbmt1Um1ETWpVaTlYbFpIVm1NODc0YmFWRzY?oc=5"
+          "name": "매일경제",
+          "title": "1000억 벌어들인 ‘낚시 투자법’ … 제시 리버모어가 기회를 찾는 곳은",
+          "url": "https://www.mk.co.kr/news/stock/12175644"
         },
         {
-          "name": "MBC 뉴스",
-          "title": "국제유가, 미 멕시코만 원유 생산 차질 속 상승‥WTI 0.39%↑",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Qclh1U19MWjRUYXBVNlJ2aHpUVXk2MkNtdnFiOEFKSzNrZTVJVTc5YWtkYmZTakY2QmxEYTJ1Z01kX2p2WVJsV1ZVNmpvN1dKSlpXcnFfbHdnVklGeHNnUXppVTNGTUJURHJQZ1hxclpjWHV00gF0QVVfeXFMT010c0hpcUNwZEgzTEtkODg5RC1xRExiaW5LRVFnLUt0R0xJcDJpVWFoWFh5X2U4QUdhVFliTUp3dmxNYnQxT2JvUTB2bjJoOWlxR1VQd2h0VWZTXzRSVjE0MUo2dFhTQnd0NjNBZTJOaFdqaUU?oc=5"
+          "name": "매일경제",
+          "title": "‘협력자’에서 ‘경쟁자’로…통신시장 판 흔드는 스페이스X [지정학에서 찾는 투자기회]",
+          "url": "https://www.mk.co.kr/news/stock/12176058"
         },
         {
-          "name": "YTN",
-          "title": "국제 유가 혼조 마감...미국·러시아 경유 거래·중동 주시",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80NmZzWlJDaUxTX2hWcFFhUTE3MDRZRzlfcGVlb0RETmJhZ0RxSlV3dWNLdmkyUTIxMndIZ1pTYl9XR2hOeFU0ckR3NGlGVHVPU0oxMlNEaV9ZSGhJdXc?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "명분 잃고 실리 놓친 트럼프 ...국제유가는 오히려 상승",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SNmZESWp0YXFvU1ZMdnJFN1RSSmw2dnBHM2N2R0ZHRmRWdEVTQnRXdlh0dUtxV0RKWWM1RzN1anQ2bF9GMmw5bnI0M21xTmowcmVsRkNMVkM5N1hPLU5mUWo0MmdUaGpMa3pxREFMTnV1WHhsWEE?oc=5"
+          "name": "한국무역협회-KITA.NET",
+          "title": "인도서 21조 투자하는 현대차그룹…국내 부품사 기회도 커질 듯",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSkphc2tGODM1ZlVlVjY2QTYwd0RHOTBiQllrOEhYR0tyVnFRRUVXYS1nWE1yejNCaW5kY2tZWXZjRHRZalRCVnd0d3kybl83SkpuQWhvQWJzeFNEQ3F6Uks1UmFwMmtySTdqLWxudVZSOGJCNXROSUc0Q3Y3MGVoU3ZMWk1ZMEwySWNZYUlKNTJLUmw3M3U2N0kxa1V6SU5ONjJqM3pjdjBPc2JxMmVjNi1vNXh5SkQ5aVpLTVlUclNZUmVTOGJtMURyc0JYeVdtekpOYUhB?oc=5"
         }
       ],
       "keywords": [
-        "국제유가",
-        "중동 긴장",
-        "경유 거래",
-        "원유 시장",
-        "에너지"
+        "제시 리버모어",
+        "투자 루틴",
+        "낚시 투자법",
+        "시장 거리두기",
+        "투자 원칙"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261013-004/600/400"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261011.7cbb23207d6c44878a1ecedce64ab4fa_R.png"
     },
     {
-      "id": "news-20261013-005",
-      "headline": "하나증권 \"신한지주, 롯데손보 인수에 자본 부담 우려…보수적 접근 필요\"",
+      "id": "news-20261014-010",
+      "headline": "지그재그, 성수동서 쇼핑몰 50곳 참여하는 대형 팝업스토어 오픈",
+      "category": "비즈니스",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "카카오스타일의 스타일 커머스 플랫폼 지그재그가 서울 성수동 앤더슨씨 성수에서 오프라인 팝업스토어를 엽니다. 이번 행사는 '가장 빠르게, 가장 나답게'라는 슬로건을 바탕으로 오는 16일부터 사흘간 진행합니다.\n\n행사장에서는 지그재그에 입점한 쇼핑몰 50곳의 의류와 잡화를 직접 착용해 보고 현장에서 바로 구매할 수 있습니다. 1층 큐레이션존은 39개 쇼핑몰의 상품을 6개 스타일에 맞춰 구성했고, 2층은 리얼코코와 라룸을 포함한 단독 입점 쇼핑몰 11곳의 제품으로 채웠습니다.\n\n현장 방문객을 위한 참여형 프로그램도 마련했습니다. 방문 인증 사진을 이벤트 페이지에 등록한 고객에게는 최대 15만 원 상당의 럭키박스를 증정하는 뽑기 참여 기회를 제공합니다. 현장 방문이 어려운 이용자를 위해 지그재그 앱에서도 동일한 혜택의 기획전을 동시에 선보입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "지그재그, 16일부터 성수동서 팝업스토어…쇼핑몰 50곳 참여",
+          "url": "https://www.yna.co.kr/view/AKR20261014142400030"
+        }
+      ],
+      "keywords": [
+        "지그재그",
+        "카카오스타일",
+        "성수동 팝업스토어",
+        "쇼핑몰",
+        "패션플랫폼"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/14/AKR20261014142400030_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261014-011",
+      "headline": "대한상의 제55차 물류위원회 개최, AI 전환 통한 공급망 혁신과 협력 모색",
+      "category": "비즈니스",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "대한상공회의소가 서울 중구에서 '인공지능(AI) 에이전트가 바꾸는 물류의 미래'를 주제로 제55차 물류위원회를 열었습니다. 이번 회의에는 CJ대한통운, LX판토스, 롯데글로벌로지스 등 주요 물류기업 대표 40여 명이 참석해 산업 경쟁력 확보 방안을 논의했습니다.\n\n참석자들은 글로벌 공급망 불안정과 지정학적 위험으로 물류비가 오르는 상황에서 AI 전환이 기업 생존을 위한 필수 과제라는 점을 확인했습니다. 아마존과 DHL 등 글로벌 선도 기업의 기술 적용 사례를 살피며 국내 물류 시스템과 서비스 전반의 혁신 속도를 높이기로 뜻을 모았습니다.\n\n물류위원회는 현장에서 쌓은 경험을 고품질 데이터로 바꾸고 주문부터 운송에 이르는 전 과정을 체계적으로 관리할 방침입니다. 제조·유통업계는 물론 AI 전문기업과의 협력도 넓혀 산업 전반의 기술 생태계를 다져나갈 계획입니다.\n\n신영수 물류위원장은 물류기업의 핵심 경쟁력이 단순 운송을 넘어 고객의 공급망 문제를 미리 찾아내 해결하는 역량에 달려 있다고 강조하며 서비스 품질 향상을 독려했습니다. 대한상의는 앞으로 우수사례 공유와 세미나 개최 등을 통해 업계의 AI 도입을 지속해서 뒷받침할 예정입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "상의 55차 물류위원회…\"AI 전환은 선택 아닌 필수\"",
+          "url": "https://www.yna.co.kr/view/AKR20261014156600003"
+        }
+      ],
+      "keywords": [
+        "대한상공회의소",
+        "물류위원회",
+        "인공지능전환",
+        "공급망",
+        "물류혁신"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100109800005100_P2.jpg"
+    },
+    {
+      "id": "news-20261014-012",
+      "headline": "인천공항세관서 선별된 마약 의심 우편물, 정상 분류됐다가 이튿날 회수",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "신한금융지주가 사모펀드 JKL파트너스로부터 롯데손해보험 지분 77.04%를 6천933억 원에 인수하는 주식매매계약을 체결했습니다. 비은행 포트폴리오를 강화하려는 목적이지만, 증권가에서는 신중한 평가가 이어지고 있습니다.\n\n하나증권은 롯데손보의 지급여력비율(K-ICS) 기준 확보를 위해 감자 반영 후에도 약 4천900억 원의 기본자본이 추가로 필요하다고 분석했습니다. 향후 할인율 현실화까지 겹치면 자본 확충 부담이 늘어나 추가 증자를 진행할 가능성이 크다는 설명입니다.\n\n보험계약마진(CSM)의 예실차 악화 추세와 일부 자동차·일반보험의 누적 적자, 퇴직연금 손익 부담도 실질 이익을 제한하는 요인으로 꼽혔습니다. 경쟁사와의 이익 격차를 좁히는 효과는 제한적이며, 인수 후 자회사 정상화 속도와 자본 기회비용에 대한 고민이 뒤따를 것으로 분석했습니다."
+        "overview": "인천공항세관 국제우편통관센터에서 마약 의심 우편물로 1차 선별된 봉투가 정상 우편물로 잘못 분류돼 섞여 들어갔다가 이튿날 회수되는 일이 발생했습니다.\n\n적발된 물품은 종이 형태의 환각제 LSD 20여 개로, 당초 의심 물품으로 분류돼 검사장으로 옮겨졌으나 담당 직원이 이상이 없다는 의견을 내면서 정밀 검사 없이 통과됐습니다.\n\n최초 선별 직원이 마약 검사가 반드시 필요하다고 재차 문제를 제기하면서 회수 절차가 시작됐지만, 당일에는 물품의 소재조차 파악되지 않았습니다. 해당 봉투는 다음 날 오전 원래 배송지인 서울이 아닌 광주 지역 우편물 보관 장소에서 발견됐으며, 정밀 검사 결과 최종 마약으로 판정받았습니다.\n\n세관 당국은 마약이 외부로 반출되지는 않았다고 밝히며, 1차 선별된 의심 물품이 정상 우편물로 처리된 과정에서 과실이나 고의가 있었는지 관련 직원들을 상대로 사실관계를 조사하고 있습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "하나증권 \"신한 '롯데손보 인수' 이익불확실…보수적 접근해야\"",
-          "url": "https://www.yna.co.kr/view/AKR20261014024600008"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "신한증권, HMM 목표주가 상향…\"예상보다 큰 이익 회복 주목\"",
-          "url": "https://www.yna.co.kr/view/AKR20261014025300008"
+          "title": "'의심 선별'에도 정상 우편물로 분류된 마약…이튿날 회수",
+          "url": "https://www.yna.co.kr/view/AKR20261014158300065"
         }
       ],
       "keywords": [
-        "신한지주",
-        "롯데손해보험",
-        "하나증권",
-        "지급여력비율",
-        "인수합병"
+        "인천공항세관",
+        "국제우편통관센터",
+        "LSD",
+        "마약 우편물",
+        "통관 오류"
       ],
-      "image_url": "https://img.yna.co.kr/photo/cms/2023/03/17/67/PCM20230317000067990_P2.jpg"
+      "image_url": "https://img.yna.co.kr/photo/cms/2017/07/23/20/C0A8CA3C0000015D6FDAB835000529F8_P2.jpeg"
     },
     {
-      "id": "news-20261013-006",
-      "headline": "국세청장 \"대통령 아파트 매도 거래, 증여세 과세 기준 미달로 과세 대상 제외\"",
+      "id": "news-20261014-013",
+      "headline": "HUG 1억원 연구용역, 기존 저작물 짜깁기 의혹…검증 절차도 미이행",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "주택도시보증공사(HUG)가 약 1억 원을 투입해 수의계약으로 진행한 연구용역이 특정 연구자의 과거 저작물을 개정한 수준에 불과하다는 지적이 제기되었습니다.\n\n국회 국토교통위원회 소속 더불어민주당 안태준 의원이 HUG로부터 제출받은 자료에 따르면, HUG는 2023년 9천970만 원 규모의 '한국의 부동산 금융' 연구용역을 단독 수의계약으로 체결했습니다. 하지만 해당 용역은 책임 편집자인 교수가 2008년 펴낸 저서와 제목이 같고, 연구진 구성과 목차 역시 상당 부분 겹치는 것으로 나타났습니다.\n\n과거 저서들이 데이터베이스에 등록되어 있지 않다는 이유로 유사성 검증에서 빠졌으며, 연구자 본인의 유사성 검사 제출과 HUG 담당 부서의 중복성·연구 윤리 확인 절차도 제대로 지켜지지 않았습니다.\n\n안 의원은 공기업이 공적 자금을 들여 특정 개인의 출판물을 개정해 주는 꼴이라며 세금 낭비 배경에 대한 명확한 해명을 요구했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "1억원 들었는데…\"HUG '부동산 금융' 용역, 기존 저작물 짜깁기\"",
+          "url": "https://www.yna.co.kr/view/AKR20261014170200001"
+        }
+      ],
+      "keywords": [
+        "주택도시보증공사",
+        "HUG",
+        "연구용역",
+        "수의계약",
+        "안태준"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2025/10/20/PYH2025102008870006100_P2.jpg"
+    },
+    {
+      "id": "news-20261014-014",
+      "headline": "대신증권, 현대백화점 목표주가 17만 원으로 하향…이익 추정치 하향 반영",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "대신증권은 현대백화점의 목표주가를 기존 22만 원에서 17만 원으로 22.7% 낮췄습니다. 투자 의견은 기존의 '매수'를 유지했습니다.\n\n이번 목표가 하향은 환율 하락과 해외여행 증가 등 영업 환경 변화에 따라 올해와 내년 이익 추정치를 조정한 데 따른 결과입니다. 최근 낮아진 유통업종 평균 밸류에이션 역시 산정에 함께 반영되었습니다.\n\n대신증권은 단기적인 실적 눈높이는 낮아졌으나, 현대백화점이 보유한 자산 가치와 기본 사업 경쟁력을 고려할 때 중장기 매수 매력은 여전히 유효하다고 판단했습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“현대백, 환율 하락·해외여행 증가”…대신증권, 목표가 17만원 ‘하향조정’",
+          "url": "https://www.mk.co.kr/news/stock/12176369"
+        }
+      ],
+      "keywords": [
+        "현대백화점",
+        "대신증권",
+        "목표주가",
+        "이익 추정치",
+        "유통업"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.cc3950f191824e20b4bd5a7aa96f8088_R.jpg"
+    },
+    {
+      "id": "news-20261014-015",
+      "headline": "현대차, 인도 푸네공장 준공…연간 100만 대 생산 체제 본격 가동",
       "category": "경제",
       "categories": [
         "경제",
         "글로벌",
-        "IT/과학"
+        "비즈니스"
       ],
       "summary": {
-        "overview": "임광현 국세청장은 국회 국정감사에서 이재명 대통령의 분당 아파트 매도 거래를 검토한 결과 증여세 과세 대상이 아니라는 보고를 받았다고 밝혔습니다.\n\n이 대통령은 지난 7월 부인과 공동 보유하던 분당 아파트를 29억 원에 매도하면서 매수인을 채무자로 하여 17억 7,700만 원 규모의 근저당권을 설정한 바 있습니다. 국세청은 잔금 일부를 무이자로 빌려주면서 발생한 매수인의 경제적 이익을 산정한 결과, 현행 상속세 및 증여세법상 과세 기준선인 1천만 원에 미치지 못했다고 판단했습니다.\n\n국민의힘 배준영 의원은 국세청이 고액 사적 채무를 활용한 주택 거래에 자금 출처 검증을 강화하겠다고 밝힌 점을 들며 대통령 거래에도 동일한 잣대를 적용해야 한다고 지적했습니다. 이에 대해 임 청장은 공개된 자료를 기반으로 소관 부서에서 과세 여부를 살폈으나 법적 과세 요건을 충족하지 않았다고 설명했습니다."
+        "overview": "현대자동차가 인도 진출 30주년을 맞아 마하라슈트라주 탈레가온에 세 번째 생산거점인 푸네공장을 열었습니다. 옛 제너럴모터스(GM) 공장을 2023년에 인수해 재구축한 시설로, 완성차와 엔진 생산라인, 주행시험장을 두루 갖췄습니다.\n\n첫 양산 모델은 소형 SUV '올 뉴 베뉴'로 확정되었으며, 현지 판매와 더불어 30여 개국으로 수출합니다. 푸네공장의 초기 생산능력은 연간 17만 대로, 기존 첸나이 1·2공장의 82만 4천 대를 더하면 인도 내 전체 생산능력은 연간 100만 대 수준에 이릅니다.\n\n현대차는 푸네공장 생산능력을 2030년까지 32만 대로 끌어올려 인도법인의 수출 비중을 30%까지 확대할 계획입니다. 베뉴 생산을 푸네공장이 전담하면서 기존 첸나이 공장은 전기차 등 차세대 차종 생산에 유연하게 대응합니다.\n\n인도 시장 누적 판매 1천만 대 돌파를 눈앞에 둔 현대차는 갈수록 치열해지는 현지 경쟁에 대응하기 위해 대규모 투자도 병행합니다. 올해부터 2032년까지 7년간 155억 달러(약 20조 7천억 원)를 투입해 연구개발(R&D), 공급망 확충, 미래 기술 사업을 대폭 강화할 방침입니다."
       },
       "publishers": [
         {
           "name": "한겨레",
-          "title": "임광현 “이 대통령 아파트 거래, 과세 대상 아냐”…증여세 과세기준 이하 판단",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282240.html"
+          "title": "현대차, 인도 푸네공장 준공…연 100만대 생산 체제 구축",
+          "url": "https://www.hani.co.kr/arti/economy/marketing/1282434.html"
+        },
+        {
+          "name": "YTN",
+          "title": "현대차, 인도에 신공장...\"글로벌 성장 동력\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtU2x6V1pkNy1adE81TWw5RFdnaUd2UGFRak5aU3hhTHdIcmFrLTZSUkR5OHBadmgtRTlZZkNPMUJIeVdDYVJ3U3B0OWQ1ZjUxRGtrYWYtWWJJajVDbVE?oc=5"
+        }
+      ],
+      "keywords": [
+        "현대차",
+        "푸네공장",
+        "인도 자동차 시장",
+        "올 뉴 베뉴",
+        "정의선"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1014/53_17919747717912_20261014503350.webp"
+    },
+    {
+      "id": "news-20261014-016",
+      "headline": "재개발·재건축 138곳 공사비 검증 미이행…정부, 16개 사업장 특별현장점검 착수",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "IT/과학",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "정부가 재개발·재건축 현장의 공사비 갈등을 줄이기 위해 법정 공사비 검증을 거치지 않은 정비 사업장을 대상으로 특별현장점검에 나섭니다. 국토교통부가 지방정부와 함께 전국 정비사업장 568곳을 전수조사한 결과, 138개 사업장이 공사비 검증 절차를 이행하지 않은 것으로 확인됐습니다.\n\n국토부는 이 가운데 16개 사업장을 선별해 한국부동산원, 지자체, 외부 전문가가 참여하는 합동 점검을 10월과 11월 두 차례에 걸쳐 진행합니다. 점검반은 공사비 산출 내역과 증액 사유의 적정성을 따지고, 조합 운영과 예산 집행, 계약 절차 전반에서 위법 행위가 있었는지를 면밀히 조사합니다.\n\n현행법상 공사비가 5~10% 이상 증액되거나 조합원 20% 이상이 요청하면 전문기관의 검증을 의무적으로 받아야 합니다. 국토부는 위반 사항이 확인되면 시정명령을 내리고 횡령이나 배임 등 중대 범죄 혐의가 포착되면 즉시 수사를 의뢰할 방침이며, 점검 대상에서 제외된 미이행 사업장에도 행정지도를 이어갈 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "재개발·재건축 138곳 공사비 검증 안 받아…정부 특별점검 나선다",
+          "url": "https://www.hani.co.kr/arti/economy/property/1282431.html"
+        },
+        {
+          "name": "매일경제",
+          "title": "공사비 부르는 게 값?… 검증 칼날 꺼낸 정부",
+          "url": "https://www.mk.co.kr/news/realestate/12175855"
+        }
+      ],
+      "keywords": [
+        "공사비 검증",
+        "재개발",
+        "재건축",
+        "국토교통부",
+        "정비사업"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1014/53_17919735789886_20261014503291.webp"
+    },
+    {
+      "id": "news-20261014-017",
+      "headline": "고향사랑기부 모금 늘어도 대구·경북 집행률은 전국 최하위 머물러",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "고향사랑기부제 참여가 늘어나면서 모금액 규모는 커지고 있으나 대구와 경북 지자체의 기부금 집행 실적은 전국 최하위권에 머물고 있습니다. 지방소멸 위기 대응과 지역 경제 활성화를 목표로 도입한 제도 취지가 무색하다는 비판이 나옵니다.\n\n지자체들이 모인 기부금을 실제 주민 복리 증진이나 지역 발전 사업에 제때 쓰지 못하면서 모금액 상당수가 금고에 묶여 있는 실정입니다. 기부 유치 경쟁에만 치중할 뿐 확보한 재원을 효율적으로 투입할 구체적인 사업 기획과 집행 능력이 뒤따르지 못한 탓입니다.\n\n기부자가 보람을 체감할 수 있는 실효성 높은 기금 사업을 서둘러 발굴해야 합니다. 집행 지연 문제를 방치하면 기부 동력이 약화될 수 있으므로 지자체의 속도감 있는 사업 추진과 꼼꼼한 사후 관리가 뒤따라야 합니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "[같이경제] 고향사랑기부는 느는데…대구·경북 집행 최하위",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBScHlWYzh0S0JlaVFhWGNVR2IxM19Cd1JabEpubktoVkpkNXVXWXhMNlNVWW9lbUVQYUd4MHozcHJVOGQxbnJaLUdEblpJSDBOc2xmTDZ0bjlHOVp3cWl4aHR2eVo3QQ?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "[경북] 구미시 \"경제·정주·공간 혁신\"...대도약 비전 공개",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsb05kdXo5UTRIZlRXR2xDb09JdVI5TEcwNXpkSTJ1YkZHYTg1QzdnVjk3UXctWUg5Z1VpZ3J1THIwanFaenl6TVJsRHZXTHk1OUZUODBVR1hUWk40dFE?oc=5"
+        }
+      ],
+      "keywords": [
+        "고향사랑기부제",
+        "대구경북",
+        "기부금집행",
+        "지방재정",
+        "지역소멸"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261014-017/600/400"
+    },
+    {
+      "id": "news-20261014-018",
+      "headline": "문화관광연구원, ‘패노메논’ 경제효과 1조 원 논란에 “잠정 추정치” 해명",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "문화관광연구원이 내놓은 이른바 ‘패노메논’의 경제적 파급 효과 분석을 두고 산출 근거와 실효성에 대한 지적이 이어지고 있습니다. 당초 제시된 1조 원 규모의 경제효과를 둘러싸고 과대 계측 논란이 일자 연구원 측이 공식 입장을 내놓았습니다.\n\n연구원은 해당 발표 수치가 확정된 통계가 아니라 초기 단계에서 도출한 잠정 추정치에 불과하다고 밝혔습니다. 기초 지표를 바탕으로 시산한 분석인 만큼 최종 산출 결과와는 차이가 발생할 수 있다는 설명입니다.\n\n시장에서는 문화 현상에 따른 산업 파급력을 무리하게 계량화하기보다 객관적인 산정 기준과 검증 틀을 먼저 정립해야 한다는 목소리가 나옵니다. 연구원 측은 제기된 쟁점을 보완해 향후 보다 정밀한 분석 지표를 제시할 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "‘패노메논’ 경제효과 1조 원 논란…문화관광연구원 “잠정 추정치”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwcWJubkJhLXZDQW9RNmE1dnRyNFhFNjhWZDJEMzFkYTNTa0hqNkJoWDlWQlJNWkFnUURMUGtmb2RmTFF6MnQwSUF4YmFfMDIxMUZmZnh6NlZUWFk?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "'패노메논' 1조 경제 효과 논란에...황교익 \"잠정 추정치\"",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOXdfVkladUFxRGJEVFljN1JjeVp6WVppZnpjeEtSa0NBVUFlVzFPWEI5TFNXZ2ZwNDNrcVEyQ0hEOW1tcWk0MlRZUTIxd1VxdmFvbURiM3RmZXc0amQtZ3BadkJqNWZhN3c2ZjI4RnRaVHRGNEE?oc=5"
+        }
+      ],
+      "keywords": [
+        "패노메논",
+        "경제효과",
+        "문화관광연구원",
+        "잠정추정치",
+        "파급효과"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261014-018/600/400"
+    },
+    {
+      "id": "news-20261014-019",
+      "headline": "새 비서실장에 임광현 전 국세청장 발탁…\"민생·경제 회복 적임자\"",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "신임 대통령 비서실장에 임광현 전 국세청장이 전격 발탁되었습니다.\n\n대통령실은 이번 인선 배경으로 민생 안정과 경제 위기 극복을 전면에 내세웠습니다. 정통 세무 관료 출신인 임 실장이 복합 경제 위기 국면에서 실물 경제 전반을 조율할 적임자라고 판단한 결과입니다.\n\n정부 핵심 요직에 경제·세제 전문가를 배치함으로써 향후 국정 운영의 무게중심을 민생 경제 회복에 두겠다는 의지를 분명히 했습니다. 정책 실행력을 높이고 시장과의 소통을 한층 강화할 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "새 비서실장에 임광현 국세청장‥\"민생·경제 적임자\"",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCTmYzdWYyeUw5eGc4UldBVEt5RzhsNnp6UVFKLVY0a282YXNsUHhvUkZWbG9SVmJXaE1RQ1R6SjZJUEYzWThPZjBDeExiaHllMXpJZ0dxRVJiVlIzZFdxcG9RQ2h4ZU83NWZxTjJXQ040clZFRTFkNnF30gF6QVVfeXFMTnYtNktNQzdEWDZLelhJazJRM1F3RkYtMFBDVm50OTVZc1JjVkR0SVYtMjhEWnBvYUZQZmk0Zkw3T3g1dFNCREZsV1FSaGg2NjZPSnFFaGFsMEdqUWJrb0ptUG9HanZXVDYyYS1CNXJIUmRFcllpckFabXc?oc=5"
         },
         {
           "name": "KBS 뉴스",
           "title": "임광현 국세청장 “글로벌 기업 과세 수단 확보 위해 제도개선 추진”",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zMTlPd2lZWWNHOFNmMWpGTzlSNk5MM2dWUjFwQTg5dV9RaDVqLVBtem5uTXRPLVpjMWhKZ2lWR2Zjc3o4amh0Ty14RjlLSmpITWthdm5seGpSVzg?oc=5"
-        },
-        {
-          "name": "매일경제",
-          "title": "서울아파트 거래 40% '뚝' 전국 거래량도 20% 감소",
-          "url": "https://www.mk.co.kr/news/realestate/12174633"
         }
       ],
       "keywords": [
-        "국세청",
-        "증여세",
-        "근저당권",
-        "아파트 거래",
-        "임광현"
+        "임광현",
+        "비서실장",
+        "국세청장",
+        "인선",
+        "민생경제"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1013/53_17918980594972_20261013503531.webp"
+      "image_url": "https://picsum.photos/seed/news-20261014-019/600/400"
     },
     {
-      "id": "news-20261013-007",
-      "headline": "사회연대경제기본법 통과 이후 실행 과제 논의…현장 안착과 지방정부 역할 모색",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "발의 13년 만에 국회를 통과해 내년 3월 시행을 앞둔 사회연대경제기본법의 실효성을 높이기 위해 국내외 전문가들이 머리를 맞댔습니다. 국회도서관 대강당에서 열린 사회적기업월드포럼(SEWF) 국회 워크숍에서는 정권 교체와 관계없이 정책이 지속되려면 폭넓은 정치적 합의와 현장의 참여가 필수적이라는 의견이 모였습니다.\n\n행사에서는 만장일치 표결로 '지역공동체 부 구축법'을 통과시킨 스코틀랜드의 사례가 소개됐습니다. 톰 아서 스코틀랜드 장관은 공공기관의 자산과 구매력을 활용해 지역에서 발생한 부가 역내에 순환하도록 만드는 정책을 공유하며, 현장 실행을 담당할 지방정부와 공감대를 넓히고자 보수와 진보 정당 모두를 설득했던 입법 과정을 설명했습니다.\n\n전문가 패널들은 법 제정 이후 특정 부처의 사업에 갇히지 않고 여러 영역으로 확장해야 한다는 점을 짚었습니다. 공공조달 입찰 과정에서 소규모 사회연대경제 기업이 배제되지 않도록 조달 담당자 대상 교육과 세부 제도 개선이 뒤따라야 한다는 지적도 나왔습니다. 지방정부협의회와 국회 관계자들은 제도가 현장에 뿌리내릴 수 있도록 충분한 예산 확보와 후속 정책 추진을 약속했습니다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "사회연대경제, 입법 넘어 실행만 남았다...지방정부 역할 중요",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282187.html"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "한미 재무수장 화상 면담‥\"경제·금융협력 중요성 재확인\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aUHNyblJqdTNESDZnRVVSeTBSeWpBTzZteWFkRFd1U1Rxd0xnbmRtcTNTNjRDX0xyck1DSWRFNi05WG9tS2hDQVNSdmZyUFRIaUhkTldveXk4ZzNOdkQ0WTJpWlRjLWhsVkEwOFBDWW14dURk0gF0QVVfeXFMTmhDaGNZel9ZZ3VGSXFXUE11SE9BaWplTjBoY0JiSS1XNXNvOWpHYWVNS1NiZDFRSWJlTGI4MWtUTXJtNVZPUEdOaVh5YTdFYkNyWml1eTlveDd3ZVA4V3ZKWXlndV9lQ0dyWUt5emVERWhadnE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "이형일·베센트 화상면담 \"한미 경제·금융협력 중요성 재확인\"",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZV3duaWRLRFpFalJsdm5MZnZ3RFFzUE5rOHFpbnZNSWRDYTk1ZVFYYzVSYVFiUWZMdWRzTHd3b0dSbEVITURyWUxNaWZ4dHhsclUyc2hKWGNMcWhHUHBrSWVHOFZ4cUxNaEVRQ0RRMG1lVkZmTlE?oc=5"
-        }
-      ],
-      "keywords": [
-        "사회연대경제기본법",
-        "사회적기업월드포럼",
-        "지방정부",
-        "지역공동체",
-        "공공조달"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1013/53_17918801316961_20261013503077.webp"
-    },
-    {
-      "id": "news-20261013-008",
-      "headline": "괴산군, 추석장사씨름대회 개최로 8억 원 경제효과 창출",
+      "id": "news-20261014-020",
+      "headline": "10월 15일 목요일 주요 경제 일정 안내",
       "category": "경제",
       "categories": [
         "경제"
       ],
       "summary": {
-        "overview": "충북 괴산군이 최근 개최한 추석장사씨름대회를 통해 약 8억 원 규모의 경제적 효과를 거두었다고 밝혔습니다. 대회 기간 선수단과 임원진, 관람객들이 대거 지역을 찾으면서 숙박업소와 음식점을 비롯한 지역 상권이 활기를 띠었습니다.\n\n괴산군은 이번 대회가 전통 스포츠 축제로서 볼거리를 제공했을 뿐만 아니라 농특산물 홍보와 지역 상권 소비 촉진에 실질적인 보탬이 되었다고 분석했습니다. 군은 앞으로도 대규모 스포츠 대회를 적극 유치해 지역 경제에 활력을 불어넣을 계획입니다."
+        "overview": "10월 15일 목요일에 예정된 주요 경제 관련 일정을 안내한다.\n\n해당 날짜에 발표되는 경제 지표와 정책 일정 등을 미리 확인하고 대응할 수 있다.\n\n국내외 금융 시장에 영향을 미치는 경제 행사를 점검하는 데 활용된다."
       },
       "publishers": [
         {
-          "name": "KBS 뉴스",
-          "title": "괴산군 “추석장사씨름대회 8억 원 경제효과”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JV2gzRXRNMUR4dnExM3JJWUtLMFpLd1pXb1l5c19pTXhmdndCRHJ5MUpDLV8yTXJqaUplUTZ0SmhleEYyVmp3ZUFRM1h4MzVpenVDS1dWOFI1SDg?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "이 대통령 “북극항로 상업화 시 엄청난 경제효과…부산 핵심 허브로 키워야”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQ2ZfcWhla2dhSWFneHNZbDhiU2FsdjlTRjRLcjBhWDZjQ3g5LVFzcmN3R0lBZ051TldvNS00YW10U3dOMDhLRTlvSTA3RHNiOWlOSGFNOTdITzA?oc=5"
-        },
-        {
-          "name": "YTN 사이언스",
-          "title": "\"시장의 기대가 경제정책 효과 좌우\" 미 경제학자 2명 노벨상",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ab1NYOWdNbWttODk0Q044VklPWTN0UkhuWE9oVXg3aDVhQVl1dUNHNWdsU3kxUERicWhxNDdHMUJPbTBPdGRTWER0WG8xaUR2NXZPOXhlOXZPeHhrTFlBVmw2VTNjVFJrQ2p1cFppRGNEQ0plb3RsNWxlSDhjR3M?oc=5"
-        }
-      ],
-      "keywords": [
-        "괴산군",
-        "추석장사씨름대회",
-        "경제효과",
-        "지역상권",
-        "스포츠마케팅"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261013-008/600/400"
-    },
-    {
-      "id": "news-20261013-009",
-      "headline": "이 대통령, 국제사회 신뢰 기반 북극항로 개척과 해양강국 도약 천명",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "경제"
-      ],
-      "summary": {
-        "overview": "이 대통령이 국제사회의 신뢰를 바탕으로 북극항로를 개척해 해양강국으로 도약하겠다는 구상을 밝혔습니다. 새로운 해상 물류 거점이 될 북극항로를 선제적으로 열어가며 국가 해양 경쟁력을 한층 끌어올리겠다는 취지입니다.\n\n북극항로는 기존 항로보다 운항 거리와 시간을 크게 단축할 수 있는 전략적 해상 통로로 꼽힙니다. 정부는 국제 규범을 준수하고 연안국들과의 협력을 강화해 안전한 항로 이용 기반을 다질 방침입니다. 차세대 친환경 운송 기술과 물류망 다변화를 연계해 미래 해양 산업의 주도권을 확보해 나갈 계획입니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "이 대통령 “국제사회 신뢰 속 북극항로 열어갈 것…해양강국 대한민국”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GaEVocTA4S2ZCU0p3Rk5wUEpkOFIwYnpHOGJsN0Q5dHZRWmYxWG1nOGdnbFdNaUp2ZnRTRmh5ZnFwMWNXSlJyTWZsQTFOaXk0YXhjaXZuRkc5MTQ?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "이 대통령 “국제사회 신뢰 속 북극항로 열어갈 것…해양강국 대한민국”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pLUtUWnFoYUxyR04yOUo4QzJkTEkxYXdPZ0I3YmdNanFJNGtGT2VsVU5RdlF2SW5rbmdVN3Joa01VSVJaUGhNdkd2YzVZVXE2cUZQVlc5eW41WE0?oc=5"
+          "name": "YTN",
+          "title": "■10월 15일 목 경제 캘린더",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jVHRxNlhJWUthb0JaeHNobUQtNkR1R3ZyMzdmUUhoNUJERHlyNEZPLUE3djI1U2FzNmJLaGZVaEdrN05wb2pUTzJzMlhBU1VBVGc1ZWRucFdKa05NbjJzSi1DUzljTXBvM1N6TndiOXhsRXJfcXc?oc=5"
         },
         {
           "name": "YTN",
-          "title": "트럼프 \"러시아와 합의완료\"...국제사회에 미칠 대혼란은 [자막뉴스]",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsWk9GdWhnaklSekwzY2RtR0g1ZHR1cnpMb2FSM043Y212V2pNNGxUSG9mclNhTkpNVEg1Q2Z1TzZUZHY1aFpzcVc2NEctTWpmQ3Y5bXlnSXloX3JNeENHcmR4aUZ6NDhBS3BWX1Y3TUp0SmtKMUE?oc=5"
+          "title": "■10월 14일 수 경제 캘린더",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iaW1UUVcxMmxDQ3Fobm55Vk80bGhXX0JaQTMyX0hpWnRnTkVadVZYaTk0QV9nRDE3anNJTjRfRTNQTWg0YXZxZm5SQmZnSEUzeTJ4VlRJeUFwSV9uWHVGTU8zeW90Sm9PM1RuTDlKY19IVmtUZVE?oc=5"
         }
       ],
       "keywords": [
-        "북극항로",
-        "해양강국",
-        "해운물류",
-        "국제협력"
+        "경제 캘린더",
+        "10월 15일",
+        "경제 일정",
+        "목요일"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261013-009/600/400"
-    },
-    {
-      "id": "news-20261013-010",
-      "headline": "넷플릭스·부산국제영화제, '크리에이티브 아시아'서 K콘텐츠 성공 비결과 창작 노하우 공유",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "넷플릭스가 부산국제영화제(BIFF)와 손잡고 제3회 '크리에이티브 아시아'를 열어 신진 영화인 400여 명에게 K콘텐츠 성공 비결과 실무 노하우를 전수했습니다. 한준희 감독, 김지용 촬영감독, 강윤성 감독 등 아시아 대표 창작자들은 촬영 기법과 스토리텔링, 인공지능(AI) 영화 제작 방안을 공유하며, 고유한 지역색과 진정성을 담은 이야기일수록 세계 무대에서 보편적인 공감을 얻는다고 강조했습니다.\n\n세부 세션에서 한준희 감독은 안전한 선택보다 과감한 시도가 필요하다고 조언했고, 김지용 촬영감독은 자연광을 살린 촬영 경험을 전했습니다. 강윤성 감독과 웨타 FX 킴볼 서스턴 CTO가 참여한 대담에서는 AI가 반복 작업을 줄여 제작 효율을 높여주지만, 섬세한 감정 표현은 인간 창작자의 손길이 반드시 필요하다는 분석이 나왔습니다.\n\n넷플릭스는 지난 10년간 아시아태평양 350여 개 제작사와 협업하고 1만 8천 명 이상의 인재 육성을 지원했습니다. 글로벌 비영어 상위 10위권 내 아태지역 작품 비중이 5년 전 30%에서 최근 절반 이상으로 늘어난 가운데, 이번 행사에서는 중저예산 및 단편영화의 재발견과 글로벌 인재 양성을 뒷받침할 실무 워크숍도 함께 진행했습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "부산국제영화제 7일차…관객 행사 다채",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yRUc0WXUzdWpnYkxBcXFrM1cwekN2UXpkdEhoSFBEdUlfZUIwTUpJRVRGUTJFWjhERFZSMTVXTWo3a0F4WnVwcU80RW5VODlzZ3BQTUN4cjNHVExHTXo5d21oYlJsdw?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "[문화연예 플러스] '제31회 부산국제영화제'‥뜨거운 흥행 열기",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sNVd3MkoySFVrcElUaUJHb0FlVWMtc1V4bkRTMXplTnVmS1h5RVRuU01vVURkZ0doUnlLYmdIeTlvSzlueFlrSTVRUWVLZFFNdEVBLTItRXJtdER0YWczUFFsdlN2cURpTW5yRXh1UjhvRHNLM2o3cjB30gF6QVVfeXFMTWcxeXBuWk9UUFplWlkzb0Nxc19XRGhZVXFSWjZvYTJLcXV3VXkxNUFwNGluRlBkRjd6aWRPQ3ZxZHlxa1hfa0phNjJMM3RUeHlpanp3MVpWUUxkZzFaTmo3amwxaHVfQTh3aXVlMGQ5YmpqUTBCX3RlZUE?oc=5"
-        },
-        {
-          "name": "Zdnet.co.kr",
-          "title": "넷플릭스, 부산국제영화제서 K콘텐츠 성공 비결 공유",
-          "url": "https://zdnet.co.kr/view/?no=20261012184451"
-        }
-      ],
-      "keywords": [
-        "넷플릭스",
-        "부산국제영화제",
-        "크리에이티브아시아",
-        "K콘텐츠",
-        "영화제작"
-      ],
-      "image_url": "https://image.zdnet.co.kr/2026/10/12/e6d42886f5f0e61531abb4add4b8e377.jpg"
-    },
-    {
-      "id": "news-20261013-011",
-      "headline": "키움증권, 한미약품 목표주가 71만원으로 하향…기술료 이연에 3분기 실적 주춤",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "키움증권은 한미약품의 올해 3분기 실적이 시장 전망치를 밑돌 것으로 내다보고 목표주가를 기존 73만 원에서 71만 원으로 낮췄습니다. 지난 8월 체결한 제넨텍 기술이전 계약금 약 2,550억 원이 3분기가 아닌 4분기에 반영될 것으로 보이며, 캐나다 바이오 기업 앱토즈 인수에 따른 연구개발 비용이 3분기부터 연결 손익에 포함되는 점이 실적 부담으로 작용했습니다.\n\n한미약품 주가는 지난 6월 초 일라이릴리와의 계약 시점 대비 16% 하락하며 대사기능 이상 지방간염 치료제 임상 진척에 대한 시장의 우려를 반영하고 있습니다. 다만 다음 달 예정된 머크 실적발표와 미국간학회에서 에피노페그듀타이드의 임상 데이터가 공개되면 관련 불확실성을 덜어낼 수 있을 것으로 평가했습니다.\n\n키움증권은 4분기에 대규모 기술료가 유입되고 국내 비만치료제 출시가 예정되어 있어 호실적을 거둘 수 있다며 투자의견 '매수'를 유지했습니다. 올해 성사된 2건의 대형 기술이전으로 연구개발 경쟁력을 입증한 만큼 추가적인 성과 창출 가능성도 열려 있다고 분석했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "키움증권, 한미약품 목표가↓…\"3분기 실적 기대치 하회 전망\"",
-          "url": "https://www.yna.co.kr/view/AKR20261014025900008"
-        },
-        {
-          "name": "매일경제",
-          "title": "“OCI홀딩스, 3분기 실적 기대 밑돌 듯”…DB증권, 목표가 30만원으로 하향",
-          "url": "https://www.mk.co.kr/news/stock/12175125"
-        }
-      ],
-      "keywords": [
-        "한미약품",
-        "키움증권",
-        "목표주가",
-        "기술이전",
-        "비만치료제"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/cms/2022/02/13/43/PCM20220213000043505_P2.jpg"
-    },
-    {
-      "id": "news-20261013-012",
-      "headline": "코스피 급락세에 국민참여성장펀드 손실 우려 확산",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "2차 국민참여성장펀드가 오는 15일 판매 마감을 앞둔 시점에 코스피 하락세가 겹치면서 투자자들의 불안이 커지고 있습니다.\n\n주요 지수가 흔들리자 원금 손실을 우려해 가입을 망설이는 투자자들의 문의가 이어지는 분위기입니다.\n\n해당 펀드는 지수 흐름을 추종하는 구조적 특성을 지니고 있어 최근 나타난 증시 조정 국면의 영향을 직접적으로 받습니다.\n\n시장 변동성이 커진 상황에서 상품 자체의 손실 방어 여력과 실제 위험 분산 구조에 투자자들의 시선이 쏠리고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“코스피 급락했는데 괜찮나요?”…국민참여성장펀드, 손실 방어 어디까지",
-          "url": "https://www.mk.co.kr/news/economy/12175134"
-        }
-      ],
-      "keywords": [
-        "국민참여성장펀드",
-        "코스피 급락",
-        "손실 방어",
-        "증시 변동성"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.5ad44c97ce1743e1b75b1fc9a4663af8_R.png"
-    },
-    {
-      "id": "news-20261013-013",
-      "headline": "IBK투자증권, 백화점 부문 이익 증가세 둔화 우려에 현대백화점 목표주가 하향",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "IBK투자증권은 현대백화점의 백화점 사업 부문에서 이익 증가폭이 둔화할 가능성이 크다고 진단했습니다.\n\n이에 따라 현대백화점의 목표주가를 기존 16만 8000원에서 15만 원으로 낮춰 잡았습니다.\n\n증권가는 백화점 실적 성장세의 제약 요인과 밸류에이션 부담을 반영해 투자의견을 신중하게 조정한 것으로 풀이됩니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“현대백화점, 백화점 이익 증가폭 둔화 부담”...목표가↓",
-          "url": "https://www.mk.co.kr/news/stock/12175131"
-        }
-      ],
-      "keywords": [
-        "현대백화점",
-        "IBK투자증권",
-        "목표주가",
-        "백화점 실적",
-        "밸류에이션"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.a9239fb79cc5405ab56a4c0ecfe114e0_R.png"
-    },
-    {
-      "id": "news-20261013-014",
-      "headline": "앤트로픽 연환산 매출 공개 임박에 흔들리는 AI 투자 심리",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "오픈AI의 연환산 매출 추정치를 둘러싼 논란이 반도체 관련 주가를 뒤흔든 가운데, 생성형 인공지능 기업 앤트로픽의 실적 지표가 공개를 앞두고 있습니다.\n\n월가에서는 앤트로픽의 연환산 매출 규모가 단기 투자 심리를 좌우할 핵심 변수로 작용할 가능성에 무게를 싣고 있습니다. 시장 참여자들은 인공지능 수익성에 대한 불안감이 번진 상황에서 이번 발표가 기술주 전반에 미칠 파급력을 예의주시하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다",
-          "url": "https://www.mk.co.kr/news/business/12175126"
-        }
-      ],
-      "keywords": [
-        "앤트로픽",
-        "AI 주가",
-        "연환산 매출",
-        "오픈AI",
-        "반도체"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/14/news-m.v1.20261014.9ecd76ed7c9b433d9e4929ed81a4a816_R.jpg"
-    },
-    {
-      "id": "news-20261013-015",
-      "headline": "홍라희 명예관장, 이재용 회장에 삼성전자 주식 2조6천억원어치 증여",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "홍라희 리움미술관 명예관장이 아들 이재용 삼성전자 회장에게 2조6천억원 규모의 삼성전자 주식을 증여한다.\n\n삼성전자는 홍 관장이 삼성전자 주식 1115만8천주를 이 회장에게 증여한다고 공시했으며, 실제 증여 예정일은 다음달 12일이다.\n\n이번 증여로 이 회장의 삼성전자 지분율은 1.58%에서 1.75%로 상승하고, 홍 관장의 지분율은 0.82%로 낮아진다.\n\n이로써 홍 관장이 고 이건희 회장으로부터 상속받은 삼성전자 주식은 모두 처분 및 정리된다.\n\n재계는 이번 조치가 상속세 재원 마련을 위해 받았던 주식담보대출을 상환하고 지배구조를 정리하는 수순으로 풀이하고 있다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "홍라희, 이재용에 삼성전자 주식 2조6천억 증여…이건희 유산 모두 넘겨",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282231.html"
-        },
-        {
-          "name": "문화일보",
-          "title": "[속보]홍라희 관장, 아들 이재용 회장에 삼성전자 주식 2.6조 증여",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGRllSNUNuOTVwTGl2OXM5a1RKazk3NnRwR2I2Z1ZqOTdveWpNZHYtLUZpVlZTOFlWS2FMNnNYLWpZbkFjTkM3RGNhY0I1UHgy?oc=5"
-        }
-      ],
-      "keywords": [
-        "홍라희",
-        "이재용",
-        "삼성전자",
-        "주식증여",
-        "상속세"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1013/53_17918847736832_20261013503436.webp"
-    },
-    {
-      "id": "news-20261013-016",
-      "headline": "새마을금고 공제보험 누리집 해킹으로 고객 400여명 개인정보 유출",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "새마을금고중앙회가 공제보험 누리집 해킹 공격으로 고객 400여명의 개인정보가 유출된 사실을 확인하고 금융당국에 신고했다.\n\n해킹은 한글날 연휴인 지난 10일 오후에 발생했으며, 중앙회는 사고 인지 후 나흘 만에 당국에 이 사실을 알렸다.\n\n이번 유출 정보에는 이름과 암호화된 주민등록번호, 계좌번호, 연락처, 주소, 계좌 잔액 등이 포함됐다.\n\n중앙회는 피해 고객에게 개별 통지를 진행 중이며, 정보 유출로 발생한 피해는 전액 보상하겠다는 입장을 밝혔다.\n\n금융당국은 현재 정확한 사고 경위를 조사하고 있으며, 최근 다른 금융회사들을 겨냥한 해킹 공격과의 연관성은 아직 확인되지 않았다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "새마을금고도 해킹당해…‘400여명 정보 유출’ 나흘 만에 신고",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1282190.html"
-        },
-        {
-          "name": "동아일보",
-          "title": "새마을금고 해킹에 정보 유출, 은행처럼 ‘뒷문’ 노려",
-          "url": "https://www.donga.com/news/Economy/article/all/20261014/134837230/2"
-        }
-      ],
-      "keywords": [
-        "새마을금고",
-        "개인정보유출",
-        "해킹",
-        "금융사고"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1013/53_17918803877246_20261013503141.webp"
-    },
-    {
-      "id": "news-20261013-017",
-      "headline": "코스피 나홀로 폭락 원인은 중국 기술 추격과 수급 공백",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "13일 코스피가 특별한 글로벌 악재가 없음에도 5.46% 급락하며 6035.35로 장을 마감했다. 이번 하락은 중국 반도체 업체 CXMT의 기술 추격 발표와 인공지능 산업의 자본조달 우려가 겹친 결과다.\n\n특히 국내 증시는 외국인의 지속적인 대형주 매도 공세와 삼성전자 및 SK하이닉스의 자사주 매입 종료가 맞물려 심각한 수급 공백을 드러냈다.\n\n국내 투자심리마저 얼어붙어 예탁금과 거래대금이 크게 줄어든 상태다.\n\n전문가들은 반도체 산업의 이익 추정치 유지 여부와 외국인 자금의 귀환 여부가 향후 증시 향방을 결정할 핵심 요인이라고 진단했다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "코스피 왜 홀로 폭락했나…중국 기술 추격에 ‘수급 공백’ 겹쳐",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1282178.html"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "“코스피 6천 겨우 턱걸이”…범인은 중국 반도체? [잇슈 머니]",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81LTZBQkc1a0xKWXZmaUxsUXNOenBBcERySmFId2dndW94MjBtLXZWOURVUkZ0WVpQYXluc0hydTdvcjAwSHhoWlhsU3VPZGd1YlFvU1dfckxfUFE?oc=5"
-        }
-      ],
-      "keywords": [
-        "코스피 폭락",
-        "수급 공백",
-        "중국 반도체",
-        "CXMT",
-        "외국인 순매도"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1013/53_17918783020133_20261013502973.webp"
-    },
-    {
-      "id": "news-20261013-018",
-      "headline": "중국 경제수장 허리펑, 팀 쿡 애플 CEO 회동서 협력 강화 강조",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "중국 경제수장인 허리펑 부총리가 최근 퇴임을 앞둔 애플의 팀 쿡 최고경영자와 만남을 가졌다.\n\n이번 회동에서 양측은 중국 시장 내에서의 협력 관계를 더욱 깊게 다져나갈 방안을 논의했다.\n\n중국 정부는 글로벌 기업과의 경제적 연대를 강조하며 애플의 지속적인 투자를 독려했다.\n\n팀 쿡 역시 중국 내 사업 파트너십의 가치를 언급하며 양측의 이해관계를 확인했다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "[스타트 경제] 간신히 '6천피' 사수...더 세진 중국산 메모리 쇼크, K-반도체 추월하나",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XV2c5SjNLV0dXRm5Dd3dZWlM3dmk0aF9DREY3X242RDhZRzN2QzFfQmE0OU91UTZkUmlDSmhSelEtQjBSTk14T1pqV19OSkpGV3J5MlFuLW5IVmoxZ3c?oc=5"
-        }
-      ],
-      "keywords": [
-        "허리펑",
-        "팀 쿡",
-        "애플",
-        "중국 경제",
-        "글로벌 협력"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261013-018/600/400"
-    },
-    {
-      "id": "news-20261013-019",
-      "headline": "교황, 흉부 수술 후 폐 선암 진단 확인…오른쪽 폐 일부 절제",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "레오 14세 교황이 로마 아고스티노 제멜리 대학병원에서 흉부 수술을 받은 뒤 폐 선암 진단을 받았습니다. 의료진은 완치를 목적으로 흉강경을 사용해 오른쪽 폐 하엽을 절제했으며, 수술 중 진행한 조직검사에서 폐 선암 발병 사실을 최종 확인했습니다.\n\n수술 자체는 약 90분간 이어졌고 합병증 없이 성공적으로 끝났으며, 교황은 마취에서 정상적으로 깨어났습니다. 비흡연자에게서 자주 나타나는 폐 선암은 전체 폐암의 약 40%를 차지하는 질환입니다.\n\n향후 예후를 판단하려면 종양 크기와 림프절 전이 여부를 추가로 확인해야 하지만, 교황청은 아직 세부 병기 정보를 공개하지 않았습니다. 이번 수술 일정에 따라 오는 20일까지 예정된 교황의 공식 접견은 전면 취소되었습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "교황, 오른쪽 폐 일부 절제 수술…폐암 진단 확인",
-          "url": "https://www.yna.co.kr/view/AKR20261014017800009"
-        },
-        {
-          "name": "한겨레",
-          "title": "교황 레오 14세, 폐 절제 수술 뒤 ‘암 진단’ 받아",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1282275.html"
-        }
-      ],
-      "keywords": [
-        "교황",
-        "폐 선암",
-        "폐 절제 수술",
-        "바티칸",
-        "제멜리 병원"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/etc/epa/2026/10/13/PEP20261013118901009_P2.jpg"
-    },
-    {
-      "id": "news-20261013-020",
-      "headline": "트럼프 미국 대통령, 내달 아시아 순방 중 김정은 북한 국무위원장 회동 가능성 시사",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "경제"
-      ],
-      "summary": {
-        "overview": "도널드 트럼프 미국 대통령이 다음 달 아시아 방문을 계기로 김정은 북한 국무위원장을 만날 가능성을 열어두었다.\n\n트럼프 대통령은 APEC 참석차 아시아 지역을 찾을 예정이며, 연내 두 지도자가 다시 만날 가능성에 대한 의지를 거듭 밝혔다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "트럼프 “김정은 만날 수도”…내달 아시아 순방 중 회동 가능성",
-          "url": "https://www.mk.co.kr/news/politics/12174061"
-        },
-        {
-          "name": "경향신문",
-          "title": "내달 중국 가는 트럼프 “김정은과 만날 수도”",
-          "url": "https://www.khan.co.kr/article/202610132108015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        }
-      ],
-      "keywords": [
-        "도널드 트럼프",
-        "김정은",
-        "APEC",
-        "북미정상회담"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20260930.2a8ef7f3ef5044049a793828466cf01b_R.png"
+      "image_url": "https://picsum.photos/seed/news-20261014-020/600/400"
     }
   ]
 }
