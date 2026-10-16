@@ -1,0 +1,741 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-17T08:02:27.841185+09:00",
+  "total_count": 20,
+  "news_items": [
+    {
+      "id": "news-20261016-001",
+      "headline": "유가 급등에 수입물가 4개월 만에 반등…수출물량은 16년 8개월 만에 최대 폭 상승",
+      "category": "경제",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "원·달러 환율 하락에도 불구하고 국제유가가 크게 오르면서 지난달 수입물가지수가 4개월 만에 상승 전환했습니다. 한국은행이 발표한 수출입물가지수 통계에 따르면 9월 수입물가지수는 159.37로 전월 대비 1.7% 올랐습니다. 수입물가는 지난 6월부터 3개월 연속 하락세를 이어오다 유가 상승의 영향을 받아 반등했습니다. 품목별로는 원유 가격이 오르며 광산품을 중심으로 원재료 물가가 전월 대비 9.6% 상승했습니다.\n\n반면 9월 수출물가지수는 환율 하락의 영향으로 전월 대비 0.8% 내리며 2개월 연속 하락세를 보였습니다. 국제유가 상승으로 석탄 및 석유제품은 올랐으나 대부분의 수출 품목 가격이 내렸습니다.\n\n한편 물량 기준으로 본 무역 지수는 호조세를 이어갔습니다. 9월 수출물량지수는 컴퓨터·전자·광학기기 및 기계 장비 수출 확대에 힘입어 1년 전보다 32.1% 급증했습니다. 이는 11개월 연속 상승세이자 2010년 1월 이후 16년 8개월 만에 기록한 최대 상승 폭입니다. 같은 기간 수입물량지수 역시 11.1% 증가하며 활발한 물동량을 나타냈습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "국제유가 혼조세 마감…WTI 6거래일째 상승·브렌트유는 약보합",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTVNJMmFsTHZ0TEh2UmJETjg5N0JLWUZPT1JVWnNzY3ZTNUY0NUFxc05vN2JTa2dMRzg1T0tLTUdYbjVfNV80X3lkY1RlaFdQRFA5VmM3UnhYdGM?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가 상승세에도 11차 석유 최고가격 동결",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rY1B3ckxKdGg3Z2t0OHRTSUVjWUxCeGsxZXdVaTVkdzBCVloyTW5fTUxQbFQ3SjJrZkVuNUJjOFlZcVVtY2tBRG0xclBhVm5zTTQ4Z2t5NXJJZ2lIbzhlWlE4SGRKbEdjdFNLMU5PLTZneHhY0gF0QVVfeXFMUC1zNkViYVRfX0RxVWphOGRsZ2N2R0xNSjlMRW1MellRU2dmSHA0bDV1UjY2RmFDLUF6dV9RRmhxTG1DY21UTzhLQ0xVU2VMWVRSalgzMGVTWHo4TGhWajNXRW1CeDFkelhEU2NlM3YwZ0VLRTE?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가 큰 폭 상승에 수입물가 넉 달 만에 올라‥수출물가는 하락",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YanpOSTNBaFFwLVF6LUhmS0cwNXZoaXJSakVWNlRPbzBPbzRQeW1CTFZvb1RnQ1hyX2ZSaWN4YTFubF90dTN5a0RhcUNIM24xcUJibGhVV0RYNmNTQ3V0MWJUT1FzeUd6NUR5WTk2ekFadXQ20gF0QVVfeXFMUFdxczUtYmJZQ0YyNFRqRjN1RUhBUFZJVUtueWlJRDJhdkEyUkk3TGQzTlg1ZTdLT3VZeEtSMDFHRlo4Y09laWdKZk1WWE1YcThyT0ItZ2EwVzNJcmJpN3NqRjJ6U3E5MmlSSGRXbFVwYVVmSnM?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가 혼조‥WTI 6거래일째 상승·브렌트유는 약보합",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52eFVIWHNNQmQ1QjdJZ0EybkxqazNqalpBQ2NFNldkSy14cG1WZ0RQa3VUYi1OUzNidERDLUtJT2ZuM25lWWRIeEpmSHlRYk5QWGVQRzNPbFA2NHdHUjNKaGVtc2xtUHR2ekdTWG1Fd1hPWVVL0gF0QVVfeXFMTnZ4VUhYc01CZDVCN0lnQTJuTGprM2pqWkFDY0U2V2RLLXhwbVZnRFBrdVRiLU5TM2J0REMtS0lPZm4zbmVZZEh4SmZIeVFiTlBYZVBHM09sUDY0d0dSM0poZW1zbG1QdHZ6R1NYbUV3WE9ZVUs?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "국제유가 혼조 마감...WTI 6거래일째 상승",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZTB3bnRWX0dnRkYxRkd5azlTRHYxTlRGRkJZMUhPUHpwakxaeXpjeFlsZ0k2WnczSW52ZENKNWR5U2FoY3dYSVppZkhvVjNpX09KYnp4Rk5mbTNyVlE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "다시 불붙는 호르무즈, 국제 유가 고공행진",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14T2ttQkhVUmF2dTZfcVZ2blhaWmxYVDFvaUpiQVQ1emhOVTZzWGVrclY2X3FWUnlxUnZQRDRla1gyaWt2S204ZGFWRWp0MHctYXk2aVJ0RDZHVmZMRDVkaldsMGdYNmlOZjBuVHNrSmZKNnoteEE?oc=5"
+        },
+        {
+          "name": "Khan.co.kr",
+          "title": "환율 내렸지만 유가 올라…수입물가 넉 달만에 상승",
+          "url": "https://www.khan.co.kr/article/202610160737001"
+        }
+      ],
+      "keywords": [
+        "수입물가지수",
+        "국제유가",
+        "수출물량지수",
+        "한국은행",
+        "원달러환율"
+      ],
+      "image_url": "https://img.khan.co.kr/news/2026/10/16/news-p.v1.20261016.92f2253a6f4f44d195d1fe62ec5f7c75_P1.jpg"
+    },
+    {
+      "id": "news-20261016-002",
+      "headline": "정부, 수도권 주택 연말까지 최대 23만5천호 착공 전망…연간 목표치의 최대 88%",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "정부가 올해 연말까지 수도권 주택 착공 물량을 연간 목표치인 26만8천호의 81~88% 수준인 21만8천~23만5천호로 전망했습니다. 국무조정실과 국토교통부는 16일 주택공급 정책 브리핑을 열고 잔여 공정을 차질 없이 관리해 물량을 최대한 확보하겠다고 밝혔습니다.\n\n10월 둘째 주 기준 수도권 주택 착공 실적은 연간 목표의 37%인 9만9천호에 머물렀습니다. 공공주택 착공은 목표 대비 26%인 1만6천200호에 그쳤고, 신축매입주택은 31%, 재개발·재건축 등 민간 정비사업은 23.6%로 전 부문에서 진척이 더딘 편입니다. 정부는 민간 정비사업의 규제와 분쟁을 풀기 위해 재개발 조합설립 동의율을 낮추고 정비사업 전문 중재위원회를 신설하기로 했습니다.\n\n착공과 병행해 연말까지 3기 신도시 2천호를 비롯한 공공분양 1만호와 공공임대 5천호 등 총 1만5천호 이상 입주자를 모집합니다. 내년 말까지는 공적주택 10만가구 입주를 추진하고, 주택 공급 인허가와 금융을 통합 지원하는 센터를 연내 설립해 비아파트 주택 공급도 함께 뒷받침할 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "수도권 주택 착공물량 연말까지 최대 23만호…정부 목표 대비 88% 수준",
+          "url": "https://www.hani.co.kr/arti/economy/property/1282765.html"
+        },
+        {
+          "name": "경향신문",
+          "title": "일본 정부, 미국에 “국방비 GDP 대비 3.5% 명시 보류해달라” 제안 검토 중",
+          "url": "https://www.khan.co.kr/article/202610161402001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "동아일보",
+          "title": "‘닥공’ 한다더니 올 수도권 착공 37% 그쳐… “최대 5만채 미달 전망”",
+          "url": "https://www.donga.com/news/Economy/article/all/20261016/134857689/2"
+        },
+        {
+          "name": "매일경제",
+          "title": "시작부터 흔들리는 닥공…정부 “수도권 착공 최대 5만가구 부족”",
+          "url": "https://www.mk.co.kr/news/realestate/12178242"
+        },
+        {
+          "name": "매일경제",
+          "title": "흔들리는 닥공 … \"올해 수도권 착공 최대 5만가구 차질\"",
+          "url": "https://www.mk.co.kr/news/realestate/12178097"
+        },
+        {
+          "name": "매일경제",
+          "title": "올해 착공 목표치에 한참 미달…인허가 늘어 선행지표는 회복",
+          "url": "https://www.mk.co.kr/news/realestate/12178077"
+        },
+        {
+          "name": "매일경제",
+          "title": "[속보]정부 “올 수도권 주택 착공, 목표보다 최대 5만가구 부족”",
+          "url": "https://www.mk.co.kr/news/realestate/12177748"
+        }
+      ],
+      "keywords": [
+        "수도권 주택공급",
+        "착공물량",
+        "국토교통부",
+        "공공주택",
+        "정비사업"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1016/53_17921341422945_20261016501919.webp"
+    },
+    {
+      "id": "news-20261016-003",
+      "headline": "강경화 주미대사 \"한미 정보협력 우려 완전 해소 안 돼…미북회담 진전 부족\"",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "강경화 주미한국대사가 미국 워싱턴DC에서 열린 국회 외교통일위원회 국정감사에서 한미 간 정보협력 관련 현안에 대해 입장을 밝혔습니다. 강 대사는 지난달 열린 한미 외교장관 회담 당시 상황을 언급하며, 양국 간 정보 공유 체계에 문제가 있다는 지적에 대해 우려가 아직 충분히 해소되지 않았다고 답변했습니다.\n\n이어 미북정상회담 논의 경과와 관련해서는 현재 시점에서 눈에 띨 만한 구체적인 진전이 없는 상태라고 설명했습니다. 한미 외교·안보 공조 상황을 점검하는 자리에서 나온 이번 발언은 향후 양국 정보 당국 간 소통과 협력 방안을 강화해야 한다는 과제를 보여줍니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "한미 재무·통화당국 첫 2+2 면담…“경제·금융 협력 방안 논의”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWYUQtdkROTzIzQ0xkSnR3bHVTUER2Y2pRWElRZ3U2RkhrNXR4YVg3OWVPSGU1WkpReUdadUphLWoyNGQxOEJEMVZSX1ZfcXpUeVdxWVpKZHNjQjQ?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "이 대통령 “한미 지속가능 협력 위해 ‘양방향 투자’ 이뤄져야…방위산업 잠재력 커”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Z2YtRTFCNGx5RlVxMW53VVFaeXNjU3pRQ3lQYW1Wa3BOMWdSSmJTelpLVUxDLWl1ZlR3c2tRUGVCMWp6TkhpN2UxLWg2ODRRc3VpZDB3dWEtVGc?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "한미 재무수장 화상 면담‥\"경제·금융협력 중요성 재확인\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oQ2hjWXpfWWd1RklxV1BNdUhPQWlqZU4waGNCYkktVzVzbzlqR2FlTUtTYmQxUUliZUxiODFrVE1ybTVWT1BHTmlYeWE3RWJDclppdXk5b3g3d2VQOFd2Sll5Z3VfZUNHcllLeXplREVoWnZx0gF0QVVfeXFMTmhDaGNZel9ZZ3VGSXFXUE11SE9BaWplTjBoY0JiSS1XNXNvOWpHYWVNS1NiZDFRSWJlTGI4MWtUTXJtNVZPUEdOaVh5YTdFYkNyWml1eTlveDd3ZVA4V3ZKWXlndV9lQ0dyWUt5emVERWhadnE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "한·미 재무·통화당국 첫 2+2 면담 \"경제·금융 협력 방안 논의\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UR3puV0JfTGxmeFQ2SFhGejJQM21ubkdJcG1fQlAtX1lsRUVTNy1DUXItZ3FoRTRENngwZGpxSjFKWXlTSEd0OFhZdWlHbEUxMXlWRG91OFdUbV8xaUE?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "강경화 “한미 정보협력, 문제 있단 얘기 들어…충분히 해소됐다 생각 안 해”",
+          "url": "https://www.mk.co.kr/news/politics/12174048"
+        }
+      ],
+      "keywords": [
+        "강경화",
+        "한미 정보협력",
+        "주미대사",
+        "국정감사",
+        "미북정상회담"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.5c90be60e27e41708f56207b0b4df069_R.jpg"
+    },
+    {
+      "id": "news-20261016-004",
+      "headline": "AI 투자 회의론과 유가 급등 여파로 미 증시 급락…나스닥 2.2% 하락",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스",
+        "경제",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "미국 뉴욕 증시가 AI 인프라 투자 기업의 부채 부담과 국제유가 급등 여파로 일제히 하락했습니다. 특히 기술주 중심의 나스닥 지수가 2% 넘게 밀리며 3개월 만에 가장 큰 낙폭을 기록했습니다.\n\n과도한 차입에 기반한 AI 데이터센터 확장 방식에 회의론이 퍼지면서 주요 AI 클라우드 기업과 반도체 종목을 중심으로 거센 매도세가 쏟아졌습니다. 필라델피아 반도체 지수는 8거래일 연속 내림세를 이어가며 2008년 글로벌 금융위기 이후 최장기 연속 하락 기록을 세웠습니다.\n\n지정학적 리스크로 치솟은 국제유가 역시 인플레이션 압박을 키우며 투자심리를 강하게 짓눌렀습니다. 기술주에서 이탈한 자금이 헬스케어와 금융주로 일부 유입되며 상대적인 방어력을 보였으나, 공포지수(VIX)가 급상승하는 등 시장 전반의 불안 심리는 한층 짙어졌습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "AI 경고등에 유가 급등까지…반도체 급락, 나스닥 2.2%↓(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261017005151072"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "중동도 우크라도 ‘불안’…국제유가 또 급등",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFRkNIS0N5bjNlalVPM1M1cUZJc2xsMTJoN1dGc3RVdHByTllzRE5UUkNzRFlUUjFfYUktdFFFU0xPODhxQTVEak9zdnFmQXY3TnBOdHA4NXhlOHM?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "‘AI 경고등’에 국제유가 급등까지…나스닥 2.2%↓",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42M2RwSW0xeTVQNFJieTRpSlhvYWV3NF9OYnV0VXRVd0tHcHVfYThKNk9aRHlsMERNcGVHWk1xa2dVZTZLSjFVeHdzcUREY1JQVUNNakxzVndjWTA?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가 급등‥수입물가 넉 달 만에 반등",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6M1o3MmRXYzM2cUswajQ2YjBnblF2X3JIY29wTWVTdDlKS0lMMFA1ZXNKTW5tVHE1QWZJRnJBLTZ3bkZrNkVXMThGeV9yV0VNQVJGdkxuNW9wTkRmYVdRV3BqTWJVV21NQXlUM2NwR25Xb2ZydVZ2VdIBeEFVX3lxTE1XM1NhbWdhaDZVUmxZaW8ydWo4YTY5WFlYTnRQVmxnbW1rTy12d043UDJLMlczS2RCaHpUWVNQdUtQVGNrUC1DeGNZT01lS2lvSE9FY1ZMMWUzNGdtMFRnbGU3MXpfSlg4ajhjUVJCOGdpWHREblQxeg?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "뉴욕 증시, AI 경고등·유가 급등에 동반 하락 마감",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRmkzYS1ZMHNOX2h2Q1V3aG41LVYyZzcwb2V0d0U4WDByaHZCSms3N2dxejdrb0o3YzNBeDB3SExEa0ZtNU85NjhoTTRMeF9wSTQzcnA0cHNmOUdkYkE?oc=5"
+        }
+      ],
+      "keywords": [
+        "뉴욕증시",
+        "나스닥",
+        "AI 반도체",
+        "필라델피아 반도체지수",
+        "국제유가"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/17/AKR20261017005151072_02_i_P2.jpg"
+    },
+    {
+      "id": "news-20261016-005",
+      "headline": "부산국제영화제 폐막…관객 20만 명 넘어서며 성료",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "제29회 부산국제영화제가 열흘간의 일정을 마무리하고 막을 내렸습니다.\n\n올해 영화제는 누적 관객 수 20만 명을 돌파하며 이전의 활기를 완벽히 되찾았습니다. 행사 기간 전 세계 다채로운 작품들이 상영되어 영화 팬들의 발길이 끊이지 않았습니다.\n\n아시아 신진 작가들의 신작을 소개하고 뛰어난 예술성을 지닌 명작들을 조명하는 다채로운 프로그램이 이어졌습니다. 주요 감독과 배우들이 참석하는 관객과의 대화 행사도 열기를 더했습니다.\n\n주최 측은 열렬한 성원에 감사를 표하며 내년에도 알찬 구성으로 관객들을 찾아오겠다고 밝혔습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "[잇슈 컬처] 부산국제영화제 폐막…관객 20만 명 돌파",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkMk1objVGUzF0eHlFOVNTTUt6TFN3TVhrem1OVXFYNVBSSGZoRGZ2WHRTZVI1ZG1zRHRxMXk5elJHaFFYUzc3UFd1U1R1NnZIVEdxME1IRElfLWs?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "부국제 관객 20만 돌파‥'빵과 책' 대상",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5na3QtM0tvZUxoVTM4bVNnaE52dWxBWkFLNk5SM01vRG9wVERCU09SeWNjQlZjVVU1V1BZSS1Xb1NmcHdjX0ljcFZrSF9LamJCN2JJRXNCa0tyLXVwS1RDUjNQd0ZBbV90dkF1b3ZoSGg3UEZhVTQ5NkhB0gF6QVVfeXFMTnFqTDAtd3pxRmV4U2g1WnA4SEZGYm1SQlJNQWtCcDNwdXRiSG9TZXVaM056QnlXWVhpTEpzekJZNDFyYmlucXZoeGJZcWU1cGRTM1d1X0J2RWk5eEdpSFZ5aWJfLTVTQUZIcEhKb1V2c2dHaHZmQ0o4Z2c?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "부산국제영화제 폐막‥다시 20만 관객 돌파",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BOVk2eUlkS3NWdFNhZnRtLVNLVTFQRm1aWm5TcGZ0Unpfa3c2NDFwQ0V5WDFmaEhZc2c5ZjdmVE9ZajdvRVhKM0VJeHJFSGdkUUZBOXZ6aUhwMWhFYms1Rld0cUs1elZCVEVGSV9BUEJYT3NpczdwaNIBeEFVX3lxTFBmWUVWMzc4UnJjeWwweUJGUUNWazhvZlVya0tiUzZPVVdSTlZuT2NoT1UtdjNidlM0Q1R6LUhnRjZhRnNrWXBVN2thdk40UU1sSDdyMGpNWFN1QnJvazRvSTVSM3p1bHp4UmxjeWJKc3dHV29pSGFmSg?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "제31회 부산국제영화제, 관객 20만 돌파하며 폐막…대상에는 '빵과 책'",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JZnRVUkNldlZvSEFDVVVZb3RMVkF5NlJ5ZnhHYlFGWXB6WldhSzZHbXdIS1ZFUzlzamdoSjdoWWgxWkdjS1VWZ2VGSXV3NlVUdi1xeTBvUUxFX0o4VXhSUnJ2NWVsNTR1OWlRVXZNWE1LeXB4bnc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "부산국제영화제, 관객 20만 명 넘어...2015년 이후 처음",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GMDBjckhvSHpTRWNKb0VpTmQ5Z0kzczRPZzFGTDg5cEU1THc0N0xDU3o1Qnk1LXp3RHA4TUJBRXAwek5ONkVwSC01QXppdmo2OEdmUEpnYzFNdlJjdlE?oc=5"
+        }
+      ],
+      "keywords": [
+        "부산국제영화제",
+        "영화제 폐막",
+        "관객 20만 명",
+        "영화 축제"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261016-005/600/400"
+    },
+    {
+      "id": "news-20261016-006",
+      "headline": "정부 출범 500일 맞아 여야 극명한 시각차… 여 \"민생경제 회복\" vs 야 \"끔찍한 시간\"",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "정부 출범 500일을 맞이해 여야가 서로 상반된 평가를 내놓으며 팽팽한 대립을 이어가고 있습니다.\n\n여당은 지난 500일 동안 정부가 민생 경제를 살리기 위해 다각도로 노력해 왔다고 평가했습니다. 물가 안정과 경제 활력 제고를 국정 운영의 최우선 과제로 삼아 성과를 내기 위해 집중해 왔다는 입장입니다.\n\n반면 야당은 지난 국정 운영 기간을 끔찍한 시간으로 규정하며 강하게 비판했습니다. 민생 경제 위기 속에서 국정 운영의 난맥상이 드러났으며 대대적인 정책 기조 전환이 필요하다고 주장했습니다.\n\n이처럼 정부 출범 500일을 기점으로 여야의 시각차가 명확히 드러나면서, 향후 정국 주도권을 둘러싼 여야의 공방은 한층 더 격화될 것으로 보입니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "李정부 출범 500일‥여 \"민생경제 살려\" 야 \"끔찍한 시간\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TMVA4ZklDa1QzNWZoRTRmUWRYVW9pbzFEb283cHJrYUlJWUJrZC05UWIxS180ejM1RnBxMEVCWjl6RU0yZ19Kd1BQQ0FjYTMxTG5aeUw5a19MbU1PaXppODJXQ3lCeDU3UGV2cjBGNmJIMXV3aHdkddIBeEFVX3lxTE5TMVA4ZklDa1QzNWZoRTRmUWRYVW9pbzFEb283cHJrYUlJWUJrZC05UWIxS180ejM1RnBxMEVCWjl6RU0yZ19Kd1BQQ0FjYTMxTG5aeUw5a19MbU1PaXppODJXQ3lCeDU3UGV2cjBGNmJIMXV3aHdkdQ?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "새 비서실장에 임광현 국세청장‥\"민생·경제 적임자\"",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vSWlhMEFWQWlhV1cwRzJfdmdLSFE5emoyUjVQUzFjM3ZVM0JSakp6SGJ2U2JRdnZpb2VtbGs5QmVtbm1BNDhfNGpuWGlMdV9IYVc3ZHY0VjVIRzFnNjY3ME9XQnNDa1dUeWxBOEI3NnBHQzQxLTlN0gF3QVVfeXFMTmR4MWFiUk9UWXYwVmVoMjY1RG1peUl0TFBYYVh2QTJZSXFQTzNFQURuRHhQQ2RQcUVtb1hnTXdmZlRvUTRVM1REcmVOYXZpMXVJWFFJbEdhNjVWaG1XOG5fRlhDbVJmT21jQmtYRzNXZFNid2Q2cGs?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "새 비서실장에 임광현 국세청장‥\"민생·경제 적임자\"",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCTmYzdWYyeUw5eGc4UldBVEt5RzhsNnp6UVFKLVY0a282YXNsUHhvUkZWbG9SVmJXaE1RQ1R6SjZJUEYzWThPZjBDeExiaHllMXpJZ0dxRVJiVlIzZFdxcG9RQ2h4ZU83NWZxTjJXQ040clZFRTFkNnF30gF6QVVfeXFMTnYtNktNQzdEWDZLelhJazJRM1F3RkYtMFBDVm50OTVZc1JjVkR0SVYtMjhEWnBvYUZQZmk0Zkw3T3g1dFNCREZsV1FSaGg2NjZPSnFFaGFsMEdqUWJrb0ptUG9HanZXVDYyYS1CNXJIUmRFcllpckFabXc?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "신임 비서실장 '임광현' 발탁‥\"민생 경제 적임자\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Wb1V2YUR5RFNEQW4wRlBnYTJKVjd6Um5iYU9LNmZTdENOZFU2MUJxMGViZDctMGkyN0RMNzZJc3lORnZIcDV0SDNJdzVQeXo1ZlllUkgtcVpwbGRCZVExbElHTUdpNDJlME9OYmZLN28wTU0zTGQ2eNIBeEFVX3lxTE16UXFTZVQ0OFRyNHhIT1Nla2RkNlZWNVdRU3M2NW0wN3lOOFVXeFA3cU5PbW5ZeTFuNmg3XzJDOVM0VEc5REllZ2o1RnlyektEVHNrN2NDTlBOYWhzd19ZalJ4YzdoczRQNXlLLVJiUEhFQmlOV0pSRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "정부 출범 500일",
+        "여야 평가",
+        "민생경제",
+        "국정운영",
+        "정국 공방"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261016-006/600/400"
+    },
+    {
+      "id": "news-20261016-007",
+      "headline": "국내 주유소 기름값 22주 연속 하락…국제유가는 중동 불안에 상승",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "전국 주유소 기름값이 소폭 내리며 22주 연속 하락세를 이어갔습니다. 10월 둘째 주 기준 전국 휘발유 평균 판매 가격은 지난주보다 L당 0.9원 내린 1,856.6원으로 집계됐습니다. 지역별로는 서울이 1,902.5원으로 가장 높은 가격을 기록했고 대구가 1,829.9원으로 가장 낮았습니다. 경유 평균 판매 가격 역시 전주 대비 0.5원 하락한 1,842.8원을 기록하며 휘발유와 경유 모두 1,800원대를 유지했습니다.\n\n반면 이번 주 국제 유가는 중동 지역의 정세 불안 영향으로 상승했습니다. 호르무즈 해협 내 선박 공격 증가와 후티 반군 및 사우디아라비아 간 군사 충돌 여파로 수입 원유 기준인 두바이유는 지난주보다 배럴당 0.5달러 오른 108.6달러를 나타냈습니다. 국제 유가 변동은 보통 2~3주의 시차를 두고 국내 주유소 가격에 반영됩니다.\n\n정부는 국제 유가 변동에 따른 국내 물가 자극을 줄이고자 석유 최고가격 제도를 이어가고 있습니다. 11차 석유 최고가격은 이전과 동일한 수준으로 지정해 휘발유 L당 1,784원, 경유 1,773원으로 유지했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "국내 기름값 22주 연속 하락…휘발유·경유 1천800원대 지속",
+          "url": "https://www.yna.co.kr/view/AKR20261016155700003"
+        },
+        {
+          "name": "한겨레",
+          "title": "석유 최고가격 넉 달째 유지…휘발유 1784원·경유 1773원",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282801.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "2.05% 반등한 코스피, 5660선 마감…7거래일 연속 하락 ‘브레이크’",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1282768.html"
+        }
+      ],
+      "keywords": [
+        "기름값",
+        "휘발유",
+        "경유",
+        "국제유가",
+        "석유최고가격"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/09/27/PYH2026092705960001300_P2.jpg"
+    },
+    {
+      "id": "news-20261016-008",
+      "headline": "국내 증시 약세 돌아서자 해외 가상자산 '큰손' 90% 이상 반등 베팅",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "국내 증시가 약세로 돌아서자 해외 가상자산 거래소에 상장된 한국 관련 고레버리지 선물 상품에 대규모 자금이 몰리고 있습니다.\n\n가상자산 거래소 바이낸스 집계에 따르면, MSCI 코리아 지수를 3배 레버리지로 추종하는 ETF 무기한 선물과 SK하이닉스를 기초자산으로 하는 선물의 미결제약정이 한 달 새 최고치를 갈아치웠습니다. 이들 상품의 미결제약정 규모는 원화 환산 시 각각 약 1천561억 원, 7천363억 원에 달하며 장중 거래량 역시 바이낸스 선물시장 최상위권을 기록했습니다.\n\n특히 증거금 잔액 상위 20%에 해당하는 주요 큰손 계정의 90% 이상이 주가 상승 포지션을 보유한 것으로 확인되었습니다. 삼성전자 추종 선물 역시 상승 포지션 비율이 85%를 넘어서며 해외 선물 시장 전반에 국내 증시 반등을 점치는 낙관론이 번지는 양상입니다.\n\n다만 무기한 선물은 최대 50배에 달하는 고배율 레버리지를 활용해 원금 전액 손실 위험이 크고, 국내법상 투자자 보호 테두리 밖에 있어 금융당국은 무리한 베팅에 대해 각별한 주의를 당부했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "코스피 꺾이자…해외 코인거래소 '큰손' 90% 이상 반등 베팅",
+          "url": "https://www.yna.co.kr/view/AKR20261016169500002"
+        },
+        {
+          "name": "한겨레",
+          "title": "삼전·닉스 200배 레버리지 베팅…“해외 ‘무기한 선물’ 초고위험 경고”",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1282759.html"
+        },
+        {
+          "name": "YTN",
+          "title": "코스피 7일째 하락하며 4월로 회귀...반등 시작할 바닥점 어디? [스타트 경제]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rVlh0ZTRCQTJRRHdfT2hkd2hnMS1pMmxUTTI5eFZDUUcyREkyRGhSem5UZVF6V1dUNi1UTmRIVUhmaFQ5VTB1MEhQeGM4THJsdW42T2NyQkQ1bGZXR0E?oc=5"
+        }
+      ],
+      "keywords": [
+        "가상자산",
+        "무기한선물",
+        "바이낸스",
+        "레버리지",
+        "국내증시"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/10/16/PYH2026101613340001300_P2.jpg"
+    },
+    {
+      "id": "news-20261016-009",
+      "headline": "한국은행·국세청 대구 국정감사…지역 경제 활성화 및 부실 과세 방지 대책 논의",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "한국은행과 국세청을 대상으로 한 대구 지역 국정감사에서 침체된 지역 경제를 살리기 위한 지원책과 국세행정의 허점을 보완하는 방안이 집중적으로 다뤄졌습니다. 이번 국감에서는 지역 중소기업 및 소상공인을 향한 금융 지원 확대와 함께, 실질적인 경기 회복을 끌어낼 수 있는 정책적 노력이 필요하다는 지적이 이어졌습니다.\n\n동시에 국세청의 부실 과세 문제를 개선해야 한다는 목소리도 높았습니다. 무리한 과세로 인한 납세자의 불편을 줄이고 행정 신뢰도를 높이기 위해 과세 전 검증 절차를 강화해야 한다는 대책이 제시되었습니다. 국회와 관련 기관들은 이번에 제시된 의견을 바탕으로 지역 경제 세부 지원책과 과세 행정 개혁 방안을 정비해 나갈 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "한은·국세청 대구 국감…“지역 경제 지원·부실 과세 개선”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhaGg2VnRLS1lrZkJ1SG9DekFITmx1VDljazl3V1UzTGwzZGRuTUJOWFllUXR2TENtRDV6XzBHQVJhcmd3TGF0dlZ3cGpHYy1KLVpRclNqWHpLSDA?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "지역경제 성적표 받는 데 30개월…시·군 GRDP ‘뒷북’",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIczhtXy1CVXBSeWpyUHpwYWg5eGJDUkVDVnV5OXlheFk0NllYQnJ0dEdYZXQ4T1JqYkNsYXF3Y3JMMlktcllYakxtSDgtMUJVZHpxVjJpTk5FZEk?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "체전 성화 타올라…지역 경제에도 훈풍?",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKT1NaVHlPajhvTVJlTFVkUkZBbUJfdnliMkVaME5KNk9qVEVtb0pkTEVZXzhNMlJtZHI3aVMtR3FMdENVTWtTb3Q4YkVuNXdjZUNFdjVrYUcwUmxsYW0zN1otM3ZOdw?oc=5"
+        }
+      ],
+      "keywords": [
+        "국정감사",
+        "한국은행",
+        "국세청",
+        "지역경제",
+        "부실과세"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261016-009/600/400"
+    },
+    {
+      "id": "news-20261016-010",
+      "headline": "북한, 동해상서 잠수함발사순항미사일 시험발사…수중 핵 타격 능력 과시",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "북한이 동해상에서 잠수함발사전략순항미사일(SLCM) 2종의 시험발사를 감행하며 수중 무장 능력을 선보였습니다. 이번 발사는 3,000톤급 전술핵공격잠수함인 '김군옥영웅함'을 활용한 첫 실제 무장 시험으로 분석됩니다.\n\n북한은 여러 종류의 미사일을 섞어 쏘는 무작위 발사 방식으로 한미 양국의 방공망에 부담을 주려는 계산을 드러냈습니다. 수중에서 기습 발사되는 순항미사일은 탐지와 추적이 까다로워 한반도 전역은 물론 주일미군기지까지 직접적인 위협을 가할 수 있습니다.\n\n이번 시험으로 수중 핵 타격 플랫폼의 운용 가능성을 과시한 북한은 도발 수위를 한층 끌어올렸습니다. 한미 군 당국은 북한의 신형 무기 체계 동향을 면밀히 추적하며 공조 대비태세를 강화하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "北 “14일 동해서 잠수함순항미사일 시험발사”…한반도·주일미군기지 타격 과시",
+          "url": "https://www.mk.co.kr/news/politics/12176611"
+        },
+        {
+          "name": "매일경제",
+          "title": "[속보] 북한 “어제 동해서 잠수함발사 전략순항미사일 2종 시험발사”",
+          "url": "https://www.mk.co.kr/news/politics/12176332"
+        },
+        {
+          "name": "매일경제",
+          "title": "북한 탄도미사일 또 발사....강해지는 도발",
+          "url": "https://www.mk.co.kr/news/politics/12173426"
+        }
+      ],
+      "keywords": [
+        "북한",
+        "잠수함발사순항미사일",
+        "SLCM",
+        "김군옥영웅함",
+        "방공망"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.b3bf2f854afb4050aef2054791ff76b4_R.jpeg"
+    },
+    {
+      "id": "news-20261016-011",
+      "headline": "부평 산곡역자이힐스테이트&하늘채 등 내주 전국 6천734가구 분양",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "10월 넷째 주 전국 13곳에서 오피스텔과 공공지원 민간임대, 조합원 취소분을 포함해 총 6천734가구가 청약 일정을 시작한다.\n\n수도권 주요 단지로는 인천 부평구 산곡6구역을 재개발하는 '산곡역자이힐스테이트&하늘채'가 꼽힌다. 총 2천706가구 규모 중 전용면적 50∼84㎡ 1천289가구를 일반에 분양한다. 지하철 7호선 산곡역과 가까워 환승 없이 서울 강남권으로 이동할 수 있으며 주요 고속도로 접근성과 교육·녹지 환경을 갖췄다. 경기 양주시에서는 '옥정중앙역 대방 디에트르II' 오피스텔 853실, 경기 성남시에서는 '힐스테이트 성남메트로블' 오피스텔 189실을 각각 공급한다.\n\n지방에서는 충남 아산시 '아산 그랑시티필하우스' 1천380가구, 충북 청주시 '청주 가경 아이파크 7·8단지' 1천671가구, 부산 연제구 '연제갤러리자이' 459가구 등이 청약 접수를 받는다. 아산 그랑시티필하우스는 KTX 천안아산역과 1호선 아산역을 이용하기 쉽고 삼성디스플레이시티 등 주요 산업시설과 인접한 입지 조건을 갖추고 있다.\n\n아울러 반도건설이 인천 계양구 동양동 일원에 조성하는 '계양신도시 카이브 유보라' 견본주택이 오는 23일 문을 열고 방문객을 맞이할 예정이다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "부평 산곡역자이힐스테이트&하늘채 등 6천734가구 내주 분양",
+          "url": "https://www.yna.co.kr/view/AKR20261016152400003"
+        }
+      ],
+      "keywords": [
+        "청약",
+        "분양",
+        "산곡역자이힐스테이트&하늘채",
+        "부동산",
+        "아파트"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016152400003_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261016-012",
+      "headline": "식품·외식업계, 수능 특수·시즌 한정 및 저당 라인업 등 신제품 대거 출시",
+      "category": "비즈니스",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "식품 및 외식업계가 수능 시즌 특수, 프리미엄 협업, 저당 트렌드 등을 반영한 신제품을 잇달아 선보냈습니다.\n\n해태제과는 수능을 앞두고 '만루홈런볼' 응원 에디션을 출시했으며, 풀무원은 특등급 국산 서리태를 담은 두유를 내놓았습니다. 롯데웰푸드는 프리미엄 케이크 브랜드 치플레와 협업해 주요 제품의 시즌 한정판을 공개했습니다.\n\n외식 및 베이커리 브랜드의 출시도 잇따랐습니다. 투썸플레이스는 프랑스 전통 디저트 크렘브륄레를 재해석한 케이크를, 파리바게뜨는 다채로운 치즈 풍미의 베이커리 신제품을 내놓았습니다. 뚜레쥬르는 흑임자와 고구마 등을 활용한 간식빵 5종을 선보였습니다.\n\n건강을 고려한 저당 라인업과 인기 메뉴 재출시도 눈길을 끕니다. CJ프레시웨이와 동원홈푸드는 저당 드레싱과 알룰로스를 활용한 저당 맛술을 각각 출시했습니다. 버거킹은 블랙 트러플을 활용한 신제품을, 맘스터치는 과거 인기 메뉴였던 햄치즈휠렛버거를 다시 판매하기 시작했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "[신상잇슈] 해태제과 '만루홈런볼'·풀무원 '특등급 국산콩 두유 서리태'",
+          "url": "https://www.yna.co.kr/view/AKR20261016064800030"
+        }
+      ],
+      "keywords": [
+        "식품업계",
+        "신제품",
+        "저당식품",
+        "외식 브랜드",
+        "시즌 한정"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016064800030_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261016-013",
+      "headline": "\"무서워서 안 간다\"…흉기난동 여파에 침체하는 지역 상권",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "최근 인천 구월동을 비롯해 서울 신림동, 성남 서현역 등에서 발생한 흉기난동 사건이 지역 상권에 치명적인 타격을 주고 있습니다. 강력 범죄가 발생한 장소에 대한 시민들의 불안감이 커지면서 해당 지역으로의 방문 기피 현상이 확산하는 모습입니다.\n\n실제로 사건 발생 이후 유동인구가 줄고 상가 폐업률이 가파르게 상승했습니다. 2023년 신림동 사건 당시 외식업 폐업률은 한 분기 만에 크게 올랐으며, 지역 명소로 자리 잡았던 순대타운조차 손님이 끊겨 상권 회복에 큰 어려움을 겪고 있습니다. 범죄 여파는 상권을 넘어 해당 지역의 부동산 임대 시장에도 영향을 미쳤습니다.\n\n이러한 방문 기피 현상은 강력 사건 발생지를 넘어 안전성 신뢰가 흔들린 다른 지역에서도 비슷하게 나타납니다. 전문가들은 심리적 위축에 따른 지역 경제 침체를 막기 위해 지자체 차원의 적극적인 이미지 개선과 상권 회복 지원책이 필요하다고 강조합니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "\"무서워서 안 간다\"…흉기난동 사건에 얼어붙는 지역 상권",
+          "url": "https://www.yna.co.kr/view/AKR20261016169300004"
+        }
+      ],
+      "keywords": [
+        "흉기난동",
+        "지역상권",
+        "방문기피",
+        "폐업률",
+        "유동인구"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/10/14/PYH2026101417230006500_P2.jpg"
+    },
+    {
+      "id": "news-20261016-014",
+      "headline": "불황 장기화 속 한계 내몰린 기업·가계…법인파산 4년 새 2.4배 급증",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "경기 침체가 길어지면서 채무를 감당하지 못해 법원에 파산을 신청하는 법인이 급증했습니다. 국회 법제사법위원회 박지원 의원실이 사법연감 자료를 분석한 결과, 지난해 법원 접수 법인파산 신청은 2천282건으로 집계됐습니다.\n\n2021년 955건이던 법인파산 신청은 매년 꾸준히 늘어 4년 만에 2.4배 수준으로 뛰었습니다. 같은 기간 회생합의 사건이 84% 늘어난 것과 비교하면 법인파산 증가율은 139%에 달해 사업을 정리하는 기업이 훨씬 빠른 속도로 늘고 있습니다.\n\n가계 경제의 부실 위험도 커졌습니다. 일정한 소득이 있어도 빚을 갚지 못해 법원을 찾은 개인회생 신청은 2021년 8만1천30건에서 14만9천147건으로 84.1% 증가했습니다. 반면 소득이 전혀 없는 채무자가 신청하는 개인파산은 연간 4만 건 안팎을 유지했습니다.\n\n담보권을 실행하기 위한 부동산 경매 신청 역시 4년 만에 59.9% 늘어난 9만9천296건을 기록했습니다. 박지원 의원은 이번 통계가 한계 상황에 놓인 서민과 소상공인의 실태를 드러낸다며, 관련 사건을 법원이 신속하게 처리해 민생 부담을 덜어야 한다고 강조했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "불황 장기화에 빚 감당 못하는 기업…법인파산 4년새 2.4배로",
+          "url": "https://www.yna.co.kr/view/AKR20261016169600004"
+        }
+      ],
+      "keywords": [
+        "법인파산",
+        "개인회생",
+        "사법연감",
+        "부동산경매",
+        "채무불이행"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016169600004_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261016-015",
+      "headline": "가수 전진·류이서 부부, 시험관 시술 끝 유산 소식 전해",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "가수 전진의 아내 류이서가 시험관 시술을 통해 임신에 성공했으나 안타깝게 유산했다는 소식을 밝혔습니다.\n\n류이서는 유튜브 채널 '내사랑 류이서'를 통해 배아 이식 과정 이후 상황을 전하며 마음속 깊은 심경을 털어놓았습니다.\n\n영상을 통해 잠깐이라도 찾아와 준 아기에게 고마운 마음을 표하며 끝내 눈물을 보여 안타까움을 자아냈습니다.\n\n갑작스러운 아픔을 전한 전진·류이서 부부를 향해 많은 이들의 따뜻한 위로와 응원의 목소리가 이어지고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“잠깐이라도 찾아와 준 아기 고맙다”…유산 소식 전한 전진 아내, 끝내 눈물",
+          "url": "https://www.mk.co.kr/news/culture/12178363"
+        },
+        {
+          "name": "매일경제",
+          "title": "“미국으로 왔다”…17세 연상 아내 미나와 별거 소식 전한 류필립, 무슨일이",
+          "url": "https://www.mk.co.kr/news/culture/12178360"
+        }
+      ],
+      "keywords": [
+        "전진",
+        "류이서",
+        "시험관 시술",
+        "유산"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261017.22edf1fd3681411abf5bd8e356a4939e_R.png"
+    },
+    {
+      "id": "news-20261016-016",
+      "headline": "문원재 한국체대 총장 \"선수 진로 위해 체육 병역특례 제도 유지 필요\"",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "아시안게임 등 주요 국제 대회 성적에 따른 체육 분야 병역특례 제도를 둘러싸고 사회적 논의가 이어지는 가운데, 문원재 한국체육대학교 총장이 제도 유지의 필요성을 피력했습니다. 문 총장은 학생 선수들이 기량을 다지고 전문 체육인으로 성장하기 위해서는 커리어 단절을 막는 병역 지원 정책이 필수적이라고 설명했습니다.\n\n다만 제도 개편이나 유지 과정에서 종목별 특수성을 세심하게 살피고 국민적 여론과 형평성을 함께 고려해야 한다는 점도 강조했습니다. 선수 생명이 비교적 짧은 엘리트 스포츠 현장의 현실을 감안한 합리적인 제도적 보완이 요구됩니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "아시안게임 병역특례 논란에…한국체대 총장 “매우 필요”",
+          "url": "https://www.mk.co.kr/news/politics/12178353"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "병무청장 \"병역특례, 국제대회 1위만 인정\"",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95SWVHWTZURVE3X1NEYU5uTGtjTmw2VndTbU12N01Ndnhqc2Fua2ZvZXBXZ2hiRWlTTjRvNGdGUENvMHJUbUFiQm40Z2swb1hHSFFzckN4c1hnTnd2ME4yaTZ2LWZudVQ0Tnh1RkhLVnNSRDVWUWZ2a1N30gF6QVVfeXFMTk92a2FtNzFleW94ZFhJeDloU1FoZEh2XzFvX3MyZjdRWEFJaWZxUmoxcnBjM0xnTWRzN3FWMk9vRl9fM0V4VmFMRWVCQ1Jqb3VHeXdzZkN0UVBObVpQSWtOdFdMRl9JVDNPNHo0UGFmTUhfWFJyMWU3Rmc?oc=5"
+        }
+      ],
+      "keywords": [
+        "한국체대",
+        "병역특례",
+        "문원재",
+        "체육정책",
+        "아시안게임"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261006.d1d5e0b47def4f4a92a18da785fd0c0c_R.png"
+    },
+    {
+      "id": "news-20261016-017",
+      "headline": "투자 시점에 따라 엇갈린 성적표…국내외 증시와 금 투자 수익률 격차 심화",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "올해 초 동일한 자금을 투입했더라도 투자 자산과 진입 시점에 따라 자산 가치가 크게 엇갈린 것으로 나타났습니다. 연초 국내 대표 주가지수에 100만원을 투자한 경우 현재 평가액은 137만원으로 늘어났지만, 매수 타이밍에 따라 결과는 전혀 다르게 나타났습니다.\n\n지수 고점이었던 지난 7월에 동일한 금액을 투자한 경우에는 현재 평가액이 67만원으로 급감하며 큰 손실을 기록했습니다. 이는 투자 대상의 다양화 못지않게 시장 진입 시점과 자금 운용 계획이 수익률에 절대적인 영향을 미친다는 점을 보여줍니다.\n\n전문가들은 단순히 여러 자산에 나누어 담는 분산투자만으로는 손실 위험을 완전히 피하기 어렵다고 분석합니다. 따라서 투자 자금을 실제로 집행하고 회수하는 시점을 면밀히 계산해 위험 관리 전략을 수립해야 한다고 강조합니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“같은 날 100만원 넣었는데”…국장·미장·금, 지금 얼마 됐을까",
+          "url": "https://www.mk.co.kr/news/stock/12178352"
+        }
+      ],
+      "keywords": [
+        "투자수익률",
+        "국내증시",
+        "미국증시",
+        "금투자",
+        "분산투자"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261016.cc68404aafc74607b1d32445403cfa78_R.png"
+    },
+    {
+      "id": "news-20261016-018",
+      "headline": "이형일 부총리, G20·G7 무대서 공급망 회복과 미래 AI 투자 협력 촉구",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "이형일 부총리 겸 재정경제부 장관이 취임 후 첫 다자 국제무대인 주요 20개국(G20) 재무장관 회의에 참석해 공급망 회복력 제고와 미래 성장동력 투자를 제안했습니다. 이 부총리는 지정학적 긴장에 따른 공급망 교란과 고물가·고금리 대응, 인공지능(AI)을 중심으로 한 신성장 동력 발굴을 글로벌 경제의 핵심 과제로 짚었습니다.\n\n한국 대표로는 처음으로 주요 7개국(G7) 재무장관 회의에 두 번 연속 초청받아 글로벌 불균형 해소 방안을 논의했습니다. 특정 국가의 경상수지 흑자 누적에 대응하기 위해 광범위한 거시경제 정책과 구조개혁이 필요하며, G7을 넘어 G20 차원의 포괄적 협력이 뒷받침되어야 한다고 밝혔습니다.\n\n주요국 재무장관들과의 양자 면담도 연이어 진행했습니다. 싱가포르와는 테마섹 운영 노하우를 바탕으로 한국형 전략 국부펀드 설립 협력을 논의했고, 독일과는 핵심광물 공급망 확보 및 전통 제조업 기반의 피지컬 AI 협력 방안을 다뤘습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "이형일, 첫 다자무대서 “G20, 공급망 회복·미래 성장 동력에 투자해야”",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282758.html"
+        },
+        {
+          "name": "YTN",
+          "title": "현대차, 인도에 신공장...\"글로벌 성장 동력\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zaHNCVXl1a2tab0g0NTFqZEdxZ0lvbHk4cGc4QkstREZSWFZ3ZmdHemR6TERvVWNwbGczSDNKMFFZNG1RQ1NnbDlncHlfMVdlSW44Q3d1VUhYUXR5LWc?oc=5"
+        }
+      ],
+      "keywords": [
+        "이형일",
+        "G20",
+        "공급망",
+        "글로벌 불균형",
+        "국부펀드"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1016/53_17921329020587_20261016501840.webp"
+    },
+    {
+      "id": "news-20261016-019",
+      "headline": "이 대통령, 국가경제 성과를 국민 삶 속 체감 결실로 연결 강조",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "이 대통령이 국가 경제 전반에서 거둔 성과가 국민 개개인의 실질적인 삶 속 결실로 이어져야 한다고 밝혔습니다. 거시적 경제 지표 개선에만 머무르지 않고 민생 현장에서 국민이 직접 체감할 수 있는 성과를 내야 한다는 점을 분명히 했습니다.\n\n정부는 경제 회복의 온기가 사회 곳곳으로 고르게 퍼질 수 있도록 정책 역량을 집중할 방침입니다. 물가 안정과 일자리 창출, 내수 활성화 등 서민 생활과 맞닿은 핵심 분야에 행정력을 모아 체감 경기 개선을 이끌어내겠다는 계획입니다. 거시 경제 성과와 민생 현장 사이의 간극을 좁히는 실효성 있는 정책 집행에 무게를 싣고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "이 대통령 “국가경제 전체 성과 국민 삶 속 결실로 이어지도록 해야”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SNnJDQVpxeVpUZUlRcmJSdkJhMlFLa2gtcm1CMVJJVU8tLU55QS1tc2pyNW9Oc0NWX1RDN0tSLW0wdm1nVHdmZzhLNmZzbXQ3QkN2UThicTZjeHc?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "'성과' 눈여겨본 대통령‥경제·실무형으로 위기 돌파",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YaV8zaC1KbUlsaFRNLTdqTFNvWWM2S3FsVW9TZWFaSjBkWlVMWEhmLVFPUXMwTHY3WEkxNGZaMmdzU3lMUW5Ndy1UeVBMV3phTlF0MU1VRkhwRXRNcG9ldEl2NVZyWmJyQkFNeFhMY2p1dUw0eDV6S9IBeEFVX3lxTFBsR2V1M3MxcmY2V0tqeFRSeTFsZENtT2NZVnliZ2ZkNXlZX1ZfZHUyb2o0VGkwSDdUMkFXVUZTX3g3dWtaRGZvQk45bVBqY0YxMFBoMTlMMk9BbzkwQVh6djJDYjR3dHNXdTN4elZmdzlydlduWWNFdw?oc=5"
+        }
+      ],
+      "keywords": [
+        "국가경제",
+        "민생경제",
+        "체감경기",
+        "경제성과",
+        "정책집행"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261016-019/600/400"
+    },
+    {
+      "id": "news-20261016-020",
+      "headline": "다카이치 일본 총리, 야스쿠니 신사 추계 예대제 공물 봉납…직접 참배는 보류",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "다카이치 사나에 일본 총리가 도쿄 야스쿠니 신사의 추계 예대제 시작에 맞춰 공물을 봉납했습니다.\n\n다카이치 총리는 '내각총리대신 다카이치 사나에' 명의로 '마사카키'라 불리는 공물을 보냈으며, 사흘간 이어지는 제사 기간 직접 참배는 하지 않을 방침입니다.\n\n과거 자민당 총재 취임 전에는 정기적으로 신사를 찾았으나, 지난해 10월 당 총재와 총리 자리에 오른 이후에는 직접 방문 대신 공물 봉납이나 사비 대금 납부 등의 방식을 취하고 있습니다.\n\n야스쿠니 신사는 근대 일본의 주요 내전과 침략 전쟁에서 숨진 246만여 명을 합사한 곳으로, 도조 히데키 전 총리를 비롯한 태평양전쟁 A급 전범 14명이 함께 안치되어 있어 외교적 논란이 이어져 왔습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "다카이치, 야스쿠니 신사에 공물 봉납…\"참배는 보류할 듯\"",
+          "url": "https://www.yna.co.kr/view/AKR20261017010600073"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "[속보] 다카이치, 야스쿠니 신사에 공물 봉납",
+          "url": "https://www.yna.co.kr/view/AKR20261017009700073"
+        }
+      ],
+      "keywords": [
+        "다카이치 사나에",
+        "야스쿠니 신사",
+        "추계 예대제",
+        "공물 봉납",
+        "마사카키"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/17/AKR20261017010600073_01_i_P2.jpg"
+    }
+  ]
+}
