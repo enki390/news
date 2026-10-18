@@ -1,65 +1,18 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-18T07:31:26.273555+09:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-19T07:33:32.891476+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261017-001",
-      "headline": "정부, 수도권 연말 주택 착공 목표의 최대 88% 전망…투명성 높여 공급 속도 낸다",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "정부가 올해 연말까지 수도권 주택 착공 물량을 목표치(26만 8천 호)의 81~88% 수준인 최대 23만 5천 호로 전망했습니다.\n\n현재 10월 둘째 주까지 집계된 수도권 착공 실적은 9만 9천 호로, 목표 대비 37% 수준에 그치며 공공과 민간 전 부문에서 부진한 상황입니다. 공공주택 착공은 목표의 26%, 민간 정비사업은 23.6%에 머물렀습니다.\n\n국토교통부는 착공 실적을 올리기 위해 정비사업 현장의 규제 완화와 중재위원회 신설 등 제도 개선을 적극 추진하고 있습니다. 이와 함께 연말까지 3기 신도시를 포함한 공공주택 1만 5천 호 이상에 대해 입주자를 모집하고, 내년 말까지 수도권에 공적주택 10만 가구 입주를 진행할 방침입니다.\n\n정부는 주택공급 정책에 대한 국민 체감도를 높이기 위해 격주로 정례 브리핑을 열고, 국토부 홈페이지에 '주택공급 상황판'을 만들어 공급 일정과 진행 상황을 지속적으로 공개할 계획입니다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "수도권 주택 착공물량 연말까지 최대 23만호…정부 목표 대비 88% 수준",
-          "url": "https://www.hani.co.kr/arti/economy/property/1282765.html"
-        },
-        {
-          "name": "매일경제",
-          "title": "시작부터 흔들리는 닥공…정부 “수도권 착공 최대 5만가구 부족”",
-          "url": "https://www.mk.co.kr/news/realestate/12178242"
-        },
-        {
-          "name": "매일경제",
-          "title": "흔들리는 닥공 … \"올해 수도권 착공 최대 5만가구 차질\"",
-          "url": "https://www.mk.co.kr/news/realestate/12178097"
-        },
-        {
-          "name": "매일경제",
-          "title": "올해 착공 목표치에 한참 미달…인허가 늘어 선행지표는 회복",
-          "url": "https://www.mk.co.kr/news/realestate/12178077"
-        },
-        {
-          "name": "매일경제",
-          "title": "[속보]정부 “올 수도권 주택 착공, 목표보다 최대 5만가구 부족”",
-          "url": "https://www.mk.co.kr/news/realestate/12177748"
-        }
-      ],
-      "keywords": [
-        "수도권 주택공급",
-        "착공물량",
-        "국토교통부",
-        "공공주택",
-        "주택공급 상황판"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1016/53_17921341422945_20261016501919.webp"
-    },
-    {
-      "id": "news-20261017-002",
-      "headline": "국제유가 급등에 수입물가 4개월 만에 반등…수출물가는 하락",
+      "id": "news-20261018-001",
+      "headline": "국제유가 상승에 수입물가 4개월 만에 반등… 수출물가는 하락",
       "category": "경제",
       "categories": [
         "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "국제유가가 큰 폭으로 오르면서 국내 수입물가지수가 넉 달 만에 상승세로 돌아섰습니다.\n\n원유를 비롯한 주요 원자재 가격 오름세가 수입 물가를 밀어올린 주된 원인으로 지목됩니다.\n\n반면 수출물가는 하락세를 나타내며 수입물가와 상반된 흐름을 보였습니다.\n\n수출입 물가의 서로 다른 움직임은 글로벌 시장 환경과 품목별 수급 차이에 따른 결과로 풀이됩니다.\n\n국제 유가 상승에 따른 수입 물가 부담이 향후 국내 물가 전반에 영향을 미칠지 주시할 필요가 있습니다."
+        "overview": "국제유가가 큰 폭으로 오르며 잠잠했던 수입물가가 넉 달 만에 다시 상승세로 돌아섰습니다. 원유 등 원자재 가격 오름세가 수입 물가를 끌어올리는 주요 요인으로 작용했습니다.\n\n반면 수출물가는 원화 환율 변동과 일부 주력 품목의 가격 하락 여파로 내림세를 기록했습니다. 수입물가 상승은 시차를 두고 국내 소비자물가에 반영될 수 있어 물가 안정 흐름에 부담을 줄 수 있습니다. 수출입물가의 상반된 흐름이 향후 교역조건과 기업 실적에 어떤 영향을 미칠지 교역 동향을 면밀히 살필 필요가 있습니다."
       },
       "publishers": [
         {
@@ -69,13 +22,28 @@
         },
         {
           "name": "KBS 뉴스",
+          "title": "‘AI 경고등’에 국제유가 급등까지…나스닥 2.2%↓",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42M2RwSW0xeTVQNFJieTRpSlhvYWV3NF9OYnV0VXRVd0tHcHVfYThKNk9aRHlsMERNcGVHWk1xa2dVZTZLSjFVeHdzcUREY1JQVUNNakxzVndjWTA?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
           "title": "중동도 우크라도 ‘불안’…국제유가 또 급등",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFRkNIS0N5bjNlalVPM1M1cUZJc2xsMTJoN1dGc3RVdHByTllzRE5UUkNzRFlUUjFfYUktdFFFU0xPODhxQTVEak9zdnFmQXY3TnBOdHA4NXhlOHM?oc=5"
         },
         {
           "name": "KBS 뉴스",
-          "title": "‘AI 경고등’에 국제유가 급등까지…나스닥 2.2%↓",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42M2RwSW0xeTVQNFJieTRpSlhvYWV3NF9OYnV0VXRVd0tHcHVfYThKNk9aRHlsMERNcGVHWk1xa2dVZTZLSjFVeHdzcUREY1JQVUNNakxzVndjWTA?oc=5"
+          "title": "국제유가 혼조세 마감…WTI 6거래일째 상승·브렌트유는 약보합",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTVNJMmFsTHZ0TEh2UmJETjg5N0JLWUZPT1JVWnNzY3ZTNUY0NUFxc05vN2JTa2dMRzg1T0tLTUdYbjVfNV80X3lkY1RlaFdQRFA5VmM3UnhYdGM?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가 상승세에도 11차 석유 최고가격 동결",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rY1B3ckxKdGg3Z2t0OHRTSUVjWUxCeGsxZXdVaTVkdzBCVloyTW5fTUxQbFQ3SjJrZkVuNUJjOFlZcVVtY2tBRG0xclBhVm5zTTQ4Z2t5NXJJZ2lIbzhlWlE4SGRKbEdjdFNLMU5PLTZneHhY0gF0QVVfeXFMUC1zNkViYVRfX0RxVWphOGRsZ2N2R0xNSjlMRW1MellRU2dmSHA0bDV1UjY2RmFDLUF6dV9RRmhxTG1DY21UTzhLQ0xVU2VMWVRSalgzMGVTWHo4TGhWajNXRW1CeDFkelhEU2NlM3YwZ0VLRTE?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가 급등‥수입물가 넉 달 만에 반등",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6M1o3MmRXYzM2cUswajQ2YjBnblF2X3JIY29wTWVTdDlKS0lMMFA1ZXNKTW5tVHE1QWZJRnJBLTZ3bkZrNkVXMThGeV9yV0VNQVJGdkxuNW9wTkRmYVdRV3BqTWJVV21NQXlUM2NwR25Xb2ZydVZ2VdIBeEFVX3lxTE1XM1NhbWdhaDZVUmxZaW8ydWo4YTY5WFlYTnRQVmxnbW1rTy12d043UDJLMlczS2RCaHpUWVNQdUtQVGNrUC1DeGNZT01lS2lvSE9FY1ZMMWUzNGdtMFRnbGU3MXpfSlg4ajhjUVJCOGdpWHREblQxeg?oc=5"
         },
         {
           "name": "MBC 뉴스",
@@ -87,249 +55,170 @@
         "국제유가",
         "수입물가",
         "수출물가",
-        "원자재",
-        "물가동향"
+        "소비자물가",
+        "환율"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261017-002/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261018-001/600/400"
     },
     {
-      "id": "news-20261017-003",
-      "headline": "딥엑스, 인텔·AMD와 기술 협력 논의…삼성 2나노 공정 기반 AI 반도체 개발 속도",
-      "category": "IT/과학",
+      "id": "news-20261018-002",
+      "headline": "다카이치 일본 총리 취임 1년, 압도적 '1강' 구축했으나 지지율 하락 속 시험대",
+      "category": "글로벌",
       "categories": [
         "경제",
-        "비즈니스",
-        "글로벌",
-        "IT/과학"
+        "글로벌"
       ],
       "summary": {
-        "overview": "국내 AI 반도체 기업 딥엑스가 인텔, AMD 등 글로벌 빅테크 기업들과 손잡고 온디바이스 및 피지컬 AI 시장 공략에 박차를 가하고 있습니다.\n\n딥엑스는 인텔의 AI 추론 소프트웨어 '오픈VINO'에 자사 신경망처리장치(NPU)를 연동하는 작업을 진행하고 있으며, 내년 초 초기 결과물을 선보일 예정입니다. 최근에는 AMD 리사 수 회장과 만나 개방형 생태계 구축 방안을 공유하고 후속 실무 협의를 준비하기로 합의했습니다.\n\n차세대 반도체 개발 과정에서는 이달 삼성전자 2나노 공정 제품의 테이프아웃을 진행하며 내년 상반기 첫 시제품 출시를 목표로 잡았습니다. 아울러 아마존웹서비스(AWS) 및 엔비디아 로봇 개발 플랫폼과의 소프트웨어 연동을 마쳐 로봇 AI 모델 배포 체계도 갖췄습니다.\n\n현재 딥엑스는 지난 1년간 10개국 이상에서 77건의 구매주문을 수주했으며, 해외 지사 설립과 기업공개(IPO)를 통해 글로벌 시장 진출을 본격화하고 있습니다."
+        "overview": "일본 첫 여성 총리인 다카이치 사나에 정권이 출범 1년을 맞았습니다. 당내 기반이 약했던 비주류 출신이었지만, 출범 초기 70%에 달하는 높았던 지지율을 바탕으로 중의원 조기 해산이라는 승부수를 던져 대승을 거두며 단숨에 '1강' 체제를 구축했습니다.\n\n소탈한 면모와 직관적인 화법으로 대중적 인기를 모은 다카이치 총리는 방위력 강화와 확장 재정 정책을 주도하며 국정 주도권을 잡았습니다. 하지만 최근 각료의 부정 의혹 사퇴와 함께 고물가, 엔화 약세 등 경제적 악재가 겹치면서 내각 지지율은 처음으로 50% 아래인 49.1%로 떨어졌습니다.\n\n'강한 일본'을 내세운 투자 및 가계 지원책이 서민 경제 부담으로 이어질 수 있다는 지적이 나오는 가운데, 앞으로의 경제 성과와 민심 회복 여부가 다카이치 정권의 향후 정치적 운명을 가를 핵심 변수로 떠오르고 있습니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "[만나보니] 딥엑스 김녹원 \"인텔과 기술협력 본격화…AMD와도 논의\"",
-          "url": "https://www.yna.co.kr/view/AKR20261016157300017"
+          "name": "KBS 뉴스",
+          "title": "중간선거앞 트럼프 지지율 잇단 최저치…경제 정책 반대 70%",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aOFJVeDR2UGVJQUEyWExFSm9INmIwbTFsYUNDdnd2MUZvWGFHbjNOOG1yRU5aQUp6a2xBcS1DbVdtZW8zZFVTcFNnM2gzc1V2RmQ2WXhUV3RuMnM?oc=5"
         },
+        {
+          "name": "YTN",
+          "title": "중간선거 앞 트럼프 지지율 최저치...경제정책 반대 70%",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3cjAxTE84ekx1ODQzMnhsLTViQjNJcVFSei1rTzR5b2p1bFl0dkFfQWRmSWlORGJJUUwxVnhDOU55OE4xcUI2QW51TGk2RUItcmxPRjFmQWJSTlgySGc?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "다카이치 정권 출범 1년…돌풍속 '1강 체제'·경제정책은 시험대",
+          "url": "https://www.yna.co.kr/view/AKR20261018046900073"
+        },
+        {
+          "name": "경향신문",
+          "title": "트럼프 지지율 33% ‘최저’…경제 신뢰도, 12년 만에 민주당에 역전",
+          "url": "https://www.khan.co.kr/article/202610190650001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        }
+      ],
+      "keywords": [
+        "다카이치 사나에",
+        "일본 총리",
+        "자민당",
+        "중의원 해산",
+        "지지율 하락"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/10/09/PRU20261009100701009_P2.jpg"
+    },
+    {
+      "id": "news-20261018-003",
+      "headline": "왕십리역 공유숙박 건물부터 은평구 치과 상가까지 주요 부동산 추천 매물 공개",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "IT/과학",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "매일경제가 추천하는 시장 내 알짜 부동산 매물 정보가 공개되었습니다. 성동구 왕십리역 인근에 위치한 공유숙박 및 단기임대용 건물은 14억 원에 매물로 나왔습니다. 해당 건물은 대지 53㎡, 연면적 95㎡ 규모의 지하 1층에서 지상 2층 구조로 이루어져 있으며, 더블 환승역세권의 풍부한 유동인구를 활용하기 적합한 입지 조건을 갖췄습니다.\n\n은평구 중심상권에서는 연 8.2%대 수익률을 기대할 수 있는 대형 치과 상가가 10억 7,000만 원에 매각을 진행합니다. 이 매물은 상권 중심부에 위치해 안정적인 임대 수입을 원하는 투자자들에게 유용한 대안이 됩니다. 투자 목적에 따라 단기 임대 수익형 건물부터 장기 임대가 확정된 상가까지 다양한 유형의 상업용 부동산을 검토할 수 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "[10/19, 매경부동산 추천매물] 은평구 중심상권 8.2%대 대형 치과 10억7000만원 등",
+          "url": "https://www.mk.co.kr/news/realestate/12179158"
+        },
+        {
+          "name": "Venturesquare.net",
+          "title": "“성수 상권의 변화부터 AI 데이터센터 투자까지”…알스퀘어가 짚은 부동산 시장의 새 흐름",
+          "url": "https://www.venturesquare.net/1120741/"
+        }
+      ],
+      "keywords": [
+        "부동산매물",
+        "왕십리역",
+        "공유숙박",
+        "은평구상가",
+        "수익형부동산"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261016.f10d5a352a6e4bf39c2390985bc60610_R.jpg"
+    },
+    {
+      "id": "news-20261018-004",
+      "headline": "코스피 연쇄 급락에 나흘간 빚투 2563억원 강제청산…공포지수 급등",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "코스피가 7거래일 연속 20% 넘게 급락하면서 초단기 외상거래인 미수거래 강제청산 규모가 폭증했습니다. 금융투자협회 집계 결과 지난 12일부터 15일까지 미수금 대비 실제 반대매매 금액은 총 2563억원에 달해 일평균 641억원을 기록했습니다. 이는 변동성이 심했던 지난 6월과 7월 수준을 훌쩍 뛰어넘는 수치입니다.\n\n이번 하락장은 주식 거래 대기자금인 고객예탁금과 일평균 거래대금이 확연히 줄어든 가운데 신용융자 규모만 종전 수준을 유지해 낙폭을 키웠습니다. 주가 하락을 버텨낼 완충 자금이 메마르면서 반대매매 매물이 쏟아지는 악순환이 이어지는 구조입니다.\n\n시장 불안 심리를 나타내는 코스피200 변동성 지수도 하루 만에 23% 넘게 치솟으며 전형적인 패닉장 양상을 보였습니다. 증권가에서는 신용 레버리지 추가 청산과 투매 가능성을 고려해 코스피 하단을 5100선까지 열어두며 보수적인 대응을 당부하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "“코스피 하단 5100선”…‘초단기 빚투’ 나흘 새 2563억원 강제청산",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1282914.html"
+        },
+        {
+          "name": "매일경제",
+          "title": "“강제청산, 본게임 시작도 안했습니다”…15일 폭락분 후폭풍 우려",
+          "url": "https://www.mk.co.kr/news/stock/12179145"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "코스피 급락에 ‘3천억 원’ 강제 청산…국민연금은 182조 증발 [잇슈 머니]",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcFVyUGlvVU5QckltdGpYQUxyVVkzVHNjZlBDVHVEaWRjNjRiUTB2d2JTZFBQQngwVTBIcDJwOU9xZU9lbTJiNXMtQjhpZXhQeFhFRWc0N3p1TlU?oc=5"
+        }
+      ],
+      "keywords": [
+        "코스피",
+        "빚투",
+        "반대매매",
+        "미수거래",
+        "변동성지수"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1018/53_17923093093452_20261018501522.webp"
+    },
+    {
+      "id": "news-20261018-005",
+      "headline": "강경화 주미대사, 한미 정보협력 우려 언급 및 미북정상회담 진전 부재 지적",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "강경화 주미한국대사가 워싱턴 DC에서 열린 국회 외교통일위원회 국정감사에서 한미 정보협력 관련 문제의식을 전했습니다. 강 대사는 지난달 열린 한미 외교장관 회담 당시 정보 공유 체계에 문제가 있다는 취지의 발언을 들었다고 밝혔습니다. 이와 함께 해당 우려가 현재 시점에서도 충분히 해소되었다고 보기는 어렵다는 입장을 내놓았습니다.\n\n미북정상회담 추진에 대해서는 현재까지 구체적인 진전이 없는 상태라고 평가했습니다. 강 대사는 한미 외교 당국 간 논의 경과를 바탕으로 양국 공조 체계와 대북 외교의 현주소를 신중하게 설명했습니다."
+      },
+      "publishers": [
         {
           "name": "KBS 뉴스",
           "title": "한미 재무·통화당국 첫 2+2 면담…“경제·금융 협력 방안 논의”",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWYUQtdkROTzIzQ0xkSnR3bHVTUER2Y2pRWElRZ3U2RkhrNXR4YVg3OWVPSGU1WkpReUdadUphLWoyNGQxOEJEMVZSX1ZfcXpUeVdxWVpKZHNjQjQ?oc=5"
         },
         {
-          "name": "Venturesquare.net",
-          "title": "덱스터스튜디오, 스페인·룩셈부르크와 영상 제작 협력 논의…유럽 콘텐츠 시장 접점 확대",
-          "url": "https://www.venturesquare.net/1120720/"
-        }
-      ],
-      "keywords": [
-        "딥엑스",
-        "NPU",
-        "인텔",
-        "삼성전자 2나노",
-        "AI 반도체"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016157300017_02_i_P2.jpg"
-    },
-    {
-      "id": "news-20261017-004",
-      "headline": "코스피·코스닥 저가 매수세로 반등…7거래일 연속 하락 멈춰",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "국내 증시가 폭락세를 딛고 반등에 성공하며 긴 하락 흐름을 끊어냈습니다. 16일 코스피 지수는 전날보다 2.05% 오른 5668.05에 장을 마감했으며, 외국인이 8거래일 만에 순매수로 전환하며 지수 상승을 끌어올렸습니다. 삼성전자와 SK하이닉스, 현대차 등 시가총액 상위 종목들도 일제히 오름세를 기록했습니다.\n\n코스닥 지수 역시 전날 대비 4.46% 급등한 794.78로 마감했습니다. 전날 매도 사이드카가 발동했던 코스닥 시장은 하루 만에 매수 사이드카가 발동하며 극심한 널뛰기 장세를 나타냈습니다. 이번 주가 반등은 미국 국채 금리 하락과 뉴욕증시 상승, 저가 매수세 유입이 복합적으로 작용한 결과입니다.\n\n서울 외환시장에서 원-달러 환율은 전날보다 13.2원 내린 1331.4원에 거래를 마쳤습니다. 수출 업체의 달러 매도 물량이 나오면서 환율 상승 압력을 낮췄습니다. 시장 전문가들은 미 연방공개시장위원회(FOMC) 회의와 미국 중간선거 등 주요 이벤트를 앞두고 있어 당분간 변동성이 이어질 수 있다고 관망했습니다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "2.05% 반등한 코스피, 5660선 마감…7거래일 연속 하락 ‘브레이크’",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1282768.html"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "국제유가 혼조세 마감…WTI 6거래일째 상승·브렌트유는 약보합",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTVNJMmFsTHZ0TEh2UmJETjg5N0JLWUZPT1JVWnNzY3ZTNUY0NUFxc05vN2JTa2dMRzg1T0tLTUdYbjVfNV80X3lkY1RlaFdQRFA5VmM3UnhYdGM?oc=5"
-        },
-        {
           "name": "YTN",
-          "title": "국제유가 혼조 마감...WTI 6거래일째 상승",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoR25sZnF0UnVXLXVyTlJOSFNOeGRid2NLbmRoem05ZHVzdlFMMml4X25YZHF1QkVHRW1jdW1nWTBVTXpscE5wN00zTlZUMHpZLXdtcjVZLU1rQ1ZIVU9VTTl3anQ5OXlBV1pOOGFKemZIR25SV2c?oc=5"
+          "title": "주북한 중국대사, 신압록강대교 방문 \"경제협력 확대\"",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xelRtZTZDNTJsZUx6aERsUDdkOVhVUjVIV2NNeVFUek9Pcy1XWk1pXzdqTFRFa2R0eGJBUDdQOF92a0dyY0ZtTVBUU1RlNllESUN1VzBFNzQ3MVdOZ2haWnBNb0w2M2VMRDdUZUtUM0RSZGZ4dFE?oc=5"
         },
         {
-          "name": "MBC 뉴스",
-          "title": "국내 기름값 22주 연속 하락‥휘발유·경유 1천8백 원대",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96QXo5R3dEV0wtNXRpaUxRM19rMmlOa3pPZjFMY3d2dEh2ZGNMZnBaTlNjNU9RSjdXMVE3eFJzVnFHS1lfaktrTUU0cHJDdXBSZ3B1ZU45bjFxdHA4NUxwR3JuSEQydC1xbU9xaWZ5YnhDamhv0gF0QVVfeXFMUEJjd1J2MXdzQmV1c2JtYWF3VHRDOWMzU21TbTZhSDh2ODM5STRvVWd0VDJBaGlRNEp6bVllbDlpa3lTQ2JXUWNVc3FUUXhXTl81R1BrNmU3bFlaYkIzdUp3TGM1RFJNSWFSaEdWNkNEZ2FZd0I?oc=5"
+          "name": "매일경제",
+          "title": "강경화 “한미 정보협력, 문제 있단 얘기 들어…충분히 해소됐다 생각 안 해”",
+          "url": "https://www.mk.co.kr/news/politics/12174048"
         }
       ],
       "keywords": [
-        "코스피",
-        "코스닥",
-        "매수 사이드카",
-        "환율",
-        "증시 반등"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/resize/test/child/2026/1016/53_17921346259392_20261016501953.webp"
-    },
-    {
-      "id": "news-20261017-005",
-      "headline": "한국은행·국세청 대구 국정감사…지역 경제 지원 및 부실 과세 개선 논의",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "한국은행과 국세청을 대상으로 진행된 대구 지역 국정감사에서 침체된 지역 경제를 살리기 위한 지원책과 세정 행정의 허점을 보완하는 방안이 핵심 의제로 다루어졌습니다.\n\n감사 현장에서 국회 기획재정위원회 위원들은 지역 기업과 소상공인을 위한 한국은행의 실질적인 금융 지원 방안 마련을 촉구했습니다. 이와 함께 국세청의 부실 과세 문제를 지적하며 행정 소송 패소 등으로 인한 재정 낭비를 막고 과세 정확성을 높일 수 있는 대책 강구를 요구했습니다.\n\n피감 기관들은 지적된 과제들을 바탕으로 지역 경제 회복을 위한 정책 협력을 강화하고, 부실 과세 예방 체계를 정비하여 행정 신뢰를 회복하겠다고 답했습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "한은·국세청 대구 국감…“지역 경제 지원·부실 과세 개선”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhaGg2VnRLS1lrZkJ1SG9DekFITmx1VDljazl3V1UzTGwzZGRuTUJOWFllUXR2TENtRDV6XzBHQVJhcmd3TGF0dlZ3cGpHYy1KLVpRclNqWHpLSDA?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "지역경제 성적표 받는 데 30개월…시·군 GRDP ‘뒷북’",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIczhtXy1CVXBSeWpyUHpwYWg5eGJDUkVDVnV5OXlheFk0NllYQnJ0dEdYZXQ4T1JqYkNsYXF3Y3JMMlktcllYakxtSDgtMUJVZHpxVjJpTk5FZEk?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "체전 성화 타올라…지역 경제에도 훈풍?",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKT1NaVHlPajhvTVJlTFVkUkZBbUJfdnliMkVaME5KNk9qVEVtb0pkTEVZXzhNMlJtZHI3aVMtR3FMdENVTWtTb3Q4YkVuNXdjZUNFdjVrYUcwUmxsYW0zN1otM3ZOdw?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "행정기관 27곳 민간 입주…세종 지역경제 ‘숨통’",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWjRpLXZWaU10b2JNRGVzR3FKZXVZbkprb2x3Z1FZeVBwQzFJZERzR29jckdWNURwQ1FKQ0pHRUdvbFM2cEp5UVpSdTkxXzVGeERCRTFyR2V1dlU?oc=5"
-        }
-      ],
-      "keywords": [
+        "강경화",
+        "주미대사",
+        "한미 정보협력",
         "국정감사",
-        "한국은행",
-        "국세청",
-        "지역 경제",
-        "부실 과세"
+        "미북정상회담"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261017-005/600/400"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.5c90be60e27e41708f56207b0b4df069_R.jpg"
     },
     {
-      "id": "news-20261017-006",
-      "headline": "젤렌스키, 트럼프의 대러 제재 유예 비판…\"푸틴의 침략 부추기는 오판\"",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "볼로디미르 젤렌스키 우크라이나 대통령이 도널드 트럼프 미국 대통령의 대러시아 신규 제재 유예 결정을 강하게 비판했습니다. 젤렌스키 대통령은 트럼프 대통령의 이번 조치가 블라디미르 푸틴 러시아 대통령의 침략 행위를 부추기고 전쟁을 더욱 격화시킬 뿐이라고 지적했습니다.\n\n유예된 '그레이엄법'은 대러 강경파였던 고 린지 그레이엄 미국 공화당 상원의원의 이름을 딴 제재법으로, 러시아산 에너지를 구매하거나 제재 회피를 돕는 국가에 관세를 부과하는 내용을 담고 있습니다. 트럼프 대통령은 미국의 경유 가격 상승을 막고 중간선거를 치르기 위해 해당 제재의 시행을 유보한 것으로 알려졌습니다. 트럼프 대통령은 러시아산 경유를 미국과 국제시장에 공급하겠다는 구상을 밝힌 상태입니다.\n\n젤렌스키 대통령은 제재 유예와 경유 거래가 러시아의 공격을 막지 못할 것이라며 우려를 나타냈습니다. 반면 러시아 측은 미·러 간 경제 대화와 평화 구축을 위한 역사적 순간이라며 트럼프 대통령의 결정을 환영했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "젤렌스키, 트럼프 대러제재 유예에 \"푸틴만 돕는 오판\"",
-          "url": "https://www.yna.co.kr/view/AKR20261018004300009"
-        },
-        {
-          "name": "한겨레",
-          "title": "트럼프, 유가 급등에 ‘대러 추가 제재’ 취소…정치권 “또 푸틴에 굴복”",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1282851.html"
-        }
-      ],
-      "keywords": [
-        "젤렌스키",
-        "트럼프",
-        "대러제재",
-        "그레이엄법",
-        "러시아산 경유"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/18/AKR20261018004300009_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261017-007",
-      "headline": "석유 최고가격제 4번째 동결 속 정유업계 손실 눈덩이…정부 손실보전 난항",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "정부가 석유 최고가격제를 네 번째로 동결하면서 관련 업계의 누적 손실 우려가 커지고 있습니다.\n\n정부 차원의 손실 보전 약속이 있었으나 현재 편성된 예비비는 4조 2000억 원 수준에 그쳐 실제 피해를 메우기에는 턱없이 부족한 실정입니다. 최근 업계 내부의 담합 의혹까지 불거지면서 기업들은 정당한 보상 요구조차 제때 제기하지 못하고 있습니다.\n\n이런 상황에서 휘발유 소비는 7개월 만에 반등세로 돌아섰습니다. 유가 부담과 물가 자극 우려 때문에 정부 역시 가격 상한제를 쉽사리 중단하지 못해 정책적 딜레마에 빠졌습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결",
-          "url": "https://www.mk.co.kr/news/economy/12178611"
-        },
-        {
-          "name": "한겨레",
-          "title": "석유 최고가격 넉 달째 유지…휘발유 1784원·경유 1773원",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282801.html"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "국제유가 상승세에도 11차 석유 최고가격 동결",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rY1B3ckxKdGg3Z2t0OHRTSUVjWUxCeGsxZXdVaTVkdzBCVloyTW5fTUxQbFQ3SjJrZkVuNUJjOFlZcVVtY2tBRG0xclBhVm5zTTQ4Z2t5NXJJZ2lIbzhlWlE4SGRKbEdjdFNLMU5PLTZneHhY0gF0QVVfeXFMUC1zNkViYVRfX0RxVWphOGRsZ2N2R0xNSjlMRW1MellRU2dmSHA0bDV1UjY2RmFDLUF6dV9RRmhxTG1DY21UTzhLQ0xVU2VMWVRSalgzMGVTWHo4TGhWajNXRW1CeDFkelhEU2NlM3YwZ0VLRTE?oc=5"
-        }
-      ],
-      "keywords": [
-        "석유 최고가격제",
-        "정유업계",
-        "손실 보전",
-        "휘발유 소비",
-        "유가 정책"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261016.dcfb9932cf6f4b08b643864854b21e99_R.png"
-    },
-    {
-      "id": "news-20261017-008",
-      "headline": "코스닥 폭락 하루 만에 급반등…프로그램 매수호가 효력정지 사이드카 발동",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "전날 기록적인 폭락세를 보였던 국내 증시가 하루 만에 강한 반등세를 나타내고 있습니다.\n\n코스닥 지수가 장 초반 급등세를 보이면서 프로그램 매수호가 일시 효력정지 조치인 '매수 사이드카'가 발동되었습니다. 이는 지수 급변동에 따른 시장 충격을 완화하기 위해 거래소 차원에서 취한 조치입니다.\n\n전일 패닉 셀링에 나섰던 투자 심리가 다소 진정되며 저가 매수세가 대거 유입된 흐름을 보입니다. 주요 기술주와 성장주를 중심으로 매수세가 몰리며 지수 상승을 견인하고 있습니다.\n\n시장 관계자들은 극심했던 변동성이 일시적으로 완화되었으나 국내외 변수에 따른 시장 흐름을 계속해서 예의주시하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "급락 하루 만에 반등‥코스닥, '매수 사이드카'",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lbmozU25EQ0h1d1ZUNUdQekxEZ0dqbzZBNElUc0VRdGRDVDV2d3FQTlV6R0RRTHlWU2VXbUlPQm5Bblo4VXhUQ2N6Q25DVFJCZFJvREVjNzBRM0NidWptc2FodkdIdWRMU200aWNtWEtSRExu0gF0QVVfeXFMT1NmSGlsdXNVb2ZEX3BaQ3B1ZjRxcGtfeDVyMlNsUXJJNUV2ZTZESnlwbFFxclJxVTZ0a0haSUxiTXpvbDhSOUNWZnZQNGEwN1N2YTF6dWNydU1ucE4tOWNTQ3JJTktxYUNteURGUDh2OUluTjY?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "코스피 5% 넘게 급락하며 5,600선까지 밀려‥코스피·코스닥 동반 '사이드카' 발동",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MTlB4MXg0ZjBic01nSWpqRC1FWnVRbXNWc09HeHl3SDVFMnZwUVVxQ3FVWGpPb21YVllHWmpzTWlqSFlZUkctSi1BQlBBNnRzWG5SZDZZR0NDcTkxVl9nLXBadUg0cGdIMDcwWjFLWVJTUE5W0gF0QVVfeXFMT2QtM1FlSFI1LUR1Ui1WTjFLM2YyRlp4emNrQnJ1UWlYUkxMU0pJclgzWE15ZHJLcjJLQXEySFNSdDFQbVo4bnh5bjJRZjVDUG5mRlpOUzZzQ21FdmxvbVVEM3lka3dpQnNvSHNfUE00X0pMdzk?oc=5"
-        },
-        {
-          "name": "매일경제",
-          "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9haGpnLXh3X2MwS1RwdFlOMWVkMGdLUXVUazh4S1FhT2NCbGR0cEpzUlBjSmtSU0FZQ1NEMERCVXowdnRzRktHWFJmejUtMHotS056Qw?oc=5"
-        }
-      ],
-      "keywords": [
-        "코스닥",
-        "매수 사이드카",
-        "반등",
-        "프로그램 매매",
-        "증시"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261017-008/600/400"
-    },
-    {
-      "id": "news-20261017-009",
-      "headline": "북한, 동해서 잠수함발사순항미사일 시험…한반도·주일미군 타격 과시",
+      "id": "news-20261018-006",
+      "headline": "북한, 동해상 잠수함순항미사일 발사…한반도·주일미군 타격 능력 과시",
       "category": "글로벌",
       "categories": [
         "글로벌"
       ],
       "summary": {
-        "overview": "북한이 14일 동해상에서 잠수함발사전략순항미사일(SLCM) 시험발사를 감행했다고 밝혔습니다.\n\n이번 발사는 지난해 진수한 3000t급 전술핵공격잠수함인 '김군옥영웅함'에서 이뤄진 첫 무장 시험으로 추정됩니다. 북한은 잠수함을 통한 순항미사일 발사 능력을 과시하며 한반도 전역과 주일미군 기지까지 정밀 타격할 수 있다는 위협 수위를 끌어올렸습니다.\n\n탄도미사일과 순항미사일을 섞어 쏘는 방식으로 방공망을 무력화하려는 전술적 의도도 담긴 것으로 분석됩니다. 군 당국은 북한의 미사일 개발 동향을 면밀히 추적 감시하며 대비 태세를 유지하고 있습니다."
+        "overview": "북한이 동해 해상에서 잠수함발사전략순항미사일(SLCM) 2종을 시험발사했다고 밝혔습니다. 이번 발사는 3000t급 전술핵공격잠수함인 '김군옥영웅함'에서 진행한 것으로 분석됩니다.\n\n해당 잠수함의 진수 이후 처음으로 확인된 이번 무장 시험은 한반도 전역과 주일미군 기지 타격 역량을 대외에 과시하려는 움직임으로 풀이됩니다.\n\n군사 전문가들은 북한이 탄도미사일과 순항미사일을 배합한 '섞어쏘기' 전술을 통해 한국과 동맹국의 방공망에 부담을 주려는 전략을 취하고 있다고 분석했습니다."
       },
       "publishers": [
         {
@@ -351,94 +240,93 @@
       "keywords": [
         "북한",
         "잠수함발사순항미사일",
-        "SLCM",
         "김군옥영웅함",
-        "전술핵공격잠수함"
+        "SLCM",
+        "방공망"
       ],
       "image_url": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.b3bf2f854afb4050aef2054791ff76b4_R.jpeg"
     },
     {
-      "id": "news-20261017-010",
-      "headline": "IOM, 남아시아 기후변화 심화로 2050년까지 4000만 명 강제 이주 경고",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "국제이주기구(IOM)가 남아시아 지역의 기후변화 심화로 인해 2050년까지 최대 4050만 명에 달하는 인구가 강제 이주에 몰릴 수 있다고 경고했습니다. 인도를 방문 중인 에이미 포프 IOM 사무총장은 해수면 상승과 가뭄, 대홍수 등이 주민들의 주택과 농지를 지속해서 위협하고 있다고 진단했습니다. 특히 식량 생산과 가축 사육이 불가능해진 생계 위기 상황에서 주민들이 선택할 수 있는 첫 번째 대응책이 이주라고 지적했습니다.\n\n남아시아 국가들은 많은 인구와 제한된 자원 구조 탓에 기후 재난에 매우 취약한 실정입니다. 지난 8월 히말라야 산악지대에서 발생한 대홍수로 네팔과 티베트 등지에서 대규모 인명 피해가 발생하는 등 지구 온난화의 여파가 이미 현실화했습니다. 포프 사무총장은 기후 위험에 직면한 취약 사회를 지원할 전 세계적 대응 자금이 여전히 부족하다며, 데이터 분석과 인공지능(AI) 기술을 적극 활용해 재난 사전 예측 및 대비책을 마련해야 한다고 강조했습니다."
-      },
-      "publishers": [
-        {
-          "name": "경향신문",
-          "title": "국제이주기구 “남아시아 기후변화로 2050년까지 4000만명 강제이주 가능성”",
-          "url": "https://www.khan.co.kr/article/202610171656001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "YTN",
-          "title": "국제이주기구 \"남아시아 기후변화로 2050년까지 4천만 명 이주\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WSlJkWXY1YzZVSDhyUUVxS052NUFCNEhWOTQxODR2V253N1NxcDN0dklCWnV6Ny1FM09kUWhoOWVLcTRNSXV2X29xUWQyMDQ4U2tXVS1vTGJCamFna1E?oc=5"
-        },
-        {
-          "name": "한겨레",
-          "title": "“기술이 해결한다”는 과학자, 기후변화 막는 행동엔 소극적",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1281498.html"
-        }
-      ],
-      "keywords": [
-        "국제이주기구",
-        "남아시아",
-        "기후변화",
-        "강제이주",
-        "인공지능"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1008/53_17914408450324_20261008502226.webp"
-    },
-    {
-      "id": "news-20261017-011",
-      "headline": "하슬라 국제 예술제 개최… '사랑과 우정' 주제로 다채로운 조화 선보여",
+      "id": "news-20261018-007",
+      "headline": "하슬라 국제 예술제 개막…'사랑과 우정' 주제로 예술 무대 선보여",
       "category": "글로벌",
       "categories": [
         "글로벌"
       ],
       "summary": {
-        "overview": "하슬라 국제 예술제가 '사랑과 우정'을 주요 테마로 삼아 풍성한 예술적 조화를 선보입니다. 이번 행사에서는 국내외 다양한 분야의 예술가들이 참여해 다채로운 작품과 공연을 소개합니다. 방문객들은 미술 전시는 물론 다채로운 공연 예술을 한자리에서 즐길 수 있습니다.\n\n참여 작가들은 각자의 시선으로 사랑과 우정이 지닌 가치를 작품 속에 깊이 있게 녹여냈습니다. 관람객들은 준비된 프로그램을 통해 삶을 돌아보고 예술이 전하는 따뜻한 메시지를 직접 체감할 수 있습니다. 현장에서는 관람객과 작가가 가까이서 교감하는 소통의 장도 함께 마련됩니다.\n\n세계 각국의 예술적 영감이 교차하는 이번 축제는 지역 문화의 깊이를 한층 더해줍니다. 예술제는 일상 속에서 문화적 여유를 찾고자 하는 이들에게 풍요로운 경험을 제공합니다."
+        "overview": "하슬라 국제 예술제가 '사랑과 우정'을 주제로 막을 올리고 다채로운 공연과 전시 프로그램을 선보입니다. 국내외 예술가들이 한자리에 모여 음악과 시각 예술이 어우러지는 교류의 장을 마련했습니다.\n\n이번 행사에서는 클래식 연주를 비롯해 여러 장르를 아우르는 무대가 이어지며 관객들에게 풍성한 문화 예술 체험 기회를 제공합니다. 서로 다른 배경을 지닌 예술인들의 협업을 통해 연대와 화합의 메시지를 전합니다.\n\n관람객들은 자연과 조화를 이룬 공간에서 깊이 있는 예술적 하모니를 감상할 수 있습니다. 행사 기간 동안 관객 참여 프로그램과 교류 행사도 함께 진행합니다."
       },
       "publishers": [
         {
           "name": "KBS 뉴스",
           "title": "하슬라 국제 예술제, ‘사랑과 우정’ 풍성한 예술의 하모니",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuN0R0NzZHa1RKU1c1b2QweDVHSVFtVEFFMWRLaUVJb1MwcHJwRXl3RWVHWWV3Y2twOC1xcmUyUjk4cjlJY1hXRV9mNHF6OXFVM3lac0ptRmlIR0lYSm94S3lmWGw2dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoV3JnS3QxSkJ5R05va3Fya2JYOXREQjBKYWR6QWkxUk1YU3ZBRWNMNmdhbFUwcmtqN3JvNlpJRElOR2NLWnlxVk9KOGNLRHgyMDRNU0ZkYmRtWmFQUVV1WGJlYzNuQQ?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "하슬라 국제 예술제, ‘사랑과 우정’ 풍성한 예술의 하모니",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwRTMzMEYxVjV0NjY5UXhnVWpjNkF4VnQtRzJpTExFaVdFTExXRThCRkQtWlFNWTQzZXF2Sy1lc0dmb3hfWXBCT0drYU9wRXpuNDItLVNBcF9PbmM?oc=5"
         },
         {
           "name": "MBC 뉴스",
           "title": "병무청, 예술 병역특례기준 상향 추진‥\"국제콩쿠르 1위만\"",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YRlM3MEYzbUNDNDVNalJXVlR2eVlNNlF0MF9zMDd2RXRIRE9CUnhQUExNSDFhMTVjR2NRdDhSV00yZlllSGlMR1loM2hWRXRsRE9XZk5HU2RyeEt5NzZSNjV0cTlEVGREc01uUmN6M0t0NTRQQ1dMTNIBeEFVX3lxTE92ZEM4V2tjd29haHQxN3p3RWF6Z05ZMzJYZy1mX2xzLXJjaVo3ZTRPUUFiYTdoYnlkOVJyLVZueXJRVEs5anQyREFJdnFnUkFIVENtakFDc3FrZXZoYlNnRldkUXg2ZTdiWkJGZWJDQ0ZjWnFTTjVFdw?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "한병도, 국힘 '부국제 시찰' 불참에...\"정치가 예술 위축시켜선 안 돼\"",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40Ym5kUnRFWWNIVUd4amxIZGk5NXQxSHpsQjJrN1drNWYzQ0hZUFRfQno5OFlacDdocXBrbWlkR2dDOTQ4TmlXRTVHUTFDSS1xWXhydlA3eEdfNXFHRmNUc1JYZHZFUFF3NWlGVXY5cFIzRFdaYUE?oc=5"
         }
       ],
       "keywords": [
-        "하슬라 국제 예술제",
-        "사랑과 우정",
-        "문화 예술",
-        "전시 공연"
+        "하슬라국제예술제",
+        "사랑과우정",
+        "예술제",
+        "문화교류"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261017-011/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261018-007/600/400"
     },
     {
-      "id": "news-20261017-012",
-      "headline": "부산국제영화제 성황리에 폐막…누적 관객 20만 명 돌파",
+      "id": "news-20261018-008",
+      "headline": "필라델피아 반도체지수 8일 연속 하락…1996년 최장 기록 경신 눈앞",
       "category": "글로벌",
       "categories": [
         "글로벌",
-        "비즈니스"
+        "비즈니스",
+        "경제"
       ],
       "summary": {
-        "overview": "제29회 부산국제영화제가 열흘간의 여정을 마무리하고 성황리에 폐막했습니다.\n\n올해 영화제는 전 세계 수많은 영화인과 팬들이 참여한 가운데 누적 관객 수 20만 명을 돌파했습니다.\n\n개막작을 시작으로 다채로운 초청작들이 상영되며 축제 기간 내내 관람객들의 열기 속에서 진행되었습니다.\n\n감독 및 배우들이 참석하는 관객과의 대화와 다양한 부대행사도 마련되어 팬들의 큰 호응을 얻었습니다.\n\n아시아를 대표하는 영화 축제로서 올 한 해도 다채로운 영화적 경험을 선사하며 성공적인 마침표를 찍었습니다."
+        "overview": "미국 증시의 대표적인 반도체 종목들을 모아놓은 필라델피아 반도체지수가 8거래일 연속 하락세를 이어갔습니다. 이는 1996년에 기록했던 역대 최장 연속 하락 기록에 단 하루 차이로 바짝 다가선 수치입니다.\n\n지난 8거래일 동안 지수를 구성하는 종목 가운데 단 한 개도 상승하지 못했을 만큼 시장 전체에 강력한 매도세가 쏟아졌습니다. 반도체 업황 전반에 대한 불확실성과 글로벌 경기 둔화 우려가 복합적으로 작용하며 관련 주가를 일제히 끌어내렸습니다.\n\n시장 전문가들은 이번 하락세가 단순한 기술적 조정을 넘어 산업 전반의 투자 심리가 냉각되었음을 보여준다고 진단합니다. 향후 발표될 주요 반도체 기업들의 실적과 거시경제 지표가 지수 반등의 향방을 갈라놓을 것으로 보입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "MSCI, 글로벌 지수서 인니 퇴출 경고…증시 28년 만에 최대 하락",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VazB5SUFVSWk1UHhxVlh3blNfRG5aNEJqamRJTmNrdjZncFZuTlRBLTlRZENNMk9DVHlldDhHOTN1Y2c2VXpjX01XRWkzdUZ2ZlYyRDNnWUd0eHc?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "필라델피아 반도체지수 8일연속 하락…역대최장 경신 하루 남겼다",
+          "url": "https://www.mk.co.kr/news/stock/12179121"
+        },
+        {
+          "name": "동아일보",
+          "title": "美 반도체지수 8일 연속 하락… 개미들 “조정 길어지나” 한숨",
+          "url": "https://www.donga.com/news/Economy/article/all/20261019/134863541/2"
+        }
+      ],
+      "keywords": [
+        "필라델피아 반도체지수",
+        "미국 증시",
+        "반도체주",
+        "연속 하락"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/18/rcv.YNA.20261016.PAP20261016241901009_R.jpg"
+    },
+    {
+      "id": "news-20261018-009",
+      "headline": "부산국제영화제 폐막…누적 관객 20만 명 돌파하며 성료",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "제29회 부산국제영화제가 열흘간의 일정을 마치고 성황리에 막을 내렸습니다. 이번 행사에는 국내외 수많은 영화인과 관람객이 참여해 축제의 열기를 더했습니다.\n\n올해 영화제를 찾은 누적 관객 수는 20만 명을 돌파하며 가파른 회복세를 보였습니다. 팬데믹 이후 최대 규모의 관람객을 모으며 현장 행사와 상영관 전반에 활력을 불어넣었습니다.\n\n세계 각국의 다채로운 작품들이 상영되어 영화 팬들에게 다채로운 볼거리를 선보였습니다. 주요 경쟁 부문에서는 감각적인 연출을 선보인 신예 감독들과 유망 작품들이 수상의 기쁨을 누렸습니다.\n\n영화제 측은 관객들의 성원에 감사의 뜻을 전하며 다음 해에도 알찬 프로그램으로 찾아올 것을 약속했습니다."
       },
       "publishers": [
         {
@@ -459,255 +347,356 @@
       ],
       "keywords": [
         "부산국제영화제",
-        "폐막",
+        "영화제 폐막",
         "관객 20만 명",
-        "영화 축제"
+        "BIFF",
+        "문화 행공"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261017-012/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261018-009/600/400"
     },
     {
-      "id": "news-20261017-013",
-      "headline": "백화점 3분기 성장세 둔화 전망…대형마트·슈퍼는 홈플러스 반사수혜",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "상반기 고공행진을 이어가던 주요 백화점 업계의 3분기 매출 성장세가 다소 둔화할 것으로 보입니다. 롯데, 신세계, 현대 등 백화점 3사의 영업이익은 전년 동기 대비 증가세를 유지하겠지만, 상반기에 비해 성장 폭이 줄어들면서 증권가의 눈높이도 낮아지는 추세입니다. 7월 이후 이어진 원화 강세로 외국인 관광객의 명품 소비가 줄어든 데다 국내 증시 하락과 해외여행 증가가 내수 소비 여력을 제한한 영향입니다.\n\n반면 대형마트와 슈퍼마켓은 경쟁사인 홈플러스의 점포 구조조정에 따른 반사이익을 누릴 것으로 기대됩니다. 롯데마트와 이마트의 기존점 성장률이 두 자릿수를 기록하고 GS리테일의 슈퍼 부문 역시 두 자릿수 매출 성장을 기록할 것으로 추정됩니다. 한편 편의점 업계는 여름철 폭염과 우천 여파로 매출 성장률이 1~2%대에 머물렀으나, 9월 이후 야외 활동이 증가하며 수익성은 소폭 개선될 전망입니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "백화점 3분기 성장 둔화 전망…대형마트는 '홈플러스 반사이익'",
-          "url": "https://www.yna.co.kr/view/AKR20261016176200030"
-        }
-      ],
-      "keywords": [
-        "백화점",
-        "대형마트",
-        "3분기 실적",
-        "홈플러스",
-        "유통업계"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016176200030_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261017-014",
-      "headline": "토지거래허가구역 묶인 경기 12곳 중 11곳, 지정 이후 1년간 집값 상승폭 더 확대",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "정부가 갭투자를 차단하기 위해 토지거래허가구역으로 지정한 경기 지역 12곳 가운데 11곳에서 규제 이후 1년간 아파트값 상승률이 규제 이전보다 더 가팔라진 것으로 나타났습니다. 한국부동산원 분석에 따르면 광명시 아파트값 상승률은 지정 전 1.8%에서 지정 후 20.8%로 급등하며 가장 큰 폭의 확대세를 기록했습니다.\n\n용인 수지구(5.2%→20.1%)와 성남 분당구(13.8%→21.7%) 등 경기 남부 핵심 주거지 역시 20%가 넘는 높은 상승률을 보였습니다. 안양 동안구, 수원 영통구, 하남시 등 대부분 지역에서 규제 전보다 집값 오름폭이 커졌으며, 12개 지역 가운데 상승세가 둔화한 곳은 과천시가 유일했습니다.\n\n토지거래허가구역은 2년간 실거주 의무를 부과해 투기 수요를 억제하려는 취지로 도입됐으나, 가격 안정 효과보다는 기존 세입자가 밀려나며 전월세 가격을 자극하는 등 부작용이 만만치 않다는 비판이 나옵니다. 시장 일각에서는 규제가 추가 폭등을 일정 부분 억제했다는 평가도 나오는 가운데, 정부는 향후 시장 흐름을 살피며 규제 유지 여부를 판단할 방침입니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "[토허구역 확대 1년] 지정 전후 경기 12곳 중 11곳서 집값 상승 확대",
-          "url": "https://www.yna.co.kr/view/AKR20261017041100003"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[토허구역 확대 1년] 강남 잡았지만 다른 지역 오르는 '디커플링' 커져",
-          "url": "https://www.yna.co.kr/view/AKR20261018000500003"
-        }
-      ],
-      "keywords": [
-        "토지거래허가구역",
-        "경기 아파트값",
-        "부동산 규제",
-        "실거주 의무",
-        "갭투자"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/07/10/PYH2026071006800001300_P2.jpg"
-    },
-    {
-      "id": "news-20261017-015",
-      "headline": "국내 증시 약세 속 개미는 레버리지 베팅…기관 곱버스와 엇갈려 손실 확대",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "국내 증시가 약세 흐름을 이어가는 가운데 개인 투자자와 기관 투자자의 상장지수펀드(ETF) 투자 전략이 극명하게 엇갈렸습니다. 10월 한 달간 코스피가 단 3거래일을 제외하고 모두 하락 마감하면서 증시 전반에 먹구름이 꼈습니다.\n\n이러한 하락장 속에서도 개인 투자자들은 지수 반등을 기대하며 레버리지 ETF 상품을 집중적으로 사들였습니다. 반면 기관 투자자들은 지수 하락 시 두 배의 수익을 얻는 '곱버스' 상품을 대거 매수하며 위험 헤지에 나섰습니다.\n\n결국 증시 하락세가 계속되면서 레버리지 상품에 투자한 개인 투자자들은 두 자릿수 이상의 폭락 수익률을 기록하며 큰 손실을 입었습니다. 하락장에 베팅한 기관과 달리 반대 방향으로 향한 개미들의 투자 손실 우려가 커지고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“이 와중에 ‘레버리지’ 야수처럼 올라탔다”…돌아온 건 ‘눈물의 -33%’",
-          "url": "https://www.mk.co.kr/news/stock/12178618"
-        }
-      ],
-      "keywords": [
-        "코스피",
-        "레버리지 ETF",
-        "곱버스",
-        "개인투자자",
-        "기관투자자"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261016.9654e90a54e6463a875bae8ca6eb30f3_R.jpg"
-    },
-    {
-      "id": "news-20261017-016",
-      "headline": "코스피 급락에 1주일간 3천억 강제청산…미국 주식 매수는 급증",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "국내 증시가 가파르게 하락하면서 빚을 내어 주식을 사들인 개인 투자자들의 반대매매가 쏟아져 나왔습니다. 금융투자협회 집계에 따르면 지난 6일부터 15일까지 발생한 위탁매매 미수금 대비 실제 반대매매 규모는 총 2981억원에 달했습니다. 특히 14일과 15일에는 연이틀 800억원대 주식이 강제로 처분되며 시장의 충격을 키웠습니다.\n\n주가 폭락으로 담보 가치가 급감하자 증권사의 강제 매도가 이어졌고, 증시 대기자금인 투자자 예탁금 역시 열흘 만에 4% 넘게 줄어 96조원대까지 밀려났습니다. 투자 심리가 전반적으로 위축된 가운데 빚으로 매수한 물량이 하락장에서 대규모 청산으로 이어진 셈입니다.\n\n국내 증시가 크게 흔들리는 사이 개인 투자자들의 자금은 미국 증시로 몰렸습니다. 이달 1일부터 15일까지 국내 투자자의 미국 주식 순매수액은 35억달러로 집계돼 지난달 전체 순매수 규모의 3.5배를 단 보름 만에 넘어섰습니다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "‘빚투’ 부메랑…코스피 폭락에 1주일 새 3천억 강제청산",
-          "url": "https://www.hani.co.kr/arti/economy/stock/1282859.html"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "'검은 목요일'‥고금리발 AI 수익성 우려에 코스피·코스닥 7%대 폭락",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01TjNtV3FfV2puYWFoNnp3Y095ZGFXRWI1a0RRYWtyQjRJaGd3azh2emN4RlRTU2RaaEhFM2U0eS1UNzlBc1VfRGwxcGhIbmJpMHMySWFyRU1XWEJRb0h2bVdkOUU0eTc5TUoxaXdJTWV6QXJOVHNKedIBeEFVX3lxTFBwb3JjQjVtOXZ4ZFVGVldvbnlSdlQ1djlJTG84RkFTVHdEdlpwWFNYaUY3ejVBbU40cVZzc2FyVVZuNDJCZXZXM1ZzY0VidDhnMHBNQzBUb1dyWGxiZVp5ZlBlaDB5RUhha0pTTVc5bmJQNVpzT25UMA?oc=5"
-        }
-      ],
-      "keywords": [
-        "반대매매",
-        "빚투",
-        "코스피",
-        "미국주식",
-        "강제청산"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1017/53_17922371848284_20261017500587.webp"
-    },
-    {
-      "id": "news-20261017-017",
-      "headline": "미국 생산자물가 급등에 인플레이션 및 금리 부담 가중",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "미국의 생산자물가지수(PPI)가 급등하면서 시장 내 인플레이션 우려가 다시 커지고 있습니다. 생산자물가는 소비자물가의 선행 지표로 작용하는 만큼, 향후 소비자물가 역시 상승세를 이어갈 가능성이 높아졌습니다.\n\n이러한 물가 상승 압력은 미국 연방준비제도(Fed)의 통화 정책 운용에 상당한 부담을 줄 전망입니다. 고물가 기조가 장기화할 경우 기준금리 인하 시점이 뒤로 밀리거나 추가 긴축 가능성이 제기될 수 있습니다.\n\n글로벌 금융시장은 미국 물가 지표의 향방에 민감하게 반응하며 변동성을 키우고 있습니다. 원자재 가격과 물류비 상승이 맞물리면서 기업들의 제조 원가 부담도 한층 심화할 것으로 예상됩니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "미국 생산자물가 급등‥인플레이션 압력 가중",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fbkVWdkVRdHZYQ2MxbVNBTE5FenRsTWRseFZiek5hVURjTWZVb08wM2JzeXIzRTFqbmFWTVl6d0RDdzFTR3cydFR0b3U3RTZMUkoxN0tlM3VQSE1iWWZSNWNydWFFVjNJYzJUc28tYUFTaGVBMmY0clB30gF6QVVfeXFMTVE3ekJxZ0dsSGR3NHNGQ0hyejR2bU8zSWtvYllmWUdOVE43S3hiR3FSMXRFZTNYMXZjaEpnb0RvZTVnd1I0cTVBQk5oZEpUVEt3Qm9sTXBvTzA0VVpXMHpKRUE4QkFScUJ3UDlvTHFsVURpV2xkVlAtQmc?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "국제유가 급등‥수입물가 넉 달 만에 반등",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6M1o3MmRXYzM2cUswajQ2YjBnblF2X3JIY29wTWVTdDlKS0lMMFA1ZXNKTW5tVHE1QWZJRnJBLTZ3bkZrNkVXMThGeV9yV0VNQVJGdkxuNW9wTkRmYVdRV3BqTWJVV21NQXlUM2NwR25Xb2ZydVZ2VdIBeEFVX3lxTE1XM1NhbWdhaDZVUmxZaW8ydWo4YTY5WFlYTnRQVmxnbW1rTy12d043UDJLMlczS2RCaHpUWVNQdUtQVGNrUC1DeGNZT01lS2lvSE9FY1ZMMWUzNGdtMFRnbGU3MXpfSlg4ajhjUVJCOGdpWHREblQxeg?oc=5"
-        }
-      ],
-      "keywords": [
-        "생산자물가",
-        "인플레이션",
-        "미국 경제",
-        "연방준비제도",
-        "통화정책"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261017-017/600/400"
-    },
-    {
-      "id": "news-20261017-018",
-      "headline": "흔들리는 AI 투자 심리속 뉴욕증시, 빅테크 실적과 부채 우려에 시선 집중",
-      "category": "글로벌",
+      "id": "news-20261018-010",
+      "headline": "현대차·기아, 소형 전기차로 유럽 시장 공략…중국 공세 맞서 신차 투입",
+      "category": "비즈니스",
       "categories": [
         "글로벌",
-        "비즈니스",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "현대자동차와 기아가 소형 전기차 라인업을 앞세워 경쟁이 격화하는 유럽 시장 공략에 속도를 내고 있습니다. 올해 1~8월 현대차·기아의 유럽 소형 전기차 판매량은 9만 7,689대로 지난해 같은 기간보다 14.4% 늘었으며, 전체 소형차 판매량은 30만 대에 다다랐습니다. 캐스퍼 일렉트릭과 EV3, EV2 등 신형 전기차와 더불어 모닝, i20 등 스테디셀러 모델이 실적을 든든하게 받쳤습니다.\n\n다만 중국 자동차 업계의 매서운 추격으로 현지 시장 환경은 녹록지 않은 상황입니다. 같은 기간 지리자동차, BYD, 체리자동차 등 중국 주요 브랜드의 유럽 판매량이 급증한 반면, 현대차·기아의 전체 판매량은 전년 동기 대비 2.2% 감소한 53만 4,670대에 그쳤습니다.\n\n이에 대응해 현대차·기아는 경제성과 실용성을 선호하는 유럽 소비자 특성에 맞춰 전용 신차 카드를 꺼내 들었습니다. 유럽 시장 전용 소형 해치백 전기차인 '아이오닉3'와 첨단 안전·편의사양을 대폭 강화한 2세대 '디 올 뉴 베이온'을 신규 투입해 실적 반등을 모색한다는 구상입니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "글로벌 각축장 인도...현대차 \"맞춤형 모델로 공략\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSFV1Z21Ca0hUVFh3WnpjT2RTUnZqYXJXNUdKcFZBdF9FU1BjLXpYY2VhZFBOY29nMEZqVER0TnVQS0pvazF6XzZCb3M4OUtyZjhYMHN6VGxnOE1UM0E?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "현대차·기아, 소형차로 유럽 공략 속도…중국 추격 따돌릴까",
+          "url": "https://www.yna.co.kr/view/AKR20261017028000003"
+        },
+        {
+          "name": "Zdnet.co.kr",
+          "title": "GAC, 캔톤 페어에서 다양한 모델 공개: 체계적 글로벌 확장으로 높은 수준의 대외 개방에 부응",
+          "url": "https://zdnet.co.kr/view/?no=20261018001003"
+        }
+      ],
+      "keywords": [
+        "현대차기아",
+        "유럽자동차시장",
+        "소형전기차",
+        "아이오닉3",
+        "중국전기차"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/17/AKR20261017028000003_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261018-011",
+      "headline": "'성장률 반등' 한국 경제, 반도체 쏠림 속 대만형 성장 구조와 내수 확산 과제",
+      "category": "경제",
+      "categories": [
         "경제",
         "IT/과학"
       ],
       "summary": {
-        "overview": "뉴욕증시가 AI 인프라 기업들의 수익성과 부채 부담 우려로 큰 변동성을 보이고 있습니다. 지난주 나스닥 지수와 필라델피아 반도체 지수가 급락한 가운데, AI 클라우드 기업 코어위브의 재무 불안과 창업자들의 대규모 지분 매도가 투자 심리를 위축시켰습니다.\n\n월가 일각에서는 저가 매수 기회라는 분석도 나오지만, AI 설비투자 사이클이 둔화하고 일부 테크 기업에 이익 성장이 집중되는 비대칭적 장세에 대한 경계감은 여전합니다. 고금리 환경과 맞물려 연말까지 추가 조정이 발생할 수 있다는 전망도 이어집니다.\n\n이번 주에는 테슬라와 메타 등 주요 빅테크를 포함해 70여 개 기업이 3분기 실적을 공개합니다. 시장은 이번 실적 발표를 통해 AI 테마의 지속 가능성과 경제 전반의 상황을 타진할 것으로 보입니다."
+        "overview": "IMF가 한국의 잠재성장률을 2%대로 상향 조정하며 1인당 GDP 성장세를 긍정적으로 전망했습니다. 고령화와 저출생에 따른 인구 감소 속에서 거둔 의미 있는 성과지만, 이러한 반등을 이끈 주된 동력이 반도체 수출 호황에 치우쳐 있다는 분석이 이어집니다. 반도체 의존도가 높은 구조적 특성 때문에 한국 경제가 과거 비교 대상이던 일본보다 대만의 성장 모델과 유사해지고 있다는 평가가 나옵니다.\n\n한국과 대만은 첨단 반도체 공급망의 핵심 축으로 지정학적 리스크와 미·중 패권 경쟁, 생산가능인구 감소라는 공통 과제를 안고 있습니다. 한국은 자동차, 조선, 배터리 등 다양한 주력 산업을 보유해 대만보다 기반이 두텁지만, 반도체를 제외한 제조업 수출 둔화와 고용 창출력 약화라는 한계에 직면해 있습니다.\n\n반도체 착시 효과가 경제 전반으로 전이되지 않을 경우 경기 변동성이 급증할 위험이 있습니다. 전문인력 양성과 중소기업 디지털 전환, 공급망 다변화를 통해 수출 호황이 임금 증대와 내수 활성화로 이어지도록 유도하는 정책적 결단이 필요한 시점입니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "[뉴욕증시-주간전망] 흔들리는 AI 투심, 어디로 가야하오",
-          "url": "https://www.yna.co.kr/view/AKR20261018004700009"
-        },
-        {
-          "name": "경향신문",
-          "title": "AI 투자 우려에 뉴욕증시 일제히 하락…나스닥 2.15%↓",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vQTRqMVFTaVZGTTdaWGhSSGRuTkRMWk5kMWlDWVAtNmgzamFZTWQtRGFqZWhLcFVzT3BRZ1JpRlJQUWV4cF8yQkNob2FiQ2ozTzl4aWxlYmR5Z9IBX0FVX3lxTE5RSmgwTDhFbTFrckVabTNqdVgza2dNUnVwT1dKblRNdUN3Mm1hQjdoVkJKVnhuLXkxMW1EamRUYUdWQVpsU1hyQlRaRWFpWUNXTldCcE0waUVGbXFTaFZN?oc=5"
-        }
-      ],
-      "keywords": [
-        "뉴욕증시",
-        "AI 투자",
-        "코어위브",
-        "빅테크 실적",
-        "나스닥"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/etc/epa/2026/10/17/PEP20261017052301009_P2.jpg"
-    },
-    {
-      "id": "news-20261017-019",
-      "headline": "트럼프, 중간선거 보름 앞두고 텃밭 켄터키 찾아 지지층 결집 총력",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "도널드 트럼프 미국 대통령이 중간선거를 보름여 앞둔 주말, 공화당 텃밭인 켄터키주를 찾아 전폭적인 지지를 호소했습니다. 트럼프 대통령은 이번 선거를 미국 역사상 가장 중요한 선거로 규정하며 자신에게 투표하듯 공화당 후보들을 지지해 달라고 촉구했습니다.\n\n유세 현장에서는 공화당이 승리할 경우 켄터키주 제약시설에 국방부 예산 1억 달러를 투자하겠다는 공약과 함께 전 국민 5천 달러 지급 약속을 다시 꺼내 들었습니다. 선거 승리를 전제로 정부 재정 지원을 약속하면서 향후 적지 않은 논란을 부를 소지를 남겼습니다.\n\n이번 유세는 경합 지역인 오하이오주와의 접경지에서 진행되어 인근 격전지의 표심까지 겨냥했습니다. 트럼프 대통령은 텍사스와 노스캐롤라이나 등 접전지를 두루 거론하며 민주당이 승리하면 자신이 탄핵 위기에 직면할 수 있다고 경고했습니다. 근거를 제시하지 않은 채 부정선거 의혹을 재차 제기하면서 선거 결과 불복에 대한 우려도 함께 커지고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "보름여 남은 중간선거…트럼프, 주말에도 지원유세로 결집 호소",
-          "url": "https://www.yna.co.kr/view/AKR20261018002400071"
+          "title": "[글로컬] '성장률 반등' 한국 경제, 대만 닮아간다는데",
+          "url": "https://www.yna.co.kr/view/AKR20261018059000546"
         },
         {
           "name": "한겨레",
-          "title": "트럼프 “현대, 조지아주에 7500억 투자 발표”…선거 유세서 성과 강조",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1282839.html"
+          "title": "1986년 ‘3저 호황’ 40년 만…IMF, 한국 잠재성장률 2년 연속 상승 전망",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1282939.html"
         }
       ],
       "keywords": [
-        "트럼프",
-        "중간선거",
-        "공화당",
-        "켄터키 유세",
-        "오하이오 경합"
+        "잠재성장률",
+        "반도체 쏠림",
+        "대만형 성장",
+        "내수 활성화",
+        "공급망 다변화"
       ],
-      "image_url": "https://img.yna.co.kr/photo/ap/2026/10/18/PAP20261018075601009_P2.jpg"
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/10/14/PYH2026101411280001300_P2.jpg"
     },
     {
-      "id": "news-20261017-020",
-      "headline": "트럼프 미국 대통령, 아시아 순방 계기 김정은 위원장 회동 가능성 시사",
-      "category": "글로벌",
+      "id": "news-20261018-012",
+      "headline": "과기출연연, 육아휴직 근속 반영 외면…남성 차별·법 개정 미반영 적발",
+      "category": "경제",
       "categories": [
-        "글로벌"
+        "경제",
+        "비즈니스",
+        "IT/과학"
       ],
       "summary": {
-        "overview": "도널드 트럼프 미국 대통령이 다음 달 아시아 순방을 계기로 김정은 북한 국무위원장과 만날 가능성을 열어두었습니다. 트럼프 대통령은 연내 김 위원장과의 만남에 대한 의지를 거듭 밝혀왔습니다.\n\n트럼프 대통령은 다음 달 APEC 정상회의 참석을 포함한 아시아 방문 일정을 앞두고 있습니다. 방중 등 주요 일정과 맞물려 북미 정상 간 전격적인 회동이 이뤄질지 외교가의 시선이 쏠리고 있습니다.\n\n이번 발언이 교착 상태에 놓인 북미 대화의 새로운 전환점이 될지 관련국들의 계산도 분주해지고 있습니다."
+        "overview": "국가과학기술연구회(NST) 소속 주요 정부출연연구기관들이 법정 육아휴직 기간을 제대로 근속기간에 반영하지 않거나 성별에 따라 차별적인 인사 규정을 적용해 온 사실이 확인됐습니다. 더불어민주당 황정아 의원이 23개 출연연의 인사 및 퇴직금 규정을 분석한 결과, 한국과학기술연구원(KIST)을 포함한 4개 기관이 관련 규정을 법 개정 기준에 맞추지 않고 방치해 온 것으로 드러났습니다.\n\nKIST의 경우 남성 직원의 육아휴직은 최대 1년만 퇴직금 산정 근속기간에 포함하는 규정을 11년 동안 유지했습니다. 이는 동일하게 3년 휴직을 사용하더라도 여성과 달리 남성 직원에게 퇴직금 산정 시 불이익을 주는 구조로, 고용노동부 역시 성차별에 해당할 소지가 있다고 판단했습니다. 또한 한국지질자원연구원, 한국에너지기술연구원, 한국원자력연구원 등은 법적으로 확대된 육아휴직 기간을 경력이나 퇴직금 산정에 제대로 반영하지 않아 직원들의 권리를 침해해 왔습니다.\n\n지적을 받은 4개 연구기관은 뒤늦게 내부 규정을 개선하고 불이익을 받은 대상자에게 소급 적용하겠다는 입장을 내놓았습니다. 황정아 의원은 법 개정 이후 1년 7개월이 지나도록 규정을 정비하지 않은 출연연의 관행을 비판하며, NST 차원에서 23개 출연연 전반의 규정을 재점검하고 피해 직원들을 빠짐없이 구제해야 한다고 당부했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "\"아빠 육아휴직은 1년만 근속 인정\"…법 개정 외면한 과기출연연",
+          "url": "https://www.yna.co.kr/view/AKR20261018023500017"
+        }
+      ],
+      "keywords": [
+        "육아휴직",
+        "정부출연연구기관",
+        "근속기간",
+        "성차별",
+        "황정아 의원"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/cms/2023/12/16/94/PCM20231216000694990_P2.jpg"
+    },
+    {
+      "id": "news-20261018-013",
+      "headline": "애플, 맥북·아이패드로 OLED 채택 확대…국내 디스플레이 업계 수혜 기대",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "애플이 첫 OLED 터치스크린을 탑재한 맥북 프로와 아이패드 미니 공개를 앞두면서 국내 디스플레이 업계의 실적 성장 기대감이 높아지고 있습니다. 이번 신형 맥북 프로와 아이패드 미니에 탑재되는 OLED 패널은 삼성디스플레이가 전량 공급하며, 올해 4분기부터 공급 규모가 한층 늘어날 예정입니다.\n\n삼성디스플레이는 충남 아산 8.6세대 IT용 OLED 생산라인에 4조 1천억 원을 투입해 선제적 양산체제를 구축했습니다. LG디스플레이 역시 차세대 공정 기술인 '플립(FLiPP)'을 개발하며 노트북과 모니터 등으로 IT 패널 사업 영역을 적극 넓히고 있습니다.\n\n시장조사업체 유비리서치는 애플의 전체 OLED 수요 가운데 IT 제품이 차지하는 비중이 올해 4.1%에서 2030년 12.5%로 세 배 가량 늘어날 것으로 추산했습니다. 부품 가격 상승에 따른 IT 기기 수요 감소 우려가 존재하지만, 애플의 OLED 전환 기조는 국내 패널 제조사들에게 지속적인 성장 동력을 제공할 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "아이폰 넘어 맥북까지 OLED…삼성D·LGD, '애플효과' 기대",
+          "url": "https://www.yna.co.kr/view/AKR20261016109700003"
+        }
+      ],
+      "keywords": [
+        "애플",
+        "OLED",
+        "삼성디스플레이",
+        "LG디스플레이",
+        "맥북 프로"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/06/26/PYH2026062609390001300_P2.jpg"
+    },
+    {
+      "id": "news-20261018-014",
+      "headline": "건설근로자공제회, 중·소규모 현장 휴게시설 개선에 최대 500만원 지원",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "건설근로자공제회가 중·소규모 건설 현장의 노동 환경을 개선하기 위해 휴게시설 지원 사업을 펼칩니다. 지원 대상은 2027년 4월 1일 이후까지 공사를 이어가는 총공사 금액 100억원 미만의 현장입니다.\n\n중·소규모 건설 현장은 법적 휴게 공간을 갖추고 있더라도 냉·난방기 같은 필수 편의시설이 부족해 열악하다는 지적을 받아왔습니다. 공제회는 현장 1곳당 최대 500만원 한도 내에서 휴게용 컨테이너와 냉·난방기, 냉장고, 간이침대 등 휴식 비품 마련을 돕습니다.\n\n지원 방식은 공사 규모별로 나뉩니다. 총공사 금액 10억원 미만 현장에는 물품 렌털 비용을 지원하고, 10억원 이상 현장에는 구매나 대여 비용을 지급합니다. 지원금은 총예산 2억원이 소진될 때까지 다음 달부터 순차적으로 집행할 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "소규모 건설현장 휴게시설 개선 지원…1곳당 최대 500만원",
+          "url": "https://www.yna.co.kr/view/AKR20261016142600530"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "한은·국세청 대구 국감…“지역 경제 지원·부실 과세 개선”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhaGg2VnRLS1lrZkJ1SG9DekFITmx1VDljazl3V1UzTGwzZGRuTUJOWFllUXR2TENtRDV6XzBHQVJhcmd3TGF0dlZ3cGpHYy1KLVpRclNqWHpLSDA?oc=5"
+        }
+      ],
+      "keywords": [
+        "건설근로자공제회",
+        "휴게시설개선",
+        "건설현장",
+        "건설노동자",
+        "편의시설지원"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016142600530_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261018-015",
+      "headline": "대신증권, 두산 전자사업 호조에 목표주가 197만원으로 상향",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "대신증권이 두산의 목표주가를 기존 184만 원에서 197만 원으로 높여 잡았습니다.\n\n전자사업 부문에서 판매 물량이 늘어나고 고부가가치 제품 비중이 확대되면서 실적 개선을 견인할 것이라는 분석입니다.\n\n수익성 높은 제품 라인업의 확장이 이어지며 두산의 실적 성장세에 속도가 붙을 것으로 평가받습니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "트럼프 “김정은 만날 수도”…내달 아시아 순방 중 회동 가능성",
-          "url": "https://www.mk.co.kr/news/politics/12174061"
+          "title": "“두산, 전자사업 성장 탄력에 수익성 쑥”…목표가↑",
+          "url": "https://www.mk.co.kr/news/stock/12179155"
+        }
+      ],
+      "keywords": [
+        "두산",
+        "대신증권",
+        "전자사업",
+        "목표주가",
+        "실적 개선"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.4cdb768fa2d242678579311e808d1820_R.png"
+    },
+    {
+      "id": "news-20261018-016",
+      "headline": "앤트로픽, IPO 앞두고 지분 5% 공익기금 출연…AI 일자리 충격 대응",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "IT/과학",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "인공지능(AI) 스타트업 앤트로픽이 기업공개(IPO)를 앞두고 회사 지분 5%를 신설 공익기금에 출연하기로 결정했습니다. 가속화하는 AI 기술 발전이 노동 시장과 고용 환경에 미칠 부정적 충격을 완화하려는 취지입니다.\n\n이번 출연을 포함하면 앤트로픽이 사회적 목적을 위해 내놓기로 약정한 지분은 전체의 약 20%에 이릅니다. 회사는 조성한 기금을 통해 기술 변화에 따른 실직 위험에 대응하고 공공 지원 프로그램을 마련할 방침입니다. 대규모 상장을 앞둔 상황에서 기술 기업이 주식 환원을 통해 사회적 책임을 선제적으로 제도화했다는 분석이 나옵니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“AI 일자리 충격 대응”…IPO 앞둔 앤트로픽, 지분 5% 공익기금에 출연",
+          "url": "https://www.mk.co.kr/news/it/12179147"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "앤트로픽, 지분 5% 공익기금에 출연…\"AI 일자리 충격 대응\"",
+          "url": "https://www.yna.co.kr/view/AKR20261019006800009"
+        }
+      ],
+      "keywords": [
+        "앤트로픽",
+        "기업공개",
+        "공익기금",
+        "지분출연",
+        "AI일자리"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.3f5abb0baf624a959771393b13ec1496_R.jpg"
+    },
+    {
+      "id": "news-20261018-017",
+      "headline": "시·군 단위 지역내총생산(GRDP) 공표에 30개월 소요…지체되는 지역경제 통계",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "시·군 단위의 지역내총생산(GRDP) 통계가 공표되기까지 약 30개월이 소요되면서 지표의 적시성이 크게 떨어진다는 지적이 이어지고 있습니다. 현재 구조에서는 기초지자체 수준의 경제 성적표를 확인하기 위해 2년 반이라는 시차를 감수해야 하는 실정입니다.\n\n이러한 집계 지연은 지자체가 현장 경제 상황을 즉각 반영하여 적절한 대응책을 마련하는 데 걸림돌이 됩니다. 급격히 변화하는 경기 흐름 속에서 뒤늦게 확인하는 통계는 정책 대응력을 약화시킵니다.\n\n통계 작성 과정을 효율화하고 데이터를 신속히 확보하는 체계 개편이 시급합니다. 현장감 있는 지표 파악이 가능해져야 지자체 특성에 맞춘 실효성 있는 경제 지원책을 펼칠 수 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "지역경제 성적표 받는 데 30개월…시·군 GRDP ‘뒷북’",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIczhtXy1CVXBSeWpyUHpwYWg5eGJDUkVDVnV5OXlheFk0NllYQnJ0dEdYZXQ4T1JqYkNsYXF3Y3JMMlktcllYakxtSDgtMUJVZHpxVjJpTk5FZEk?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "체전 성화 타올라…지역 경제에도 훈풍?",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKT1NaVHlPajhvTVJlTFVkUkZBbUJfdnliMkVaME5KNk9qVEVtb0pkTEVZXzhNMlJtZHI3aVMtR3FMdENVTWtTb3Q4YkVuNXdjZUNFdjVrYUcwUmxsYW0zN1otM3ZOdw?oc=5"
+        }
+      ],
+      "keywords": [
+        "GRDP",
+        "지역내총생산",
+        "지역경제",
+        "기초지자체",
+        "통계적시성"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261018-017/600/400"
+    },
+    {
+      "id": "news-20261018-018",
+      "headline": "지난달 취업자 11만 명 증가에도 청년층 고용률은 하락세 지속",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "지난달 전체 취업자 수가 전년 동월 대비 11만 명가량 늘어나며 온건한 고용 증가세를 이어갔습니다.\n\n하지만 청년층의 고용 지표는 회복세를 보이지 못하고 하락 흐름을 지속했습니다. 전체적인 고용 규모 확대에도 불구하고 15세에서 29세 사이 청년층의 고용률이 떨어지면서 연령별 고용 양극화 현상이 이어지고 있습니다.\n\n경기 둔화와 신규 채용 축소 분위기가 맞물리면서 청년층의 노동 시장 진입이 한층 어려워진 점이 주요 원인으로 꼽힙니다. 양적 증가 뒤에 숨은 청년 고용 부진을 해소하기 위한 실질적인 일자리 정책 지원이 시급하다는 지적이 나옵니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "지난달 취업자 11만 명 증가‥청년층 고용률 하락세는 지속",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mdE02OTg3NDkya1EzVkU4TlFQOU9FZmJ4aUdsemhwczV0b2Y4Rm5KU193MlA0R3Qwc3lOMG92WWRDNGVldi1XSUVTNU5udGtvRFBqaXhVZ2NpQWlPMkMyNEIybjU1bExuTjhNM0xvZHljR0VN0gF0QVVfeXFMTWVNN0p0dVowUjdpbVRYeU5XUHQ0R1pMQnRCeHc1LUVraVQ0alhmUkxENm5pTkNaeUpOTnRDNHpHLWJhYzdWdE11SFJzUVhnZERTV2drXzlETDE1eloxa1JuVVFySDNFVjczdW03TFV2ZmNJZ1Y?oc=5"
+        },
+        {
+          "name": "정책브리핑",
+          "title": "9월 취업자 11만 3000명 증가…제조업 27개월 만에 증가 전환",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YVXdtRHA0R0VrLUNfY3RDbXBJOHdHTEVua094NFU1MFBUOUMzY0dFbDZJQ0oyc2g5cVBFdHY3SURXZTFTaGtHM3MwR19hTDQ3VXZmOS16d1ZiS19MbUtFdUROeXVJdXEtLUE0QQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "취업자 수",
+        "청년 고용률",
+        "고용 동향",
+        "고용 지표"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261018-018/600/400"
+    },
+    {
+      "id": "news-20261018-019",
+      "headline": "젤렌스키 “미국, 우크라이나에 항복 압박”…트럼프는 대러 제재 유예 옹호하며 맞대응",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "볼로디미르 젤렌스키 우크라이나 대통령이 도널드 트럼프 미국 행정부로부터 러시아에 굴복하라는 압박을 받고 있다고 공개 비판했습니다. 젤렌스키 대통령은 외신 인터뷰에서 미국이 우크라이나의 희생을 대가로 전쟁을 조기 종식하려 한다며, 러시아 편에 서는 결정은 역사적 비극이 될 것이라고 경고했습니다.\n\n이에 대해 트럼프 대통령은 소셜미디어를 통해 대러시아 신규 제재 유예 조치를 옹호하며 반박에 나섰습니다. 트럼프 대통령은 현재 진행 중인 평화협상과 인질 협상을 타결하기 위해 러시아를 협상 테이블에 묶어둘 필요가 있다고 주장했습니다.\n\n아울러 트럼프 대통령은 우크라이나의 러시아 정유시설 공격이 국제 경유 가격 급등을 유발해 세계 경제에 부담을 주고 있다고 지적했습니다. 또한 러시아가 이란을 적극적으로 지원하지 않도록 유도하기 위해서도 대러 압박 자제가 필요하다는 논리를 내세웠습니다.\n\n양국 간 갈등이 깊어지자 미국 공화당 내부에서도 백악관의 대러 제재 유예 조치에 대한 우려가 불거지고 있습니다. 마이크 존슨 하원의장을 비롯한 여당 인사들은 이번 결정이 가져올 수 있는 부작용을 신중히 검토해야 한다는 입장을 백악관 측에 전달했습니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "북, 러시아 이어 중국과도 다리 개통...제재 무력화",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lcVdzeFVEazRCVDhnS1oydUVFUFppUjFlczUyZ3Etcko3N04ySkhjNjN1VkU3X3lyNGVBQVNVMjJQTFVnb1BMcG44akRwakZSLVBJMnZTY0stNWRPYmc?oc=5"
+        },
+        {
+          "name": "한겨레",
+          "title": "젤렌스키 “미국이 항복 압박”…트럼프 “러시아 제재하면 평화협상 깨져”",
+          "url": "https://www.hani.co.kr/arti/international/europe/1282975.html"
+        }
+      ],
+      "keywords": [
+        "젤렌스키",
+        "트럼프",
+        "우크라이나 전쟁",
+        "대러 제재",
+        "평화협상"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1010/53_17916179975641_20261010500354.webp"
+    },
+    {
+      "id": "news-20261018-020",
+      "headline": "트럼프의 러시아 에너지 제재 면제 결정에 공화당 반발…미 여권 내분 심화",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 미국 대통령이 러시아산 원유와 천연가스 주요 수입국에 대한 고율 관세 부과를 전격 면제하면서 미 여권 내부에서 강한 반발이 일어나고 있습니다. 문제가 된 '그레이엄 법'은 러시아산 에너지를 수입하는 상위 5개국에 최대 100%의 관세를 매기는 내용으로, 의회에서 초당적 합의를 거쳐 통과한 법안입니다.\n\n그러나 법 발효 직전 트럼프 대통령이 독자적으로 면제권을 행사하자 공화당 내부에서도 강한 비판이 잇따르고 있습니다. 마이크 존슨 하원 의장은 의도치 않은 부작용을 경고했으며, 테드 크루즈 등 주요 상원의원들도 이번 조치를 무책임한 실수라고 지적했습니다.\n\n반면 행정부 각료들은 세계 디젤 연료 공급을 늘리고 러시아를 우크라이나 분쟁 축소로 유도하기 위한 전략적 유인책이라며 대통령을 적극 옹호했습니다. 이번 갈등은 중간선거를 앞두고 치솟는 에너지가격을 잡아야 하는 트럼프 행정부와 공화당의 복잡한 딜레마를 보여줍니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "트럼프 '러 에너지 유화책'에 공화 반발기류…美여권 내분 양상(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261019000351071"
         },
         {
           "name": "경향신문",
-          "title": "“지속적 호전” 레오 14세 교황 폐 수술 후 사진 첫 공개···내달 남아메리카 순방 소화는 ‘불투명’",
-          "url": "https://www.khan.co.kr/article/202610162236001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "title": "“트럼프, 푸틴에 굴복…용납 안 돼” 대러 제재 유예에 공화당서도 반발",
+          "url": "https://www.khan.co.kr/article/202610182108005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         }
       ],
       "keywords": [
         "트럼프",
-        "김정은",
-        "아시아 순방",
-        "APEC",
-        "북미회동"
+        "러시아 제재",
+        "그레이엄 법",
+        "공화당 내분",
+        "에너지 정책"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20260930.2a8ef7f3ef5044049a793828466cf01b_R.png"
+      "image_url": "https://img.yna.co.kr/photo/ap/2026/10/18/PAP20261018108401009_P2.jpg"
     }
   ]
 }
