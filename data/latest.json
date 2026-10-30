@@ -1,18 +1,288 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-28T08:58:58.379437+09:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T09:18:16.258077+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261027-001",
-      "headline": "3분기 韓 경제 1.0% 깜짝 성장… 반도체 호황 속 민간소비는 감소",
+      "id": "news-20261030-001",
+      "headline": "국제유가, 이란·사우디 회동 소식에 하락…WTI 1.5% 내려",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "국제유가가 중동 주요 산유국인 이란과 사우디아라비아의 외교적 접촉 소식에 하락세를 기록했습니다.\n\n시장에서는 양국 간의 관계 개선 및 대화 진전이 지역 내 지정학적 불안을 완화할 것으로 내다봤습니다.\n\n이에 따라 원유 공급 차질에 대한 시장의 경계감이 누그러지며 가격 하방 압력으로 작용했습니다.\n\n뉴욕상업거래소에서 서부텍사스산원유(WTI) 가격은 전 거래일 대비 1.5% 떨어지며 거래를 마쳤습니다.\n\n투자자들은 향후 양국 회동의 구체적인 결과와 산유국들의 공급 정책 변화를 예의주시하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "국제유가, 이란·사우디 회동에 하락…WTI 1.5%↓",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51S0picEp0aHpHNFRyUVVXOWVOOFRsOG9Ha2k1NUVkWU1kSVNldk84am1KU0ZWYUtfRFBLQ0o0eFB6UUZJQlB1ZlZBSzJXWnU2bzdtX0RmUWhINFE?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가, 중동 외교 해결 기대감에 하락‥WTI 102달러",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQjUtT2R3ZjdpRnJ4MFlZRy1QOW52M3NGaWlzY0hUOHRpTjNaLTFXdlNqWDlOSXRqX1pSWkZ1cWQxcWZoM1Z5UVR0MVA2RFBhb0dDaHRhX0p2MXkyQkdjb1UtQnpqY0tiTkdVaE1zX052NTlU0gF0QVVfeXFMTUsxd2dJQktabHRKdHM0X2NZYnUzVlRpOU1NRkJvbUNOVFl0cDM3NHV1MEF3UjlrVFQ5ekQ1Y21mMVoxYXhPV2NLd0VuY3RnNWF5aE1iczIzUDFoWV9uVHh2VFFTT1l3eE5qUl9LZEdRTFhTTjU?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "트럼프 \"이란이 유가 조작\"‥국제유가 5월 이후 최고",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTcnhvRmxIR1hwcDk1R21kMWsxOE4xWmFOWjlSUms0OVZUaE85QlRvM2hPOU45VEhSRFQzYzZxTWdBSTg1a3gwdmJGTlo2VURzV2sxVVF0cVpVLWZfX2xCNnZSd0dwQTl4T1Y2RmtGLW0zemVocmdWWXJ30gF6QVVfeXFMTWRzdlA5dWtOWl96bkpDbER4Z1VNQXhNUXZudGZ6OElVVUFwd1phTFZaZ1p1TlpJS3dtdFJMTk1FVGhaWnZEc1pZY3N5SllwSmU0T0R2YU5STmJFMno1ZUFOT1dOVmNqXzA5WHJYaGxSb2h5N0ZPUV9OMkE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "국제유가, 이란 외교 해결 기대감에 하락...WTI 102달러",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03RWdOWVFNaTNjX3FtR1dVV25sNHd6cTh0UkJESERLY1lpNUZQWWx2aGhSTmFkeFpOaUFlNkNZMUFZVERndWhoc0sySjl2VEVSQ2c3WHFlR3ViXzdxVVE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "국제유가보다 심각한 상황…겨울 앞둔 유럽 '초비상' [지금이뉴스]",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEaW9JZnRlZU94RUozTE80MjJHaTJQTDg4UzRTdHFWeU14U1JIVVFCOGtmQzVjRmhCS0NyUWlJeTc4V2lJQ1c4aWs0aFNrU3RDbm5KVjNYa1VZYWV4ZS1zOXdMdklla1hDcVY1ZlFFbkxpUFFodkE?oc=5"
+        }
+      ],
+      "keywords": [
+        "국제유가",
+        "WTI",
+        "이란",
+        "사우디아라비아",
+        "유가하락"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261030-001/600/400"
+    },
+    {
+      "id": "news-20261030-002",
+      "headline": "원주시 귀래면 계획관리지역 토지·주택, 감정가 반값 수준 경매 출품",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "IT/과학",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "강원특별자치도 원주시 귀래면 운남리에 위치한 계획관리지역 내 임야 및 토지가 감정가의 절반 수준으로 경매시장에 나왔습니다.\n\n해당 물건은 3회차 경매를 앞두고 있으며, 기존 감정가 7억 7,000만 원에서 대폭 낮아진 최저 매각 가격 3억 8,000만 원부터 입찰을 진행합니다.\n\n이 토지는 용도지역상 계획관리지역에 속해 개발 활용도가 높으며, 고급 시니어타운이나 단지형 단독주택, 타운하우스 등 다양한 형태의 부지 조성이 가능합니다.\n\n실제 개발 사업 추진은 물론 장기적인 관점에서의 투자 목적에도 적합한 조건입니다.\n\n원주 지역 내 입지와 가격 경쟁력을 동시에 갖춘 토지를 찾는 수요자들의 입찰 참여가 예상됩니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "[매경부동산 경매] 원주시 계획관리지역 다용도 토지·주택 ‘반값’ 매각",
+          "url": "https://www.mk.co.kr/news/realestate/12189554"
+        },
+        {
+          "name": "매일경제",
+          "title": "[매경부동산 단신] 왕십리역세권 호스텔·게스트하우스 적합 건물 매각",
+          "url": "https://www.mk.co.kr/news/realestate/12189545"
+        }
+      ],
+      "keywords": [
+        "부동산 경매",
+        "원주시 토지",
+        "계획관리지역",
+        "반값 경매",
+        "부동산 투자"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/29/news-p.v1.20261029.97108f163c3d4e7583d3644fac66c217_R.jpg"
+    },
+    {
+      "id": "news-20261030-003",
+      "headline": "삼성전자, 3분기 반도체 영업익 106조 대기록에도 주주환원 미흡에 주가 하락",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "삼성전자가 인공지능(AI) 시장 확대에 힘입어 올해 3분기 반도체 사업에서만 106조 원이 넘는 영업이익을 달성했습니다. 6세대 고대역폭메모리(HBM4)의 매출 호조가 실적 성장을 이끌었으며, 회사는 주요 고객사와의 장기공급계약에 힘입어 2028년까지 메모리 공급 부족이 이어질 것으로 예상했습니다.\n\n반면 실적 편중과 완제품 사업의 적자는 과제로 남았습니다. 스마트폰과 가전을 담당하는 디바이스경험(DX) 부문은 반도체 가격 상승에 따른 부품 비용 증가로 8천억 원의 영업손실을 기록했습니다.\n\n역대급 실적에도 삼성전자 주가는 4% 넘게 하락했습니다. 경쟁사인 SK하이닉스가 자사주 매입 및 소각을 포함한 100조 원대 주주환원책을 발표하며 주가가 오른 것과 달리, 삼성전자는 현금배당 외에 구체적인 자사주 소각 계획을 내놓지 않아 시장에 아쉬움을 남겼습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "삼성, 반도체만 3분기 영업익 106조인데…주가는 되레 4% 하락",
+          "url": "https://www.hani.co.kr/arti/economy/marketing/1284888.html"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "[간추린경제] 1. 상승폭은 둔화 2. 영업익 107조 또 신기록‥3분기 현금배당 30조",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RMGdscWJtWUYzNlhTWG5FNHJKTVMxbXpEM3BFY0w0SGhyQXNQbHN4RVZDc2tEMzNwR3hPbUF3dnFlZ0xOMGxtREliR21sRktaUkxvVTFDYVNIQnlaczhLRkMteE9LbTU4R0hjQ0FfYlJ6TkozOEQ2aNIBeEFVX3lxTE53Q2lQRjhwQ0N3SG1UVWx4WmZ3TTREbHVuYUxLNF9WYWZ4WU9VN2I4cnVDZzV0NUMydWllbG9uamJWRXkwLWpIUFYwM2I5SG5McjNTOWRvNlBHNDZPYzNwT29Bb3lJS0JLOWg2TllxZmhwZWE4ejBXMw?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "미 반도체주 반등‥국제유가 소폭 하락",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QMVVEQ3gwQkRycTc4Rlkxci1ZRWlyZ2tjc2pYa2IwVVNEYUdOcG45MmVVakhXNHdTdkcwX0VUazR0WWZaaXN4eWhCYWlYMDB0QkVqN1JmX1JkZ1N3eEZDWDh6aGcwM2t2VUQyMGdHWkJFMjJO0gF0QVVfeXFMTVAxVURDeDBCRHJxNzhGWTFyLVlFaXJna2NzalhrYjBVU0RhR05wbjkyZVVqSFc0d1N2RzBfRVRrNHRZZlppc3h5aEJhaVgwMHRCRWo3UmZfUmRnU3d4RkNYOHpoZzAza3ZVRDIwZ0daQkUyMk4?oc=5"
+        },
+        {
+          "name": "동아일보",
+          "title": "삼성전자, 3분기 반도체로만 영업이익 106조",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134936455/2"
+        }
+      ],
+      "keywords": [
+        "삼성전자",
+        "반도체실적",
+        "HBM4",
+        "주주환원",
+        "SK하이닉스"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1029/53_17932672324612_20261029503824.webp"
+    },
+    {
+      "id": "news-20261030-004",
+      "headline": "서울 아파트값 90주 연속 상승세… 강남 3구는 하락 폭 확대",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "서울 아파트값이 전주 대비 0.09% 오르며 90주 연속 오름세를 이어갔습니다. 상승 폭은 다소 줄었으나 15억 원 이하 중저가 아파트가 밀집한 지역을 중심으로 매매가 상승이 계속되며 전체 지수를 끌어올렸습니다.\n\n반면 고가 주택이 몰린 강남 3구는 하락세를 이어갔습니다. 강남구와 서초구는 각각 0.38%, 0.35% 떨어지며 12주 연속 하락했고, 송파구 역시 0.22% 내리며 9주째 약세를 나타냈습니다.\n\n수도권 전반으로는 경기 지역의 집값 오름세가 강하게 나타났습니다. 이른바 '반도체 벨트' 중심 지역을 수혜지로 삼아 수요가 늘면서 경기 전체 아파트값 상승률이 서울의 두 배를 넘었습니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "서울 아파트값 90주째 최장기 상승, '서울 빠진' 신규택지 발표 효과는? [스타트 경제]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBc1hHS01TX0ZIaTQtQVMwX09ScHhWQVdvQmVjRGJLRmt6d2cteXpYR3k3SC1hWlhvOGhBSk93YXktSm4wV2dreHNFSUVzaDBlSlhTZkVFMENKMmJnb3c?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "\"서울 5km 이내 7만6천 호 추가 공급\"...효과는? [이슈ON]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSElSeFZla08xSGNVUzdLZUh4N3drMkRBRGhZdWlFQUVHOThwZGplcnFPVXYwRU5oM3ltOUtpME5teDlHMVlPeFlfaTFlT0MybEk2bTAzX0RuUGVLaHc?oc=5"
+        },
+        {
+          "name": "동아일보",
+          "title": "서울 아파트값 90주 연속 상승… 강남 3구는 낙폭 커져",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134936244/2"
+        },
+        {
+          "name": "매일경제",
+          "title": "기대 모았지만 서울 택지는 빠져 … 국토장관 \"서울시 답변 기다려\"",
+          "url": "https://www.mk.co.kr/news/realestate/12190226"
+        }
+      ],
+      "keywords": [
+        "서울 아파트값",
+        "강남 3구",
+        "한국부동산원",
+        "반도체 벨트",
+        "부동산 동향"
+      ],
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134937073.1.jpg"
+    },
+    {
+      "id": "news-20261030-005",
+      "headline": "한화에어로스페이스, 3분기 어닝쇼크에도 \"4분기 폴란드 수출 재개로 실적 회복\"",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "올해 3분기 한국 경제가 반도체 수출 호황과 설비 투자 증가에 힘입어 전 분기 대비 1.0% 성장했습니다. 이는 한국은행이 두 달 전 제시했던 전망치인 0.3%를 세 배 이상 웃도는 기록입니다.\n\n이번 성장세로 인해 올해 연간 경제성장률은 정부와 한국은행의 전망치인 3.6%를 상회할 가능성이 커졌습니다. 1인당 국민총소득(GNI) 역시 4만 달러대에 안착할 것이 확실시됩니다.\n\n하지만 반도체가 주도한 착시 효과를 제외하면 실물 경제의 온기는 여전히 차갑습니다. 민간 소비는 3년 9개월 만에 감소세로 돌아서며 내수 부진을 드러냈습니다.\n\n특정 산업에 치우친 성장은 주력 업황이 흔들릴 때 경제 전체가 더 큰 충격을 받는 구조적 약점을 안고 있습니다."
+        "overview": "한화에어로스페이스가 올해 3분기 시장 기대치를 대폭 밑도는 실적을 기록했습니다. 3분기 연결 영업이익은 4,520억 원으로 전년 동기 대비 46% 감소했으며, 매출도 6조 943억 원으로 6% 줄었습니다. 이번 실적 부진은 지상방산 부문에서 수익성이 높은 폴란드 수출 물량의 인도가 4분기로 이월된 데다, 대전사업장 사고 관련 일회성 비용과 충당금 약 500억 원이 반영된 영향이 컸습니다.\n\n증권가는 이러한 부진을 일시적인 현상으로 평가하며 4분기부터 실적이 빠르게 회복할 것으로 내다봤습니다. 지상방산 사업은 제품 인도 시점을 기준으로 매출을 인식하기 때문에 분기별 실적 변동성이 크게 나타납니다. 9월부터 폴란드향 K9 자주포 인도가 재개되었으며, 4분기에는 K9 30문 이상과 천무 발사대 등의 인도가 집중될 예정입니다.\n\n주요 증권사들은 단기 실적 부진과 방산 업종의 밸류에이션 하락을 반영해 한화에어로스페이스의 목표주가를 일부 하향 조정했습니다. 다만 근본적인 수출 경쟁력이 훼손된 것은 아니라고 판단하며 투자의견은 모두 '매수'를 유지했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "증권가, '3분기 어닝쇼크' 한화에어로에 \"4분기 수출 회복\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030031000008"
+        },
+        {
+          "name": "매일경제",
+          "title": "하나증권, 현대차 목표가 48만원으로 하향…“4분기 판매 회복 예상”",
+          "url": "https://www.mk.co.kr/news/stock/12191163"
+        }
+      ],
+      "keywords": [
+        "한화에어로스페이스",
+        "방위산업",
+        "실적발표",
+        "폴란드수출",
+        "증권가전망"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/cms/2026/09/14/48/PCM20260914000148003_P2.jpg"
+    },
+    {
+      "id": "news-20261030-006",
+      "headline": "GC녹십자·한미약품, 차세대 파브리병 치료제 6천300억원대 글로벌 기술 수출",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "GC녹십자와 한미약품이 공동 개발해 온 차세대 파브리병 신약 후보물질 'LA-GLA'를 글로벌 희귀질환 전문 제약사인 바이오마린 파마슈티컬에 기술 수출했습니다. 총 계약 규모는 4억 7,500만 달러(약 6,367억 원)로, 두 회사는 계약금 7,000만 달러를 확보하고 개발 및 상업화 단계에 따라 최대 4억 500만 달러의 마일스톤과 별도 로열티를 받게 됩니다.\n\n계약에 따라 바이오마린은 한국을 제외한 전 세계 시장에서 LA-GLA의 임상 개발과 상업화를 전담하며, 국내 판권과 허가는 GC녹십자와 한미약품이 유지합니다. LA-GLA는 한미약품의 약물 지속 플랫폼 기술과 GC녹십자의 효소대체 요법 임상·생산 역량을 결합한 파이프라인으로, 2주마다 정맥주사를 맞아야 했던 기존 치료제와 달리 환자가 피하주사(SC)로 투약할 수 있어 편의성을 대폭 개선했습니다.\n\n이번 기술 수출 성사로 올해 국내 제약·바이오 업계의 누적 기술 수출 총액은 20조 원을 넘어섰습니다. 양사는 국내 제약사 간의 개방형 혁신(오픈 이노베이션) 모델을 통해 희귀질환 분야에서 글로벌 경쟁력을 갖춘 치료제 개발에 속도를 낼 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "GC녹십자·한미약품, 차세대 파브리병 신약 기술 수출",
+          "url": "https://www.yna.co.kr/view/AKR20261030030100017"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "[한일 미래路] 日사회학자 \"한일 돌봄 기술, 아시아에 수출 가능\"",
+          "url": "https://www.yna.co.kr/view/AKR20261028144900898"
+        }
+      ],
+      "keywords": [
+        "GC녹십자",
+        "한미약품",
+        "파브리병",
+        "기술수출",
+        "바이오마린"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030030100017_02_i_P2.jpg"
+    },
+    {
+      "id": "news-20261030-007",
+      "headline": "9월 생산·소비·투자 '트리플 증가'…전산업생산 3% 반등",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "9월 국내 산업생산과 소비, 설비투자가 일제히 반등하며 이른바 '트리플 증가'를 기록했습니다. 반도체와 자동차 업황 호조에 힘입어 제조업 중심의 광공업생산이 크게 늘면서 전체 산업생산 상승을 이끌었습니다. 국가데이터처 발표에 따르면 지난달 전산업생산지수는 전월 대비 3.0% 증가했습니다.\n\n소비 동향을 나타내는 소매판매액지수도 승용차와 식료품 등의 판매 호조로 전월보다 3.6% 늘었습니다. 설비투자와 건설기성 역시 기계류 및 운송장비 투입과 건축·토목 공사 실적 증가에 힘입어 각각 5.3%, 5.8% 상승했습니다.\n\n현재 경기 상황을 반영하는 동행종합지수 순환변동치는 전월 대비 0.5포인트 상승했습니다. 반면 향후 경기 흐름을 예고하는 선행종합지수 순환변동치는 0.1포인트 내리며 엇갈린 신호를 보였습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "9월 생산·소비·투자 ‘트리플 증가’…산업생산 3% 늘어",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284960.html"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "美, AI 투자·소비 호조에 3분기 3.4% 성장‥1년 만에 최고",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pYWQ0ZE1MZmNmUjhNSkROa1JzUkNqNkZrTzhldC16X3MyTVBESEVZdE1ZZktVSGs3bXA3T01qYndKTWN6YXgwb1BQcHpPS2RxNjdGcmpreW1NbkI3cS1GUzNjTGJpN3lTTk9UZ0hqbUZXck5U0gF0QVVfeXFMTlhheExsVzVvSS1wZEhEXy1HS2RCQmlFeVVia0ZWcGNkY3h3SVUwQ21XMGhnYzYtN1ZhRUtwQXgyVGFUcUVtU3M2UGRQX1VrSTZ0NUhwUE1ybmhqS0w2VXpNc2ZLcDVyXzV6cWw0ZU55bkN4WnI?oc=5"
+        },
+        {
+          "name": "연합인포맥스",
+          "title": "9월 생산 3.0%↑·소비 3.6%↑…투자까지 5.3% 늘며 '트리플 증가'",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtSTlJLXAyaVhnNHkzSmcxNmU5UUU1Y1RPYnprdWROVzZRSkZUNV9wTnZOdkRNTDJPNHRrbVdBZEVFakdMOEFYdlBvYVFLcHhiRVNkVFVWRXdHcjZjWU9vUjNURWJDVzVHSlY0WENCWlA?oc=5"
+        }
+      ],
+      "keywords": [
+        "산업활동동향",
+        "트리플 증가",
+        "산업생산",
+        "소매판매",
+        "설비투자"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1030/53_17933166813962_20261030500189.webp"
+    },
+    {
+      "id": "news-20261030-008",
+      "headline": "인텔, 3분기 깜짝 실적에도 4분기 전망 악화에 주가 20% 폭락",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "미국 반도체 기업 인텔이 시장 기대치를 뛰어넘는 3분기 실적을 발표했으나, 부정적인 4분기 실적 전망을 내놓으면서 주가가 폭락했습니다. 인텔의 3분기 매출은 전년 동기 대비 21% 증가한 165억 1천만 달러, 주당순이익은 52센트를 기록하며 월가 예상치를 크게 넘어섰습니다. 최근 AI 에이전트 사용 확대로 서버용 CPU 수요가 늘면서 데이터센터 및 AI 부문 매출이 78% 급증한 영향이 크게 작용했습니다.\n\n반면 세계 PC 출하량 감소로 소비자컴퓨팅 부문 매출은 5% 줄어든 81억 달러에 그쳤습니다. 인텔 경영진은 PC 시장의 둔화 흐름이 내년 상반기까지 이어질 것이라고 제시했습니다. 제시한 4분기 매출 전망치도 150억∼160억 달러로 시장 분석가들의 예상치인 171억 달러에 훨씬 미치지 못했습니다.\n\n이달 초 이스라엘 파운드리 공장 폭발 사고로 6억 달러 규모의 매출 손실이 발생할 수 있다는 점도 투자심리를 위축시켰습니다. 최고경영진이 연산 플랫폼에 대한 장기적 수요는 탄탄하다고 강조했으나 불안감을 잠재우지 못했고, 결국 실적 발표 이후 주가는 시간 외 거래에서 20% 이상 수직 낙하했습니다."
       },
       "publishers": [
         {
@@ -21,306 +291,165 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zQnNiUWE1WjBCRk1oZGhGZjhNSVNXTXJCUG9GRlZOcnZMTS1vdkV6WUlmV2pfdTZWcThEZWdOMDltdHFnZk5ySTVJeWJZZDBpaEdrUWpsSFp1ZjQ?oc=5"
         },
         {
-          "name": "KBS 뉴스",
-          "title": "“반도체 위주 성장, 노동 몫은 2010년 이후 최저”…국민경제자문회의 포럼서 논의",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XaVV0S0lDdk9ERHlWWk9tSjEwWm1VOW10N3d2ZjQ1X0g0bE1ubkhEU3VDcVRLamcyVVFkc3VNZ2N2LVVtUkpLZ2NkaG1rMjFNVk96NE4tRlgzTVE?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "박찬대 인천시장 “임기 4년 동안 평균 경제성장률 5% 달성”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jNFVHdDd1VlV2TzkxcWUzVDd3MHVpWUFBbl9ROGJyd0UyS3J0QnlDSkF2aExRMzA5eTB1aXppUkdiR0FFUHFDX2lBQTEyZWlOUjhCOHJ5VEU3ZUE?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "한국은행, 3분기 GDP 1% 성장‥정부소비·설비투자 증가 영향",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DeE5hUzVBWTdQRkdDYmctMVR5d1U2OGRSOTZMa3JuSERZZlhQVVpSNnNOQ2lLbV80M2paWjlhVHRsdnFub0VQWjV4WS15a3Z4Z01BX2NITnJEM0xvUkR3bGZJT1J3UzFMOFE1bi11RDZxZjFW0gF0QVVfeXFMT2R6SHh5ajRrQkZkT2ZXZWR4TldqdDhObllicTFDSDVGelNDQzFncERCTTBHVVpCRnV0NDlHeF9BMnZRRTVBcUFWcXVOLVhkSU1LYjFnUmM5QnU0cFA1WWxsRU05NTg2NW5ybkt2RGZ6RG05N0w?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "3분기 한국 경제 1% '깜짝 성장'‥전망치 웃돌아",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54eTI4elYzbW1fOGhnVGpYZlVucGRVMkxlMVFQdHhlT2ZfV0RpU0FhR0xrWlpIakYxb1VILW4wdEM4Tk9MNXV0UnFFUmozLXZuM0lqa2FaVHBDd2ZBZFg4UkRYVkZGcDVYLWdHTGNoaFFCdy13ZWdCWtIBeEFVX3lxTE1pTmVtWXJmamlwRFVOVkMyaHY0SFNjSE9SZ2pGVWhpMGRTeFNLSVI0cncxTlZUUkZMXzBkSXVqLUhtMjB6UzdKRHo0QmF1ZkJRRjRPZnpaZ3FUUm1xWTFpLXJWTGR6N05yRnA0cHpLMjlxM0xyYWliMQ?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "3분기 한국 경제 1% '깜짝 성장'‥전망치 웃돌아",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pNlNrenRaczU2OERpc0pYanprdVRLMDJvYzVMWk4ydEtONDJsVC0wT05RVEhxbWxpZUtGOW0tb05nOWdJSE1iUEZXTmdpZ0NRQUE3SkotSlNVZ2xOcWV5eU5BOVJzMVhBbVVNWkZjd3d0aTk1LXo00gF3QVVfeXFMTmk2U2t6dFpzNTY4RGlzSlhqemt1VEswMm9jNUxaTjJ0S040MmxULTBPTlFUSHFtbGllS0Y5bS1vTmc5Z0lITWJQRldOZ2lnQ1FBQTdKSi1KU1VnbE5xZXl5TkE5UnMxWEFtVU1aRmN3d3RpOTUtejQ?oc=5"
-        },
-        {
           "name": "YTN",
-          "title": "올해 3분기 GDP 1% '깜짝 성장'...민간소비는 하락세",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sMDdlMDBqN2tqamhCSVVlMU9obm1qNUNFVUlQSFhRYlNONWY4QTl4MFNwY2QxZW54YjVJUWZXS0FXREktX0RManNXN1NWNGc1OGZkeUtJcmVYeEpESFE?oc=5"
+          "title": "워시 연준 의장 \"한국 경제에 큰 관심...한은 총재와는 좋은 친구\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hWXZqVXd6Ry1NVkM3ZVJoNzdkVHY4eTRxMklfTDIzMkYwc1hhTG1qN1dqY2FZeUQxUkxORGZsNHFpbTJLT0xxbTNJbjM0SXRuVGJ3Z1dIM0FIZ1NrZ2c?oc=5"
         },
         {
-          "name": "YTN",
-          "title": "3분기 실질 GDP 1% '깜짝 성장'...연 4%도 가시권",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IQ2NzWjFsZDUwak5DSHNrQmFPbUdBc0JwTUtTUHVwQV9wakY4aTQ2bFFOWDN6dXppb2xfRjJyWDJZOWFZNEhYNVRvX3pBQ1dEYS1VMTU0U2tGaVdoQ2c?oc=5"
-        },
-        {
-          "name": "동아일보",
-          "title": "韓경제 3분기 1% 깜짝 성장… 민간소비는 뒷걸음",
-          "url": "https://www.donga.com/news/Economy/article/all/20261028/134921350/2"
+          "name": "연합뉴스",
+          "title": "인텔, AI부문 급성장에도…4분기 부정적 전망에 주가 20% 폭락",
+          "url": "https://www.yna.co.kr/view/AKR20261030013500091"
         }
       ],
       "keywords": [
-        "경제성장률",
-        "반도체수출",
-        "민간소비",
-        "한국은행",
-        "국민총소득"
+        "인텔",
+        "4분기전망",
+        "주가폭락",
+        "PC시장둔화",
+        "AI부문"
       ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/27/134914259.1.jpg"
+      "image_url": "https://img.yna.co.kr/photo/etc/epa/2026/06/02/PEP20260602085801009_P2.jpg"
     },
     {
-      "id": "news-20261027-002",
-      "headline": "트럼프 행정부의 유가 하락 압박과 2018년 상황 재현에 주목하는 월가",
+      "id": "news-20261030-009",
+      "headline": "가을 축제 특수, 단순 행사에 그치지 않고 지역 소비 확대로 이어지려면",
       "category": "경제",
       "categories": [
-        "경제",
-        "글로벌",
-        "비즈니스"
+        "경제"
       ],
       "summary": {
-        "overview": "미국 백악관이 국제 유가를 인하하기 위한 다각도의 조치를 연이어 내놓고 있습니다. 이번 행보는 다가오는 중간선거를 앞두고 물가를 잡으려는 정치적·경제적 계산이 반영된 결과로 풀이됩니다. 유가 하락을 유도해 인플레이션 부담을 줄이고 표심을 확보하려는 의도가 짙게 깔려 있습니다.\n\n월가 금융권은 현재 상황을 지난 2018년의 유가 하락 압박 국면과 유사하다고 보고 있습니다. 당시 트럼프 행정부는 석유수출국기구(OPEC)를 향해 증산을 강력히 요구하며 유가 급락을 이끌어낸 바 있습니다. 이에 따라 금융 시장에서는 과거와 같은 유가 변동성 확대가 재현될 가능성을 염두에 두고 있습니다.\n\n향후 백악관의 추가적인 정책 대응과 산유국들의 움직임에 따라 국제 원유 시장의 향방이 결정될 것으로 보입니다."
+        "overview": "전국적으로 다채로운 지역 축제가 열리는 계절이 돌아오면서 지자체마다 방문객 유치에 열을 올리고 있습니다. 다만 축제 기간 일시적인 방문에 그치지 않고, 방문객의 발길과 소비가 지역 상권 전체로 퍼져나가도록 유도하는 정책이 시급한 과제로 떠올랐습니다.\n\n축제장 내부에만 머무르는 소비 구조를 넘어 주변 전통시장이나 소상공인 점포와 연계한 할인 혜택, 체류형 관광 프로그램 개발 등이 대안으로 제시됩니다. 단순한 볼거리 제공을 넘어 지역 상권과의 실질적인 상생 모델을 구축할 때 축제가 지역 경제 성장의 지속 가능한 동력으로 자리 잡을 수 있습니다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "유가 하락 밀어붙이는 트럼프? 2018년 떠올리는 월가",
-          "url": "https://www.mk.co.kr/news/business/12188018"
+          "name": "KBS 뉴스",
+          "title": "[같이경제] 축제의 계절…지역 소비로 확장하려면?",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZRmJVblVpWkFmMlpWNEYyNmlqbF8xWmFvUUtkbUs3dnpwMFBUbjdZWEVSbkE5MklEVVl3a1pnWkFoSEVlczh2MTQxa2ZONU5hMUU4QTAtRXluM1U2WHBUSDduX3JaQQ?oc=5"
         },
         {
           "name": "KBS 뉴스",
-          "title": "국제유가, 이란·사우디 회동에 하락…WTI 1.5%↓",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51S0picEp0aHpHNFRyUVVXOWVOOFRsOG9Ha2k1NUVkWU1kSVNldk84am1KU0ZWYUtfRFBLQ0o0eFB6UUZJQlB1ZlZBSzJXWnU2bzdtX0RmUWhINFE?oc=5"
+          "title": "공업축제 존폐 재검토…경제효과 검증 미흡",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwa01qNjlDbTFvSGN3c3psX1VhdHRyRzIySXB2WDVNZ0FNcXpHNjdIZldtSU0wNjB1VDBTSzZkSHhkdEhVMTlFdnJibHRVY3FRVndkUWxicFpmVFk?oc=5"
         },
         {
-          "name": "MBC 뉴스",
-          "title": "트럼프 \"이란이 유가 조작\"‥국제유가 5월 이후 최고",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTcnhvRmxIR1hwcDk1R21kMWsxOE4xWmFOWjlSUms0OVZUaE85QlRvM2hPOU45VEhSRFQzYzZxTWdBSTg1a3gwdmJGTlo2VURzV2sxVVF0cVpVLWZfX2xCNnZSd0dwQTl4T1Y2RmtGLW0zemVocmdWWXJ30gF6QVVfeXFMTWRzdlA5dWtOWl96bkpDbER4Z1VNQXhNUXZudGZ6OElVVUFwd1phTFZaZ1p1TlpJS3dtdFJMTk1FVGhaWnZEc1pZY3N5SllwSmU0T0R2YU5STmJFMno1ZUFOT1dOVmNqXzA5WHJYaGxSb2h5N0ZPUV9OMkE?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "트럼프 \"이란이 유가 조작\"‥국제유가 5월 이후 최고",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nbmd5UW14X01zUnIybDFtZWMyUmVRaFFiMlQ1VjhRQi00WXI5alVpQ3ZseU1xaXdqampKM2x1dTdDQkZOMWlveE92NVZIU1VuOHpOek9NcVJ2WEw4UUEtU2g3SmZhTGs0ZWw1ZGRuWld0QXE1ekkwdNIBeEFVX3lxTE9DWUVDOUtSWTBCUmM1bzNQZGtHNnhXRUpjZGl4U1V1c0dJbWlTM1lVZUhTUVFQOUV1cWtyVktsTEtDbEtSaTRBaGRubHdjdWNaQ2RLcDVUMGhiR2RndE9pV2RlcV96Q0pvZl9BYVNNME1MU0NocWtVSg?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "\"트럼프 명령하면 96시간 이내 대규모 이란 공격\"...치솟는 국제유가",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wNl9iMHVCUEcyNmJvUnZWMXhCbHdlM2VxeWN4dzF0TjRucmhiQmtpV1JkS1JFLUpnTEwzX1k5WHJQd1Nna09SUF9pMUdleFgzaDJUWWVndWNxeHJvbWc?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "국제 유가, 이란·사우디아라비아 회동에 하락",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03ajJxZFZaaVNwREdZU0tvT2MyNWhXcjJLWUFWMGx0eVFBQ3hTd3BxLVVfQnNrd0M0NmpzS0p2dGQ0WWNjNG1Xc2pkdmloR0EwNWFQcHJJbVAwb1JaSHc?oc=5"
+          "name": "KBS 뉴스",
+          "title": "울산공업축제 존폐 재검토…경제효과 분석 부족",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhaHFDUm40dF82NlAtRGNhN2N6VVk1TXZRSDdLdHZsQ25RTkRqWGNod1FWNjJKa04tZFJhRmRPeGdXTWljTFdsM3ZwclVHOGdQWE50OGlZaG82NDQ?oc=5"
         }
       ],
       "keywords": [
-        "유가 하락",
-        "백악관",
-        "월가",
-        "중간선거",
-        "국제유가"
+        "지역축제",
+        "지역소비",
+        "상권활성화",
+        "지역경제"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/28/news-m.v1.20261028.6f5b8c796b0f4fa2978abd4726694056_R.jpg"
+      "image_url": "https://picsum.photos/seed/news-20261030-009/600/400"
     },
     {
-      "id": "news-20261027-003",
-      "headline": "이스라엘 총선 출구조사 초박빙…친·반 네타냐후 진영 과반 실패로 연정 난항 예고",
+      "id": "news-20261030-010",
+      "headline": "미군 기지 냉동고 동시 고장 발생…사이버 공격 가능성에 수사 착수",
       "category": "글로벌",
       "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "이스라엘 총선 출구조사 결과, 친(親)네타냐후 진영과 반(反)네타냐후 진영 모두 과반 의석 확보에 실패하며 극심한 정국 혼란을 예고했습니다. 현지 주요 방송사 출구조사에서 베냐민 네타냐후 총리가 이끄는 리쿠드당 중심의 친네타냐후 세력은 50석 안팎을 얻는 데 그쳤고, 야권 성향의 반네타냐후 진영 역시 52~53석을 확보해 정부 구성에 필요한 과반(61석)을 넘기지 못했습니다.\n\n이에 따라 17~18석을 차지할 것으로 예측된 아랍계 정당들이 차기 정부 출범의 캐스팅보트를 쥐게 되었습니다. 주요 정파들이 그동안 아랍계 정당과의 연정을 배제해 왔으나, 외부 지지나 표결 기권 방식 등을 통한 세력 결집 가능성은 열려 있습니다. 정당 간 협상이 성과를 거두지 못해 최장 6주 안에 연정이 성립되지 않으면 수개월 내에 재선거를 치러야 합니다.\n\n한편 이번 총선은 유권자의 74% 이상이 투표에 참여하며 수십 년 만에 최고 투표율을 기록했습니다. 네타냐후 총리의 집권 연장 여부를 둘러싸고 국민적 표심이 첨예하게 갈라진 만큼, 향후 개표 결과 발표와 연정 협상 과정에서 치열한 눈치싸움이 이어질 것으로 보입니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "이스라엘 총선 초박빙…反네타냐후 진영 출구조사서 근소하게 앞서(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261028007551099"
-        },
-        {
-          "name": "경향신문",
-          "title": "높은 투표율 속 이스라엘 여권, 총선 투표시간 연장 요청···부정 의혹도 제기",
-          "url": "https://www.khan.co.kr/article/202610280728001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "[속보]“반네타냐후 52~53석, 친네타냐후 50석”···이스라엘 총선 출구조사",
-          "url": "https://www.khan.co.kr/article/202610280520001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "[이스라엘 총선 현장 르포]네타냐후 ‘정치적 생사’ 기로…중동전쟁 앞날 가른다",
-          "url": "https://www.khan.co.kr/article/202610272157005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "한겨레",
-          "title": "네타냐후 진영 과반 붕괴 전망…이스라엘 총선, 승자 없는 접전",
-          "url": "https://www.hani.co.kr/arti/international/arabafrica/1284499.html"
-        },
-        {
-          "name": "한겨레",
-          "title": "네타냐후 운명 가를 이스라엘 총선 개막…가자전쟁 후 첫 선거",
-          "url": "https://www.hani.co.kr/arti/international/arabafrica/1284480.html"
-        }
-      ],
-      "keywords": [
-        "이스라엘 총선",
-        "네타냐후",
-        "출구조사",
-        "연립정부",
-        "아랍계 정당"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/cms/2026/10/28/02/PCM20261028000002990_P2.jpg"
-    },
-    {
-      "id": "news-20261027-004",
-      "headline": "SK하이닉스 3분기 영업익 83조 대기록…60조 원 자사주 소각 등 주주환원 확대",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "SK하이닉스가 3분기 매출 104조 원, 영업이익률 80%를 기록하며 83조 원에 달하는 역대급 영업이익을 올렸습니다. 차세대 고대역폭메모리(HBM4) 본격 공급을 발판 삼아 4분기 주력 제품 라인업 안착을 추진합니다.\n\n압도적인 성과에 맞춰 파격적인 주주 가치 제고 방안도 내놓았습니다. 올해 총 100조 원 규모의 주주환원을 진행하며, 이 가운데 60조 원에 달하는 자사주를 전격 소각하기로 했습니다.\n\n미래 사업 기반 확보에도 속도를 내고 있습니다. 오는 2028년까지 전체 생산능력의 50% 이상에 해당하는 물량을 장기계약으로 사전 확보하며 안정적인 수익 체정을 구축했습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "SK하이닉스, 영업익 83조 ‘대기록’ ... 60조원 추가로 주주환원 한다",
-          "url": "https://www.mk.co.kr/news/business/12188024"
-        },
-        {
-          "name": "매일경제",
-          "title": "[속보] SK하이닉스, 주주환원 100조원 추진…배당 30조·자사주 60조",
-          "url": "https://www.mk.co.kr/news/business/12188015"
-        },
-        {
-          "name": "한겨레",
-          "title": "[속보]하이닉스, 올해 주주환원 100조원 공식화…분기배당 2만원",
-          "url": "https://www.hani.co.kr/arti/economy/marketing/1284507.html"
-        },
-        {
-          "name": "동아일보",
-          "title": "[속보]SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
-          "url": "https://www.donga.com/news/Economy/article/all/20261028/134922204/1"
-        },
-        {
-          "name": "동아일보",
-          "title": "[속보]SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
-          "url": "https://www.donga.com/news/Economy/article/all/20261028/134922169/1"
-        }
-      ],
-      "keywords": [
-        "SK하이닉스",
-        "HBM4",
-        "주주환원",
-        "자사주 소각",
-        "영업이익"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/28/news-p.v1.20260326.cd83566270484660a08dee09fb7ef126_R.png"
-    },
-    {
-      "id": "news-20261027-005",
-      "headline": "SK하이닉스, 3분기 영업이익 83조 원 돌파하며 사상 최대 실적 달성",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "SK하이닉스가 올해 3분기 매출 104조 6,155억 원, 영업이익 83조 3,338억 원을 기록하며 역대 최대 실적을 올렸습니다. 이번 실적은 전년 동기 대비 매출 31.9%, 영업이익 37.6% 늘어난 수치로 시장의 예측을 뛰어넘었습니다. 영업이익의 경우 증권가 전망치 평균이었던 76조 9,640억 원을 7조 원 가까이 넘어서며 강한 실적 흐름을 나타냈습니다.\n\nSK하이닉스의 분기 영업이익은 지난해 3분기 11조 원대에서 올해 2분기 60조 원을 돌파한 데 이어, 이번 3분기에는 직전 분기 대비 1.38배 늘어나는 가파른 성장세를 이어갔습니다.\n\n인공지능(AI) 서버 수요 급증으로 고대역폭메모리(HBM)와 일반 D램의 공급 부족 현상이 나타나며 반도체 가격이 급등한 점이 실적 성장을 이끌었습니다. 여기에 6세대 고대역폭메모리(HBM4) 공급 본격화가 더해지며 수익성 개선 속도가 크게 붙었습니다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "[속보] SK하이닉스, 3분기 영업이익 83조 ‘어닝 서프라이즈’",
-          "url": "https://www.hani.co.kr/arti/economy/marketing/1284506.html"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[속보] SK하이닉스, 자사주 20조 매입…10조 소각·10조 임직원보상",
-          "url": "https://www.yna.co.kr/view/AKR20261028033600003"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[속보] SK하이닉스, 보통주 2만원 분기배당…총 14조원 규모",
-          "url": "https://www.yna.co.kr/view/AKR20261028032500003"
-        },
-        {
-          "name": "동아일보",
-          "title": "[속보]SK하이닉스 3분기 영업이익 83조3338억원…전년 대비 632%↑",
-          "url": "https://www.donga.com/news/Economy/article/all/20261028/134922184/1"
-        },
-        {
-          "name": "YTN",
-          "title": "속보 SK하이닉스 3분기 실적 발표...영업이익 83조 원",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vMmVQVWtFRHNVM0IwVk1aTjZWdnM1ZDZDNmRZOXRXVDNubGZWWGRkN2ZpSWdOemJJYnVSTXE4cWl6ZmtWQnR3UkR1d2lDU2g2akxJTzNjMzNwcnZOdHc?oc=5"
-        }
-      ],
-      "keywords": [
-        "SK하이닉스",
-        "어닝 서프라이즈",
-        "영업이익",
-        "HBM",
-        "D램"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1028/53_17931442387391_20261028500306.webp"
-    },
-    {
-      "id": "news-20261027-006",
-      "headline": "다시 치솟는 국제유가 속 '석유 최고가격제' 출구전략 둘러싼 정부·업계 이견",
-      "category": "경제",
-      "categories": [
-        "경제",
         "글로벌",
-        "비즈니스"
+        "IT/과학"
       ],
       "summary": {
-        "overview": "중동 정세 불안으로 국제유가가 다시 치솟으면서 8개월 넘게 시행 중인 '석유 최고가격제'의 출구전략을 두고 경제 당국의 시각이 갈리고 있습니다. 브렌트유 가격이 배럴당 116달러 선까지 치솟고 공급 불안이 해소되지 않는 가운데, 그동안 가격 상한제는 보통휘발유 가격을 2천 원 이하로 통제하며 물가 안정에 기여했습니다.\n\n하지만 제도 장기화에 따라 한국은행과 기획예산처는 재정 부담과 에너지 소비 증가, 비용 전이 억제 효과의 한계를 지적하며 제도 개편 필요성을 제기하고 있습니다. 반면 재정경제부는 중동 사태가 해결되지 않은 상황에서 최고가격제를 당장 중단하기 어렵다는 입장을 유지하고 있습니다.\n\n호실적을 이어가는 정유 4사는 가격 상한 해제에 따른 여론 악화를 경계하며 제도 폐지보다는 휘발유와 경유의 수출 제한 완화를 정부에 요청하고 있습니다. 전문가들은 미국 중간선거 시점을 계기로 정책을 재평가하고 에너지 취약계층과 핵심 산업군을 중심으로 선별 지원하는 단계적 출구전략을 마련해야 충격을 최소화할 수 있다고 강조합니다."
+        "overview": "미국 군사시설 내 식료품 판매점에서 냉동고가 동시다발적으로 고장 나는 사고가 발생해 군 당국이 수사에 나섰습니다. 수사당국은 단순 기계 결함이 아닌 사이버 공격에 의한 해킹 가능성에 무게를 두고 경위를 조사하고 있습니다.\n\n지난 8월 애리조나주 포트 후아추카를 비롯한 총 6곳의 미군 기지에서 냉동 설비가 동시에 작동을 멈췄습니다. 이로 인해 진열되어 있던 냉동식품이 모두 상해 대량 폐기되는 피해가 발생했습니다.\n\n미 육군 범죄수사국(CID)은 사건의 원인을 규명하기 위해 다른 수사기관 및 해외 당국과 공조를 시작했습니다. 특히 이달 초 프랑스에서 수백 개 슈퍼마켓의 냉동 시스템이 해킹되어 강제 해동 모드로 전환된 유사 사례에 주목하고 있습니다.\n\n프랑스 사건 당시 해커들은 냉각 시스템에 침입해 내부 온도를 섭씨 50도까지 올렸으며, 이로 인해 대규모 식료품 손실이 발생했습니다. 미 수사 당국은 프랑스 사법당국과 정보를 공유하며 미군 기지 설비 마비 역시 동일한 방식의 사이버 공격이었는지 집중 조사 중입니다."
       },
       "publishers": [
         {
-          "name": "한겨레",
-          "title": "다시 뛰는 국제유가…‘기름값 2천원 방파제’ 최고가격제 둘러싼 속내는?",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284473.html"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "국제유가, 후티의 사우디 공격에 급등…브렌트유 5개월 만에 최고",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBcGJRMVpIT25mOUJKM2Y1aEJrby1ubzVQeHBxZUxQZlAzZTVFQjRqZ3Z1SzRMbGVneXJYa0NmYU9RS1JqMFl6VExFQVhHanQ1RW9rSGZoSE1ROGM?oc=5"
+          "name": "연합뉴스",
+          "title": "美군기지 냉동고 동시 고장…사이버공격 가능성 수사",
+          "url": "https://www.yna.co.kr/view/AKR20261030029600009"
         },
         {
           "name": "MBC 뉴스",
-          "title": "국제유가, 중동 긴장·러우 협상 기대 속 혼조‥WTI 0.7%↓",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nQUhCdDFQLU5hc0VTYjBpQlQwRU9WWUkwYTFOaUxVWGFHeEVtZFB1MlMyekVTYjI0bDlxSDVMN3VLOEVsR0ZWT0cwR25IWUVkcFJ1VFdLeHp2dWt1QUNxVDVUSnA2ejk5a2JHZW9CeFYteVRZ0gF0QVVfeXFMTnZybzFsUm9QdGRHUzRZOEtleWdEVlJpaFgzd2hDM1ZwSlVWQmRrRzBEZU42NjdnbDVyS2ZFNjlteHRPd08tTzJTeS1yWGJDemY0eU41YjlfQUt0YkViWGtjczBvdUdObHA1VmZ6SUs4VFZhelg?oc=5"
+          "title": "이스라엘 총선·美 이란 공격 가능성 주시‥국제유가 상승",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sM1M1U013UnlROXd6QjM3VmZxVTF3eW54cUQ1UlBvdm5MVGUtQTZwM2I4STVlUEVJZjlnODk4TW5hOWhWSFFQTmRKU2FpX0hDMkRaVXdNN0UycU9GMnpQdzR3RVNYbGxIRlFsa2x5aUtIaXA40gF0QVVfeXFMUFVRd1FyY1JRRnhPQ0dyVzNzeUZPMEhtaUd2Smp4V29PNHNxWkhpNEY0YmQ4aDhlTHQtdXJyRnpXV3RmWXo2YWNjcHRXdUdWWjgxQkpLWVBmbHBpZkl4NlprYm8zUGhLQjMtYXVIUWlEZFZJaWc?oc=5"
         },
         {
           "name": "YTN",
-          "title": "국제유가, 중동 평화 회담 기대감에 WTI 1.8%↓",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkVzR5MC1rQ2dWNWlQS1ViUGt3S080OTA0SEVWcVFCU1psYlh5N3ItOWpTTEpPampPakRrcjQ3UUVFYm9RZEZYWXFfUk03QUZtSmJXeGlRcWF6OFNVTkE?oc=5"
+          "title": "이스라엘 총선·트럼프의 이란 공격 가능성에 국제 유가 상승",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBONmhXNE55bGQ4ZlRvbC1JT1JiOWZGNHJuN1doR3dkdnZ6UGFSMVk1eEJvdXFMOWNmOHY1V2Rsam1aV2JIYnFpLWVodmNsTndCaDNsYm1rb215dXFCN1E?oc=5"
+        }
+      ],
+      "keywords": [
+        "미군기지",
+        "사이버공격",
+        "해킹수사",
+        "육군범죄수사국",
+        "냉동설비"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/10/29/PRU20261029355401009_P2.jpg"
+    },
+    {
+      "id": "news-20261030-011",
+      "headline": "정부, 경기 지역 그린벨트 해제해 7만 6700채 신규 공공택지 공급",
+      "category": "경제",
+      "categories": [
+        "비즈니스",
+        "IT/과학",
+        "경제"
+      ],
+      "summary": {
+        "overview": "국토교통부가 서울 인접 경기 지역의 개발제한구역을 풀어 7만 6700채 규모의 신규 공공택지를 발표했습니다. 치솟는 수도권 매매·전세·월세 시장의 주택 수요를 완화하려는 취지입니다.\n\n이번 대상지에는 김포 아라 3만 7000채를 비롯해 구리 건원, 하남 미사 K-컬처, 하남 감일2, 고양 대곡, 의정부 다락원 등 총 6곳이 지정되었습니다. 이는 지난 8·13 부동산 대책에서 밝힌 총 10만 채 공급 계획을 이행하는 구체적인 후속 조치입니다.\n\n하지만 시장의 관심이 쏠린 서울 지역 신규 택지는 이번 지정에서 제외되었습니다. 첫 입주 예정 시점도 이르면 2033년으로 잡혀 있어 당장의 매수 심리를 잠재우고 주택 불안을 해소하기에는 시차적 한계가 따른다는 지적이 나옵니다."
+      },
+      "publishers": [
+        {
+          "name": "동아일보",
+          "title": "경기 그린벨트 풀어 7만6700채 공급… 서울은 ‘0’",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134936465/2"
         },
         {
           "name": "동아일보",
-          "title": "“석유 최고가격제 7개월, 재정부담 늘고 에너지 절약 안돼”",
-          "url": "https://www.donga.com/news/Economy/article/all/20261028/134921070/2"
+          "title": "김포아라-하남미사, 서울 가까워… 광역교통망-공급속도 관건",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134936240/2"
+        },
+        {
+          "name": "매일경제",
+          "title": "김포·구리 그린벨트 풀어 … 7.7만가구 추가공급 속도",
+          "url": "https://www.mk.co.kr/news/realestate/12190222"
         }
       ],
       "keywords": [
-        "국제유가",
-        "석유 최고가격제",
-        "출구전략",
-        "정유사",
-        "에너지 정책"
+        "그린벨트 해제",
+        "공공택지",
+        "국토교통부",
+        "부동산 대책",
+        "주택 공급"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1027/53_17930996250299_20261027503692.webp"
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134937082.1.jpg"
     },
     {
-      "id": "news-20261027-007",
-      "headline": "네이버, 12조 원 규모 AI 인프라 투자 계약 체결…자금 조달 우려 해소",
+      "id": "news-20261030-012",
+      "headline": "인천시, 내달 3일 중장년·여성 일자리박람회 개최…300여 명 현장 채용",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "인천시가 다음 달 3일 시청 중앙홀과 잔디마당에서 '2026 인천 중장년·여성 일자리박람회'를 개최합니다. 이번 박람회에는 30개 기업이 참가하며, 현장채용관에서 구직자와의 일대일 면접을 거쳐 총 300여 명의 인재를 채용할 계획입니다.\n\n행사장 내 취업지원관에서는 구직자와 기업을 현장에서 직접 연결하고 맞춤형 일자리 정보를 제공합니다. 여성창업관에서는 여성 창업기업의 우수한 시제품을 선보이고 방문객을 위한 다양한 체험 프로그램을 운영합니다.\n\n구직자들의 취업 준비를 지원하는 부대행사도 다채롭게 마련됩니다. 이력서 사진 촬영, 인공지능(AI) 캐리커처 제작, 퍼스널컬러 진단을 비롯해 정신건강검사, 취업타로, 지문인적성 검사 등을 현장에서 이용할 수 있습니다. 박람회참여 기업과 세부 채용 조건은 공식 누리집에서 확인할 수 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "인천시, 내달 3일 시청서 '중장년·여성 일자리박람회'",
+          "url": "https://www.yna.co.kr/view/AKR20261030031600065"
+        }
+      ],
+      "keywords": [
+        "인천시",
+        "일자리박람회",
+        "중장년",
+        "여성 채용",
+        "현장 면접"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/04/28/PYH2026042818500006500_P2.jpg"
+    },
+    {
+      "id": "news-20261030-013",
+      "headline": "삼성전자, 분기 영업익 100조 돌파에도 \"자축 대신 기술·품질 경쟁력 확보\"",
       "category": "경제",
       "categories": [
         "경제",
@@ -328,432 +457,234 @@
         "IT/과학"
       ],
       "summary": {
-        "overview": "네이버가 글로벌 자산운용사 브룩필드와 약 12조 원 규모의 컴퓨팅 인프라 확보 계약을 체결하며 인공지능(AI) 인프라 구축을 위한 자금 조달 불확실성을 덜어냈습니다.\n\n이번 계약 구조는 브룩필드가 출자한 별도 회사가 그래픽처리장치(GPU)를 확보하고, 네이버클라우드가 이를 공급받아 고객에게 서비스를 제공하는 방식입니다. 네이버는 직접 지분을 투자하지 않는 대신 약 18조 7,400억 원의 지급보증을 제공하며, 연간 금융비용은 6.6%에서 9.0% 수준으로 추산됩니다.\n\n증권가에서는 최근 글로벌 AI 인프라 기업들의 조달 우려가 커진 상황에서 외부 자본을 활용해 AI 팩토리 조달 구조를 구체화했다는 점에 의미를 두고 있습니다.\n\n전문가들은 향후 글로벌 AI 기업과의 실제 고객 계약 규모와 기간이 공개되어 매출 전망이 구체화하는 시점에 사업 가치가 본격 재평가받을 것으로 내다봤습니다. 이에 따라 대신증권은 네이버에 대한 투자 의견 '매수'와 목표주가 28만 원을 기존대로 유지했습니다."
+        "overview": "삼성전자가 글로벌 테크 기업 최초로 분기 영업이익 100조 원을 돌파했으나 경영진은 호황에 안주하지 말고 기술과 품질 경쟁력을 냉정하게 점검해야 한다고 당부했습니다.\n\n반도체(DS) 부문을 총괄하는 전영현 부회장은 창립 57주년 기념사에서 AI 중심의 새로운 성장 기회 속에서도 대외 불확실성이 여전히 크다고 짚었습니다. 전 부회장은 실적 개선에도 불구하고 기술 경쟁력이 완전히 회복된 것은 아니라며, 차세대 기술 확보와 수율 향상이라는 제조업의 기본을 지키고 고객 신뢰를 최우선에 두어야 한다고 말했습니다.\n\n완제품(DX) 부문을 맡은 노태문 사장 역시 디바이스 사업의 완성도와 운영 효율 등 근원적 역량을 높여 시장 주도권을 지켜야 한다고 밝혔습니다. 노 사장은 공급망 관리와 원가 경쟁력을 높이는 동시에 인텔리전트 아이웨어와 가전 등 새로운 AI 디바이스 발굴과 로봇, 공조, 전장 등 미래 신사업 투자를 지속하겠다고 덧붙였습니다.\n\n삼성전자는 올해 별도의 창립기념식을 열지 않고 서면 기념사로 행사를 대신하며 실용주의 경영 기조를 이어갔습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "대신증권 \"네이버 AI인프라 자금조달 우려 완화…고객확보 관건\"",
-          "url": "https://www.yna.co.kr/view/AKR20261028029200008"
-        },
-        {
-          "name": "매일경제",
-          "title": "“과세 인프라 미비·청년 우려”…與, 가상자산 과세 추가 유예 무게",
-          "url": "https://www.mk.co.kr/news/economy/12188027"
+          "title": "영업익 100조 삼성전자 \"자축보다 기술 경쟁력 확보할 때\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030031100003"
         }
       ],
       "keywords": [
-        "네이버",
-        "AI 인프라",
-        "브룩필드",
-        "대신증권",
-        "GPU"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/28/AKR20261028029200008_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261027-008",
-      "headline": "한화투자증권 \"내년 HBM4 본격 양산으로 삼성전자·SK하이닉스 실적 성장세 강화\"",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "한화투자증권은 내년부터 6세대 고대역폭메모리(HBM4) 출하가 본격화되면서 국내 메모리 반도체 기업들의 실적 개선이 한층 가속화될 것으로 전망했습니다. 엔비디아의 차세대 '루빈' 플랫폼 출하에 맞춰 HBM4 수요가 늘어나고, 초기 수율 안정과 생산능력 확대가 함께 이루어져 수익성 개선 효과가 크게 나타날 것이라는 분석입니다.\n\n최근 반도체 주가의 부진은 기업 실적이나 기초 체력의 문제라기보다 시장의 과도한 우려가 반영된 결과라고 판단했습니다. AI 인프라 투자와 관련된 자금조달 불확실성이 해소되고 주요 빅테크의 투자 확대 기조가 다시 확인된다면 주가가 반등 모멘텀을 얻을 수 있다고 제시했습니다.\n\n아마존, 알파벳, 마이크로소프트 등 글로벌 빅테크 기업들의 내년 설비투자가 대규모로 예정된 점도 긍정적 요소로 꼽혔습니다. 데이터센터 증설과 AI 가속기 도입이 지속되는 만큼 메모리 수요의 구조적 성장이 이어질 것으로 보며 삼성전자와 SK하이닉스의 기존 목표주가를 유지했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "한화증권 \"내년 삼전닉스 실적 성장세 더 강화…목표가 유지\"",
-          "url": "https://www.yna.co.kr/view/AKR20261028028500008"
-        },
-        {
-          "name": "YTN",
-          "title": "[스타트 경제] '역대급 실적' 삼전닉스 3분기 실적공개...주주환원은 얼마나?",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40ZTlBWjNrdGY3blBjZ1A0YVd6UXpWUndvX3ByUlJFVWIyd0hLYVVlQzRYT29nOXl2OGFNMDZ2cC15OUV2eGlyOE5rbnV3aFlHVlR6QURpTmxiWm5IMVE?oc=5"
-        },
-        {
-          "name": "매일경제",
-          "title": "“신한지주, 3분기 실적 아쉽지만 연간 최대 실적 기정사실”…목표가는↓",
-          "url": "https://www.mk.co.kr/news/stock/12188010"
-        }
-      ],
-      "keywords": [
-        "HBM4",
         "삼성전자",
-        "SK하이닉스",
-        "한화투자증권",
-        "반도체"
+        "영업이익 100조",
+        "전영현",
+        "노태문",
+        "기술 경쟁력"
       ],
-      "image_url": "https://img.yna.co.kr/photo/cms/2026/06/29/57/PCM20260629000557990_P2.jpg"
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2025/11/21/PYH2025112104380001300_P2.jpg"
     },
     {
-      "id": "news-20261027-009",
-      "headline": "대신증권, 셀트리온 신제품 매출 성장 가속화에 목표주가 상향",
+      "id": "news-20261030-014",
+      "headline": "신한투자증권, 삼성SDI 목표주가 80만 원 상향… \"중장기 이익 체력 강화\"",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "대신증권이 셀트리온의 신제품 매출 성장에 힘입어 내년 실적 개선 흐름이 한층 뚜렷해질 것으로 전망했습니다.\n\n셀트리온은 주요 바이오시밀러 신제품의 글로벌 시장 진입을 발판 삼아 실적 확대를 가속하고 있습니다. 증권가는 이러한 신규 제품군 판매 증가가 내년 영업이익 증대로 직결될 가능성이 높다고 분석했습니다.\n\n이에 따라 투자의견 '매수'를 유지하고 목표주가를 상향 조정하며 향후 실적 흐름을 긍정적으로 평가했습니다."
+        "overview": "신한투자증권이 삼성SDI의 중장기 이익 체력 강화를 평가하며 목표주가를 기존 74만 원에서 80만 원으로 상향 조정하고 투자의견 '매수'를 유지했습니다.\n\n삼성SDI는 올해 3분기 연결 기준 영업이익 4,078억 원을 기록해 흑자 전환에 성공했습니다. 이는 시장 전망치인 1,913억 원을 두 배 이상 웃도는 실적입니다. 전기차용 배터리는 고객사 일회성 보상금 반영으로 실적이 개선됐으며, 에너지저장장치(ESS) 부문은 미국 내 생산 확대로 1조 1,000억 원의 매출을 올렸습니다.\n\n3분기에 반영된 ESS 및 소형 배터리 관련 시스템 충당금은 선제적 비용으로, 이를 제외하면 전 사업부가 견조한 수익성을 유지한 것으로 파악됩니다. ESS 부문은 올해 120GWh 이상의 수주를 목표로 하고 있으며, 4분기 미국 리튬인산철(LFP) 양산을 기점으로 모멘텀이 이어질 전망입니다.\n\n비중국계 기업 가운데 독보적인 미국 각형 LFP 생산 경쟁력을 갖춘 점도 긍정적입니다. 휴머노이드와 우주항공 분야 신규 고객 확보, 전고체 배터리 상용화가 추진되면서 중장기적인 기업 가치 재평가가 계속될 것으로 예상됩니다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "“셀트리온, 신제품 매출 성장 가속화”…목표가↑",
-          "url": "https://www.mk.co.kr/news/stock/12188023"
+          "name": "연합뉴스",
+          "title": "신한증권, 삼성SDI 목표가↑…\"중장기 이익 체력 강화\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030029700008"
         },
         {
-          "name": "매일경제",
-          "title": "“HD현대일렉트릭, 매출 신기록이지만 환율에 발목”…목표가↓",
-          "url": "https://www.mk.co.kr/news/stock/12188000"
+          "name": "연합뉴스",
+          "title": "한투증권, 두산에너빌리티 목표가↓…\"원전수출 계약구조 불확실성\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030029100008"
         }
       ],
       "keywords": [
-        "셀트리온",
-        "대신증권",
+        "삼성SDI",
+        "신한투자증권",
         "목표주가",
-        "신제품",
-        "바이오시밀러"
+        "영업이익",
+        "ESS"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202610/28/news-p.v1.20261028.26c246d565214448b67412bd5f3c0ca8_R.jpg"
+      "image_url": "https://img.yna.co.kr/photo/cms/2023/06/15/53/PCM20230615000253505_P2.jpg"
     },
     {
-      "id": "news-20261027-010",
-      "headline": "CJ문화재단, 창립 20주년 기념 무료 '재즈위크' 개최",
-      "category": "비즈니스",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "CJ문화재단이 재즈 매거진 '재즈피플'과 손잡고 서울 마포구 CJ아지트 광흥창에서 창립 20주년 기념 공연 '재즈위크'를 개최합니다. 이번 행사는 10월 28일부터 31일까지 나흘간 이어집니다.\n\n공연 첫날에는 강재훈 트리오와 가수 선우정아가 무대를 엽니다. 이튿날에는 피아니스트 김광민, 윤석철트리오, 가수 이진아가 출격하며, 셋째 날에는 SM 재즈 트리오와 멜로망스 정동환이 연주를 선보입니다. 마지막 날인 31일에는 CJ 음악장학생 출신들과 버클리 음대 교수진이 함께하는 'CJ X 버클리 밴드'와 신진 연주자 그룹 '재즈피플 라이징 스타즈'가 무대를 장식합니다.\n\n이번 재즈위크는 전석 무료로 운영합니다. 전체 관객 수의 60%가량은 문화소외계층 아동과 청소년으로 채워 초청 관객들에게 특별한 음악 경험을 선사할 계획입니다.\n\nCJ문화재단은 신진 음악인에게 공연 기회를 제공하고 아동·청소년에게 새로운 문화를 접할 계기를 마련하고자 이번 행사를 기획했습니다. 재단은 음악 분야 창작자 지원 외에도 영화 분야에서 'CJ&TIFF K-스토리 펀드'를 운영하며 국내 창작자의 해외 진출을 돕는 등 지속적인 문화예술 지원을 이어가고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "CJ문화재단, 28∼31일 창립 20주년 기념 재즈위크 개최",
-          "url": "https://www.yna.co.kr/view/AKR20261028026900030"
-        }
-      ],
-      "keywords": [
-        "CJ문화재단",
-        "재즈위크",
-        "CJ아지트 광흥창",
-        "무료공연",
-        "문화예술지원"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/28/AKR20261028026900030_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261027-011",
-      "headline": "충남도, 미국 첨단소재 3개 기업과 5천382억원 규모 투자협약 체결",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "충남도가 미국 뉴욕에서 글로벌 첨단소재 기업 3곳과 총 3억 9천630만 달러(약 5천382억 원) 규모의 투자협약(MOU)을 체결했습니다. 투자에 참여한 기업들은 반도체, 디스플레이, 배터리 등 첨단산업 소재를 생산하는 업체들로, 충남 천안과 아산의 산업단지에 생산시설을 신설하거나 증설할 계획입니다.\n\n이번 협약에 참여한 코닝정밀소재는 아산 탕정디스플레이산업단지에서 정밀 디스플레이 기판 유리를 생산하고 있습니다. 기업 측 요청에 따라 코닝정밀소재를 제외한 나머지 2개 기업의 이름과 구체적인 투자 세부 내용은 공개하지 않기로 결정했습니다.\n\n충남도는 투자 기업들이 원활하게 공장을 구축할 수 있도록 외국인 투자 신고 단계부터 준공까지 행정 절차를 적극 지원할 방침입니다. 박수현 충남지사는 전력과 용수, 인프라 지원을 약속하며 기업들의 투자가 조속히 결실을 맺을 수 있도록 속도감 있는 행정 처리를 추진하겠다고 밝혔습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "충남도, 미국서 5천382억원 규모 외자유치…3개 기업과 협약",
-          "url": "https://www.yna.co.kr/view/AKR20261028031100063"
-        }
-      ],
-      "keywords": [
-        "충남도",
-        "외자유치",
-        "코닝정밀소재",
-        "첨단소재",
-        "투자협약"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/28/AKR20261028031100063_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261027-012",
-      "headline": "당정, 가상자산 과세 유예 합의 도출 실패…추가 점검 착수",
+      "id": "news-20261030-015",
+      "headline": "동원F&B, 서경덕 교수와 한국 '김 문화' 세계에 알리는 영상 제작",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "당정이 가상자산 과세 유예 방안을 두고 논의를 진행했으나 최종 결론을 내리지 못했습니다. 정부와 여당은 과세 시행에 따른 시장 영향과 준비 상황 등 여러 요소를 종합적으로 점검한 뒤 방침을 정하기로 했습니다.\n\n가상자산 과세 시점을 둘러싸고 다양한 의견이 대립하는 상황에서 당정은 신중한 접근 체계를 유지하고 있습니다. 현장의 목소리와 제도적 정비 수준을 면밀히 살펴 향후 논의를 다시 이어갈 예정입니다."
+        "overview": "동원F&B가 서경덕 성신여대 교수와 손잡고 한국의 전통 김 문화를 세계에 소개하는 영상 콘텐츠를 선보였습니다. 이번 영상은 역사, 문화, 글로벌을 주제로 한 3부작 다큐멘터리 중 두 번째 편으로, 4분 분량의 한국어와 영어 버전으로 제작했습니다. 내레이션에는 배우 박하선이 참여해 전달력을 높였습니다.\n\n영상은 정월대보름에 오곡밥과 나물을 김에 싸 먹으며 복을 기원하던 '복쌈' 풍습을 비롯해 김밥, 김자반, 김부각 등 우리 식문화 속 다양한 김의 활용법을 담았습니다. 한국 고유의 식문화를 해외 소비자가 한눈에 이해할 수 있도록 구성했습니다.\n\n지난해 국내 김 수출액은 전년 대비 13.7% 늘어난 11억 3천만 달러를 기록하며 수산식품 수출 1위를 차지했습니다. 동원F&B는 대표 브랜드 '양반김'을 미국, 일본, 태국 등 30여 개국에 수출하며 글로벌 시장 판로를 꾸준히 넓히고 있습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "[속보] 당정, '가상자산 과세 유예' 결론 못내…\"여러가지 점검\"",
-          "url": "https://www.yna.co.kr/view/AKR20261028030700001"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "민주당, 오늘 당정 협의서 가상자산 과세 ‘유예’ 논의",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PZy1MMXVoS0plU2JVZEtCZ3RqTVBnNElCZzd3T1FDcm9ScGFPaUhaSjNDRVR4LTNDR1FoU2FheDFjc0swWlhGcGcyUV9OSzdUNndQZFlhekw2clU?oc=5"
+          "title": "동원F&B, 서경덕 교수와 '김 문화' 알리는 영상 제작",
+          "url": "https://www.yna.co.kr/view/AKR20261030027500030"
         }
       ],
       "keywords": [
-        "당정협의",
-        "가상자산",
-        "과세 유예",
-        "정책 점검"
+        "동원F&B",
+        "서경덕",
+        "김 문화",
+        "양반김",
+        "수산식품 수출"
       ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/10/26/PYH2026102606300001300_P2.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030027500030_01_i_P2.jpg"
     },
     {
-      "id": "news-20261027-013",
-      "headline": "앤트로픽, 역대 최대 규모 나스닥 IPO 착수…실적 폭증 속 대규모 투자는 과제",
-      "category": "IT/과학",
+      "id": "news-20261030-016",
+      "headline": "증권가, 완성차 경쟁 심화와 신사업 부재에 현대차 목표주가 하향",
+      "category": "경제",
       "categories": [
         "경제",
-        "비즈니스",
-        "IT/과학"
+        "비즈니스"
       ],
       "summary": {
-        "overview": "인공지능 모델 '클로드'의 개발사 앤트로픽이 미국 증권거래위원회에 S-1 증권신고서를 제출하며 본격적인 상장 절차에 들어갔습니다. 종목코드 'ANT'로 나스닥 입성을 추진 중이며, 시장에서는 기업가치가 최대 2조 달러에 달할 것으로 추정하고 있습니다.\n\n앤트로픽의 올해 상반기 매출은 162억 8,600만 달러를 기록해 지난해 같은 기간보다 14배 이상 늘었습니다. 연간 10만 달러 이상 지출하는 기업 고객이 1만 1,900곳으로 폭증하며 전체 실적 상승을 이끌었습니다. 장부상 평가손실로 인해 표면적인 순손실 규모는 컸지만, 일회성 비용을 제외한 조정 영업이익은 흑자로 돌아섰습니다.\n\n반면 막대한 인프라 비용 부담은 여전한 과제로 꼽힙니다. 주요 빅테크 기업들과 맺은 6,370억 달러 규모의 컴퓨팅 계약은 AI 수요 변동과 관계없이 지불해야 하는 의무 지출입니다. 앤트로픽은 상장 이후에도 창업진이 경영권을 유지할 수 있도록 과반 의결권을 지닌 특별주식을 발행해 독자적인 의사결정 구조를 지켜나갈 방침입니다."
+        "overview": "하나증권과 NH투자증권, KB증권 등 주요 증권사들이 현대자동차의 목표주가를 연이어 하향 조정했습니다. 신차 시장 내 경쟁이 심화하는 가운데 신사업 모멘텀 공백이 길어질 수 있다는 분석이 반영된 결과입니다.\n\n글로벌 완성차 시장에서 할인 판매 경쟁이 확대되면서 수익성에 부담을 주고 있습니다. 이에 더해 주주환원 정책을 둘러싼 불확실성이 지속되며 투자자들의 경계감이 높아졌습니다.\n\n증권업계는 신성장 동력을 구체화하고 실적 방어 능력을 증명하기 전까지는 주가 흐름이 탄력을 받기 어려울 것으로 바라보고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“경쟁 심화에 주주환원 불확실성…현대차 목표가 하향”[오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12191164"
+        }
+      ],
+      "keywords": [
+        "현대차",
+        "목표주가",
+        "주주환원",
+        "증권사",
+        "완성차"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20261019.a13516bea5be4fa785eee015b3b97d77_R.jpg"
+    },
+    {
+      "id": "news-20261030-017",
+      "headline": "스위스 외무장관 일행 방북… 평양 일정 마친 뒤 서울 방문 예정",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "이냐치오 카시스 스위스 외무장관 일행이 평양에 도착해 방북 일정을 시작했습니다. 북한 관영 조선중앙통신은 북한 외무성 관계자들과 스위스 주재 북한 대사, 북한 주재 스위스 외교부 대표 등이 평양순안국제공항에서 이들을 맞이했다고 전했습니다.\n\n이번 방문은 한반도 정세 논의와 함께 스위스가 추진하는 중립국 외교 활동의 연장선상에서 이뤄졌습니다. 카시스 장관 일행은 북측 주요 당국자들과 회담을 갖고 양국 현안을 논의할 계획입니다.\n\n카시스 장관은 평양 일정을 마무리한 직후 서울을 찾아 한국 정부 고위 관계자들과도 연쇄 회담을 갖습니다. 남북한을 연이어 방문하는 스위스 외교 수장의 행보를 두고 한반도 긴장 완화를 위한 중재 논의가 오갈지 외교가의 관심이 쏠리고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "평양 찍고 서울 온다는데…전날 북한에 입국한 남자의 정체",
+          "url": "https://www.mk.co.kr/news/politics/12191162"
+        }
+      ],
+      "keywords": [
+        "스위스외무장관",
+        "이냐치오카시스",
+        "방북",
+        "평양방문",
+        "남북외교"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20261030.f93822fb50b446c8a824809147b7ff2d_R.jpeg"
+    },
+    {
+      "id": "news-20261030-018",
+      "headline": "배터리 업계 \"적자 기업에도 직접 지원 필요\"…정부, 연내 종합 대책 마련",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "엄기천 한국배터리산업협회장(포스코퓨처엠 대표이사)이 정부의 국내생산세액공제 추진을 긍정적으로 평가하면서도, 적자 상태인 중견·영세 기업을 위한 직접환급 등 실질적인 지원책 마련을 촉구했습니다. 법인세를 감면해 주는 세액공제 방식은 당장 이익을 내지 못해 낼 세금이 없는 적자 기업에는 실효성이 떨어지기 때문입니다.\n\n엄 회장은 최근 배터리 완제품 셀 제조사들의 실적 개선 흐름이 시차를 두고 소재와 부품 생태계 전반으로 확산할 것으로 내다봤습니다. 포스코퓨처엠 역시 완성차 업체의 프로젝트 재가동에 힘입어 이르면 내년 하반기부터 공급 물량과 공장 가동률이 본격적으로 회복될 것으로 전망했습니다.\n\n정부는 이러한 업계 의견을 수렴해 단기 처방에 그치지 않는 실효성 있는 지원안을 검토 중이며, 연내 배터리 산업 경쟁력 강화 대책을 최종 발표할 계획입니다."
       },
       "publishers": [
         {
           "name": "한겨레",
-          "title": "앤트로픽, 역대 최대 IPO 쏘아올려…AI 투자 열풍 시험대",
-          "url": "https://www.hani.co.kr/arti/economy/global/1284479.html"
+          "title": "엄기천 “배터리 적자 기업에도 직접 지원 필요”…정부, 연내 대책 마련",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284912.html"
         },
         {
-          "name": "Chosunbiz",
-          "title": "앤트로픽 상장 서류 보니… ‘25배 투자 대박’ SK텔레콤, 구글보다 싸게 샀다",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWJaMG9yTXVhZGhUenRkS3VsazFUNTI3OUVqcThORjNIclBaaUl6c0ZLSWU1NlBCblkwVmpId1Y0OUM3aEFRaTZuaVQ4aTJtMDROZmpUeUwwUlFvYWM5ajhkd1pUU2I3UDhXQTRqQWEtVVlUR0hKanNlbnRsbFljT3F30gGWAUFVX3lxTFBCb09DVm5ZQ0NDaEFEdzRkYTFOUVNEWHRHcG9ma2d1ZllFeGY4NWV3c2JJcTFpVFppbnVCV2o0Qm5vLVRUMm5HTHgyWG9hNmVJSzRaQmJ3RThPU05LZWtjb1JESmRkTVVYNnh4Rm9DLWkxYUhIalIwRi1tSkhGWk85c1hBbV9qYkxpdy1pRTQyeV9zN1JLQQ?oc=5"
+          "name": "MBC 뉴스",
+          "title": "이형일 \"취약 차주 추가대책 마련‥11월 국채 물량 신중히 검토\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JQkhnRVVnR01vTVp6Y3ZkbldydHNmd0ZseWdtZGN4RnpvTUxuMjl6am1QY0VHU012dFRNeE5fYk9uZmNWeUxxUjVZOS1tdjktdUhQNkVJOEpRbTNMb3F3ZVpkUHJJUkhNZEY4N2o5TnVMWnNE0gF0QVVfeXFMUHBac0hqREZDZEFudUh5cW5KR2ZEbURIcnNvOEM5am5xUEY1aDRuVm5yRVVXV0ZEd3ByY0NSSGZfd2hqOEI3ZU43Wlh1VHNqblZJZUgtUVZ4b1cyLXltMENCMGxhSnNUTElWczRfR1ZpNzN6RE8?oc=5"
         }
       ],
       "keywords": [
-        "앤트로픽",
-        "클로드",
-        "IPO",
-        "나스닥",
-        "인공지능"
+        "배터리 산업",
+        "국내생산세액공제",
+        "직접환급",
+        "엄기천",
+        "포스코퓨처엠"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1027/53_17931024327139_20261027503722.webp"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1029/53_17932754338425_20261029504008.webp"
     },
     {
-      "id": "news-20261027-014",
-      "headline": "캐나다, 대미 경제 의존 줄이기 위해 UAE와 포괄적 경제동반자협정 체결",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "캐나다가 미국에 쏠린 경제 구조에서 벗어나 교역 다변화를 이루기 위해 아랍에미리트(UAE)와 포괄적 경제동반자협정(CEPA)을 체결했습니다. 마크 카니 캐나다 총리와 셰이크 칼리드 알나하얀 아부다비 왕세자는 UAE 아부다비에서 열린 서명식에 직접 참석해 양국 간 경제 협력안에 서명했습니다.\n\n이번 협정은 양국 간 무역 장벽을 낮추고 투자를 확대하기 위해 관세를 인하하고 행정 절차를 간소화하는 내용을 골자로 합니다. 협정이 완전히 발효되는 2027년부터는 UAE로 수출하는 캐나다 상품의 99% 이상에 적용되는 관세가 인하되거나 철폐됩니다. 양국은 통상 분야를 넘어 에너지, 외교, 국방 협력에 관한 예비 합의도 함께 도출했습니다.\n\n현재 캐나다와 UAE의 교역 규모는 연간 3조 원 수준이며 최근 수년간 매년 10% 안팎의 성장세를 기록했습니다. 미국과의 무역 갈등이 지속되는 가운데 캐나다 정부는 향후 10년 내에 비미국권 국가와의 교역량을 두 배로 늘린다는 목표 아래 해외 시장 개척에 속도를 내고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "캐나다, UAE와 포괄적 경제동반자협정…미국과 ‘거리두기’",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IYml2MlVKTGc3Q0dkNWhOeEcxQkVhc1ZzX2ZKUmowMGhRS18yeU9LOFZmVmlPUWdOWm5XV3g0YjdxZTMxUHNweF94c0FrZldKbEY4bFZRY2NfdE0?oc=5"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "미국과 거리두는 캐나다…UAE와 포괄적 경제동반자협정",
-          "url": "https://www.yna.co.kr/view/AKR20261028023300009"
-        }
-      ],
-      "keywords": [
-        "캐나다",
-        "아랍에미리트",
-        "포괄적 경제동반자협정",
-        "교역 다변화",
-        "관세 인하"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/ap/2026/10/28/PAP20261028038801009_P2.jpg"
-    },
-    {
-      "id": "news-20261027-015",
-      "headline": "생태 자원을 경제 발전 동력으로…순천국제포럼 개최",
+      "id": "news-20261030-019",
+      "headline": "빗썸 사내 시스템 해킹으로 고객 6천여 명 개인정보 유출…844명은 계좌번호 등 민감정보 노출",
       "category": "경제",
       "categories": [
         "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "생태 자원을 지역 경제의 핵심 성장 동력으로 활용하는 방안을 논의하는 순천국제포럼이 열렸습니다.\n\n포럼 참가자들은 지속 가능한 생태 도시 모델과 이를 기반으로 한 경제 활성화 전략을 공유했습니다. 국내외 전문가들이 자리에 모여 환경 보존과 경제 성장이 조화를 이루는 정책 사례를 검토했습니다.\n\n순천시는 생태 환경 조성을 단순한 자연 보호에 그치지 않고 지역 산업 및 관광과 연계하는 방향을 설명했습니다. 이번 행사를 통해 생태계 가치를 실질적인 경제 효과로 전환하는 논의가 이어졌습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "‘생태를 경제 발전 동력으로’…순천국제포럼 열려",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45S1o3NkVmSVpzME1aQlFiblNXZVZ6TzRGVWFpN2NLVEFzVzg3QnF3anVTYzN5UGZaT2h3WjI4S1pHN0ZKeW1rN3dSSmlha01IQkR4U2pkNDB1SjZZR3pqTGkza3ZOZw?oc=5"
-        }
-      ],
-      "keywords": [
-        "순천국제포럼",
-        "생태경제",
-        "지역발전",
-        "지속가능성"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261027-015/600/400"
-    },
-    {
-      "id": "news-20261027-016",
-      "headline": "인구 170만 명 붕괴 위기에 직면한 지역 사회와 경제적 경고",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "지역 인구가 170만 명 아래로 떨어질 위기에 처하면서 지역 경제 전반에 심각한 경고등이 켜졌다.\n\n생산인구 감소와 소비 위축은 지역 내 기업의 구인난과 성장 동력 상실로 직결된다.\n\n지속 가능한 경제 성장을 유지하기 위해 인구 구조 변화에 맞춘 근본적인 대책 마련이 시급하다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "인구 170만 붕괴 위기…경제 지표가 주는 경고",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOZFEybG1MakpZNjJFdk92SWFJcFUzNFNTS3lYWkJSenZIeGxPSWZHV2MxaWltT1o5UGxyVmdBSFdfZERob1lEQmRrMm5JaWdYeG5Id015czZMdWdiV1dxcDNpOWpDZw?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "전북 인구 170만 붕괴 위기…경제 지표가 주는 경고",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TU3pjS3FQS1JJcHpYaHVkUnNsZkFmUFd6NTNPbndycF9iekV6SktUY2NoeU9OVy1LMTBKWTJXdUJrMmpwR0hNYS1vaE5WcURFVTVxOHlMOGpZM2NlcWxOTU1HVE1tUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        "인구 위기",
-        "경제 지표",
-        "생산인구 감소",
-        "지역 경제"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261027-016/600/400"
-    },
-    {
-      "id": "news-20261027-017",
-      "headline": "10월 28일 국내외 주요 경제 일정 및 지표 발표 캘린더",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "10월 28일 수요일에 예정된 주요 국내외 경제 일정을 정리한 캘린더입니다. 금융시장 참여자들이 주목해야 할 당일의 핵심 경제 이벤트와 정책 발표 일정이 포함되어 있습니다.\n\n정부 부처 및 금융당국의 주요 회의를 비롯해 시장에 영향을 미칠 수 있는 해외 주요국의 경제 지표 발표 시각을 종합적으로 다룹니다.\n\n하루 동안 진행되는 경제 흐름을 미리 파악하고 시장 변화에 대비할 수 있도록 주요 발표 사항을 제공합니다. 세부적인 일정은 상황에 따라 일부 조정될 수 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "YTN",
-          "title": "■10월 28일 수 경제 캘린더",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vYnVidXhHU2hTNkZ4WnN2MjFZNTNqdll5WlZvSEJPbHB1bjJaM2I3a29SSmsySkdudklBTkdfdElhSDZEZ25KVUxra3hZaG5FSnR3MFJvVGFlbjQwVVE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "■10월 27일 화 경제 캘린더",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IOEtYVDdxdzl5NHNKa0VUdl9tRGFaU3dMRHRYQ0VKZnUtRHJ5MVMwM2JCNmdpZUY2R3BlLXFPRGcwaUVFVUY0MkFULWRRZ3Byc2o4UkltU3hmTjVvZ0E?oc=5"
-        }
-      ],
-      "keywords": [
-        "경제 캘린더",
-        "경제 일정",
-        "10월 28일",
-        "금융시장",
-        "경제 지표"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261027-017/600/400"
-    },
-    {
-      "id": "news-20261027-018",
-      "headline": "일본 자위대 미화 드라마와 민감한 영화 기획에 발끈한 중국·외교 갈등 점화",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "일본 TBS의 인기 드라마 '비방트' 시즌 2가 자위대의 해외 활동을 미화하고 중국을 악역으로 설정했다는 이유로 중국의 거센 반발을 사고 있습니다.\n\n해당 드라마는 중국계 조직의 고문 장면 등을 포함하여 중국 내에서 과거 일본군의 만행을 연상시킨다는 비판을 받았으며, CCTV 등 현지 매체와 웨이보 등 SNS에서 뜨거운 논란이 되었습니다.\n\n일본 내부에서도 실존 국가를 악역으로 삼고 지나친 폭력을 묘사했다는 지적이 제기되며 경색된 중일 관계의 단면을 드러냈습니다.\n\n이와 함께 아베 신조 전 총리 피격 사건을 모티프로 삼고 암살범을 한국인으로 설정했던 영화 기획이 논란 끝에 무산되는 등 주변국 심기를 자극하는 콘텐츠가 잇따르고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "YTN",
-          "title": "일본 게이단렌, 11월 중국 방문단 파견 연기...\"중국이 요청\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LQ0VDQ3JBQU5Zd3NPRVNoRTMtYzNUaDRjV1J2NDREeG5zQkN6Z2JMcGl3LUV4VVhUUF9ldlQ4X09wdEM0Ri1TZFJUZy1CNlFrOHFIVDVDZ24wWjJtV2c?oc=5"
-        },
-        {
-          "name": "경향신문",
-          "title": "자위대 활약 그린 드라마에 발끈한 중국…일본서 주변국 심기 건드는 콘텐츠 속속",
-          "url": "https://www.khan.co.kr/article/202610280600101/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        }
-      ],
-      "keywords": [
-        "비방트",
-        "자위대",
-        "중국",
-        "외교갈등",
-        "아베신조"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261027-018/600/400"
-    },
-    {
-      "id": "news-20261027-019",
-      "headline": "미 FCC, 아마존의 글로벌스타 인수 최종 승인… 스페이스X 스타링크와 정면 대결",
-      "category": "글로벌",
-      "categories": [
         "글로벌",
-        "비즈니스",
         "IT/과학"
       ],
       "summary": {
-        "overview": "미국 연방통신위원회(FCC)가 아마존의 저궤도 위성 사업 부문 '아마존 레오'의 글로벌스타 이동위성서비스 주파수 취득을 최종 승인했습니다.\n\n이번 승인으로 아마존은 레오 위성 네트워크에 글로벌스타의 위성 24기를 추가하며 지상 기지국 없이 스마트폰을 위성과 직접 연결하는 위성직접연결(D2D) 시장에 본격적으로 진입합니다.\n\n아마존은 올해 말 상용 위성 서비스를 시작하고 2028년부터 D2D 상용망 구축에 나서며, 2029년까지 3천200기 이상의 저궤도 위성을 배치할 계획입니다.\n\n앞서 아마존은 스타링크를 이끄는 스페이스X를 추격하기 위해 글로벌스타 인수 계약을 체결했으며, 애플 이용자를 위한 위성 기반 응급 메시지 서비스도 계속 지원하기로 했습니다."
+        "overview": "가상자산 거래소 빗썸의 사내 시스템이 해킹을 당해 고객 6444명과 임직원 715명의 개인정보가 유출됐습니다. 침해 사고는 지난 27일 사내 모바일 그룹웨어 시스템인 '다우오피스'에 외부 비인가자가 침입하면서 발생했습니다.\n\n유출 대상 고객 중 5600명의 정보는 암호화 파일 형태였으나, 나머지 844명은 이름과 연락처는 물론 주민등록번호, 계좌번호, 신분증 사본 등 민감한 정보가 직접 노출된 것으로 확인됐습니다. 빗썸 직원이 업무 중 모바일 시스템을 활용하는 과정에서 해당 정보가 흘러나간 것으로 파악됐습니다.\n\n빗썸은 침해된 시스템이 거래소 계정이나 보유 자산 데이터베이스와 분리돼 있어 자산 탈취 등의 직접적 정황은 없다고 설명했습니다. 피해를 본 고객들에게는 개별 안내를 시작했으며, 사칭 메시지나 인증번호 요구에 응하지 말 것을 당부했습니다.\n\n이재원 빗썸 대표이사는 사과 입장을 밝히며 유출 고객에게 2차 피해가 발생할 경우 구제와 보상에 최선을 다하겠다고 밝혔습니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "美FCC, 아마존의 글로벌스타 인수승인…스타링크와 경쟁 발판",
-          "url": "https://www.yna.co.kr/view/AKR20261028013900091"
+          "name": "한겨레",
+          "title": "빗썸 해킹, 844명은 계좌번호도 털렸다…6천여명 개인정보 유출",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1284892.html"
         },
         {
-          "name": "KBS 뉴스",
-          "title": "미 FCC, 아마존의 ‘글로벌스타’ 인수 승인…스타링크와 경쟁 발판",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xcnFneGdzaTY0WnYwdnR3TElIZDNXbEdSY1lSYjdYT3VFS1BiMGx1QVZfcGpGUnNlR253cHl0RFI0WW84ZV9XX3hZd0F1alJXby04NmR0TGZyYlE?oc=5"
+          "name": "연합뉴스",
+          "title": "폴리마켓 35억원 해킹 피해…\"700개 계좌 피해\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030029400009"
         }
       ],
       "keywords": [
-        "아마존",
-        "글로벌스타",
-        "FCC",
-        "스타링크",
-        "위성직접연결"
+        "빗썸",
+        "개인정보 유출",
+        "해킹",
+        "가상자산",
+        "다우오피스"
       ],
-      "image_url": "https://img.yna.co.kr/photo/etc/up/2026/04/28/PUP20260428012801009_P2.jpg"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1029/53_17932696925253_20261029503854.webp"
     },
     {
-      "id": "news-20261027-020",
-      "headline": "알래스카 주정부, 트럼프 행정부의 선거 결과 인증 저지 소송에 기각 요청",
-      "category": "글로벌",
+      "id": "news-20261030-020",
+      "headline": "미 연준 이어 유럽중앙은행도 기준금리 동결…물가와 경기 둔화 위험 공존",
+      "category": "경제",
       "categories": [
+        "경제",
+        "비즈니스",
         "글로벌"
       ],
       "summary": {
-        "overview": "미국 알래스카 주정부가 중간선거 결과 확정을 막으려는 트럼프 행정부의 소송에 제동을 걸고 나섰다.\n\n앞서 법무부는 알래스카 상원 선거에서 공화당 후보가 패할 경우 동명이인 후보로 인한 유권자 혼동을 이유로 결과 인증을 보류해달라는 소송을 제기했다.\n\n이에 알래스카 주정부는 연방법원에 소송 기각을 요청하며 투표용지에 호칭과 중간 이니셜을 다르게 표기하는 등 충분한 조치를 취했다고 반박했다.\n\n공화당 소속 주지사가 이끄는 알래스카주가 트럼프 행정부의 선거 개입 시도에 맞서는 형국이 펼쳐지면서 법원의 판단에 관심이 모인다."
+        "overview": "미국 연방준비제도에 이어 유럽중앙은행(ECB) 역시 기준금리를 현행 수준으로 동결했습니다. 주요 중앙은행들이 연이어 동결 결정을 내리며 통화정책 완화 시점을 두고 신중한 관망세를 유지하고 있습니다.\n\n유럽중앙은행은 여전히 해소되지 않은 물가 상승 압력과 실물 경기 둔화 우려를 종합적으로 고려해 이번 결정을 내렸습니다. 물가 안정 목표치에 확실히 도달하기 전에 섣불리 금리를 내릴 경우 인플레이션이 다시 자극받을 수 있다는 판단이 작용했습니다. 반면 추가적인 긴축을 진행하기에는 경기 침체 부담이 큰 만큼, 당분간 거시경제 지표 추이를 면밀히 점검하며 정책 방향을 조율할 방침입니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "알래스카주, 트럼프 행정부 '선거결과 인증 저지' 소송에 맞불",
-          "url": "https://www.yna.co.kr/view/AKR20261028012500071"
+          "name": "MBC 뉴스",
+          "title": "미 연준 이어 ECB도 금리 동결‥\"물가상승·경기둔화 위험 여전\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDTTVxbUJwUTNJc3JMbldZRUhWbkg0cWVsRWxBSXAtZzZnQkQ3Rmt1clJkbkRXS1RaMkQ1X1BOUjhBUXZleXFPMWVIcy03eTVMTV9HcXd1SFU0TmFJRC00NVVTUWRkZjd1bWEwUllyekZDV0Nq0gF0QVVfeXFMT1FnbS1aT3hFNHN3M2pFUWc3WU1Demc3VDd6SkhTWC1pRFVFRGZ1enlVbzM0WHdMUUl6VnBweXNfeFk1LTNIdDNsQVh3TlJYcEItcWVYWFhreklkTEwyYmFrZ1lJT0ZOckFJWkR4ZnhmWU11RXY?oc=5"
         },
         {
-          "name": "한겨레",
-          "title": "“정직한 선거라면 수용”…조건 단 트럼프, 중간선거 패배 땐 불복 시사",
-          "url": "https://www.hani.co.kr/arti/international/america/1284503.html"
+          "name": "YTN",
+          "title": "미국 연준, 금리 동결하며 '숨 고르기'...구글·MS 실적 희비 교차",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kbnZUVHJodDNGSUNlSl9SRnpBZ2UwMlh2R2w4M1JVUDBsdVprZXFDaGFiX1FLbTAydTQtQzVsMmNDX19LNzFUYXg3ZHZaSmZ3YXBzNUkyZFlYTTJLM2c?oc=5"
         }
       ],
       "keywords": [
-        "알래스카",
-        "트럼프 행정부",
-        "선거 결과 인증",
-        "법무부 소송",
-        "중간선거"
+        "기준금리 동결",
+        "유럽중앙은행",
+        "미국 연준",
+        "물가상승",
+        "경기둔화"
       ],
-      "image_url": "https://img.yna.co.kr/photo/etc/af/2026/10/01/PAF20261001074301009_P2.jpg"
+      "image_url": "https://picsum.photos/seed/news-20261030-020/600/400"
     }
   ]
 }
