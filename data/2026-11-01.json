@@ -1,0 +1,728 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-02T08:51:42.944959+09:00",
+  "total_count": 20,
+  "news_items": [
+    {
+      "id": "news-20261101-001",
+      "headline": "노원구 월계동 성원(사슴4) 39.6㎡, 4억 7,500만 원에 거래되며 3년 신고가 경신",
+      "category": "경제",
+      "categories": [
+        "IT/과학",
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "서울 노원구 월계동 성원(사슴4) 아파트 전용면적 39.6㎡가 4억 7,500만 원에 매매 거래됐습니다. 국토교통부 실거래가 공개시스템에 등록된 해당 거래는 최근 3년 사이 최고가를 기록했습니다.\n\n월계동 성원 단지는 소형 평형 위주로 매매가 이어지는 아파트입니다. 이번 3년 신고가 경신은 해당 지역 소형 평형 아파트의 실거래가 시세 변화를 보여줍니다.\n\n국토부 실거래가 등록 정보를 바탕으로 노원구 일대 아파트 단지의 매매 시세 추이가 지속해서 집계되고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "노원구 월계동 성원(사슴4) 39.6㎡, 4억 7500만원 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12193017"
+        },
+        {
+          "name": "매일경제",
+          "title": "은평구 신사동 미성 83.27㎡ 8억 7500만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12193018"
+        },
+        {
+          "name": "매일경제",
+          "title": "강서구 마곡수명산파크4단지 59.84㎡ 12억 1천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12193019"
+        },
+        {
+          "name": "매일경제",
+          "title": "강서구 내발산동 우장산월드메르디앙 84.4476㎡ 10억 2천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12193020"
+        },
+        {
+          "name": "매일경제",
+          "title": "구로구 개봉동현대아이파크 84.98㎡ 12억 2800만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12193021"
+        },
+        {
+          "name": "매일경제",
+          "title": "관악구 봉천동 두산 59.92㎡ 13억 4500만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12193022"
+        }
+      ],
+      "keywords": [
+        "노원구 부동산",
+        "월계동 성원",
+        "실거래가",
+        "신고가",
+        "아파트 매매"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261101-001/600/400"
+    },
+    {
+      "id": "news-20261101-002",
+      "headline": "부산서 '아세안+3 채권시장 국제포럼' 개막…해양금융·디지털 자본시장 협력 논의",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "'아세안(ASEAN)+3 채권시장 국제포럼'이 부산 BNK부산은행 컨벤션홀에서 개막해 닷새간의 일정에 들어갔습니다. 아시아개발은행(ADB)이 주최하고 BNK금융그룹과 부산국제금융진흥원이 주관하는 이번 행사에는 국내외 금융당국, 중앙은행, 국제기구 관계자 150여 명이 참여합니다.\n\n개막 첫날 진행된 '부산 특별세션'에서는 블루본드를 활용한 해운 탈탄소화와 지속 가능한 수산업 지원 등 블루파이낸스 실행 방안을 집중적으로 모색했습니다. 아울러 글로벌 해양금융 허브로서 부산의 성장 전략과 한·아세안 금융협력 과제도 소개되었습니다.\n\n행사 기간 함께 열리는 연계 포럼과 세미나에서는 아시아 채권시장의 디지털 전환과 역내 지급결제 표준화 방안을 논의합니다. 탄소시장과 국가 간 탄소거래, 예금토큰, 인공지능(AI) 기술 도입이 금융안정에 미치는 위험 요인 등 다양한 자본시장 현안이 다뤄질 예정입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "부산서 아세안＋3 채권시장 국제포럼…지속가능 금융 협력 논의",
+          "url": "https://www.yna.co.kr/view/AKR20261102015900051"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "중국 이우시장, 국제 전자상거래 수입 1억 건 돌파",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydHhDN2NvcFp2aW5MejlQdFJ2MDNQMVBlR0NpMzBnUXYxYWU1VDR2b2JxYWd1YWpmelZIbXFSMjNnNXZzY0psTDIyZUtnNC1nZkpCbEdhajNlU28?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "이스라엘 총선·美 이란 공격 가능성 주시‥국제유가 상승",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sM1M1U013UnlROXd6QjM3VmZxVTF3eW54cUQ1UlBvdm5MVGUtQTZwM2I4STVlUEVJZjlnODk4TW5hOWhWSFFQTmRKU2FpX0hDMkRaVXdNN0UycU9GMnpQdzR3RVNYbGxIRlFsa2x5aUtIaXA40gF0QVVfeXFMUFVRd1FyY1JRRnhPQ0dyVzNzeUZPMEhtaUd2Smp4V29PNHNxWkhpNEY0YmQ4aDhlTHQtdXJyRnpXV3RmWXo2YWNjcHRXdUdWWjgxQkpLWVBmbHBpZkl4NlprYm8zUGhLQjMtYXVIUWlEZFZJaWc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "해외에서도 1종 보통면허 갱신·국제면허 신청 가능",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tQzFsZlIzOC01M3kxNmsxNWp6czNYLUw0dGpaWExNLTgxeVhISmVUSWI1Ny1sZmtlUFB4UFQ5SFBwU3M4UHNWZEIydWE1TW5oOTlqYk84WFlmZVFwOXF4M09MNV8tWVM3Nkg5a3Ntck9qWkRGR2c?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "내일 세계해양포럼 개막…'해양도시 부산' 발전 방안 논의",
+          "url": "https://www.yna.co.kr/view/AKR20261102017800051"
+        }
+      ],
+      "keywords": [
+        "아세안+3",
+        "채권시장포럼",
+        "부산시",
+        "블루파이낸스",
+        "디지털채권"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102015900051_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261101-003",
+      "headline": "지역 축제 열기, 실질적인 지역 상권 소비로 연결하기 위한 과제",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "가을철을 맞아 전국 각지에서 다양한 지역 축제가 열리며 수많은 방문객이 몰리고 있습니다. 다만 축제 현장의 일시적인 인파가 지역 상권 전반의 실질적인 매출 증가로 이어지지 못하는 한계가 계속해서 지적됩니다.\n\n전문가들은 축제 방문객이 행사장 내에만 머물지 않고 인근 전통시장과 골목상권으로 자연스럽게 이동하도록 유도하는 연계 전략이 필요하다고 강조합니다. 축제 입장권 구매 시 지역 사랑 상품권을 지급하거나 상권 할인 쿠폰을 연동하는 대안이 구체적으로 논의됩니다.\n\n단순한 볼거리 제공에 그치지 않고 지역 상인과 협업해 특색 있는 상권 체험 프로그램을 개발하는 노력도 이어집니다. 축제가 일회성 행사에 머무르지 않고 지역 경제의 선순환 구조를 만들어내는 실효성 있는 대책이 요구됩니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "[같이경제] 축제의 계절…지역 소비로 확장하려면?",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1majNXWnFjQnZ6Q0g0c3NBNVBhRG0wZVpfalhZOUZlU0laT2p3Tm5sR0tOQnlHRDFFNHFYRG5XTDRPNHZIdjhteGpwdGZ1eHRERGxGV0lHNTlOMHc?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "이 대통령, 한국 수출 첫 9천억 달러 돌파에 “경제영토 확장 더 노력”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14Mi1CeklQN3c4MUNUOUJmM3R6U002RFI3cGRtTXdqTkctdmJtZnpmT3RNSTV2UTJkUmZuTEttWVZPU3NjdUJsTC1LODFDOURkNGIyamdjT1F1Q0k?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "“국군사관학교 신설, 지역 경제에 손실”…대전서 규탄 궐기대회",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWHFwYkpVckxqMGQ0OFhHMmxROERCcFdsQ0M1dTlMVHItRkVTbFlFOFFrUWU2aXpKMHFEWjEza19JM2pLT3FEWlFhSFdrX0hQalNSVUwxbGJZS2lqY2tLek0yVnFkQQ?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "[간추린 경제] 1. 생산·소비·투자 ↑ 2. 외국인, 9월 국내 주식 19조 넘게 순매도",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lTE95bzBjR3UzdlZ4OUgyeUt2M0dPbkRlTnAyUlRGVXh0SkxySk9WNExnbnQ2Vm9mOUxmVEt5SXROQV8tVW5YTmJ6bm1UOUtCQ2lCdUFmZjRjYVZlR1ZBYUJ2R2NJRlpsUHBpZGtTNmdmUjFoMDE2YtIBeEFVX3lxTE9lTE95bzBjR3UzdlZ4OUgyeUt2M0dPbkRlTnAyUlRGVXh0SkxySk9WNExnbnQ2Vm9mOUxmVEt5SXROQV8tVW5YTmJ6bm1UOUtCQ2lCdUFmZjRjYVZlR1ZBYUJ2R2NJRlpsUHBpZGtTNmdmUjFoMDE2Yg?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "이 대통령, 올해 수출액 역대 최고치에 \"경제영토 확장 더 노력\"",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUXpzOFdyaUNOOW16VEl4S05VNTlyMmgxTUVrbGVYSkxmNjBzamFvRlA3UlJxTnVlXzBSdUVsaUFBOXVkTEgxTjlSdVV1Z0dvM0FVXzJxTXN2M01XZjBqaDV3UlBWVkpFNkFFbk1hTDBScTlFZnc?oc=5"
+        }
+      ],
+      "keywords": [
+        "지역축제",
+        "지역경제",
+        "소비활성화",
+        "골목상권",
+        "전통시장"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261101-003/600/400"
+    },
+    {
+      "id": "news-20261101-004",
+      "headline": "미 증시 AI·반도체주 폭락 여파… 코스피 11월 첫날 하락 압력 가중",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 증시의 인공지능(AI)과 반도체 관련주 급락 여파로 11월 첫 거래일 국내 주식시장이 하락 압력을 받을 전망입니다. 알파벳, 아마존, 인텔 등 글로벌 빅테크 기업들의 3분기 실적과 향후 전망이 시장 기대치를 하회하면서 AI 인프라 투자에 대한 수익성 회의론이 다시 수면 위로 올라왔습니다.\n\n뉴욕증시에서는 인텔이 28.58% 폭락하고 필라델피아 반도체 지수가 7.20% 급락하는 등 기술주 전반에 투매 현상이 나타났습니다. 직전 거래일 코스피 역시 외국인의 대규모 매도세 속에 3.48% 내린 5,730.74로 마감했으며, 삼성전자와 SK하이닉스 등 주요 반도체 기업 주가가 큰 폭으로 밀렸습니다.\n\n다만 한국의 10월 반도체 수출이 역대 2위 실적을 기록하며 견조한 메모리 업황 흐름을 확인시킨 점과 선반영된 시장 악재 등은 증시 하락 폭을 일부 제한할 수 있는 요소로 꼽힙니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "[마켓뷰] 코스피, '인텔 급락 등 美증시 삭풍' 이어받나",
+          "url": "https://www.yna.co.kr/view/AKR20261102015000008"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "코스피 4%대 급락‥11거래일 만에 '매도 사이드카' 발동",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83aklpckczTUtvVmxCUko3SVVGTXNrUzhJTjhncUp2bnRyNW5uRDk3QVJnMEZfOURqUlhHb1Z5RFJveEowQWlxWW9sZmRKaWV2QWRHZFlYczRVSVBhMFZnU2RScFMydW9xa0RCUnFmQ29nUVlz0gF0QVVfeXFMTVFCM2FNQ0h5Nkp5YmJ4YUlLX0hfTXg1SW1wNExaTEdrTDRINzB5OEZ5ZlRteldFUEJSY0lHN0xTTHFwdUZxeFFYUi01V3BSWGZoYVh4dGduaV9pZ3BFY0xMNUluUEZzY3l1eFRNX1AxVTVMT20?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "코스피, 美 빅테크 실적 부진에 3%대 급락 마감",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3YjlocnlWbFE3SFVGYmo0cmhMYmxuTGg5TDRzVGtpOVlSQjFWcmdRVFBSTGZuLUh4ZmZMQUpGSGNDWFlHaS1Wem1SU25IdnZ4d0F6N21ndjBibHk4b25kcldFcmhta1FPck04V2pUaWpZZFhf0gF0QVVfeXFMT2o3blBrbVQ4U3oyVlJMR3lYUzhWSDZOX0dVSzl1VlBKR0o2Y3hpX1l0aTAzV1E3NHVpR3hhQ0dFM29zVDJOUHN6YU50YVBORXlxVnI4ZG16QTFNbUhtSVlVcXVJTHpKNFc5NW1VMG1XT0hwdGw?oc=5"
+        },
+        {
+          "name": "뉴스핌",
+          "title": "[미리보는 증시재료] 美 중간선거·고용지표에 실적까지…코스피 반등 이어질까",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ySHc1UEFGVTUydWJHZEFaQ2dfSDVmQW9EYmFMbVNyNWhxNFdvajRlRGx0ZmRhOGNvN0dXWmxPNE5SWHlvZ0g4eUNfMmRPUGFkNkZFc0NFdkhvUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "코스피",
+        "반도체",
+        "AI투자",
+        "인텔",
+        "증시하락"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/10/30/PYH2026103013820001300_P2.jpg"
+    },
+    {
+      "id": "news-20261101-005",
+      "headline": "이란, 미국과의 평화 협상 논의 진행…\"최종 합의는 미국의 답변에 달렸다\"",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "이란 고위급 외교 대표단이 중재국 카타르를 방문해 미국과의 평화 협상을 이어갔으나 아직 최종 타결에는 이르지 못했습니다.\n\n아바스 아라그치 이란 외무장관은 카타르 중재자들과 이른바 '이틀간의 제안'을 두고 논의를 순조롭게 이어가고 있다고 전했습니다. 다만 이번 방문 기간 중 미국 측과 직접 협상할 계획은 없었으며, 최종 합의 성사 여부는 이란의 질의에 미국이 어떻게 답하느냐에 전적으로 달려 있다고 강조했습니다.\n\n아라그치 장관은 미국이 군사적 해법보다 외교를 우선하는 합리적 태도를 보여주기를 기대한다고 밝혔습니다. 그러면서도 최고지도자의 지시에 따라 군에 명확한 임무가 부여되었다며, 무력 충돌 확대 시 강력히 대응하겠다는 경고도 잊지 않았습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "한미일 외교장관, G20 계기 미국에서 한미일 ‥한반도 문제 논의 주목",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YWHBWMjU4YUtqWktQV1pYUExsUDAzbzN2YVVpcmF5RmNTUE0yVHppZE54V18xRFdTaWljRGc2QmMyMXpGcERpenJuZVZoNmNtY3BBU2ZZSjZKdDQ3cGl0MVZaTTNYeEo2cDk2V3pkT1VPbTduXzlHTNIBeEFVX3lxTE1JbzVpWGVBbzhuR1pmVEtXUm1pMnJlV0U4T2Y2ZUY5TEl6eG9UQ09QRERuM1FzdFZiTzJqeWR5RnU2cUljclZsaU5KdlJ2MTNUZmFLNnNXR3FPd1B1Q2FRbHVkT2Y2UnZBc1Vka0k0TVdEX2wxMEgtTA?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "미국 중간선거 D-3일...한반도에 미칠 영향은?",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQQWZySVl5NkdoeGlERUNfV3lMOUJnRENVTlByNWlibTN2SkdvYTFYNUw1T3gyX25MVk5uTzl2R3d2dTFHbTU4R2k2aW9zbk44aU1TRWdURkxvUTllTHc?oc=5"
+        },
+        {
+          "name": "경향신문",
+          "title": "이란 외교 “미국과 평화 협상 진전···최종 합의는 미 답변에 달렸다”",
+          "url": "https://www.khan.co.kr/article/202611012256001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "북-스위스 외교장관 회담 공개…“국제정세 의견 교환”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFNULXh4QjhsS0JlR3kwellqcFQ3Und2aHJ4RUY3Wml1WXJndUNFeHctNi1zUVVBMmlUdV92RkNoUzFUUWZ5Z2dXVlZwaGlnaDBYVDVfZUM1bkk?oc=5"
+        }
+      ],
+      "keywords": [
+        "이란",
+        "미국",
+        "평화협상",
+        "아바스 아라그치",
+        "카타르"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261101-005/600/400"
+    },
+    {
+      "id": "news-20261101-006",
+      "headline": "미-이란 군사적 긴장감 고조에 국제유가 2% 넘게 급등",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "미국과 이란 간의 군사적 긴장감이 높아지면서 국제유가가 2% 넘게 급등했습니다. 중동 지역의 확전 가능성이 제기되면서 글로벌 원유 공급망이 불안정해질 수 있다는 우려가 시장에 확산한 탓입니다. 주요 원유 생산국들이 밀집한 중동 정세의 악화는 원유 수급 차질에 대한 불안감을 직격으로 자극하고 있습니다.\n\n시장 전문가들은 지정학적 위험이 해소되지 않는 한 국제유가의 변동성이 한동안 이어질 것으로 보고 있습니다. 이러한 유가 상승세는 원자재 가격 변동과 맞물려 글로벌 물가 상방 압력으로 작용할 가능성이 큽니다. 향후 이란의 대응 방식과 중동 내 정세 변화가 유가 향방을 결정지을 핵심 변수가 될 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "미-이란 확전 우려에 국제유가 2%대 급등",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EQTZCYjN3T2VRYlk4bmFjaVoxVXp1Y2VVYzFMSExfc2FaTnczSVRybEZXbjBvR3FUYlM2REtrYWlIdkh4TkRHazlMSDdiTS1JeE1ra0lENTROYmNyTEtjSmRjamczZw?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "미-이란 확전 우려에 국제유가 2%대 급등…브렌트유 지난 4월 이후 최고 수준",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RXzNfazdGN3J5ODlrOUFVd2pPb195dFYzVThJT2JiOTNFZ21ZSmtmUzR0c1NZdmJuNnc0Y2xKd1lKQkdPbWlrSENUV25xcWVnbXhONTFPcDN4QXc?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가, 중동 외교 해결 기대감에 하락‥WTI 102달러",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQjUtT2R3ZjdpRnJ4MFlZRy1QOW52M3NGaWlzY0hUOHRpTjNaLTFXdlNqWDlOSXRqX1pSWkZ1cWQxcWZoM1Z5UVR0MVA2RFBhb0dDaHRhX0p2MXkyQkdjb1UtQnpqY0tiTkdVaE1zX052NTlU0gF0QVVfeXFMTUsxd2dJQktabHRKdHM0X2NZYnUzVlRpOU1NRkJvbUNOVFl0cDM3NHV1MEF3UjlrVFQ5ekQ1Y21mMVoxYXhPV2NLd0VuY3RnNWF5aE1iczIzUDFoWV9uVHh2VFFTT1l3eE5qUl9LZEdRTFhTTjU?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "미 반도체주 반등‥국제유가 소폭 하락",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QMVVEQ3gwQkRycTc4Rlkxci1ZRWlyZ2tjc2pYa2IwVVNEYUdOcG45MmVVakhXNHdTdkcwX0VUazR0WWZaaXN4eWhCYWlYMDB0QkVqN1JmX1JkZ1N3eEZDWDh6aGcwM2t2VUQyMGdHWkJFMjJO0gF0QVVfeXFMTVAxVURDeDBCRHJxNzhGWTFyLVlFaXJna2NzalhrYjBVU0RhR05wbjkyZVVqSFc0d1N2RzBfRVRrNHRZZlppc3h5aEJhaVgwMHRCRWo3UmZfUmRnU3d4RkNYOHpoZzAza3ZVRDIwZ0daQkUyMk4?oc=5"
+        }
+      ],
+      "keywords": [
+        "국제유가",
+        "미국 이란",
+        "확전 우려",
+        "중동 정세",
+        "원유 공급망"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261101-006/600/400"
+    },
+    {
+      "id": "news-20261101-007",
+      "headline": "반도체협회, R&D 근로시간 특례 담은 '초광역특구법' 환영…국회 조속 통과 촉구",
+      "category": "비즈니스",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "한국반도체산업협회가 반도체 연구개발(R&D) 인력에 대한 노동 특례를 담은 '초광역특구법' 발의에 환영의 뜻을 밝히며 국회의 조속한 법안 처리 요청에 나섰습니다.\n\n해당 법안은 지자체 간 협력을 통해 전략산업을 육성하고 기업에 규제 특례와 각종 세제 지원을 제공하는 내용을 골자로 합니다. 특히 반도체 연구개발 전문인력의 근로시간 특례와 선택적 근로시간제 정산기간 확대, 기간제 근로자 사용기간 연장 등 산업 현장의 숙원 과제들이 반영됐습니다.\n\n협회는 반도체 R&D 과정이 설계와 검증, 수율 개선 등 특정 단계에 업무가 몰리는 특성을 지녀 현행 근로시간 제도로는 적기 대응에 한계가 있었다고 설명했습니다. 이번 노동 특례가 도입되면 연구개발의 연속성과 효율성이 대폭 향상되어 차세대 핵심 기술 확보에도 속도가 붙을 것으로 기대하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "반도체협회 \"초광역특구법 노동 특례 환영…조속한 통과 기대\"",
+          "url": "https://www.yna.co.kr/view/AKR20261102018600003"
+        },
+        {
+          "name": "한겨레",
+          "title": "반도체 초호황의 역설…GDP에서 ‘노동 몫’ 역대 최저",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1285249.html"
+        }
+      ],
+      "keywords": [
+        "한국반도체산업협회",
+        "초광역특구법",
+        "근로시간 특례",
+        "반도체 R&D",
+        "노동 규제 완화"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102018600003_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261101-008",
+      "headline": "바이낸스 8조 원대 해킹 피해…거래소 구조적 취약점에 금융시장 전이 우려",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "국내외 가상자산 거래소를 겨냥한 대규모 해킹이 잇따르면서 시장의 불안감이 커지고 있습니다. 국내 거래소 프라뱅에 이어 세계 1위 거래소 바이낸스에서도 역대 최대 규모인 63억 달러(약 8조 4천억 원) 규모의 피해가 발생했습니다. 최근 금융권 해킹이 주로 개인정보 탈취에 그쳤던 것과 달리 가상자산 업계에서는 고객 자산이 직접 유출되는 양상을 보입니다.\n\n해커들의 공격이 집중되는 배경에는 주문과 체결, 자산 보관 기능이 거래소 한곳에 집중된 구조적 한계가 자리 잡고 있습니다. 안전지대로 평가받던 오프라인 지갑 '콜드월렛'마저 승인 화면 조작 등의 고도화된 수법에 뚫리며 단순한 개인 키 보안만으로는 자산을 지키기 어렵다는 지적이 나옵니다. 국내외 규제 공백으로 인해 피해 배상 책임이나 즉각적인 보고 의무가 미비한 점도 사태를 키우는 요인입니다.\n\n이번 사태 여파로 거래소 출금 중단 이후 대규모 인출 사태인 뱅크런이 현실화될지 긴장감이 흐르고 있습니다. 스테이블코인 현금화에 따른 미국 국채 매도 압력 등 전통 금융권으로 위험이 번질 가능성도 제기되면서 가상자산 시장 전반의 신뢰 훼손에 대한 경계감이 커지는 모습입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "정보 말고 돈 터는 ‘코인 해킹’…금융불안 방아쇠 될까",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1285252.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "이웃 나라 일본도 ‘해킹’ 몸살…올해만 2억여명 개인정보 유출된 듯",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1285226.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "정보 말고 돈 터는 ‘코인 해킹’…금융불안 방아쇠 될까",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tOGdVclg2MXpVY01tb0pQMXdLTzFEUGZ0cksycHRvYUg4SnlqVkJsUVFmMWZubzBzUkNwaHNreFpNMmN1M1B3UGFvZFd4cmhHa1RlZ3hvQkctNk96NGJkNFpwcUxydEU?oc=5"
+        }
+      ],
+      "keywords": [
+        "가상자산",
+        "바이낸스",
+        "해킹",
+        "뱅크런",
+        "거래소 취약점"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/original/2026/1101/20261101502186.webp"
+    },
+    {
+      "id": "news-20261101-009",
+      "headline": "유로존 3분기 GDP 0.4% 성장…프랑스는 역성장 기록",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "유로존의 올해 3분기 실질 국내총생산(GDP)이 전 분기 대비 0.4% 증가했습니다. 이는 시장 전망치를 소폭 웃도는 결과로, 유럽 경제가 완만한 회복 흐름을 이어가고 있음을 나타냅니다.\n\n하지만 유로존 내부 주요 회원국 간의 경기 흐름은 확연히 엇갈리는 모습을 보였습니다. 일부 국가의 회복세에도 불구하고, 지역 내 핵심 경제국인 프랑스는 성장 동력을 잃고 3분기 역성장을 기록했습니다.\n\n프랑스의 경기 후퇴는 내수 침체와 소비 위축이 주요 원인으로 파악됩니다. 전문가들은 유로존 전반의 성장세를 유지하려면 프랑스 등 주요국의 경기 반등과 지속적인 정책 지원이 병행되어야 한다고 보고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "유로존 3분기 GDP 0.4% 성장‥프랑스는 역성장",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBscFliTk82Y3ZMNzZmd2VFb3VJcjNMMVNCejdNR0xlNG9FekVlN0hwYzNteVhPWjhQQ0ZRanEzQ0tfWk5LSFRWbFJKMTZFa2M5TWpJTE9iYUN4QVNXU01nbW9RcTJhRHJQeG5KSlR2bTFab25Z0gF0QVVfeXFMT3llem1XYktJZERfSWhHeFpXa3RfcFJIQ1MwcWl6a0lJbncwSUFHNHRvVEpYWmJXY24yQmlwNkZuWkpsaHh5alU4T1RsanJWZ2pBRy1Xc3RJSEc4NWJoODZIZXZVaEt3SHdPdnpmelVEM1FhWkk?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "유로존 3분기 경제 0.4% 성장...'시위 사태' 프랑스 역성장",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzb1FUTHFVS2gtOVdVVUVSejg1cGVsODFBQXJObmdWSG9naTRMMWVOeE1ZZWdSM0w4eXA5OE4yNWpISUtVRlNKTHdLMDJVQ2pCQ2NxSzZIYXhtOXlDWk1IUVp3SlRFSXZVUVVYN09XcmN0VU5fdlE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "미국 3분기 경제 3.4% 성장...나랏빚은 80년 만에 GDP보다 많아",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93TDdTb0tQaFIxQjdzQ09DN3BMSDFhOTBLNWhiZW0yZTd3UHFYbkxNYjhOZURyQlNFYkZ1aGkzTzJLVXJBQVVlR3NnVWVBZVl5WUxrTlNyLTg2b3NKbENvcC1LUEhiYWFQLWZTWV9jVFRZb1o2amc?oc=5"
+        }
+      ],
+      "keywords": [
+        "유로존",
+        "GDP",
+        "프랑스",
+        "역성장",
+        "경제성장률"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261101-009/600/400"
+    },
+    {
+      "id": "news-20261101-010",
+      "headline": "공화당 중간선거 참패 위기감 속에 트럼프, '강행군 유세' 펼치며 지원사격",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 미국 대통령이 11월 중간선거를 앞두고 한 달 동안 20여 차례 넘는 현장 지원 유세를 소화하며 표심 잡기에 총력을 기울이고 있습니다. 공화당이 상원과 하원 다수당 지위를 모두 잃을 수 있다는 참패 위기감이 커지자 경합 지역을 중심으로 유세 일정을 대폭 늘렸습니다.\n\n트럼프 대통령은 최근 플로리다 유세에서 28일 연속 일정을 소화하느라 목소리가 제대로 나오지 않는다며 고된 일정에 대한 부담을 토로했습니다. 당초 원격 유세로 대체하려던 캔자스와 아이오와주 역시 판세가 박빙으로 흐르자 직접 현장을 방문하는 쪽으로 결정을 바꿨습니다.\n\n선거 예측 기관들은 민주당이 하원 과반 의석을 확보할 가능성이 높다고 분석하며, 상원 역시 알래스카와 오하이오 등 주요 격전지 결과에 따라 다수당이 뒤바뀔 수 있다고 보고 있습니다.\n\n다만 트럼프 대통령의 대대적인 현장 동원 유세가 실제 지지층 결집으로 이어질지는 공화당 내부에서도 평가가 엇갈립니다. 선거 막바지에 유권자를 직접 찾아가는 투표 독려 활동에 집중해야 할 시기에 대통령 유세 준비로 전력이 과도하게 소모된다는 지적도 나옵니다."
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "트럼프 “28일 연속 지역 유세, 개처럼 일해”…공화당 중간선거 위기감은 여전",
+          "url": "https://www.khan.co.kr/article/202611012053035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "유세 취소한 트럼프 ‘유턴’…공화 텃밭 2곳 사전투표 30% 급증",
+          "url": "https://www.hani.co.kr/arti/international/america/1285203.html"
+        },
+        {
+          "name": "매일경제",
+          "title": "코스피 6천피 회복할까…AI 실적·미국 중간선거에 쏠린 눈",
+          "url": "https://www.mk.co.kr/news/stock/12193071"
+        }
+      ],
+      "keywords": [
+        "트럼프",
+        "미국 중간선거",
+        "공화당",
+        "지원 유세",
+        "민주당"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1101/53_17935223120796_20261101501646.webp"
+    },
+    {
+      "id": "news-20261101-011",
+      "headline": "인천시, 노후계획도시 정비예정구역 주민대표단 구성 기준 공고",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "인천시가 1980∼1990년대 조성된 시내 대규모 택지지구의 노후계획도시 정비사업을 이끌 주민대표단 구성 기준을 공고했습니다. 주민대표단은 대표 1명과 감사를 포함해 5명에서 25명 규모로 구성하며, 토지 등 소유자 과반수의 동의를 얻어 지정권자의 승인을 받아야 합니다.\n\n주택단지별 기본인원은 정비예정구역 내 단지 수에 따라 차등 배정하여 소규모 단지도 충분히 의견을 낼 수 있도록 장치를 마련했습니다. 기본인원을 배정한 뒤 남은 인원은 각 단지의 대지면적과 세대수 비율을 절반씩 반영해 순차 배분할 계획입니다.\n\n인천에서는 노후계획도시 특별법에 따라 100만㎡ 이상 대규모 택지 5개 지구 중 지난 8월 6개 구역이 선도지구로 지정되었습니다. 인천시는 구역별 주민대표단 구성이 완료되는 대로 총괄계획가를 파견해 사업 초기 단계의 정비계획 마련과 추진 주체 선정을 적극 지원할 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "인천시, 노후계획도시 정비예정구역 주민대표단 기준 마련",
+          "url": "https://www.yna.co.kr/view/AKR20261102022500065"
+        }
+      ],
+      "keywords": [
+        "인천시",
+        "노후계획도시",
+        "주민대표단",
+        "정비사업",
+        "선도지구"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102022500065_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261101-012",
+      "headline": "심재운 부산테크노파크 원장 \"기업 맞춤형 지원과 실체적 성과 창출에 집중\"",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "심재운 부산테크노파크 원장이 지역 기업의 성장 단계별 맞춤 지원과 앵커기업과의 동반성장 기반 마련에 나서겠다는 구상을 밝혔습니다. 심 원장은 기관의 사업 수행 실적 위주 평가에서 벗어나 지원받은 기업의 실질적인 성장을 중심으로 경영 성과를 관리하겠다는 방침을 설정했습니다.\n\n기술개발부터 사업화, 판로 개척까지 종합 지원체계를 구축해 기술력 있는 기업이 강소기업으로 성장하고 일자리를 창출하는 선순환 구조를 만들 계획입니다. 아울러 지역 대학과 기업을 연계하여 기술개발, 인재 양성, 취업, 지역 정주로 이어지는 협력 모델도 추진합니다.\n\n제조기업의 인공지능 전환(AX)과 관련해서는 조선·기계 등 실제 생산 현장에서 기술을 검증하고, 불량률 감소와 생산성 향상 등 기업이 체감할 수 있는 실질적 변화를 이끌어내는 데 집중하겠다고 설명했습니다. 취임 초기 내부 관리 및 성과 관리 방식을 점검해 기관 운영의 책임성과 투명성을 높이겠다는 구상도 덧붙였습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "심재운 부산테크노파크 원장 \"기업 성장 단계별 맞춤 지원\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030081500051"
+        }
+      ],
+      "keywords": [
+        "부산테크노파크",
+        "심재운",
+        "맞춤형지원",
+        "동반성장",
+        "제조업AI전환"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030081500051_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261101-013",
+      "headline": "배우 신세경에 악의적 비방·협박 이어온 악플러, 항소심서 실형 선고받고 법정 구속",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "배우 신세경과 그 가족을 상대로 지속적인 협박과 악의적인 비방을 일삼아 온 악플러가 항소심에서도 실형을 선고받았습니다. 서울동부지방법원에서 진행된 항소심 재판부는 피고인의 항소를 기각하고 원심의 실형 판결을 유지하며 피고인을 법정 구속했습니다.\n\n해당 악플러는 수개월 동안 허위 사실을 유포하고 인격 모독 수준의 악성 댓글을 지속해서 게시하며 피해자들에게 큰 정신적 고통을 안겼습니다. 소속사 더프레젠트컴퍼니는 소속 아티스트와 가족을 향한 악의적 범죄 행위에 대해 어떠한 합의나 선처 없이 강경하게 법적 절차를 진행해 왔다고 설명했습니다.\n\n이번 판결은 익명성 뒤에 숨어 타인의 명예를 훼손하고 협박하는 행위에 대해 사법부가 중형을 내리는 등 엄정 조치하겠다는 의지를 보여줍니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“가족까지 건드렸다”…실형 선고에 법정 구속된 신세경 악플러",
+          "url": "https://www.mk.co.kr/news/society/12193089"
+        },
+        {
+          "name": "매일경제",
+          "title": "“신세경 얼굴에 염산 테러”…악플러, 징역 8개월 실형 선고",
+          "url": "https://www.mk.co.kr/news/society/12193086"
+        }
+      ],
+      "keywords": [
+        "신세경",
+        "악플러",
+        "법정구속",
+        "항소심",
+        "더프레젠트컴퍼니"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20261102.1b26807501f44fa08da50a8c55136558_R.png"
+    },
+    {
+      "id": "news-20261101-014",
+      "headline": "대신증권, 스마트폰 수요 부진 전망에 파트론 투자의견·목표가 하향",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "대신증권이 스마트폰 부품 제조업체 파트론에 대한 투자의견을 기존 '매수'에서 '시장수익률(Marketperform)'로 낮춰 잡았습니다. 목표주가 역시 함께 하향 조정하며 보수적인 접근을 권고했습니다.\n\n이번 조정은 내년도 스마트폰 시장의 수요 부진이 지속될 것이라는 전망에 따른 조치입니다. 전방 산업의 업황 둔화가 이어지면서 파트론의 내년 매출과 영업이익 모두 줄어드는 역성장을 기록할 것으로 분석했습니다.\n\n주력 제품인 카메라 모듈 및 부품 출하량이 감소할 경우 기업의 수익성 하락이 불가피한 상황입니다. 증권가는 스마트폰 시장의 회복 지연이 당분간 실적 개선을 제한할 것으로 판단하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“파트론, 내년 스마트폰 수요 부진에 실적 역성장 전망”…투자의견·목표가↓",
+          "url": "https://www.mk.co.kr/news/stock/12193084"
+        }
+      ],
+      "keywords": [
+        "파트론",
+        "대신증권",
+        "스마트폰 수요",
+        "투자의견 하향",
+        "실적 역성장"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20261102.bb36326a6e7b4f0dad735ba814ba01d8_R.jpg"
+    },
+    {
+      "id": "news-20261101-015",
+      "headline": "KB증권, SK하이닉스 목표주가 350만 원 제시…사상 최대 주주환원으로 저평가 국면 탈피 전망",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "KB증권이 SK하이닉스에 대해 투자의견 '매수'를 유지하고 파격적인 목표주가를 제시했습니다. 이번 분석에서 증권사는 SK하이닉스가 발표한 대규모 주주환원 정책이 기업가치 재평가의 핵심 계기가 될 것으로 내다봤습니다.\n\n그동안 SK하이닉스는 견고한 메모리 반도체 경쟁력에도 불구하고 시장에서 역사적인 저평가 상태에 머물러 있었습니다. KB증권은 사상 최대 수준으로 단행되는 이번 주주환원이 시장 신뢰를 끌어올리고 구조적 밸류에이션 디스카운트를 해소하는 결정적 전환점이 될 것이라고 평가했습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "“SK하이닉스, 목표주가 350만원”…‘역사적 저평가’ 해소될 거라는데",
+          "url": "https://www.mk.co.kr/news/stock/12193078"
+        }
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "KB증권",
+        "목표주가",
+        "주주환원",
+        "저평가 해소"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20261102.93bb5f0401d0444cbe1cb72833aeef07_R.jpg"
+    },
+    {
+      "id": "news-20261101-016",
+      "headline": "뉴세븐원더스, '경이로운 7대 미래도시' global 대중 투표 개시",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "세계 도시의 날을 맞아 글로벌 권위 기관 뉴세븐원더스(New7Wonders)가 미래 도시 생활을 대표할 대표 개발 프로젝트를 고르는 '경이로운 7대 미래도시' 대중 투표를 시작했습니다.\n\n필리핀 뉴 클라크 시티에서 개최된 공식 '스위치온' 기념식과 함께 전 세계 투표 플랫폼이 본격 가동에 들어갔습니다. 이번 참여형 캠페인은 1년 동안 이어지며, 2027년 10월 31일 최종 7개 도시와 개발 사업을 공개하는 것으로 마무리됩니다.\n\n새로운 이니셔티브는 과거의 역사적 유물이나 자연경관을 기리던 기존 방식에서 벗어나, 인류의 삶을 변화시킬 내일의 공간에 조명을 둡니다. 투표 대상 도시와 사업은 환경 및 자연, 스마트 시티, 인간 중심 개발이라는 3대 핵심 가치를 기준으로 통합 평가받게 됩니다.\n\n장폴 드 라 푸엔테 위원장은 이번 행사를 통해 도시 미래를 둘러싼 글로벌 대화가 시작되었다고 밝혔습니다. 세계 각국의 시민들은 전용 웹사이트에 접속해 인류의 생태적 책임과 기술 발전, 주민의 삶을 균형 있게 다루는 도시 비전에 참여할 수 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "첨단산업 품고 자족도시로 도약...고양시 미래 비전을 듣는다",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0aHFmYlZkT09rcmFRazR0WHlWNE14SW5DVElFcjBZM25SbnhMVHUyc1NDeG1pRk8wellzNnBuN0hueTNMYlJWLVpkV2ZzZ2EtTDFTdko0bl9SWERzdWc?oc=5"
+        },
+        {
+          "name": "Zdnet.co.kr",
+          "title": "경이로운 7대 미래도시 글로벌 투표 공식 개시",
+          "url": "https://zdnet.co.kr/view/?no=20261031211002"
+        }
+      ],
+      "keywords": [
+        "뉴세븐원더스",
+        "미래도시",
+        "뉴클라크시티",
+        "스마트시티",
+        "글로벌투표"
+      ],
+      "image_url": "https://mmx.prnasia.com/media/MS2024914/7WFC-switch-on.jpg?id=OA3050927&p=medium600"
+    },
+    {
+      "id": "news-20261101-017",
+      "headline": "미 플로리다 주택가 도로에 제트기 추락…탑승자 9명 전원 사망",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 플로리다주 팜비치 카운티의 주택가 인근 도로에 9명이 탄 전세용 제트기가 추락해 탑승자 전원이 사망했습니다.\n\n사고 기종은 리어젯 60으로, 텍사스주 오스틴을 출발해 카리브해 바하마로 이동하던 중이었습니다. 해당 제트기는 추락 직전 1분 동안 약 8천200미터(2만7천피트)를 급강하한 후 도로에 충돌했으며, 직후 화염에 휩싸였습니다. 충격 여파로 추락 지점 노면은 뒤틀리고 크게 움푹 파이는 피해를 입었습니다.\n\n사고 당시 현장 주변에는 악천후로 거센 폭풍우가 몰아쳤으며, 제트기 역시 급강하 직전 강한 뇌우 구간을 통과했습니다. 연방항공청(FAA)과 국가교통안전위원회(NTSB)는 뇌우와 사고 간의 직접적인 연관성을 포함해 정확한 사고 원인을 조사하고 있습니다.\n\n당국은 사고 현장 일대 도로 접근을 통제하고 우회로 이용을 안내하고 있습니다. 한편 도널드 트럼프 대통령은 사고 발생 약 1시간 전 인근 공항에서 대통령 전용기를 타고 이동한 것으로 알려졌습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "9명탄 제트기 美플로리다 주택가 도로에 추락…탑승자 전원 사망",
+          "url": "https://www.yna.co.kr/view/AKR20261102013100009"
+        },
+        {
+          "name": "경향신문",
+          "title": "미 플로리다 주택가에 제트기 추락…탑승자 9명 모두 사망",
+          "url": "https://www.khan.co.kr/article/202611020817001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        }
+      ],
+      "keywords": [
+        "제트기 추락",
+        "플로리다",
+        "항공 사고",
+        "연방항공청",
+        "리어젯 60"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/02/PRU20261102183401009_P2.jpg"
+    },
+    {
+      "id": "news-20261101-018",
+      "headline": "美 민주당 차기 대선주자 크리스 머피 상원의원, 뇌졸중으로 입원",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 민주당의 차기 대선 주자 중 한 명으로 꼽히는 크리스 머피 연방 상원의원이 뇌졸중으로 입원해 치료를 받고 있습니다.\n\n머피 의원 측은 아들의 하키 경기를 관람하던 중 팔에 저림 증상을 느껴 병원으로 이송됐으며, 검사 결과 뇌졸중 판정을 받았다고 발표했습니다. 현재 의식은 명료한 상태로 의료진은 완전한 회복을 전망하고 있습니다.\n\n올해 53세인 머피 의원은 이민과 총기 정책 분야에서 활동해 온 중진 정치인입니다. 중간선거를 앞두고 주요 경합 지역을 돌며 자당 후보 지원 유세를 이어왔으나, 이번 건강 문제로 당분간 일정을 차질 없이 조정할 것으로 보입니다. 도널드 트럼프 대통령 역시 젊은 나이에 발생한 소식에 뜻밖이라는 반응을 보이며 안부를 전하겠다고 밝혔습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "'美민주 대선잠룡' 크리스 머피 상원의원, 뇌졸중으로 입원",
+          "url": "https://www.yna.co.kr/view/AKR20261102007700071"
+        },
+        {
+          "name": "한겨레",
+          "title": "격전지 미시간주 민주 하원 의원, 공화 후보 지지에…선거판 ‘발칵’",
+          "url": "https://www.hani.co.kr/arti/international/america/1285258.html"
+        }
+      ],
+      "keywords": [
+        "크리스 머피",
+        "미국 상원의원",
+        "뇌졸중 입원",
+        "미국 민주당"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/etc/gt/2025/03/07/PGT20250307034001009_P2.jpg"
+    },
+    {
+      "id": "news-20261101-019",
+      "headline": "북한 해킹조직, 바이낸스서 63억 달러 탈취…비트코인 보유량 테슬라·엘살바도르 넘어서",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스",
+        "IT/과학",
+        "경제"
+      ],
+      "summary": {
+        "overview": "북한 연계 해킹조직이 세계 최대 가상자산 거래소 바이낸스에서 탈취한 비트코인 규모가 테슬라와 엘살바도르 정부의 보유량을 넘어선 것으로 나타났다. 이번 사건으로 탈취된 비트코인은 총 1만 8270개로, 시가 약 14억 달러(한화 약 1조 8701억 원)에 달한다. 이는 북한의 지난해 연간 상품 수출액인 4억 6859만 달러의 3배를 웃도는 규모다.\n\n이번 해킹에서는 비트코인 외에도 이더리움과 스테이블코인 등 다양한 가상자산이 대거 유출됐다. 피해 총액은 약 63억 달러(한화 약 8조 4155억 원)로, 가상자산 업계 단일 해킹 사건 가운데 역대 최대 규모를 기록했다. 미국 연방수사국(FBI)은 이번 사건의 배후로 북한 해킹조직 '트레이더트레이터'를 공식 지목했다.\n\n바이낸스 측은 전체 탈취 자산 중 약 30억 달러를 블록체인상에서 회수하거나 동결했다고 밝혔다. 또한 이용자 자산 손실을 보전하기 위해 자체 자금을 투입하고 있으며, 추가 침입 경로 및 상세 경위에 대한 조사를 진행하고 있다."
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "북 해킹조직 훔친 비트코인, 테슬라 보유량 넘어…북 연간 수출액 3배",
+          "url": "https://www.khan.co.kr/article/202611020737001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "연합뉴스TV",
+          "title": "北해커가 훔친 비트코인, 테슬라 보유량 추월…北연간 수출액 3배",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBENTIzbUJtNVZqSklzcVdtNFU0VC1jUWdNeFp5d2dOTjZ5c0FLTVNXUmJpTm9UZDd4LUxBclRWUzFXMmx1REVZVnRxUlpjdjZ6dUp3dW1wd21CN01Ea0JfTGZFRTlIYzA?oc=5"
+        }
+      ],
+      "keywords": [
+        "북한 해킹조직",
+        "바이낸스",
+        "가상자산 탈취",
+        "비트코인",
+        "트레이더트레이터"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261101-019/600/400"
+    },
+    {
+      "id": "news-20261101-020",
+      "headline": "벤처투자 표준계약서 전면 개정…RCPS 부담 완화 및 창업자 책임 경감",
+      "category": "비즈니스",
+      "categories": [
+        "글로벌",
+        "비즈니스",
+        "경제"
+      ],
+      "summary": {
+        "overview": "중소벤처기업부와 한국벤처투자가 실무 현장의 애로사항을 반영해 3년 만에 벤처투자 표준계약서를 전면 개정했다. 기존의 일률적인 상환전환우선주(RCPS) 중심 구조에서 벗어나 상환권이 없는 전환우선주(CPS)를 기본 투자 모델로 권장하는 것이 골자다. 이를 통해 상장 준비 과정에서 국제회계기준(K-IFRS) 적용 시 발생하던 금융부채 재분류 문제와 재무구조 악화 부담을 덜어냈다.\n\n계약 문서 역시 글로벌 관행에 맞추어 주식 취득 계약서(SPA)와 주주간 계약서(SHA)로 분리했다. 투자자 전원의 동의가 필요했던 사전동의권 조항은 같은 라운드 투자자들의 집합적 의사결정 방식으로 바뀌어, 개별 투자자의 거부권 행사로 경영 결정이 지연되는 상황을 방지하도록 했다.\n\n다운라운드 발생 시 전환가격을 조정하는 리픽싱 방식은 기존 풀래칫에서 가중평균으로 전환되어 기존 주주의 지분 희석 충격을 줄였다. 기업공개(IPO) 의무 역시 결과 달성이 아닌 '합리적 최선의 노력'으로 성격을 정립하고, 법령 개정에 맞춰 창업자 개인의 연대책임을 원칙적으로 금지하여 성실한 경영자가 과도한 법적·재무적 리스크를 떠안지 않도록 계약 환경을 정비했다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "정부, 엘리엇 국제투자분쟁 최종 패소‥1천530억 배상책임 확정",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGNm5qTHVkUm9fd1RtU1VodDFZdV9JaHpzeWdSeWFGR3FlTmtUdmlrTHNaTnBYRi0wdENOMFdQallmczc3cjg2d0xlX2ZFQXpGc3d3d2t4RDB0X21aQTF3dmxoaWQ4U2xIUG1EeXJiWHIxTDE0M3Bv0gF3QVVfeXFMT0Z6cEhPNmtJRDVIejd0V1FnUjBjUFpSVkczXzNFRjJNM29XcTNwanV2R1diNjkzZHotQ05rMzhRdEhBalQ4Q2JXamp0V3BRSGtGLThESm02dS0zQ2pmdUwtRk5uelE2dHdsT1Fvc2dxRkJaTEU1OEU?oc=5"
+        },
+        {
+          "name": "Venturesquare.net",
+          "title": "[최앤리의 스타트업 법률 가이드] 벤처투자 계약의 기준이 바뀐다…RCPS·상장 의무·창업자 책임까지",
+          "url": "https://www.venturesquare.net/1121115/"
+        }
+      ],
+      "keywords": [
+        "벤처투자 표준계약서",
+        "상환전환우선주",
+        "전환우선주",
+        "창업자 연대책임",
+        "기업공개"
+      ],
+      "image_url": "https://www.venturesquare.net/wp-content/uploads/2026/10/cl-746x522.png"
+    }
+  ]
+}
