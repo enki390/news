@@ -1,69 +1,390 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T11:44:55.601613+09:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T10:08:05.558001+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261103-001",
-      "headline": "미 미국 중간선거 직전 트럼프 지지율 32% 최저 수준…민주당 우세 전망",
-      "category": "글로벌",
+      "id": "news-20261104-001",
+      "headline": "미국 중간선거 민주당 승리 시 AI 규제 강화 우려…반도체주 급락하며 코스피 흔들",
+      "category": "경제",
       "categories": [
         "경제",
-        "글로벌"
+        "글로벌",
+        "비즈니스",
+        "IT/과학"
       ],
       "summary": {
-        "overview": "미국 중간선거를 하루 앞두고 도널드 트럼프 대통령의 국정 수행 지지율이 재임 기간 중 가장 낮은 수준에 머물렀습니다. 로이터와 입소스가 실시한 여론조사 결과에 따르면 트럼프 대통령을 긍정 평가한 응답자는 32%에 그쳤습니다. 이는 2주 전 기록한 역대 최저치인 31%와 사실상 차이가 없는 수치입니다.\n\n이번 선거에서 유권자의 78%는 생활비 증가 등 경제 문제를 가장 중요한 투표 기준으로 꼽았습니다. 정당 지지도 조사에서는 민주당이 46%, 공화당이 38%의 지지율을 기록하며 민주당이 오차범위 밖에서 앞섰습니다. 선거에 매우 적극적으로 참여하겠다는 응답 비율도 민주당 지지층(49%)이 공화당 지지층(33%)보다 현저히 높게 나타났습니다.\n\n최근 여론조사 추이와 전문가 분석에 따르면 민주당이 이번 선거를 통해 하원 다수당 지위를 탈환할 가능성이 큽니다. 박빙의 승부가 예상되는 상원 역시 민주당이 다수당 자리를 되찾을 수 있을지 관심이 집중되고 있습니다."
+        "overview": "미국 중간선거 결과를 앞두고 민주당이 상·하원을 모두 장악하는 이른바 '블루웨이브'가 실현될 경우 인공지능(AI) 산업 규제가 강화될 수 있다는 우려가 시장에 확산하고 있습니다. 이 여파로 3일 코스피는 전 거래일보다 3.59% 급락한 5648.79에 마감했으며, 삼성전자와 SK하이닉스 등 주력 반도체 종목이 4~5%대 하락세를 보였습니다.\n\n월가와 국내 증권업계는 민주당이 의회를 장악하면 데이터센터 전력요금 부담, 세제 제한, AI 모델 안전성 및 자본조달 구조에 대한 감독을 대폭 강화할 것으로 예상합니다. 다만 트럼프의 법안 거부권 행사 가능성과 민주당의 무력화 의석 부족으로 실제 입법까지 도달하기는 쉽지 않을 것이라는 복합적인 시각도 공존합니다.\n\n시장 전문가들은 통상 선거 종료 후 불확실성이 해소되는 경향을 보였으나, 이번에는 데이터센터 및 빅테크에 대한 미국의 감독 강화 여파가 국내 반도체 시장에 미칠 영향을 신중하게 살필 필요가 있다고 진단했습니다."
       },
       "publishers": [
         {
+          "name": "한겨레",
+          "title": "미 중간선거 앞…AI 규제 강화 우려에 코스피 긴장",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1285599.html"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "중간선거 결과 주목‥코스피 '경우의 수'는?",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GdWk5eU9fa0VZUHhiNEN5NFlMLXdFTWNGZEdqT1Mwc3prME9sblktMkNabF92UmltMGV3LWhBeFB4MXROU1RYQWdnYXZYRVl6VGJ1bGtCS2pZQUwzVUs4SVNKd1lRT0l2U0xCbXZWa0F6Q0NtS0U1OHR30gF6QVVfeXFMTzF5YnJIRHpZdURIMVdLcnpFUS0wYm9xSnoyVVlKODBKdExKc2lwN3Fuek1jdk5oeTBDczA2SVBIZ1lESlVQaG14VVhnVEc0ckdoQXdOaXFNYS1RN3NkLWl0aVA3Q0ZTWEdaRVlPU0xhVzhTX21ncnRzRUE?oc=5"
+        },
+        {
           "name": "YTN",
           "title": "트럼프 '운명의 날'...미 중간선거, 우리 경제와 증시에 미칠 파장은?",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLNkNMOGxWT3J5eTFEc0x0WEhneFVCSkxRNEpFNlBtamVMN1R3NFF3RzJTOW92cXJ0Qmw4NDVxTzV2WXRSblkyRjlkLW1zZnlCQ3Yxc2M4YkVnNG4tNEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96YUoxWUduTjMzRG1Ia2dJdWVLaHJ4bUNkdVVlWGt3cDNlNmtaT3dnckNNUHRQamtCbk9JR240Q3NZSmNIbVJoUjFWdWZoV0JMSUZDeDZad2VlUTdDRVRqX0NyR1QtOC1NS0hna2V1NVRKUG1keXc?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "[美중간선거] 경합지 투표열기 '후끈'…사전투표 6천만명 육박(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261104002151071"
         },
         {
           "name": "경향신문",
-          "title": "중간선거 직전 트럼프 지지율 최저 수준···긍정 평가 32% 그쳐",
-          "url": "https://www.khan.co.kr/article/202611031106001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "title": "[미 중간선거]상원 경합지 7곳 투표 열기 ‘후끈’···2024년 대선 수준 육박",
+          "url": "https://www.khan.co.kr/article/202611040926001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
           "name": "경향신문",
-          "title": "‘트럼프 국정운영 평가’ 중간선거 디데이···민주당 의회 장악할까",
-          "url": "https://www.khan.co.kr/article/202611030834011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "title": "[미 중간선거]우주에서도 투표할 수 있을까···NASA 비행사들의 특별한 한 표",
+          "url": "https://www.khan.co.kr/article/202611040846001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
-          "name": "한겨레",
-          "title": "선거 전날까지 ‘부정투표’ 가처분 낸 트럼프 행정부…대법원 기각",
-          "url": "https://www.hani.co.kr/arti/international/america/1285453.html"
+          "name": "경향신문",
+          "title": "머스크는 왜 중간선거에 6300억을 걸었을까···‘공화당 큰손’ 머스크의 셈법",
+          "url": "https://www.khan.co.kr/article/202611040820001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
-          "name": "한겨레",
-          "title": "트럼프, 선거 전날 ‘연못 공사’ 자랑 20분 뒤에야 “생애 가장 중요한 중간선거”",
-          "url": "https://www.hani.co.kr/arti/international/america/1285449.html"
+          "name": "경향신문",
+          "title": "[미 중간선거] “민주당 하원 승리 확률 96%”···관건은 ‘승리냐 압승이냐’",
+          "url": "https://www.khan.co.kr/article/202611040725001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
-          "name": "한겨레",
-          "title": "‘지지율 최저’ 트럼프 운명의 날…“민주 하원 탈환 우세, 상원은 접전”",
-          "url": "https://www.hani.co.kr/arti/international/america/1285440.html"
+          "name": "경향신문",
+          "title": "견제 원하지만 도리어 압박 세질라…미 중간선거를 바라보는 각국의 딜레마",
+          "url": "https://www.khan.co.kr/article/202611040600071/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "[미 중간선거] 긴장 속 투표 시작···역대 최대 감시단에 투표기 오작동·악천후까지",
+          "url": "https://www.khan.co.kr/article/202611040412001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "동아일보",
+          "title": "美 중간선거 관망 속 강달러…달러·원 환율 오름세",
+          "url": "https://www.donga.com/news/Economy/article/all/20261104/134962509/1"
+        },
+        {
+          "name": "동아일보",
+          "title": "비트코인, 1억400만원대…美 중간선거 결과에 촉각",
+          "url": "https://www.donga.com/news/Economy/article/all/20261104/134962082/1"
+        },
+        {
+          "name": "연합뉴스TV",
+          "title": "중간선거 경계감 속 뉴욕증시 혼조…기술주 반등에 나스닥 0.8%↑",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDhvcGticFZVeDF5ekdHUVVZbUFLaFpfdVUxV0dtWFdLTkx3bEl2RTlBSS1HWE9SaVd4Rjg4cHhuRTd0djZzSnBPTDY2VUdqVlFNWE40eXZ4c2lZakcxeWgzVUszSjg?oc=5"
+        },
+        {
+          "name": "Google News 비즈니스",
+          "title": "코스피, AI 투자 우려에 3.59% 급락…외인 1.5조 매도 By EBN - Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zVG1KVmJSTnViaENOUkV2N25RR1d5ZTB6S3VJMjR4bV9FSHNhVlVNemFaNDF1dTlWaEZTQjI0RXNCWGFuV1RLaEFTem5vV0JiYmFCRmNpb2ZRdDM0dEFBY1VhM2xwT0Z3anpVclFOaU0?oc=5"
         }
       ],
       "keywords": [
-        "트럼프",
         "미국 중간선거",
-        "지지율",
-        "민주당",
-        "공화당"
+        "AI 규제",
+        "코스피",
+        "반도체주",
+        "블루웨이브"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1103/53_17936637586616_20261103500351.webp"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/original/2026/1103/20261103503354.webp"
     },
     {
-      "id": "news-20261103-002",
-      "headline": "이기헌 의원, 거시 경제 호조 속 민생 보듬는 확장 재정 및 복지·청년 예산 확대 촉구",
+      "id": "news-20261104-002",
+      "headline": "종전 기대감에 국제유가 하락세 지속…브렌트유 한 달 만에 최저치 기록",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "지정학적 분쟁의 종전 가능성과 긴장 완화에 대한 기대감이 시장에 반영되면서 국제유가가 하락세를 이어가고 있습니다.\n\n글로벌 유가의 기준이 되는 브렌트유 가격은 종전 기대감에 힘입어 약 한 달 만에 가장 낮은 수준까지 떨어졌습니다.\n\n원유 시장에서는 그동안 유가를 끌어올렸던 공급 차질 우려가 일정 부분 해소되고 있는 것으로 평가합니다.\n\n시장 참가자들은 주요 분쟁 지역의 상황 변화와 더불어 향후 원유 공급 및 수요 동향에 주목하고 있습니다.\n\n당분간 국제유가는 산유국들의 생산 정책과 지정학적 정세 추이에 따라 변동성을 이어갈 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "국제유가, 종전 기대감에 하락세 지속…브렌트유 한 달 만에 최저",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LV0hwQXdpMHJ2T0o0SXlHSE81TkZ4ZHlHWU1SOUh6eTlvSnZFazNkc1dMa25DamlxSnkzTHJzaUl5M3F4eE5zY2VrcGQxVzF5UzJELUdOdE5EeWc?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "미·이란 협상 기대에 국제유가 7%대 급락",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mS2NySW42SDB3TmptR0FkTmNDckhQU1pyOFd6TU52OHNGQzRnVXY1Tk51ZS1XV0xLVS1xYTZETEk4QUQ1RW1jbHp4aGpjV2dzVUlMSHEzWkxzVkE?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "미-이란 확전 우려에 국제유가 2%대 급등",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EQTZCYjN3T2VRYlk4bmFjaVoxVXp1Y2VVYzFMSExfc2FaTnczSVRybEZXbjBvR3FUYlM2REtrYWlIdkh4TkRHazlMSDdiTS1JeE1ra0lENTROYmNyTEtjSmRjamczZw?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "미·이란 협상 기대에 국제유가 7%대 급락‥WTI 96달러선",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWUF9aUmNOMFFFNk5Yem9fOEVXM05Sc2JHbWRyejQ0T0FHcFVuTUdqSW5Wd2tSemdtOUp0N1ZucHRMakFwWWhJRmpVYnFndWNZS1A4UUNCRzEySlRTbmljWVhqYXpCRDdiV2ZkRzYwRFpJaHVf0gF0QVVfeXFMUDdZUmI3M1N6OVZMSDJQTHJIMXoyUXFDUG1jZVhpVzBselgwSEN2MmNWMV9HVk16NHFLcW9tSi1qRUM3ZTVfSjVvVV96OUJRR3k4VGdfbFZlSmJUSDJ0RGdvSWFoTjlMdVYyT3haMWx6TjBtOUg?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가, 중동 외교 해결 기대감에 하락‥WTI 102달러",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQjUtT2R3ZjdpRnJ4MFlZRy1QOW52M3NGaWlzY0hUOHRpTjNaLTFXdlNqWDlOSXRqX1pSWkZ1cWQxcWZoM1Z5UVR0MVA2RFBhb0dDaHRhX0p2MXkyQkdjb1UtQnpqY0tiTkdVaE1zX052NTlU0gF0QVVfeXFMTUsxd2dJQktabHRKdHM0X2NZYnUzVlRpOU1NRkJvbUNOVFl0cDM3NHV1MEF3UjlrVFQ5ekQ1Y21mMVoxYXhPV2NLd0VuY3RnNWF5aE1iczIzUDFoWV9uVHh2VFFTT1l3eE5qUl9LZEdRTFhTTjU?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "이스라엘 총선·美 이란 공격 가능성 주시‥국제유가 상승",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sM1M1U013UnlROXd6QjM3VmZxVTF3eW54cUQ1UlBvdm5MVGUtQTZwM2I4STVlUEVJZjlnODk4TW5hOWhWSFFQTmRKU2FpX0hDMkRaVXdNN0UycU9GMnpQdzR3RVNYbGxIRlFsa2x5aUtIaXA40gF0QVVfeXFMUFVRd1FyY1JRRnhPQ0dyVzNzeUZPMEhtaUd2Smp4V29PNHNxWkhpNEY0YmQ4aDhlTHQtdXJyRnpXV3RmWXo2YWNjcHRXdUdWWjgxQkpLWVBmbHBpZkl4NlprYm8zUGhLQjMtYXVIUWlEZFZJaWc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "국제 유가, 종전 기대감에 한 달 만에 최저로 하락",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGWnlYLTVfSVpXMEFqRlZqTUZTamNjVjdGMHN2VjY5N2xnV2ZOX21jVmpfd0FmNlpNZ2tSR21mMVcyTktrMG9pNDdzek1ZeFItZkN2ZDVYZ3pLZmpIZUtKRFVxWklvNnZpYXZZejFzVHRzUEFxZ1E?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "미국·이란 협상 기대감에 국제 유가 7%대 급락",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4dTR4aTdvY0xNZnZTN1ZwUENZT2ozWkJpVkxSRExMVVlDbmNwNGdoRUc5UmhnOUpsTUxRdW8tSVUwX24yNkl3UVo4RlBZeWlqblBzU2pKczNoSG5aV3c?oc=5"
+        }
+      ],
+      "keywords": [
+        "국제유가",
+        "브렌트유",
+        "종전 기대감",
+        "유가 하락",
+        "원유 시장"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261104-002/600/400"
+    },
+    {
+      "id": "news-20261104-003",
+      "headline": "관악구 봉천동 벽산블루밍3차 전용 84㎡, 10억 9500만 원에 거래되며 3년 신고가 경신",
+      "category": "경제",
+      "categories": [
+        "IT/과학",
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "국토교통부 실거래가 공개시스템에 서울시 관악구 봉천동 벽산블루밍3차 전용면적 84.72㎡ 매매 거래 건이 정식 등록됐습니다. 거래 금액은 10억 9,500만 원으로 최근 3년 이내 진행된 동일 평형 매매 중 가장 높은 가격을 기록했습니다.\n\n봉천동 벽산블루밍3차는 대중교통 접근성과 주거 환경을 갖춘 실수요 중심 단지로 꼽힙니다. 이번 최고가 거래는 해당 지역 일대의 중형 평형대 매물에 대한 거래 금액 기준선을 높인 사례로 해석됩니다.\n\n해당 매매 정보는 2026년 11월 3일 자로 국토부 시스템에 등재를 마쳤습니다. 인근 아파트 단지의 향후 매물 호가 및 실거래가 형성 과정에도 영향을 미칠 것으로 보입니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "관악구 봉천동 벽산블루밍3차 84.72㎡ 10억 9500만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12195991"
+        },
+        {
+          "name": "매일경제",
+          "title": "동작구 사당우성3 84.66㎡ 19억원 거래… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12195990"
+        },
+        {
+          "name": "매일경제",
+          "title": "서초구 양재동 우성 84.88㎡ 23억 3천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12195993"
+        },
+        {
+          "name": "매일경제",
+          "title": "관악구 신림현대 59.85㎡ 7억 9500만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12195992"
+        },
+        {
+          "name": "매일경제",
+          "title": "강서구 마곡수명산파크7단지 84.68㎡ 11억 3천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12195978"
+        },
+        {
+          "name": "매일경제",
+          "title": "동작구 사당동 극동(105) 51.57㎡ 15억 4천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12195989"
+        },
+        {
+          "name": "매일경제",
+          "title": "영등포구 문래동6가 현대2차 79.72㎡ 13억 2천만원 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12195988"
+        },
+        {
+          "name": "매일경제",
+          "title": "구로구 신도림동 동아2 59.595㎡ 14억 2천만원 거래… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12195987"
+        }
+      ],
+      "keywords": [
+        "봉천동",
+        "벽산블루밍3차",
+        "실거래가",
+        "신고가",
+        "관악구 부동산"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261104-003/600/400"
+    },
+    {
+      "id": "news-20261104-004",
+      "headline": "크래프톤, 3,000억 원 규모 자사주 매입 후 전량 소각 발표에 12% 급등",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "게임 개발사 크래프톤이 주주가치 제고를 위해 3,000억 원 규모의 자사주를 매입해 소각한다는 소식에 주가가 급등했습니다.\n\n크래프톤은 내년 2월 3일까지 보통주 165만1,73주를 매입한 뒤 전량 소각할 방침이라고 공시했습니다. 이는 이전 거래일 종가 기준 약 3,000억 원에 달하는 수량입니다.\n\n대규모 주주환원 정책 발표가 호재로 작용하면서, 4일 장 초반 크래프톤 주가는 전일 대비 12% 넘게 오른 20만4,500원 선에서 거래되고 있습니다. 이번 소각 결정이 발행 주식 수를 줄여 주당 가치를 올릴 것이라는 기대가 매수세를 끌어모았습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "[특징주] 크래프톤, 3천억원 자사주 매입·소각 공시에 12%↑",
+          "url": "https://www.yna.co.kr/view/AKR20261104042700008"
+        },
+        {
+          "name": "매일경제",
+          "title": "아시아경제, 자사주 소각 소식에 상한가 기록",
+          "url": "https://www.mk.co.kr/news/stock/12196064"
+        },
+        {
+          "name": "한겨레",
+          "title": "에스원 ‘자사주 소각’ 결단이 시사하는 것 [이나예의 인사이드 ESG]",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1285607.html"
+        },
+        {
+          "name": "매일경제",
+          "title": "크래프톤, 3000억 규모 자사주 매입·소각 발표에 11%대 급등",
+          "url": "https://www.mk.co.kr/news/stock/12196058"
+        }
+      ],
+      "keywords": [
+        "크래프톤",
+        "자사주 매입",
+        "주식 소각",
+        "주주가치 제고",
+        "특징주"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/cms/2026/08/31/32/PCM20260831000032990_P2.jpeg"
+    },
+    {
+      "id": "news-20261104-005",
+      "headline": "에스폴리텍, 고부가가치 제품 성장 힘입어 3분기 누적 영업이익 흑자 전환",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "엔지니어링 플라스틱 전문기업 에스폴리텍이 고부가가치 제품의 성장에 힘입어 올해 3분기 누적 기준 흑자 기조를 달성했습니다.\n\n회사는 수익성이 높은 스페셜티 제품 비중을 40%대까지 늘리며 체질 개선을 끌어냈습니다.\n\n4일 발표한 잠정 실적에 따르면 올해 1분기부터 3분기까지 연결 기준 누적 영업이익이 흑자로 돌아섰으며, 제품 포트폴리오 다변화를 통한 실적 개선 흐름을 계속 이어갈 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "에스폴리텍, 3분기 누적 영업익 흑자전환… “스페셜티 비중 40%대 확대”",
+          "url": "https://www.mk.co.kr/news/stock/12196066"
+        },
+        {
+          "name": "한겨레",
+          "title": "쿠팡, 3분기 영업손실 6423억원…3개 분기 연속 적자",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1285669.html"
+        },
+        {
+          "name": "동아일보",
+          "title": "쿠팡Inc 3분기 영업손실 6423억…정보유출 이후 3연속 적자",
+          "url": "https://www.donga.com/news/Economy/article/all/20261104/134961914/2"
+        },
+        {
+          "name": "Venturesquare.net",
+          "title": "두핸즈 ‘품고’, 3분기 누적 물동량 60% 증가…물류 데이터로 피지컬 AI 개발 가속",
+          "url": "https://www.venturesquare.net/1125056/"
+        }
+      ],
+      "keywords": [
+        "에스폴리텍",
+        "흑자전환",
+        "실적발표",
+        "엔지니어링플라스틱",
+        "스페셜티"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/04/news-p.v1.20261104.520c00f0c22a437abc7bd9a657b77d8d_R.jpg"
+    },
+    {
+      "id": "news-20261104-006",
+      "headline": "미 반도체주 강세 훈풍에 코스피 장 초반 급등…삼성전자·SK하이닉스 상승세",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "미국 증시에서 반도체 관련 종목들이 강세를 보인 영향으로 국내 증시가 장 초반 큰 폭의 상승세를 기록했습니다.\n\n4일 코스피 지수는 전 거래일 대비 137.34포인트(2.43%) 오르며 5786.13으로 거래를 시작했습니다.\n\n시가총액 상위권인 삼성전자와 SK하이닉스를 비롯한 반도체 대장주들이 동반 상승하며 전체 지수 회복을 이끌고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "코스피, 미 반도체주 훈풍에 장초반 5700선 회복…삼전·닉스 강세",
+          "url": "https://www.mk.co.kr/news/stock/12196062"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "코스피, 美기술주 급락에 장 초반 3%대 하락‥코스닥도 2%대↓",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qTmhZbUtIaTdrWURWcUV0TGdfSjhoc1RhSFRlN0xWYTktVWVfeTBSOTVRSGJIU29jaklkRFllZnlUZW9pWmdhMFFlYnJsS2Zwc2NHd1lpaVhwUzNET29UQ1VqcjhzcG5tLUJkcFlrem91UFhw0gF0QVVfeXFMTkhnUnlHaWFVN3hwV0M1TkdSdW54WDlQeEktVWkwcEYzMzd2WXNmR0NvQ3dfY3M3NWFyeHhaUWV3UGN6aW9WeEk1cUR3cnRNdllBQnk1N3d5UmNpUXBaLTczRkpVMUhlMGhEdXdoWTRUcjlVYWE?oc=5"
+        },
+        {
+          "name": "동아일보",
+          "title": "코스피, 美 반도체 강세에 장 초반 3%↑…5800선 회복",
+          "url": "https://www.donga.com/news/Economy/article/all/20261104/134962409/1"
+        }
+      ],
+      "keywords": [
+        "코스피",
+        "반도체주",
+        "삼성전자",
+        "SK하이닉스",
+        "증시"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/04/rcv.YNA.20261104.PYH2026110402330001300_R.jpg"
+    },
+    {
+      "id": "news-20261104-007",
+      "headline": "롯데하이마트, 5개 분기 만에 매출 반등…케어 서비스·모바일 성장 결실",
+      "category": "비즈니스",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "롯데하이마트가 가전 소비 침체 속에서도 케어 서비스와 모바일, 자체 브랜드(PB) 카테고리의 성장에 힘입어 5개 분기 만에 순매출 반등에 성공했습니다. 올해 3분기 순매출은 전년 동기 대비 0.3% 늘어난 6,545억 원, 총매출은 0.7% 증가한 8,022억 원을 기록했습니다.\n\n사업 부문별로는 케어 서비스 매출이 62% 급증했고 PB와 모바일 부문도 각각 23%, 28% 늘어났습니다. 케어 서비스는 3분기 누계 매출이 이미 지난해 전체 실적을 넘어섰으며, 가전과 케어 서비스를 함께 구매하는 연동 구매율도 59%를 기록했습니다.\n\n반면 이사 수요 감소와 계절가전 기저효과 영향으로 대형·생활·주방가전 판매는 부진을 겪었습니다. 이에 따라 3분기 영업이익은 전년 동기보다 134억 원 줄어든 55억 원에 그쳤습니다.\n\n롯데하이마트는 '가전 평생 케어 플랫폼' 중심의 사업 구조 전환이 실적 개선을 이끌었다고 판단하고 고빈도·고마진 카테고리를 지속해서 강화할 계획입니다. 10월 초 출시한 '가전수리올케어' 서비스 역시 한 달 만에 가입자 2만 5천 명을 넘서서며 호조를 보이고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "롯데하이마트, 5개 분기 만에 매출 성장…서비스·모바일 견인",
+          "url": "https://www.yna.co.kr/view/AKR20261104044600030"
+        },
+        {
+          "name": "동아일보",
+          "title": "쿠팡Inc, 인천 물류센터 화재에 3분기 영업손실 6423억…매출 14.2조",
+          "url": "https://www.donga.com/news/Economy/article/all/20261104/134961786/1"
+        }
+      ],
+      "keywords": [
+        "롯데하이마트",
+        "케어 서비스",
+        "매출 반등",
+        "PB",
+        "모바일"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/cms/2023/01/12/81/PCM20230112000081003_P2.jpg"
+    },
+    {
+      "id": "news-20261104-008",
+      "headline": "이기헌 의원, 거시 경제 성과 속 민생 안정 위한 확장 재정과 복지·청년 예산 확대 촉구",
       "category": "경제",
       "categories": [
         "경제"
       ],
       "summary": {
-        "overview": "더불어민주당 이기헌 의원이 거시 경제 지표가 양호한 흐름을 보이는 상황에서도 민생 현장의 체감 경기는 여전히 어렵다며 확장 재정 편성을 강조했습니다.\n\n이 의원은 경제 지표의 성과가 모든 국민에게 균등하게 미치지 못하고 있다며, 소외되는 계층이 발생하지 않도록 국가 재정을 적극적으로 투입해야 한다고 피력했습니다.\n\n특히 복지와 청년 관련 예산을 대폭 확대해야 한다는 점을 주요 과제로 제시했습니다. 고물가와 경기 둔화로 어려움을 겪는 청년층과 취약계층을 지원하고 내수 활력을 불어넣기 위해서는 재정의 역할이 필수적이라는 시각입니다.\n\n정부의 건전재정 기조와 대립하는 지점에서, 민생 안정을 최우선으로 두는 야당의 예산안 심의 방향을 명확히 보여주는 발언으로 풀이됩니다."
+        "overview": "더불어민주당 이기헌 의원이 거시 경제 지표의 호조 속에서도 체감 경기 냉각으로 소외받는 국민을 보호하기 위해 확장 재정 운용이 필수적이라고 강조했습니다. 수출이나 성장률 등 지표상의 성과가 서민과 청년층의 실질적인 삶의 질 향상으로 이어지지 못하고 있다는 진단입니다.\n\n이기헌 의원은 특히 복지와 청년 관련 예산의 과감한 증액이 필요하다고 지적했습니다. 경기 둔화의 여파가 취약계층과 청년 세대에 집중되는 만큼, 정부 예산을 통해 사회안전망을 촘촘히 강화해야 한다는 뜻을 밝혔습니다.\n\n아울러 건전 재정 기조만을 고집하기보다 필요한 곳에 적시에 재정을 투입하는 적극적인 재정 정책으로 경제 선순환을 유도해야 한다고 제시했습니다. 이번 예산 심의 과정에서 민생 관련 예산을 대폭 확보하기 위한 다각도의 논의를 이어갈 방침입니다."
       },
       "publishers": [
         {
@@ -80,34 +401,28 @@
           "name": "KBS 뉴스",
           "title": "이 대통령, 한국 수출 첫 9천억 달러 돌파에 “경제영토 확장 더 노력”",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14Mi1CeklQN3c4MUNUOUJmM3R6U002RFI3cGRtTXdqTkctdmJtZnpmT3RNSTV2UTJkUmZuTEttWVZPU3NjdUJsTC1LODFDOURkNGIyamdjT1F1Q0k?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "이 대통령, 올해 수출액 역대 최고치에 \"경제영토 확장 더 노력\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RRzBFZ0hmZDBnTEg0ekZXdTlsXzR2UGpLMm1aSk1Qb2lqVUt3ZUhTVU9LZk1jdGRmdWEyblJ6d3B2R2xmRVNDQy1uR2VrblhDRENXWjJsN2RIVXljNEE?oc=5"
         }
       ],
       "keywords": [
         "이기헌",
-        "확장재정",
-        "복지예산",
-        "청년예산",
-        "거시경제"
+        "확장 재정",
+        "복지 예산",
+        "청년 예산",
+        "거시 경제"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261103-002/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261104-008/600/400"
     },
     {
-      "id": "news-20261103-003",
-      "headline": "대구서 27년 만에 '아태의용생체공학회' 개최… 35개국 석학 모여 첨단 의료기술 논의",
-      "category": "IT/과학",
+      "id": "news-20261104-009",
+      "headline": "한국과 인도, '경제안보대화' 출범…공급망 및 첨단기술 협력 대폭 강화",
+      "category": "경제",
       "categories": [
         "경제",
         "글로벌",
-        "IT/과학",
-        "비즈니스"
+        "IT/과학"
       ],
       "summary": {
-        "overview": "대구 엑스코에서 오는 4일부터 나흘간 아시아·태평양 최대 규모의 의용생체공학 국제학술대회인 '2026 제13차 아태의용생체공학회(APCMBE 2026)'가 열린다. 국내에서 이 행사가 열리는 것은 1999년 서울 행사 이후 27년 만이다.\n\n이번 학술대회에는 35개국에서 의공학 학자 및 전문가 1,500여 명이 참가해 헬스케어 과제 해결을 위한 학술 교류를 진행한다. 의료초음파, 의료데이터 분석, 신경공학, 생체역학 및 의료로봇 등 16개 주요 분야를 중심으로 각국 연구자들의 발표가 이어진다.\n\n행사 기간 기조강연에서는 바이오메디컬 센서, 원격 환자 모니터링, 나노바이오포토닉스 및 AI 기반 분자진단 기술 등 최첨단 의료 연구를 소개한다. 기초연구 성과를 실체적 의료 현장에 적용해 정밀 의료를 구현하고 환자 접근성을 높이는 방안도 함께 논의한다.\n\n산업계와 학계, 정부기관이 함께하는 14개 특별 프로그램도 마련된다. 의료기기 사업화 평가, 온디바이스 AI, 생체반도체 등 최신 연구 트렌드와 국가 연구개발 성과를 한자리에서 점검할 예정이다.\n\n대구경북첨단의료산업진흥재단과 메디시티협의회 등 지역 기관과 기업들도 전시 및 세션에 참여해 자체 기술력을 선보인다. 대구시는 이번 행사를 발판 삼아 지역 기업들이 해외 네트워크를 확대하고 국제 공동연구 협력을 이어가도록 지원을 아끼지 않을 방침이다."
+        "overview": "한국과 인도가 양국 간 실질적 협력을 확대하기 위해 '한·인도 경제안보대화'를 공식 출범했습니다. 이번 협의체는 핵심 원자재 공급망을 안정화하고 첨단기술 분야의 공조를 한층 강화하기 위해 마련되었습니다.\n\n양국은 글로벌 공급망 불안정성에 공동으로 대응하며, 핵심 기술 개발과 산업 협력을 본격적으로 논의할 계획입니다. 특히 반도체, 바이오, 인공지능 등 미래 산업 전반에서 지속 가능한 협력 기반을 구축하는 데 집중합니다.\n\n정부는 경제안보대화를 바탕으로 인도와의 전략적 파트너십을 가시화할 방침입니다. 경제적 리스크 대응 능력을 강화하고 첨단 산업 분야의 글로벌 경쟁력을 꾸준히 확보해 나갈 예정입니다."
       },
       "publishers": [
         {
@@ -118,31 +433,26 @@
         {
           "name": "MBC 뉴스",
           "title": "한-인도 경제안보대화 출범‥공급망 안정·첨단기술 협력 이어 나가기로",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWkFLS3EzVXFDc3lodGhVa3pVTTM2MEcxSktMakJRbG8wV2NtLUY1RTA2N3U2b0tlR2tCT21maTZjOFZTZms1U0dsUUx5bFNGUTUzY042UDJzbjh3ZXVTeTRqUG8td0lJZkIyVzVrNktmMVJkUGx0WtIBeEFVX3lxTE1KWkFLS3EzVXFDc3lodGhVa3pVTTM2MEcxSktMakJRbG8wV2NtLUY1RTA2N3U2b0tlR2tCT21maTZjOFZTZms1U0dsUUx5bFNGUTUzY042UDJzbjh3ZXVTeTRqUG8td0lJZkIyVzVrNktmMVJkUGx0Wg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Vdldxc1lVY0ZvMWx3cTFQbDFSOTJDMG5wNXpxcDd3WExVN01QTFdnOF9FSGh2MjhKWWJ0RjZ3ZzZzMFVVcmxlUFcxTWdJc0NvcFNyNWFWXzNjcEVOWmVTaEI0Z1dtdkc1NWduTmw0VS1MaDRoWUc4d9IBeEFVX3lxTE1KWkFLS3EzVXFDc3lodGhVa3pVTTM2MEcxSktMakJRbG8wV2NtLUY1RTA2N3U2b0tlR2tCT21maTZjOFZTZms1U0dsUUx5bFNGUTUzY042UDJzbjh3ZXVTeTRqUG8td0lJZkIyVzVrNktmMVJkUGx0Wg?oc=5"
         },
         {
           "name": "YTN",
           "title": "제1차 한-인도 경제안보대화...\"공급망 안정 논의\"",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpUEdPOGpxODVsQ2s1NWplMVp5RFZXd0xhcFJsWC1maWZVb2w5UThxalBMSHgzZ0I3R3BPdEdZSXpzMDRQZDQ5VWZyczdNRTljZXlEVk1yb0JtdkJfYlE?oc=5"
-        },
-        {
-          "name": "Khan.co.kr",
-          "title": "‘세계 의공계 석학 대구로’···첨단 의료기술 다루는 국제학술대회 4~7일 개최",
-          "url": "https://www.khan.co.kr/article/202611021104001"
         }
       ],
       "keywords": [
-        "아태의용생체공학회",
-        "대구시",
-        "첨단의료기술",
-        "온디바이스 AI",
-        "의공학"
+        "한인도 경제안보대화",
+        "공급망 협력",
+        "첨단기술",
+        "경제안보",
+        "글로벌 파트너십"
       ],
-      "image_url": "https://img.khan.co.kr/news/2026/11/02/news-p.v1.20261102.2da8fe4cbb2d4818b9e47779db3265fc_P1.jpg"
+      "image_url": "https://picsum.photos/seed/news-20261104-009/600/400"
     },
     {
-      "id": "news-20261103-004",
-      "headline": "미국, 이란 호르무즈 요충지 케슘섬 타격…트럼프 부인 속 숨겨진 군사 작전",
+      "id": "news-20261104-010",
+      "headline": "현대차·기아, 10월 미국 판매 역대 최대 달성…합산 15만3,460대 기록",
       "category": "글로벌",
       "categories": [
         "글로벌",
@@ -150,283 +460,51 @@
         "비즈니스"
       ],
       "summary": {
-        "overview": "미국이 이란의 핵심 군사거점이자 석유·가스 인프라 밀집 지역인 케슘섬을 공격했다고 월스트리트저널이 미 당국자들의 말을 인용해 보도했다.\n\n도널드 트럼프 대통령은 이란과의 합의 가능성을 언급하며 중간선거 이후 공격 재개 가능성을 부인했으나, 미국은 최근 몇 주간 이란을 향한 제한적인 공습을 이어온 것으로 드러났다.\n\n일부 당국자는 이번 공습이 호르무즈 해협 내 상선 공격을 막기 위한 방어적 성격의 작전이라고 설명했다.\n\n미국은 대규모 전투 작전 재개 의도를 숨기기 위해 해당 작전을 의도적으로 비공개로 진행하고 있다.\n\n한편 이란 국영 통신은 케슘섬 인근에서 여러 차례 폭발음이 들렸다고 전했으며, 이란 혁명수비대 해군은 호르무즈 해협 동부에서 유조선이 기뢰와 충돌해 화재가 발생했다고 밝혔다."
-      },
-      "publishers": [
-        {
-          "name": "경향신문",
-          "title": "WSJ “미국, 이란 호르무즈 핵심 군요충지 케슘섬 타격”",
-          "url": "https://www.khan.co.kr/article/202611031005001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "이란 “미 해상봉쇄 해제 등 요구 수용하면 이틀 내로 호르무즈 개방할 준비 돼있다”",
-          "url": "https://www.khan.co.kr/article/202611022205001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "한겨레",
-          "title": "“미군, 호르무즈 요충지 이란 케슘섬 공습…확전 의도는 아냐”",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1285486.html"
-        },
-        {
-          "name": "YTN",
-          "title": "미국·이란 협상 기대감에 국제 유가 7%대 급락",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4dTR4aTdvY0xNZnZTN1ZwUENZT2ozWkJpVkxSRExMVVlDbmNwNGdoRUc5UmhnOUpsTUxRdW8tSVUwX24yNkl3UVo4RlBZeWlqblBzU2pKczNoSG5aV3c?oc=5"
-        }
-      ],
-      "keywords": [
-        "미국",
-        "이란",
-        "케슘섬",
-        "호르무즈해협",
-        "도널드트럼프"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/original/2026/1103/20261103501401.webp"
-    },
-    {
-      "id": "news-20261103-005",
-      "headline": "미국과 이란의 협상 기대감에 국제 유가 7%대 급락",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "경제"
-      ],
-      "summary": {
-        "overview": "미국과 이란 간의 협상 재개 및 타결 가능성에 대한 기대감이 시장에 반영되면서 국제 유가가 7% 넘게 폭락했습니다.\n\n이번 유가 급락은 그동안 지정학적 리스크로 급등했던 원유 공급 불안이 완화될 수 있다는 전망이 힘을 받은 결과입니다.\n\n양국 간 협력이 성사될 경우 이란산 원유 수출 제재가 완화되어 글로벌 시장 내 원유 공급량이 크게 늘어날 수 있습니다.\n\n시장 전문가들은 향후 진행될 공식 협상 일정과 구체적인 합의 조건이 유가 향방을 가를 핵심 변수가 될 것으로 보고 있습니다.\n\n유가 하락에 따른 에너지 시장의 변동성은 향후 협상의 타결 여부와 글로벌 원유 수급 조절에 달려 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "미·이란 협상 기대에 국제유가 7%대 급락",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mS2NySW42SDB3TmptR0FkTmNDckhQU1pyOFd6TU52OHNGQzRnVXY1Tk51ZS1XV0xLVS1xYTZETEk4QUQ1RW1jbHp4aGpjV2dzVUlMSHEzWkxzVkE?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "미·이란 협상 기대에 국제유가 7%대 급락‥WTI 96달러선",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWUF9aUmNOMFFFNk5Yem9fOEVXM05Sc2JHbWRyejQ0T0FHcFVuTUdqSW5Wd2tSemdtOUp0N1ZucHRMakFwWWhJRmpVYnFndWNZS1A4UUNCRzEySlRTbmljWVhqYXpCRDdiV2ZkRzYwRFpJaHVf0gF0QVVfeXFMUDdZUmI3M1N6OVZMSDJQTHJIMXoyUXFDUG1jZVhpVzBselgwSEN2MmNWMV9HVk16NHFLcW9tSi1qRUM3ZTVfSjVvVV96OUJRR3k4VGdfbFZlSmJUSDJ0RGdvSWFoTjlMdVYyT3haMWx6TjBtOUg?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "국제유가, 중동 외교 해결 기대감에 하락‥WTI 102달러",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQjUtT2R3ZjdpRnJ4MFlZRy1QOW52M3NGaWlzY0hUOHRpTjNaLTFXdlNqWDlOSXRqX1pSWkZ1cWQxcWZoM1Z5UVR0MVA2RFBhb0dDaHRhX0p2MXkyQkdjb1UtQnpqY0tiTkdVaE1zX052NTlU0gF0QVVfeXFMTUsxd2dJQktabHRKdHM0X2NZYnUzVlRpOU1NRkJvbUNOVFl0cDM3NHV1MEF3UjlrVFQ5ekQ1Y21mMVoxYXhPV2NLd0VuY3RnNWF5aE1iczIzUDFoWV9uVHh2VFFTT1l3eE5qUl9LZEdRTFhTTjU?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "미 반도체주 반등‥국제유가 소폭 하락",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QMVVEQ3gwQkRycTc4Rlkxci1ZRWlyZ2tjc2pYa2IwVVNEYUdOcG45MmVVakhXNHdTdkcwX0VUazR0WWZaaXN4eWhCYWlYMDB0QkVqN1JmX1JkZ1N3eEZDWDh6aGcwM2t2VUQyMGdHWkJFMjJO0gF0QVVfeXFMTVAxVURDeDBCRHJxNzhGWTFyLVlFaXJna2NzalhrYjBVU0RhR05wbjkyZVVqSFc0d1N2RzBfRVRrNHRZZlppc3h5aEJhaVgwMHRCRWo3UmZfUmRnU3d4RkNYOHpoZzAza3ZVRDIwZ0daQkUyMk4?oc=5"
-        }
-      ],
-      "keywords": [
-        "국제유가",
-        "미국 이란 협상",
-        "유가 급락",
-        "원유 공급",
-        "지정학적 리스크"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261103-005/600/400"
-    },
-    {
-      "id": "news-20261103-006",
-      "headline": "비츠로셀, 방산·AI 데이터센터 신성장 모멘텀 부각에 주가 상승세 지속",
-      "category": "비즈니스",
-      "categories": [
-        "비즈니스",
-        "IT/과학",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "비츠로셀 주가가 방산 분야와 인공지능(AI) 데이터센터를 중심으로 한 신성장 동력을 확보하며 상승세를 이어가고 있습니다.\n\n11월 3일 장 초반 비츠로셀은 전 거래일 종가인 24,550원을 넘어 24,700원 선에서 거래를 이어갔습니다. MK시그널의 매수 추천 이후 기록한 누적 상승률은 10.64%에 달합니다.\n\n시장에서는 비츠로셀의 기존 리튬 일차전지 사업이 안정적인 흐름을 유지하는 가운데, 방위산업 수요 확대와 데이터센터 인프라 투자에 따른 신규 매출 창출 가능성을 긍정적으로 평가하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "[MK시그널] 비츠로셀, 방산 및 AI 데이터센터향 신성장 모멘텀 부각 등에 주가 상승세... MK시그널 추천 후 상승률 10.64% 기록",
-          "url": "https://www.mk.co.kr/news/stock/12194368"
-        },
-        {
-          "name": "한겨레",
-          "title": "데이터센터 짓는 구글, 40만 그루 ‘무단 벌채’…분노한 핀란드, 9만명 청원",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1285016.html"
-        },
-        {
-          "name": "Zdnet.co.kr",
-          "title": "[종합] 롯데이노베이트 '어닝 서프라이즈'…데이터센터 대외 수주 확대",
-          "url": "https://zdnet.co.kr/view/?no=20261102110022"
-        },
-        {
-          "name": "Zdnet.co.kr",
-          "title": "[AI 고속도로] \"후티 공격에도 AI에 베팅\"…사우디, 3GW 데이터센터 구축 가능할까",
-          "url": "https://zdnet.co.kr/view/?no=20261102105759"
-        }
-      ],
-      "keywords": [
-        "비츠로셀",
-        "방산",
-        "AI 데이터센터",
-        "리튬 일차전지",
-        "MK시그널"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.542a4ba458814254ae09f7e3fdad92ce_R.jpg"
-    },
-    {
-      "id": "news-20261103-007",
-      "headline": "미래에셋박현주재단, 아동복지시설 청소년 대상 제29회 글로벌 문화체험단 성료",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "IT/과학",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "미래에셋박현주재단이 지난달 29일부터 이달 1일까지 중국 심천에서 진행한 제29회 글로벌 문화체험단 일정을 끝으로 2026년 사업을 마무리했습니다.\n\n글로벌 문화체험단은 청소년들이 넓은 세상에서 자신의 가능성을 발견하고 미래 기술에 대한 시야를 넓히도록 돕는 재단의 대표 사회공헌 프로그램입니다. 올해는 총 3회에 걸쳐 아동복지시설 이용 청소년 250명이 참여했으며, 이번 29회 탐방에는 73명의 청소년이 함께했습니다.\n\n2007년 첫발을 내딛은 미래에셋 글로벌 문화체험단은 지금까지 누적 2,636명의 청소년에게 해외탐방 기회를 제공하며 지속적인 지원을 이어오고 있습니다."
+        "overview": "현대자동차와 기아가 지난달 미국 시장에서 합산 15만 3천460대를 판매하며 역대 10월 기준 최고 실적을 올렸습니다.\n\n현대차 미국법인은 10월 한 달간 전년 동월 대비 5% 증가한 7만 3천452대를 판매했습니다. 주요 차종 중 산타페 판매량이 52% 급증했고 코나와 아이오닉5, 엘란트라가 뒤를 이으며 성장세를 이끌었습니다. 하이브리드 라인업 판매량도 1년 사이 20% 늘어 전체 판매의 29%를 차지했습니다.\n\n기아는 전년 동기 대비 16% 늘어난 8만 8대를 팔아 6개월 연속 월간 최고 기록을 새로 썼습니다. 텔루라이드와 셀토스 판매가 각각 63%, 43% 증가했으며, 전기차인 EV9과 EV6 판매량도 각각 111%, 58% 늘어나 전동화 모델의 상승세가 두드러졌습니다.\n\n실적 상승에 힘입어 현대차는 앨라배마주 몽고메리 공장에 4억 5천만 달러(약 6천46억 원)를 투입해 투싼 신모델과 엔진 생산을 확대하기로 결정했습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "[게시판] 미래에셋박현주재단, 아동복지시설 청소년 문화체험",
-          "url": "https://www.yna.co.kr/view/AKR20261103084600008"
-        },
-        {
-          "name": "매일경제",
-          "title": "반도건설, 반도문화재단 설립 7주년… ‘집’ 주제 기념전 연다",
-          "url": "https://www.mk.co.kr/news/realestate/12194525"
-        }
-      ],
-      "keywords": [
-        "미래에셋박현주재단",
-        "글로벌 문화체험단",
-        "아동복지시설",
-        "청소년 해외탐방",
-        "사회공헌"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103084600008_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261103-008",
-      "headline": "금융권 해킹으로 줌펀드서 고객 예치금 3억원 유출…원화 피해 첫 발생",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "온라인투자연계금융업체인 줌펀드에서 해킹 공격으로 고객 예치금 약 3억 원이 유출되는 사고가 발생했습니다. 지금까지 가상자산 거래소 해킹 사례는 존재했으나, 금융권 해킹 공격으로 실제 원화 금전 피해가 나타난 것은 이번이 처음입니다.\n\n금융감독원과 한국인터넷진흥원(KISA)은 줌펀드의 신고를 받고 현장 점검에 나섰으며, 정확한 경위와 피해 규모를 파악하고 있습니다. 줌펀드는 추가 피해를 막고자 홈페이지와 애플리케이션을 통한 예치금 직접 인출 기능을 전면 차단했습니다.\n\n조사 결과 해커는 줌펀드 시스템을 해킹한 후 정상적인 요청으로 위장해 예치 기관에 접근한 것으로 확인됐습니다. 해커는 고객 예치금을 제3자의 계좌로 이체해 달라고 요구했고, 이를 관리하던 시중은행 신탁계좌 관리 기관이 요청을 처리하면서 자금이 유출됐습니다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "금융권 해킹, 가장 우려했던 ‘금전 피해’로…줌펀드 고객 예치금 3억 사라져",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1285480.html"
-        },
-        {
-          "name": "YTN",
-          "title": "北, 올해 전세계 가상자산 해킹 피해액 89% 털어갔다",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGNjRRWTlpNHJLQ0FudXUzd0RFSjFZYkNXeG1aQVVwVFhtcWhUczlnV2ZxQnpuaDhVQi11UUVHM2hqOEVoaGVRMm1ScWZiOTdaWWl6Ykk0OHJaTEw1NWc?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "한양증권도 해킹‥고객 주민번호 등 31건 유출",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NX2t4SjAwYWpHNVQ2cnVxQXplejZFbXZFU1N0ckdsZDFMMlYxYUxMbFl5WTRmLXk4NUMyd0lETld5cVdGVWs2QnhUdGJScWJ4Wks1QjJLVE9faXF5aGJvWlJxLWhkdXZQQmpCdnl6UTkxb2dy0gF0QVVfeXFMT1ZsWHd0U1ZGSmFpNThmWjdpbkhybUJsVENzMGlEeExuVnNncVhseDR5clBLcjRYRVF5Yl9ENXhiakZVRHBxR1BPTFBHM25wM2VJTjFYZVRXbFZ2b0hsbzlzd3l1MlVBUHVINmRvbkVWS1U4S2U?oc=5"
-        }
-      ],
-      "keywords": [
-        "줌펀드",
-        "금융권 해킹",
-        "고객 예치금",
-        "금융감독원",
-        "원화 피해"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1103/53_17936718911723_20261103501244.webp"
-    },
-    {
-      "id": "news-20261103-009",
-      "headline": "이재명 대통령 \"2027년 예산안 820조9천억 편성…미래선점·성장확산 주력\"",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "이재명 대통령은 국회 시정연설을 통해 2027년도 정부 예산안을 올해보다 12.8% 늘어난 820조 9천억 원 규모로 편성했다고 밝혔습니다. 이번 예산안은 양극화를 극복하고 성장의 기회와 성과를 골고루 나누는 '모두의 성장'과 국가 미래 경쟁력 확보를 핵심 목표로 세웠습니다.\n\n정부는 사회보장급여의 자동 신청제 전환과 중위소득 역대 최대 인상, 청년 예산 대폭 확대 등 민생 안전망을 대대적으로 보강하기로 했습니다. 이와 함께 수도권 중앙행정기관 및 공공기관의 단계적 지방 이전을 추진하고 지방 자율 성장 전략을 지원해 균형발전을 다질 방침입니다.\n\n미래 성장동력 확보를 위해 반도체, 피지컬 AI, AI 데이터센터 등 핵심 분야에 과감한 투자를 집행합니다. R&D 예산은 역대 최대인 39조 5천억 원으로 늘려 초격차 기술을 확보하고, 새로 신설하는 미래대응기금을 활용해 세수 변동성에도 안정적으로 대응할 계획입니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "\"'K자' 아닌 모두의 성장으로\"‥821조 예산 '시정연설'",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03UlNYZ21CWVZMckI2SDdnY2xLSWlQUEVtR1ZKRGJRR0JyYmdnbzhoR2ZrN2dTQk54dlJuUjgwUGplZGtGVUl0cXlnSXB3eTNLQTN4ZFEzVDdranRtSkJ5OTFuRjJ6dUNzLUVSRGVqTW5obUkzVEVxdtIBeEFVX3lxTE13RmJLU3VHbVN2OENya08wY2IzU1hISTVHVUtvdHd4TVhJd3RQUGFTZGRYdU5iSkFJX2wtVUl2dDVzQWVmUFN4dUYwUzFyWmJNeXRSRUFsTXJZeXdrcTdqdzdSamRybFVyYkhHUzZSZVZmb1ZhcUM2bA?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "\"불평등·양극화 그늘 여전...모두의 성장으로 전환\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwbHZQTGVfLXRSUXg3TzVIX0R3VW93U0FzYjYxYWdZejU5amZHdXdrczhNNjhZR1ZTV1RyVlpkZ1NGcmFtaHJzTFUtYzg4WDAxaFVUOXV4SWxKTFdvQUE?oc=5"
+          "title": "현대차·기아, 10월 美 판매 역대 최대…합산 15만3천460대",
+          "url": "https://www.yna.co.kr/view/AKR20261104036100075"
         },
         {
           "name": "Zdnet.co.kr",
-          "title": "[전문] 李대통령 \"내년 예산안은 미래선점·성장확산 예산\"",
-          "url": "https://zdnet.co.kr/view/?no=20261102110929"
+          "title": "애플, 역대 최대 매출 잔치…주가 왜 떨어졌나",
+          "url": "https://zdnet.co.kr/view/?no=20261103075349"
+        },
+        {
+          "name": "Zdnet.co.kr",
+          "title": "기아, 현대차 턱밑 추격…내수 판매 격차 1만대 아래로",
+          "url": "https://zdnet.co.kr/view/?no=20261102215708"
         }
       ],
       "keywords": [
-        "2027년 예산안",
-        "시정연설",
-        "미래대응기금",
-        "모두의 성장",
-        "AI 투자"
+        "현대차",
+        "기아",
+        "미국 자동차 판매",
+        "하이브리드",
+        "전기차"
       ],
-      "image_url": "https://image.zdnet.co.kr/2026/11/02/ac96e455d6df665c3a08b7851ffa7509.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104036100075_01_i_P2.jpg"
     },
     {
-      "id": "news-20261103-010",
-      "headline": "북한 해커 조직, 바이낸스 탈취 8조원대 가상자산 비트코인 전환하며 2차 세탁 착수",
+      "id": "news-20261104-011",
+      "headline": "北 김여정, 바이낸스 8조원대 해킹 배후 지목에 \"미국의 정치적 도발\" 반발",
       "category": "글로벌",
       "categories": [
         "글로벌",
-        "비즈니스",
         "IT/과학"
       ],
       "summary": {
-        "overview": "북한 해커 조직이 세계 최대 가상화폐 거래소 바이낸스에서 탈취한 8조 원 규모의 가상자산을 비트코인으로 바꾸며 2차 자금세탁을 본격화했습니다.\n\n이들은 추적을 피하기 위해 훔친 자산을 여러 블록체인 네트워크로 분산 이동시킨 뒤 최종적으로 비트코인으로 전환하는 수법을 사용하고 있습니다. 복잡한 네트워크 간 이동과 가상자산 교환을 반복해 자금 출처를 지우려는 전형적인 세탁 방식입니다.\n\n보안 업계와 수사 당국은 북한이 제재 회피와 통치 자금 확보를 목적으로 대규모 가상자산 탈취 및 세탁 작업을 지속하는 것으로 파악하고 이동 경로를 면밀히 감시하고 있습니다."
+        "overview": "세계 최대 가상화폐 거래소 바이낸스에서 발생한 8조 원 규모의 해킹 사건과 관련해 북한이 배후설을 강력히 부인했습니다.\n\n북한 김여정 노동당 총무부장은 직접 담화를 발표하며 해당 의혹 제기를 미국의 정당성 없는 정치적 도발로 규정했습니다. 김 부장은 근거 없는 비난이라며 미국 측의 주장에 강한 불만을 표출했습니다.\n\n이번 해킹 사건은 가상화폐 시장 사상 최대 규모로 꼽히며, 국제사회는 북한 연계 해킹 조직의 개입 가능성을 주시해 왔습니다. 북한 최고위급 인사가 직접 대응 담화를 내놓으면서 가상화폐 해킹을 둘러싼 북미 간의 대립이 더욱 깊어지고 있습니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "8조원 털어간 북한 해커들, 비트코인으로 갈아탔다…2차 세탁 돌입",
-          "url": "https://www.mk.co.kr/news/politics/12194193"
+          "title": "[속보] 김여정, 바이낸스사태에 “미국과 대화 가능하지만 적대정책부터 바꿔야”",
+          "url": "https://www.mk.co.kr/news/politics/12195730"
         },
-        {
-          "name": "동아일보",
-          "title": "“북한 해커가 턴 8조원”…비트코인은 못 묶고 테더는 묶은 이유 [머니뷰]",
-          "url": "https://www.donga.com/news/Inter/article/all/20261103/134955645/2"
-        },
-        {
-          "name": "동아일보",
-          "title": "바이낸스 8조원 탈취한 北해커, 블록체인 넘나들며 돈세탁 착수",
-          "url": "https://www.donga.com/news/Inter/article/all/20261103/134955851/1"
-        }
-      ],
-      "keywords": [
-        "북한 해커",
-        "바이낸스",
-        "가상자산",
-        "자금세탁",
-        "비트코인"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.c1ae4a0e40d84e5cad4186242b93ee0c_R.png"
-    },
-    {
-      "id": "news-20261103-011",
-      "headline": "북한, 바이낸스 8조원대 해킹 배후 지목에 반발…김여정 “미국의 정치적 도발”",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "세계 최대 가상화폐 거래소 바이낸스에서 발생한 8조 원 규모의 해킹 사건 배후로 북한이 지목되자, 북한 당국이 강력히 반발하고 나섰습니다.\n\n김여정 북한 노동당 총무부장은 직접 담화를 내고 이번 의혹 제기를 미국이 감행한 부당한 정치적 도발로 규정했습니다. 북한 측은 가상자산 탈취 혐의를 전면 부인하며, 미국이 국제사회에서 북한의 이미지를 실추시키고 압박 수위를 높이기 위해 허위 사실을 유포하고 있다고 주장했습니다.\n\n그동안 미국 수사당국과 글로벌 보안업체들은 라자루스 등 북한 연계 해킹 조직들이 가상화폐 거래소를 공격해 외화를 벌어들이고 있다고 지적해 왔습니다. 이번 8조 원대 바이낸스 해킹 사건 역시 북한 소행이라는 분석이 제기되자 김여정이 직접 담화를 통해 강하게 혐의를 부인하는 모습을 보였습니다."
-      },
-      "publishers": [
         {
           "name": "매일경제",
           "title": "北김여정, ‘바이낸스 해킹 배후’ 지목에 발끈…“미국의 정치적 도발”",
@@ -436,133 +514,56 @@
           "name": "KBS 뉴스",
           "title": "북한 김여정, 바이낸스 사태에 “미국 정치적 도발…국제 여론 오도”",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vWmUtejJmN3hmT2tYLWdQNGd1WjRNbEVKMDlRUkVmN2pwaGd5UzhoQmhxVkJUNFZaQm5xTGdUMDdveVFVTE9yRnlWdGEzSkhqaldFWWg5Z3lXZVE?oc=5"
-        },
-        {
-          "name": "채널A",
-          "title": "북 김여정 “바이낸스 해킹, 우리 소행 아냐…황당무계한 낭설”",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nYVp5ZFd5akFrSTFvZ1lXaV96elBiMHl1Wko3SkMwVDhFZ19SSGlLNXJNeFFhQmFSZUFGb0J4OEpfSEdiejhTYzN5V0oxSTNNeVhNd3FNVzdPYjN5NGfSAWNBVV95cUxQUlJ3N2JhUUt0ZzBXTERGODl6cE54dUFSeEV5VUx2RnJiUmJQUEpOUzktRWwtMmdFUmN1V3l2NjVSYVo1bkg3VFNXeU1uWFRHNTBpRmlMekNQN3Rua0g4UVE4dlk?oc=5"
         }
       ],
       "keywords": [
         "김여정",
         "바이낸스",
         "가상화폐 해킹",
-        "북한 해커",
-        "정치적 도발"
+        "북한",
+        "미국"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.a487713f5548419399f2d8bd8d204631_R.png"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/04/news-p.v1.20260930.8992150516ec4e15a3492ef683b91726_R.png"
     },
     {
-      "id": "news-20261103-012",
-      "headline": "농협, 제4차 미래농업포럼 개최…농협·사회적 경제 조직의 농지 소유 허용 방안 논의",
-      "category": "경제",
+      "id": "news-20261104-012",
+      "headline": "하버드대 선거예측 모델 \"미 중간선거 민주당 상·하원 모두 탈환 가능성 높다\"",
+      "category": "글로벌",
       "categories": [
-        "경제",
-        "비즈니스"
+        "글로벌"
       ],
       "summary": {
-        "overview": "농협중앙회 미래전략연구소가 국회의원회관에서 '현장 중심 농지관리 거버넌스를 위한 농협과 사회적 경제의 역할과 과제'를 주제로 제4차 미래농업포럼을 개최했습니다. 현행 농지법은 직접 경작하지 않는 주체의 농지 소유를 엄격히 제한하고 있어 농협 역시 예외적인 경우를 제외하면 농지를 소유하기 어렵습니다.\n\n포럼 참석자들은 네덜란드와 프랑스 등 해외 사례를 공유하며 농협의 농지 소유 허용과 사회적 경제 조직의 농지보유합리화법인 지정 필요성을 검토했습니다. 아울러 농지 매매와 상속 등 변동 과정 전반에 걸친 관리 체계를 구축하고, 임차농의 안정적인 경작권을 보장해야 한다는 의견이 제시됐습니다.\n\n농협 측은 농협이 농지를 소유해 청년농과 귀농인에게 장기 임대하고 친환경 농업과 영농형 태양광 사업 등에 활용하면 농지 이용 효율을 높이고 농업인 실익을 다질 수 있다고 설명했습니다."
+        "overview": "하버드대학교 선거예측 모델이 이번 미국 중간선거에서 민주당이 의회 상원과 하원을 모두 탈환할 가능성이 높다는 분석을 내놓았습니다. 예측 결과에 따르면 민주당의 하원 승리 확률은 96%, 상원 승리 확률은 78%에 달하며, 예상 의석수는 하원 242석과 상원 53석으로 집계되었습니다.\n\n최근 발표된 주요 여론조사 결과 역시 이러한 전망을 뒷받침합니다. 전통적인 공화당 강세 지역인 텍사스와 캔자스를 비롯해 미시간, 메인, 오하이오 등 주요 경합주에서 민주당 후보들이 지지율 우위를 보였습니다.\n\n선거 전문가들은 여론조사 흐름을 토대로 민주당이 단순한 다수당 확보를 넘어 대승을 거두는 압승 가능성까지 제기하고 있습니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "농협, 미래농업포럼 개최…농지 소유 허용 문제 논의",
-          "url": "https://www.yna.co.kr/view/AKR20261103085300030"
-        }
-      ],
-      "keywords": [
-        "농협",
-        "농지법",
-        "미래농업포럼",
-        "농지 소유",
-        "사회적 경제"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103085300030_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261103-013",
-      "headline": "가축전염병 살처분 보상금 상한 90%로 확대…첫 신고 농가 최대 100% 보상",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "농림축산식품부가 가축 전염병 발생으로 피해를 입은 농가에 지급하는 살처분 보상금 상한을 기존 80%에서 90%로 높이기로 결정했습니다. 특히 시군구 단위에서 전염병을 처음으로 신고한 농가에는 최대 100%까지 보상금을 지급합니다. 개정된 가축전염병 예방법이 시행되는 내년 4월부터 해당 보상 기준을 적용합니다.\n\n이번 대책은 농가의 신속한 신고와 자율 방역을 유도하는 한편, 질병 위험도에 맞춘 방역 조치를 시행하는 데 방점을 두었습니다. 방역 우수 농가의 보상금 감액 경감률은 15%로 상향하고, 백신 접종 명령을 고의로 어긴 농가는 엄격히 조치합니다. 가축 살처분과 이동 제한 역시 일률적 집행 대신 조건별 검사를 거쳐 유예하거나 부분적으로 시행합니다.\n\n정부는 점검 방식을 정부 주도에서 농가 자율 점검으로 전환하고, 질병 관리 우수 농장 인증제를 도입해 혜택을 부여할 계획입니다. 구제역, 아프리카돼지열병(ASF), 조류인플루엔자(AI) 등 대표 가축전염병에 대한 차별화된 관리 방안도 마련해 구체적인 긴급행동지침을 정비해 나갈 예정입니다."
-      },
-      "publishers": [
+          "name": "한겨레",
+          "title": "하버드대 선거예측 모델 “민주 하원 승리 96%, 상원 78%”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1285666.html"
+        },
         {
-          "name": "연합뉴스",
-          "title": "가축전염병 보상금 상한 90%로 상향…첫 신고 농가엔 최대 100%",
-          "url": "https://www.yna.co.kr/view/AKR20261103080500030"
-        }
-      ],
-      "keywords": [
-        "가축전염병",
-        "보상금",
-        "농림축산식품부",
-        "자율방역",
-        "살처분"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2023/11/01/PYH2023110120700005700_P2.jpg"
-    },
-    {
-      "id": "news-20261103-014",
-      "headline": "하이트진로, 인기 소맥 조합 완제품으로 만든 '테슬라' 출시 추진",
-      "category": "비즈니스",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "하이트진로가 자사 대표 맥주 '테라'와 소주 '참이슬'을 섞어 마시는 일명 '테슬라' 완제품 출시를 준비하고 있습니다. 2019년 테라 출시 이후 소비자들 사이에서 대표적인 소맥 조합으로 자리 잡은 테슬라를 별도 조제 없이 간편하게 즐기는 주류로 선보이겠다는 구상입니다. 구체적인 제품 구성과 출시 시기, 배합 도수 등 세부 내용은 아직 베일에 싸여 있습니다.\n\n유사한 시도는 최근 주류업계 전반으로 확대되는 추세입니다. 선양소주는 지난 6월 라거 맥주와 증류식 소주 원액을 배합한 '선양 오크소맥'을 선보였으며, 생활맥주도 7월 증류식 소주 브랜드와 협업한 '키소맥'을 편의점에 유통하기 시작했습니다.\n\n다만 완제품 형태의 소맥이 시장에서 안착할 수 있을지에 대해서는 신중한 의견도 나옵니다. 소비자마다 선호하는 소주의 비율과 도수가 명확한 주류 유형인 만큼, 획일화된 배합비의 완제품이 실제 소비자 호응을 이끌어낼 수 있을지 시장 반응을 지켜봐야 한다는 시각입니다."
-      },
-      "publishers": [
+          "name": "한겨레",
+          "title": "미 선거 민주 ‘블루 웨이브’ 현실화할까…오전 11시께 초기 윤곽",
+          "url": "https://www.hani.co.kr/arti/international/america/1285665.html"
+        },
         {
-          "name": "연합뉴스",
-          "title": "하이트진로, 말아 마시던 '테슬라' 소맥 완제품 출시 추진",
-          "url": "https://www.yna.co.kr/view/AKR20261103083900030"
+          "name": "한겨레",
+          "title": "미 공화, 8년 만에 괌 주지사 탈환…민주는 괌 하원 대의원 승리",
+          "url": "https://www.hani.co.kr/arti/international/america/1285662.html"
         }
       ],
       "keywords": [
-        "하이트진로",
-        "테슬라",
-        "소맥",
-        "테라",
-        "참이슬"
+        "미국 중간선거",
+        "하버드대 예측 모델",
+        "민주당",
+        "상하원 탈환",
+        "블루 쓰나미"
       ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2023/11/08/PYH2023110816420001300_P2.jpg"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1104/53_17937452447043_20261104500163.webp"
     },
     {
-      "id": "news-20261103-015",
-      "headline": "의정부시, 미군 반환공여지 활용 첨단산업 클러스터 비전 발표",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "경기 의정부시는 오는 9일 서울 엘타워에서 첨단 미래산업 콘퍼런스를 개최한다.\n\n이번 행사는 융복합 바이오를 중심으로 한 첨단 미래산업 생태계 구축 방안을 모색하고 기업 투자를 유치하기 위해 마련됐다.\n\n의정부시는 미군 반환 공여지를 기반으로 하는 첨단산업 클러스터 조성 방향을 직접 발표할 계획이다.\n\n행사 중 피지컬 인공지능과 미디어콘텐츠 분야 기업 두 곳과 업무 협약을 맺고 협력 체계를 다진다.\n\n일본 고베 바이오메디컬 이노베이션 클러스터 관계자와 한국바이오협회 수석부회장의 강연도 함께 진행된다.\n\n이어지는 전문가 토론에서는 연세대 김갑성 교수가 좌장을 맡고 도시공사, 대학 산학협력단, AI 연구소 등 각계 전문가들이 모여 의정부시의 융복합 생태계 육성 전략을 논의한다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "의정부시, 9일 첨단산업 클러스터 비전 발표",
-          "url": "https://www.yna.co.kr/view/AKR20261103083700060"
-        }
-      ],
-      "keywords": [
-        "의정부시",
-        "첨단산업 클러스터",
-        "미군 반환공여지",
-        "바이오산업",
-        "기업 투자유치"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103083700060_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261103-016",
-      "headline": "서울시, AI·바이오·로봇 등 미래산업 100개 기업 참여 일자리박람회 개최",
+      "id": "news-20261104-013",
+      "headline": "앤트로픽 상장 추진, AI 모델 사업의 실제 수익성·경제성 시험대 올랐다",
       "category": "경제",
       "categories": [
         "경제",
@@ -570,149 +571,240 @@
         "IT/과학"
       ],
       "summary": {
-        "overview": "서울시가 한국산업기술진흥협회, 한국장학재단과 손잡고 오는 9일 동대문디자인플라자(DDP)에서 '2026 서울시 일자리박람회'를 연다.\n\n이번 행사는 인공지능(AI), 바이오, 반도체, 로봇 등 미래전략산업 분야 기업 60곳이 참여해 약 400명의 채용을 진행하며, 휴온스와 미래컴퍼니 등 주요 기업의 인사담당자가 구직자와 일대일 현장 면접을 본다.\n\n구직자는 QR코드로 대기 상황을 확인하고, AI 매칭 잡봇과 컬처핏 진단, AI 역량 검사 등 다양한 취업 지원 프로그램을 이용할 수 있다.\n\n같은 장소에서 열리는 '청년취업사관학교 AI 인재 페스티벌'에는 기업 40여곳이 참여해 AI 취업 특강과 생성형 AI 해커톤 등을 선보인다.\n\n청년 구직자 누구나 행사에 참여할 수 있으며 상세한 정보는 서울시일자리포털에서 확인할 수 있다."
+        "overview": "인공지능 모델 개발 기업 앤트로픽의 상장 추진이 그동안 모호했던 AI 산업 전반의 실제 수익성을 검증하는 분수령이 될 전망입니다. NH-아문디자산운용은 리포트를 통해 기존 빅테크 기업들과 달리 매출 전체를 AI 사업에서 창출하는 앤트로픽이 AI 모델 사업의 순수한 경제성을 증명할 대표 사례가 될 것으로 분석했습니다.\n\n최근 시장에서는 단순한 매출 증대보다 실질적인 현금 창출력이 AI 기업을 평가하는 핵심 기준으로 떠올랐습니다. 앤트로픽의 올해 상반기 매출은 전년 동기 대비 약 14배 급증한 163억 달러를 기록했으며, 컴퓨팅 비용 1달러당 발생하는 매출도 1.7달러로 늘어 연산 비용 대비 수익 구조가 개선되는 흐름을 나타냈습니다.\n\n리포트는 기업용 에이전트와 코딩 지원을 넘어 신약 개발 및 신소재 연구 등 과학 연구에 활용하는 AI를 다음 성장 동력으로 제시했습니다. 다만 상장 이후에도 대규모 AI 연산 자원 계약에 따른 비용 지출과 성장률 유지 여부는 지속해서 점검해야 할 요소로 꼽았습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "AI·바이오·로봇기업 100곳 한자리에…서울시 9일 일자리박람회",
-          "url": "https://www.yna.co.kr/view/AKR20261103040500004"
+          "title": "NH아문디 \"앤트로픽 상장, AI 수익성 검증할 계기\"",
+          "url": "https://www.yna.co.kr/view/AKR20261104044000008"
         }
       ],
       "keywords": [
-        "일자리박람회",
-        "미래산업",
-        "AI",
-        "서울시",
-        "채용"
+        "앤트로픽",
+        "AI수익성",
+        "NH아문디",
+        "기업상장",
+        "컴퓨팅비용"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/03/AKR20261103040500004_02_i_P2.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104044000008_01_i_P2.jpg"
     },
     {
-      "id": "news-20261103-017",
-      "headline": "베트남 거점 삼아 26억 원 가로챈 '조건만남' 사기 일당 검거",
+      "id": "news-20261104-014",
+      "headline": "대우건설, 나이지리아서 3,500억 원 규모 비료 플랜트 4호기 수주",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "대우건설이 나이지리아에서 약 3,500억 원 규모의 석유화학 플랜트 건설 공사를 따냈습니다.\n\n대우건설은 글로벌 석유화학 그룹 인도라마의 나이지리아 자회사 IF FZE로부터 '인도라마 비료 플랜트 4호기' 프로젝트 낙찰통지서(LOA)를 받았다고 밝혔습니다. 이번 사업은 나이지리아 리버스주 포트하코트 지역에 하루 암모니아 2,300톤과 요소 4,000톤, 요소결정 4,000톤을 생산하는 설비를 건설하는 공사입니다. 대우건설은 원청사로서 시공 전 과정을 전담합니다.\n\n대우건설은 앞서 인도라마 비료 플랜트 1, 2, 3호기와 원료 개질설비, 발전설비 등 부대 시설 공사를 차례로 완료했습니다. 특히 지난 5월 준공한 3호기 공사에서 주요 공정을 예정보다 빠르게 마무리하며 공사 수행 능력을 높이 평가받았고, 이것이 이번 4호기 수주로 연결됐습니다.\n\n1983년 나이지리아 시장에 진출한 대우건설은 현재까지 총 75개 프로젝트를 진행하며 누적 사업 규모 약 108억 달러를 달성했습니다. 대우건설은 장기간 현지에서 축적한 공사 수행 경험과 발주처와의 긴밀한 협력 관계를 발판 삼아 플랜트 수주 경쟁력을 이어갈 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "대우건설, 나이지리아 인도라마 비료 플랜트 4호기 공사 수주",
+          "url": "https://www.yna.co.kr/view/AKR20261104043100003"
+        }
+      ],
+      "keywords": [
+        "대우건설",
+        "나이지리아",
+        "비료 플랜트",
+        "해외 수주",
+        "인도라마"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104043100003_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261104-015",
+      "headline": "심텍, 3분기 '어닝 서프라이즈'에 장 초반 10% 급등",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "반도체 및 통신기기용 인쇄회로기판(PCB) 전문기업 심텍이 시장 기대치를 크게 웃도는 3분기 실적을 발표하면서 주가가 강세를 보이고 있습니다.\n\n4일 오전 코스닥 시장에서 심텍 주가는 전 거래일 대비 10% 가까이 상승한 12만 3,500원 안팎에서 거래되고 있습니다.\n\n심텍의 3분기 영업이익은 전년 동기 대비 721.6% 급증한 1,018억 원을 기록했습니다. 이는 증권가 전망치였던 847억 원을 20% 이상 상회하는 수치입니다.\n\n증권가에서는 공장 가동률 상승과 고부가가치 제품 비중 확대를 이번 실적 개선의 주요 요인으로 짚었습니다.\n\n하나증권은 최근 주가 하락에도 불구하고 글로벌 인공지능(AI) 수요 우려가 해소되면 빠르게 주가를 회복할 것으로 내다보며 목표주가를 기존 17만 원에서 21만 원으로 올렸습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "[특징주] '반도체 장비' 심텍, 3분기 호실적에 10% 급등",
+          "url": "https://www.yna.co.kr/view/AKR20261104041100008"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "GS리테일 3분기 영업익 1천321억원…분기 역대 최대 실적(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261104038351527"
+        }
+      ],
+      "keywords": [
+        "심텍",
+        "PCB",
+        "영업이익",
+        "어닝서프라이즈",
+        "목표주가"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/cms/2023/03/21/36/PCM20230321000036990_P2.jpg"
+    },
+    {
+      "id": "news-20261104-016",
+      "headline": "정부 빌라 규제 완화 추진…석유류·외식비 상승에 물가 두 달 연속 2%대",
       "category": "경제",
       "categories": [
         "경제"
       ],
       "summary": {
-        "overview": "베트남에 거점을 두고 허위 조건만남 광고를 미끼로 남성 수십 명에게서 26억 원을 가로챈 사기 조직이 경찰에 붙잡혔습니다.\n\n경남경찰청 광역범죄수사대는 이 같은 범죄를 저지른 조직원들을 검거하고 수사를 확대하고 있습니다.\n\n이들은 70대 고령층까지 범행 대상으로 삼아 치밀하게 접근한 것으로 드러났습니다."
+        "overview": "정부가 빌라를 비롯한 비아파트 관련 규제를 완화하기로 결정했습니다. 이번 대책은 최근 침체된 비아파트 시장에 숨통을 트이고 주택 공급을 촉진하기 위한 조치입니다.\n\n이와 함께 소비자물가 상승률이 두 달 연속 2%대를 이어갔습니다. 국제 유가 영향에 따른 석유류 가격 상승과 외식 물가 오름세가 전체 물가를 끌어올린 주요 원인으로 분석됩니다.\n\n부동산 시장의 공급 물량 확보를 위한 규제 완화와 더불어 서민 경제에 부담을 주는 물가 상승세를 잡기 위한 정책적 노력이 이어질 전망입니다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "“오빠, 친구 할래요?”...70대도 홀린 ‘조건만남’ 일당 베트남 등서 검거",
-          "url": "https://www.mk.co.kr/news/society/12194537"
+          "name": "MBC 뉴스",
+          "title": "[간추린경제] 1. '빌라' 규제 푼다 2. 물가 두 달째 2%대 상승‥석유류·외식비 ↑",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80ejJMZk5CVWxpWW13SFoxMXFOUjBSR0ZTakRfTklqeTBfeGtOakp6cE9iQXd5Vmx4Ql9aTXNqekJyTU1ZYThNSFVFUlRtdU50Zl9hZ1BfV0d2T1RIRzZ5SFBNX09yLTVwODNIOG12OFdiNHpYZFVmc9IBeEFVX3lxTE5tUEh3R3h6WUQwRnZvZXVhOVFsNVRUVWRBRkpCVmExaG5HYWxyZXhrWGZVMlNpbi1weUxtQWhDLUx2Y2dyTjlCS0g3d2Npa2c3X1NJN3N4WGlmc3drUWNWcTZGYXIyNWl3cXNTZXBuV250Z2hERnVENw?oc=5"
         },
         {
-          "name": "매일경제",
-          "title": "“인플루언서 데이트 시켜드려요”…가짜 성매매 사이트로 수억원 가로챈 일당 검거",
-          "url": "https://www.mk.co.kr/news/society/12194522"
+          "name": "MBC 뉴스",
+          "title": "물가 두 달째 2%대 상승‥석유류·외식비 ↑",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ESTNoT3NqRG44U095dGZMelBNYUxoTVo2OFpqV0JGQ3JuX2lTaHg0S1NtRllWY0xZRW5FUnllQ19RWW5LbEJqZzFqVFF0S0JGaDIxMmNrN1NfTGMtQTVibllIQmQ1b0FteG5TbnpqOU42c1VXdW9LZtIBeEFVX3lxTFBuQmhTa01XV250OEg1ZmMyS0dnVEo2QlZiazZRSXowbjRSMDhuZFZ0MUI5aVRZYkdqYmNLQjlvZzRqV2FrYXNmSUxtS0tQOVMycUx3NGc2cFNmb3BzZlJCLUJJcEpNVHpLUmtzMFptMHd5Zmppa25xVA?oc=5"
         }
       ],
       "keywords": [
-        "조건만남",
-        "사기 조직",
-        "베트남",
-        "경남경찰청"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.d56b24c416974db5b3fd44f621b9520d_R.png"
-    },
-    {
-      "id": "news-20261103-018",
-      "headline": "장동혁 국민의힘 대표, 보험 모집질서 건전화 및 소비자 보호 정책토론회 참석",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "국민의힘 장동혁 대표가 국회에서 열린 보험 모집질서 건전화 정책 토론회에 참석해 금융 소비자 보호와 시장 질서 확립을 위한 행보에 나섰습니다. 이번 세미나는 박성훈 국민의힘 의원실 주최로 개최되었으며, 보험 시장의 불건전 모집 행위를 근절하고 소비자를 보호하기 위한 방안을 다루었습니다.\n\n장동혁 대표는 현장에서 세미나 참석자들과 인사를 나누며 현장의 목소리를 청취했습니다. 국회 의원회관에서 진행된 이번 행사에는 학계 및 금융업계 관계자들이 모여 보험 모집 시장의 현황을 점검하고 실질적인 제도 개선 방안을 논의했습니다.\n\n정치권과 관련 기관은 보험 소비자의 권익을 높이고 건전한 금융 환경을 조성하기 위해 입법과 정책 지원 체계를 계속해서 검토해 나갈 계획입니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "장동혁 국민의힘 대표, [보험 모집질서 건전화와 소비자 보호를 위한 정책토론회] 참석",
-          "url": "https://www.mk.co.kr/news/politics/12194529"
-        },
-        {
-          "name": "매일경제",
-          "title": "장동혁 국민의힘 대표, [보험 모집질서 건전화와 소비자 보호를 위한 정책토론회] 참석",
-          "url": "https://www.mk.co.kr/news/politics/12194527"
-        }
-      ],
-      "keywords": [
-        "장동혁",
-        "보험 모집질서",
-        "소비자 보호",
-        "국민의힘",
-        "박성훈"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.1884dee442464127bf71e7698c9712ac_R.jpg"
-    },
-    {
-      "id": "news-20261103-019",
-      "headline": "10월 소비자물가 상승률 2.8% 기록하며 두 달 연속 2%대 유지",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "지난달 소비자물가 상승률이 2.8%를 기록하며 전월에 이어 두 달 연속 2폭대 안정을 보였다. 국가데이터처가 발표한 자료에 따르면, 8월 3.1%였던 상승률은 9월 2.9%에 이어 완만한 하향 안정세를 나타냈다.\n\n품목별로 살펴보면 공업제품은 경유와 휘발유 등 석유류 가격이 크게 오르면서 전년 동월 대비 4.4% 상승했다. 서비스 물가 역시 국제항공료와 해외단체여행비 등의 인상 영향으로 2.7% 올랐다.\n\n반면 농축수산물은 국산 쇠고기와 고등어 가격이 올랐음에도 상추와 배추 가격이 큰 폭으로 떨어지면서 전체적으로 1.7% 하락했다.\n\n경제협력개발기구(OECD) 기준의 근원물가 지표인 식료품 및 에너지 제외 지수도 2.8% 상승률을 기록했다. 소비자가 자주 구매하는 품목을 중심으로 구성되어 체감 물가를 보여주는 생활물가지수는 2.6% 올랐다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "10월 소비자물가 상승률 2.8%…두달 연속 2%대",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1285450.html"
-        },
-        {
-          "name": "한국무역협회-KITA.NET",
-          "title": "한은 \"11월 물가상승률 2%대 후반 수준 이어갈 것\"",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYks1VGJPV2pGdlI3Y2Q3Z0VadG9LZ0xyY0ZhVERWT21ESXVCVHA3T2dzdU5kbjF6bkxNWGlQZmFfeTYwT3VFT1N0Z21xV0JpLW5TNm5mbjQxbnF1cWhzdktVNHE4RlRkQVlBNW9HQjJ1djdWZXF3cEZVSnhsQTVqbTJxWlhZSV9qNmJBUzROR2dzVjdhQjQ0SGtZR1JIanZ1MVdXNEZUdWRJWERtMU5FbHZsdmczSWIxT2luZVFvX3A2VVl3RzROWmhjajJSWEZOT2RkQURR?oc=5"
-        }
-      ],
-      "keywords": [
+        "빌라 규제 완화",
         "소비자물가",
-        "물가상승률",
         "석유류",
-        "생활물가지수",
-        "국가데이터처"
+        "외식비",
+        "부동산 정책"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1103/53_17936615188949_20261103500188.webp"
+      "image_url": "https://picsum.photos/seed/news-20261104-016/600/400"
     },
     {
-      "id": "news-20261103-020",
-      "headline": "호반그룹 한진칼 지분 확대에 조원태 회장 반격…지배력 다툼 본격화",
+      "id": "news-20261104-017",
+      "headline": "11월 4일 수요일 주요 경제 일정 안내",
       "category": "경제",
       "categories": [
-        "경제",
-        "비즈니스"
+        "경제"
       ],
       "summary": {
-        "overview": "호반그룹이 한진그룹 지주사인 한진칼 지분을 추가 매입한 뒤 공정거래위원회에 기업결합을 신고했습니다. 호반그룹은 지분율을 높여 조원태 한진그룹 회장의 기존 지분율(20.57%)을 넘어섰을 가능성을 제기하며 최대주주 지위를 노리고 있습니다.\n\n이에 대응해 조원태 회장은 총 370억 5천만 원 규모의 한진칼 보통주 32만 5천 주를 시간외대량매매 방식으로 추가 매입하기로 했습니다. 주식 매입이 끝나면 조 회장 측 특수관계인 지분율은 21.06%로 늘어납니다.\n\n호반그룹은 이번 지분 매입을 단순 투자라고 설명하지만, 시장에서는 과거 금호산업 인수전에 참여했던 이력을 바탕으로 항공산업 진출을 위한 인수합병 시도로 바라봅니다.\n\n한진그룹 측은 델타항공과 LX판토스, 한국산업은행 등 우호 지분이 40%에 가까운 만큼 호반그룹의 지분 확대가 당장 경영권을 위협할 수준은 아니라고 평가하고 있습니다."
+        "overview": "11월 4일 수요일 경제 캘린더 일정을 안내합니다.\n\n당일 예정된 주요 경제 지표 발표와 정책 일정 등을 미리 확인하실 수 있습니다."
       },
       "publishers": [
         {
-          "name": "한겨레",
-          "title": "호반-조원태, 한진칼 최대주주 대결…경영권 분쟁 촉각",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1285433.html"
+          "name": "YTN",
+          "title": "■11월 4일 수요일 경제 캘린더",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xTzlhNjl5aEVmTmY0ZU44VTZRNDU1STFDRWhvXzNIb3BHSWtKUFNlczZhVHpCcW96SXMxTU93TDlXOFZMNWtNVGlJWEVrbHJ5Q3M0XzFxM0pUNEdMdnppTkdfMWJUN0h3YnVFS1QwREd6eFNqMEE?oc=5"
         },
         {
-          "name": "매일경제",
-          "title": "한진칼, 경영권 분쟁 소식에 12%대 급등…한진칼우, 상한가",
-          "url": "https://www.mk.co.kr/news/stock/12194396"
+          "name": "YTN",
+          "title": "■11월 3일 화요일 경제 캘린더",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vdDRMY19JX2N3enNHVURkQ1VPX3RTMmNrMTh3cXR3TzBiRTk0b2kybXpDNDNpRm9ZVXJNTFNXdkdSQ3Z1NU1ZZHNnWDNJdERxcnI4MWtLVXRURW93ZUt6MUY4RWp2TVlGMnh6YU9DcExmLUZmWmc?oc=5"
         }
       ],
       "keywords": [
-        "한진칼",
-        "호반그룹",
-        "조원태",
-        "경영권 분쟁",
-        "기업결합"
+        "경제 캘린더",
+        "경제 일정",
+        "주요 일정"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1102/53_17936191610591_20261102503262.webp"
+      "image_url": "https://picsum.photos/seed/news-20261104-017/600/400"
+    },
+    {
+      "id": "news-20261104-018",
+      "headline": "북한, 순항미사일 집속탄 시험 발사로 남측 비행장 타격 능력 과시",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "북한이 탄도미사일에 이어 순항미사일에 중형 탄두를 탑재한 집속탄 시험을 단행했다.\n\n이번 시험은 순항미사일의 수직비행 능력과 정밀 공격력을 부각하며 남측의 비행장과 탄약고 등을 타격할 수 있는 능력을 과시하려는 의도로 풀이된다.\n\n우리 군은 북한의 이러한 무력 시위에 대응하여 관련 동향을 예의주시하고 있다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "北, 이번엔 순항미사일로 집속탄 무력시위…韓 비행장·탄약고 등 타격능력 과시",
+          "url": "https://www.mk.co.kr/news/politics/12194509"
+        },
+        {
+          "name": "매일경제",
+          "title": "北, ‘악마의 무기’ 집속탄 무력시위…축구장 18개 면적 공격력 과시",
+          "url": "https://www.mk.co.kr/news/politics/12192607"
+        }
+      ],
+      "keywords": [
+        "북한",
+        "순항미사일",
+        "집속탄",
+        "무력시위",
+        "탄두"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.f66fae875b474c93b4b568010838deb2_R.jpeg"
+    },
+    {
+      "id": "news-20261104-019",
+      "headline": "북한 해커 조직, 바이낸스 탈취 8조 원대 가상자산 2차 자금세탁 착수",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "북한 해커들이 세계 최대 가상화폐 거래소인 바이낸스에서 탈취한 8조 원 규모의 가상자산을 대상으로 본격적인 2차 자금세탁에 돌입했다.\n\n이들은 탈취한 자산을 여러 블록체인 네트워크로 분산 이동시킨 뒤 추적이 까다로운 비트코인으로 교환하는 수법을 쓰고 있다.\n\n이번 자금세탁 정황은 탈취 자산의 추적을 따돌리고 현금화하려는 시도로 해석된다.\n\n국제 사회와 가상화폐 거래소들이 공조하여 추가 피해를 막고 불법 자산 이동을 차단하는 대책 마련이 시급하다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "8조원 털어간 북한 해커들, 비트코인으로 갈아탔다…2차 세탁 돌입",
+          "url": "https://www.mk.co.kr/news/politics/12194193"
+        },
+        {
+          "name": "경향신문",
+          "title": "면접관도 CEO도 가짜였다···북한 해커들 ‘위장 채용’으로 엔지니어에 접근, 5개월간 다단계 공격",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scWdlbFVQSFhxa0szQ1NIOU9IWkxSd3pFdEtqOU1pU3Vsc0JoMmczbmgtOENNQzFwb0JXR2RzMll1Tjk0WHE5Qm4ycy1lTkNXdUFfOUhEWmhEQdIBX0FVX3lxTFByZmNBc0J2M3dVbHhYekVBWGlib0VGaFpOR0dVcUNlWjRuZ3IwclpzWWFoZWE1WW1fMjZRS1F4bmdlUURUbDhmWHVtZTZXeXZkSEZWQVg3SGpfYVR0OGVR?oc=5"
+        }
+      ],
+      "keywords": [
+        "북한 해커",
+        "자금세탁",
+        "바이낸스",
+        "비트코인",
+        "가상자산 탈취"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.c1ae4a0e40d84e5cad4186242b93ee0c_R.png"
+    },
+    {
+      "id": "news-20261104-020",
+      "headline": "국군사이버작전사령부, 국제 사이버 대회 '사이버넷' 5년 연속 우승 달성",
+      "category": "IT/과학",
+      "categories": [
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "국군사이버작전사령부가 국제 사이버 대회인 '사이버넷'에서 정상에 올랐다.\n\n이번 우승으로 사이버작전사령부는 대회 5년 연속 우승이라는 대기록을 세웠다.\n\n세계 각국의 정예 해킹 팀이 참가한 이번 대회에서 뛰어난 보안 역량과 기술력을 입증했다.\n\n대한민국 군의 사이버 방어 및 작전 수행 능력이 세계 최고 수준임을 다시 한번 증명한 계기가 되었다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "사이버작전사령부, 국제사이버대회 ‘사이버넷’ 5년 연속 우승",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UZGo3T0U5WGtpYVNzYXVINWhQaV9VM01GeVg2NGdHbFI2R251NmdMaDA0TGI0VVAyTlBfYkQyWGF6XzZRSHlsd3daSDBnQW1DenQ4YzhOeUdGVlE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "사이버작전사령부, 국제사이버대회 5년 연속 우승",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PWml0NzluRVctV2NZeUJjR0IydHcxS29zTXB2aTk5MldLNUptZW5oWl8yOFhBQ3dlOHNZS2RGcHdGTWQySVpkREsxbzV2WWlVUzdzVkE4N082dFlRc2c?oc=5"
+        }
+      ],
+      "keywords": [
+        "사이버작전사령부",
+        "사이버넷",
+        "국제사이버대회",
+        "5년연속우승",
+        "사이버안보"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261104-020/600/400"
     }
   ]
 }
