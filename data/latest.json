@@ -1,12 +1,85 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T10:14:20.721272+09:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T10:18:33.648198+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261105-001",
-      "headline": "미 중간선거 참패 여파… 트럼프, 헤그세스 국방장관 교체 검토",
-      "category": "글로벌",
+      "id": "news-20261106-001",
+      "headline": "미국발 반도체 쇼크에 코스피 5천선 붕괴…개장 직후 서킷브레이커 발동",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "6일 국내 증시가 미국발 반도체 악재의 여파로 개장 직후 8% 넘게 폭락하며 코스피 5천선이 무너졌습니다. 장중 5천선 아래로 떨어진 것은 지난 2월 이후 9개월 만으로, 올해 상반기 동안 거둔 상승폭을 대부분 반납했습니다.\n\n시가총액 상위 반도체 종목인 삼성전자와 SK하이닉스는 개장 직후 정적 변동성 완화장치(정적 VI)가 발동한 뒤 거래가 재개되자마자 급락세를 보였습니다. 삼성전자는 10% 이상 떨어지며 18만 원 선을 위협받았고, SK하이닉스 역시 12% 넘게 폭락하며 지난 6월 전고점 대비 각각 50~60% 이상 하락했습니다.\n\n지수가 전날 대비 8% 이상 급락한 상태를 유지하자 오전 9시 3분 1단계 서킷브레이커가 발동되어 20분간 매매거래가 중단됐습니다. 코스닥 지수도 6.47% 하락한 634.51을 기록하며 연중 최저치 수준까지 바짝 다가섰습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "[속보] 코스피, 서킷브레이커 이어 매도 사이드카 발동",
+          "url": "https://www.yna.co.kr/view/AKR20261106049900008"
+        },
+        {
+          "name": "한겨레",
+          "title": "[속보] ‘미 반도체 쇼크’ 코스피 5천선 붕괴…개장 직후 8% 급락",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1286066.html"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "코스피 이어 코스닥에도 매도 사이드카 발동‥5% 급락",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1maEVqLTRId200R2ozRW9VUi03Q0JuNkxWN1pkM0JhUEpnbDctN29VeWJOekxPRm01QVhkSDBUMWRMTVZBV2M5NE50bVo0M1d2ejZzS1h2aXNnMVUwcFo3b0tKUDIxcW1sM1NkWks2RGtjUmd10gF0QVVfeXFMTmVwMTVNOG9ycFM4UEpmXzQxVFJjd3gzbk9iYmJybXFNUTRNNjJKelNYWHVLTHppWnBlZlFTbHA5MDNTY1BKSXJaaERxOFE4aWdEM2xCLThQZTFNYjlDcFg2ZjVZZ2VESkx1OEc5aUxNMXh6ckM?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "코스피 4% 급락하자 '매도 사이드카' 발동‥5,400선 안팎",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZcmYtOXg1M0hybTRxOFBIUEFCX1AxQ0lybEEwMnNrZ1JOVldZSVV2TjFRTU1fUDd2MXFPOTYtUWtzc280bzZ3X1VBMGdPZU4yeVp2RmVwSGdiSWVzLUhVaThlakNIR1ZUSDh6UGhjc2kxcktm0gF0QVVfeXFMUFNyZ25QS0NtWUxQaWVEVGk3amRleUZYUVlrLW0zWkdzaWwyYUFMMGxvc1BYWlNtUE5SS1JfMXZiOXZpUW0zN0VfcFljRWtPbGpOVzA1U2VJN3kzZ2ZvWmh5WjhCMnYxU1ZjVGdZN0N2aVNLWG4?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "코스피 '롤러코스터'‥VI 발동 이미 역대 최대",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52RUlqd0xwY0RLbFZhZU0wTHlydFI0MlVhNlNZOFM3ZGFaSENaVTk1Y2lVLXZRb29obVYtUXcxYnBlUXQyTXJHWHotakpmczhfRmJBRTQ5cDZXaDhHMDVRZFp6a2FjTng3UnJ4YXc4ZGFOV21G0gF0QVVfeXFMT2hnUGd4d2draTVRVjRRVklPRkwwdFBUTXJkMXBJcWtMcXNUWXVXMjZqOGRnQUFmRlVXTFhJTDd6UFlVeG4xcG1NSnRXQ3JnLTA2Zk5oVk41Ql85WU9uMUVTZ0wtXy10aWZHb3ZIcmw0QUhXWlY?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "코스피 폭락에 서킷브레이커 발동‥5천 선 붕괴",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YT2ZQOUpjbXFjOE5LYzNLWEJLeFFtUmtTeFBUT0NvRlpNR2JrYkhVZVF5aDRoemQ2NFZEd215aEJVMDRaeTIzX0p3bjR5ZUw0by05NjQtRk45WTZhMUhNSHlvcHdLVi00bnhqd2FIWnJ6ZTI1Um9J0gF3QVVfeXFMT3Bub2hnQmZIQ3IxbUk5U1ZXTEo2TUMtU0YtdXRscmx5dzBubmo5aWFUMVFIaldFVDBkYkdlZWliNjkwVy1xRmg1cGgwczJockZabU5tMEk2X25fbEFnM0l6N0tsaEZlaFdtOV9Td0R4S3VJemZ2dUk?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "코스피 급락에 서킷브레이커 1단계...4천피로 밀려",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdFRZd2RLd05qUFp2aEhDNHk0TC01TFl5czlzQzhxY2ZjR0hTY0gwZkc0cVBESTFJclFpaU9ORWk1TkllZ0pqTXFXeXBRaFpPTG5oWXpBWF9yZFhuWl9aODRvR3FFV3kyVElaWmttSkNuVVRKVnc?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "[속보] 코스피, 8%대 급락 출발…코스닥 5~6%대↓",
+          "url": "https://www.mk.co.kr/news/stock/12200167"
+        },
+        {
+          "name": "동아일보",
+          "title": "[속보]코스피 장중 4900대로 급락…9개월만에 5000 깨졌다",
+          "url": "https://www.donga.com/news/Economy/article/all/20261106/134976598/2"
+        },
+        {
+          "name": "동아일보",
+          "title": "[속보]코스피 4900대로 급락…서킷브레이커 발동",
+          "url": "https://www.donga.com/news/Economy/article/all/20261106/134976520/1"
+        }
+      ],
+      "keywords": [
+        "코스피",
+        "서킷브레이커",
+        "삼성전자",
+        "SK하이닉스",
+        "반도체쇼크"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110602130001300_P2.jpg"
+    },
+    {
+      "id": "news-20261106-002",
+      "headline": "증권가, AI 데이터센터 규제 우려에 따른 증시 급락 과도하다고 분석",
+      "category": "경제",
       "categories": [
         "경제",
         "글로벌",
@@ -14,124 +87,242 @@
         "IT/과학"
       ],
       "summary": {
-        "overview": "도널드 트럼프 미국 대통령이 중간선거 패배 이후 피트 헤그세스 국방장관의 교체 여부를 측근들과 논의하고 있습니다. 이번 선거에서 여당이 참패한 주요 원인으로 이란과의 전쟁이 꼽히면서 군 수뇌부에 대한 책임론이 불거진 영향입니다.\n\n후임 국방장관 후보로는 공화당 소속의 론 디샌티스 플로리다 주지사가 거론되고 있으며, 새 의회 출범에 맞춰 인준을 거쳐 임명하는 방안이 논의되는 것으로 전해졌습니다. 트럼프 대통령은 공식적으로 교체설을 부인하며 헤그세스 장관을 신뢰한다고 밝혔으나, 공화당 내부에서도 전쟁이 선거 패배의 결정적 요인이었다는 지적이 잇따르고 있습니다.\n\n이번 선거 승리로 상·하원 모두에서 다수 의석을 차지한 민주당은 헤그세스 장관에 대한 탄핵 추진을 본격화할 전망입니다. 한편, 헤그세스 장관이 장관직에서 물러난 뒤 테네시주의 공석이 되는 상원의원 자리를 승계할 수 있다는 관측도 함께 나오고 있습니다."
+        "overview": "미국 중간선거 이후 데이터센터 규제 강화 우려로 글로벌 증시가 급락세를 보였으나, 증권가에서는 AI 투자 중단으로 해석하기에는 시장의 반응이 지나치다는 분석을 내놓았습니다. 유안타증권과 대신증권 등 주요 증권사는 규제로 인한 건설 지연 위험은 커졌지만, 기존 공급계약 취소나 반도체 실적 훼손이 확인되지 않은 만큼 투매에 동참할 근거는 부족하다고 짚었습니다.\n\n유안타증권 분석에 따르면 2027년 준공을 목표로 한 주요 데이터센터 중 75%는 이미 착공에 들어가 단기적인 규제 충격이 제한적일 것으로 평가됩니다. 대신증권 역시 빅테크 기업들의 설비투자 기조가 유지되고 있어 연방 차원의 전면적인 건설 중단 가능성은 낮다고 판단했습니다.\n\n다만 지역별 인허가와 전력망 연결 지연이 실제 서버 및 그래픽처리장치(GPU) 발주 취소로 이어지는지는 향후 면밀히 살펴야 할 변수입니다. 시장에서는 다음 주 예정된 코어위브의 3분기 실적과 향후 자금조달 계획이 AI 관련 투자심리 회복 여부를 가를 단기 시험대가 될 것으로 보고 있습니다."
       },
       "publishers": [
         {
-          "name": "KBS 뉴스",
-          "title": "[사사건건] 미국 중간선거 민주당 승리 전망…경제 영향은?",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NcHFKV09YWWl0aHJBaGJ5a0x3SEt2YXdJMU8xbGtaS1JtLUtsSHM4dXRjb0RuTjJQTlFmOUJ0N3d3eDFWQUFXb2p5MGtueXRqckRvRzFRLXlFMFk?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "[맛있는 경제] 크로바 ‘평당 5,500만 원’…주변 집값 영향은?",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05cV90YVBseTR2STVqY1I2YjBzakp4cWlTLUE0YWtlWGxUVFhhUmFBYnlUYlNZRG0tWXFqS0dPU3V1QlNpVW13X3dZNkYwZzc3OTZhT3o4UllJY3FPYUNKeEUtWnY4dw?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "[중간선거] 유권자 출구 조사 “중요 현안은 경제…트럼프 반대 위해 투표 43%”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyQklXTUdnV054cGZkM0xkT2NaZi1veS1WZjl0dThxMWM0UGQ3U1pnNVNnSmZ5M09uUEJ5WEJ4TlpQbjRuTnpyNmhtNVA4VlljcDBjbzF3YTRWSDQ?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "중간선거 결과 주목‥코스피 '경우의 수'는?",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GdWk5eU9fa0VZUHhiNEN5NFlMLXdFTWNGZEdqT1Mwc3prME9sblktMkNabF92UmltMGV3LWhBeFB4MXROU1RYQWdnYXZYRVl6VGJ1bGtCS2pZQUwzVUs4SVNKd1lRT0l2U0xCbXZWa0F6Q0NtS0U1OHR30gF6QVVfeXFMTzF5YnJIRHpZdURIMVdLcnpFUS0wYm9xSnoyVVlKODBKdExKc2lwN3Fuek1jdk5oeTBDczA2SVBIZ1lESlVQaG14VVhnVEc0ckdoQXdOaXFNYS1RN3NkLWl0aVA3Q0ZTWEdaRVlPU0xhVzhTX21ncnRzRUE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "미 중간선거 '블루 쓰나미'...한국 경제 영향은? [뉴스UP]",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1maWpIQkNVbmhoYWpSemRVTTIyLUdJX3Fvclpic1YwYzloek9yRkIwYkx3RWpVekZLSkRBX19OSGotTHZldkJzRWU4WjRFN1otOXBzOVhoV3lsVHJLMFE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "트럼프 '운명의 날'...미 중간선거, 우리 경제와 증시에 미칠 파장은?",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLNkNMOGxWT3J5eTFEc0x0WEhneFVCSkxRNEpFNlBtamVMN1R3NFF3RzJTOW92cXJ0Qmw4NDVxTzV2WXRSblkyRjlkLW1zZnlCQ3Yxc2M4YkVnNG4tNEE?oc=5"
-        },
-        {
           "name": "연합뉴스",
-          "title": "\"중간선거 참패한 트럼프, 헤그세스 국방장관 교체 검토\"",
-          "url": "https://www.yna.co.kr/view/AKR20261105048000009"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[美중간선거] 첫 무슬림 상원의원 \"증오정치는 패배했다\"",
-          "url": "https://www.yna.co.kr/view/AKR20261105045000009"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[美중간선거] 트럼프 일가·측근 재산증식 등 의혹 전반 도마위로",
-          "url": "https://www.yna.co.kr/view/AKR20261105042400009"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[美중간선거] 머독, 트럼프 손절 나섰나…폭스뉴스까지 태세전환 조짐",
-          "url": "https://www.yna.co.kr/view/AKR20261105034200009"
-        },
-        {
-          "name": "경향신문",
-          "title": "[미 중간선거]민주당 압승에 유럽 기대감···“대러 압박 강화” “증오 정치 반대”",
-          "url": "https://www.khan.co.kr/article/202611050903001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "[미 중간선거]“머스크, 선거 최대 패배자”···거액 후원 후보 낙선에 데이터센터 사업도 불똥",
-          "url": "https://www.khan.co.kr/article/202611050828001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "[미 중간선거]공화당 패배에 이란 “미국 유권자, 전쟁에 반대”···추가 공격엔 확전 경고",
-          "url": "https://www.khan.co.kr/article/202611050753001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "[미 중간선거] 트럼프 “이란전쟁이 선거 패인···헤그세스는 잘하고 있어”",
-          "url": "https://www.khan.co.kr/article/202611050745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "title": "세계증시 급락 속…증권가 \"데이터센터 규제 우려 과도\"",
+          "url": "https://www.yna.co.kr/view/AKR20261106050600008"
         },
         {
           "name": "한겨레",
-          "title": "[포토] ‘최초’ 쏟아진 미국 중간선거…유리천장 깬 주역들의 순간",
-          "url": "https://www.hani.co.kr/arti/international/america/1285837.html"
+          "title": "미 증시 덮친 ‘AI 규제’ 패닉셀링…나스닥 5.5%, S&P500 4.4% 폭락",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1286056.html"
         },
         {
-          "name": "KBS 뉴스",
-          "title": "미국 민주당 압승 ‘이란전 종식’ 기대에 국제유가 급락…WTI 8.29%↓",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wdnIyWWxOOVhWWUl5TmZDWHpwVVNrRTdxSFBDcFRXM1Q3SVpQMVp5bEZEdGJzVWhEbkotblBkWko3aEp4ODI3a3B6MXFSVnh4bnNFU0lCNjFhdjA?oc=5"
+          "name": "YTN",
+          "title": "미 3대 증시 일제히 급락...선거 후 상승분 반납",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5McjVGSTNHaERPb2lfWlZGT3hjdWRnYmxGVURwcXZpQzNJNVJFNzlvSmhXMDBBVlRld3JDV0Rwb2MzUlFsSDBVY0NLZUF3YXY1cHpSTG9pSzZXWU9jUXc?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "오라클, 초대형 데이터센터 지연…\"전력인프라 허가 차질\"",
+          "url": "https://www.yna.co.kr/view/AKR20261106035100009"
+        },
+        {
+          "name": "YTN",
+          "title": "증시 '급등' 속 트럼프 테마주 '폭락'...국제유가 8% 넘게 '급락'",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ycV9FOXNWd2JnS1phdkY4bEJwam9Rb0dxVVpaRWFSQ0xjRWVMRXNGcTl5YkhpUFNHZFluMm0xajg0emxxaklUSXRTTi13YXJPYUdaRE9UVWlOSklERlE?oc=5"
         },
         {
           "name": "매일경제",
-          "title": "민주당 선거 압승에 반도체 급락 왜?",
-          "url": "https://www.mk.co.kr/news/stock/12197876"
+          "title": "“데이터센터 짓지 마” 외국인, 반도체 3조 던진 이유",
+          "url": "https://www.mk.co.kr/news/business/12200206"
         },
         {
-          "name": "연합뉴스TV",
-          "title": "미국 중간선거 최대 패배자는 ’일론 머스크’…사업 타격 받을까",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iTzFja05KcV91bWVhTHBOSDhpUlpvR1BzV0hUanVIcFpub2lPU3NkSW5VU3pxaUlzTGlJVlBjUWhlYzVfTDdpLWs4bFpOSkdWbnl0aC10eWJRa0piNTlPam5Sekl4dEU?oc=5"
+          "name": "매일경제",
+          "title": "[속보] 증시 급락에 코스피 서킷브레이커 발동…5000피 밑으로",
+          "url": "https://www.mk.co.kr/news/stock/12200170"
         },
         {
-          "name": "시사일보",
-          "title": "미국 스위프트(SWIFT) 우주망원경 4일 저녁 대기권 재진입 예상 한반도 영향 없어",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFa2VQSDB6SExGWDlhNVVId3dZX3RuYzhneVZ3bEJUSHFtbnU1QWRQdUlkMTFaQ3NZWHRjODBWY09DUUcwckhRY0NZWjA?oc=5"
+          "name": "연합인포맥스",
+          "title": "[블루쓰나미 긴급진단] \"데이터센터 규제 우려 과도…반도체 비중 확대 기회\"",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Mcktkb3kyU2pEQ1l2cnN0RElPV09pRzluMl9CTXktVEU4MDdHejZVS0lULTdObFFuQXJrOUZpMDA5M2Q4N1VNV2lQQnprbkZFdi1aVEl3UDhfWjJyYmF6Qkptd0pQLXF0aE9JaDg3YWw?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUF9wVHpjMlAwcTZnNGpfMlNQenFwX1dVSjExRm90aHlwMGduM2hKS2VBYTd3eDByeXZmLUt6V1NmRmUwZHhJZGVfUmZyME82OUN4U2t0MmhBQWfSAWBBVV95cUxONmlGcld3ZnNzRFVwdXROT05nOU1vVHp2Zk55NGllSG5yc1F6WWRrUndWMWVfdVpqY2VrLU9ybUdTVjc5MHA0el9PVlliTXozR3RPMWtBQUtWTVB1Q2dmM1Q?oc=5"
         }
       ],
       "keywords": [
-        "트럼프",
-        "피트 헤그세스",
-        "미국 중간선거",
-        "국방장관 교체",
-        "론 디샌티스"
+        "데이터센터",
+        "AI투자",
+        "증시급락",
+        "반도체",
+        "코어위브"
       ],
-      "image_url": "https://img.yna.co.kr/photo/reuters/2026/10/24/PRU20261024123901009_P2.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106050600008_01_i_P2.jpg"
     },
     {
-      "id": "news-20261105-002",
-      "headline": "종전 기대감에 국제유가 하락세 지속…브렌트유 한 달 만에 최저치",
+      "id": "news-20261106-003",
+      "headline": "미 민주당 중간선거 압승에 '트럼프 밈코인' 1달러대 추락…개인 투자자 피해 확산",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 중간선거에서 민주당이 압승을 거두면서 도널드 트럼프 대통령 관련 가상화폐인 '트럼프 공식 밈코인($TRUMP)' 가격이 사상 최저치로 떨어졌습니다. 해당 코인은 최근 24시간 동안 16% 폭락하며 1.12달러선까지 하락했습니다.\n\n한때 지지자들의 구매 열풍에 힘입어 70달러를 넘어서기도 했으나, 별다른 실물 사용처 없이 정치적 이슈와 대중 심리에 의존하는 특성상 선거 결과에 직격탄을 맞았습니다. 민주당의 의회 장악으로 기술주와 가상화폐 시장 전반이 약세를 보인 점도 하락세를 가속했습니다.\n\n가격 폭락으로 개인 소액 투자자들의 피해가 거세지는 가운데, 정작 트럼프 대통령은 지난해 재정 보고서 기준 해당 코인을 통해 6억 3,600만 달러(약 8천630억 원)에 달하는 이익을 챙긴 것으로 나타나 이해충돌 논란이 더욱 거세지고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "트럼프 참패에 관세 압박도 주춤?...한국 3,500억 달러 투자는?",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12eDhyMGpEZjloMGphWENIdHRFYnlkSU5kVFRWUy10RVdZaXFudnVUUkRTVDR5ZEhTVkZ1aU5PRTBaa05vQVFzNG9MS0lsSzB3TWd6dlZDZWphanQ3Tnc?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "70달러 찍던 '트럼프 코인' 중간선거 참패에 1.1달러까지 추락",
+          "url": "https://www.yna.co.kr/view/AKR20261106050100009"
+        },
+        {
+          "name": "경향신문",
+          "title": "선거 참패 아랑곳 않는 트럼프…증시 폭락은 ‘민주당 탓’, 관세는 ‘최대 300%’",
+          "url": "https://www.khan.co.kr/article/202611060949001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "트럼프 참패에 거리 두는 공화당 대선 잠룡…각자도생 나서나",
+          "url": "https://www.khan.co.kr/article/202611060749001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "[점선면]트럼프는 참패했지만…한국, 긴장 풀기엔 이르다?",
+          "url": "https://www.khan.co.kr/article/202611060700011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "트럼프, 선거 참패 이틀 만에 “관세 최대 300%”",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1286062.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "트럼프 중간선거 참패에 이란전 ‘진퇴양난’…공습도 협상도 어렵다",
+          "url": "https://www.hani.co.kr/arti/international/america/1286034.html"
+        }
+      ],
+      "keywords": [
+        "트럼프 밈코인",
+        "미국 중간선거",
+        "가상화폐",
+        "TRUMP",
+        "이해충돌"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/10/07/PRU20261007320801009_P2.jpg"
+    },
+    {
+      "id": "news-20261106-004",
+      "headline": "동대문구 전농우성 전용 115.56㎡ 11억 9800만원에 거래… 최근 3년 신고가 기록",
+      "category": "경제",
+      "categories": [
+        "IT/과학",
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "국토교통부 실거래가 시스템에 따르면 서울 동대문구 전농동에 위치한 전농우성 아파트 전용면적 115.56㎡가 11억 9800만 원에 거래를 마쳤다.\n\n이번 거래는 최근 3년 동안 해당 단지에서 기록한 최고가다.\n\n부동산 시장에서 실수요자 중심의 거래가 이어지는 가운데 이뤄진 이번 신고가 경신은 지역 내 해당 면적 아파트의 가치를 재확인하는 계기가 되고 있다.\n\n향후 인근 지역의 실거래가 흐름에도 적지 않은 영향을 미칠 것으로 보인다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "동대문구 전농우성 115.56㎡ 11억 9800만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12200157"
+        },
+        {
+          "name": "매일경제",
+          "title": "강동구 롯데캐슬퍼스트 111.22㎡ 22억 4500만원 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12200163"
+        },
+        {
+          "name": "매일경제",
+          "title": "구로구 온수힐스테이트 84.97㎡ 9억 4천만원 거래…최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12200162"
+        },
+        {
+          "name": "매일경제",
+          "title": "노원구 상계주공14단지 45.9㎡ 5억 1천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12200161"
+        },
+        {
+          "name": "매일경제",
+          "title": "성북구 한신플러스C 84.95㎡ 10억 8천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12200159"
+        },
+        {
+          "name": "매일경제",
+          "title": "중랑구 면목동 용마한신 44.35㎡ 5억 9천만원…최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12200158"
+        },
+        {
+          "name": "매일경제",
+          "title": "성북구 석관동 코오롱 59.94㎡ 8억 6천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12200160"
+        }
+      ],
+      "keywords": [
+        "동대문구",
+        "전농우성",
+        "실거래가",
+        "신고가",
+        "부동산"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261106-004/600/400"
+    },
+    {
+      "id": "news-20261106-005",
+      "headline": "미 중간선거 '블루웨이브' 여파에 증시 급락…정부 \"선제적 시장 안정 조치 강구\"",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "미국 중간선거에서 민주당이 상·하원을 석권하는 '블루웨이브'가 현실화하면서 국내 증시가 큰 폭으로 하락했습니다. 데이터센터 건설 규제 강화 등 인공지능 산업 관련 우려가 커지면서 미 증시와 함께 코스피 지수가 5.28% 급낙해 최저치를 기록했습니다.\n\n정부는 즉각 대외 불확실성에 대응하겠다는 입장을 내놓았습니다. 이형일 부총리 겸 재정경제부 장관은 글로벌 금융시장 모니터링을 강화하고, 우리 증시가 경제 펀더멘털에 비해 과도하게 흔들리지 않도록 선제적인 시장 안정 조치를 시행하겠다고 밝혔습니다.\n\n정부는 관세와 수출 통제 등 통상 환경 변화가 국내 기업에 미칠 영향을 면밀히 점검하고 있습니다. 한미 무역합의를 안정적으로 이행하면서 미국 행정부 및 의회와의 소통을 늘려 조선과 에너지 등 전략산업 분야에서 새로운 협력 기회를 적극 찾아 나갈 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "‘블루웨이브 쇼크’에 이형일 “증시, 지나치게 반응 않도록 조치 강구”",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1286065.html"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "이형일 “우리 증시 지나치게 반응하지 않도록 선제적 조치 강구”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wU0NzcVlRYkVkZ0hFbmtrMGVnTHZYUUJSZU9zbFJhWU1lOVRyWWRsMUdVeWZOa1FnY3ZYeG5DRE91dWE1MHhIRE10VTFCdjFXTEUtVU1jVFcwNkU?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "블루웨이브의 또 다른 공신 '유능한 기업인 출신 후보들'",
+          "url": "https://www.yna.co.kr/view/AKR20261106046500009"
+        },
+        {
+          "name": "한겨레",
+          "title": "뉴욕 이어 LA·워싱턴까지…‘블루 웨이브’ 속 약진한 민주사회주의자들",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1286047.html"
+        },
+        {
+          "name": "매일경제",
+          "title": "AI 성장 서사 대폭 후퇴…블루웨이브 방어 섹터는 [오늘 나온 보고서]",
+          "url": "https://www.mk.co.kr/news/stock/12200165"
+        },
+        {
+          "name": "한겨레",
+          "title": "‘블루웨이브 쇼크’에 코스피 급락…삼전 7%↓·하닉 9%↓",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2QmdsLUhfcGVqeWw5ejBIRFVGemxETG1ud0N1SjRtMTdIeDhvSnNINjh2ank0dGVXeHJxaHpoVFduVERybHdFWXZ4RjZwdjVTZTRRcVR0TEkzTFZ6MF9mRlJwOHNuTTA?oc=5"
+        }
+      ],
+      "keywords": [
+        "블루웨이브",
+        "증시 급락",
+        "이형일",
+        "미국 중간선거",
+        "시장 안정 조치"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1106/53_17939233989259_20261106500316.webp"
+    },
+    {
+      "id": "news-20261106-006",
+      "headline": "종전 기대감에 국제유가 하락세 지속…브렌트유 한 달 만에 최저치 기록",
       "category": "글로벌",
       "categories": [
         "글로벌",
         "경제"
       ],
       "summary": {
-        "overview": "지정학적 분쟁의 종전 기대감이 시장에 반영되면서 국제유가가 지속적인 하락세를 보이고 있습니다.\n\n특히 글로벌 유가 기준물인 북해산 브렌트유 가격은 약 한 달 만에 가장 낮은 수준으로 떨어졌습니다. 전쟁 리스크 완화 조짐이 유가 하락 압력으로 작용하고 있습니다."
+        "overview": "국제유가가 지정학적 긴장 완화 및 종전에 대한 기대감으로 하락세를 이어가고 있습니다. 글로벌 유가 기준물인 북해산 브렌트유는 거래 과정에서 하락 폭을 키우며 약 한 달 만에 가장 낮은 수준을 기록했습니다.\n\n시장에서는 지정학적 리스크가 줄어들면서 원유 공급 차질에 대한 우려가 크게 해소된 점을 유가 하락의 주요 원인으로 꼽습니다. 공급 불안 심리가 잠잠해지면서 투자자들의 원유 매도세가 유입되는 흐름입니다.\n\n향후 유가 방향성은 종전 협상 진행 상황과 주요 산유국들의 생산 정책에 따라 유동적인 흐름을 보일 것으로 예상됩니다. 전 세계 원유 수급 균형과 주요국의 경제 지표 변화 역시 유가 향방을 결정짓는 핵심 변수로 작용하고 있습니다."
       },
       "publishers": [
         {
@@ -146,202 +337,87 @@
         },
         {
           "name": "MBC 뉴스",
+          "title": "국제유가, 전날 8%대 폭락 후 반등‥WTI 2.7%·브렌트 3.9%↑",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZbFU1QWpPY2JuMllRS1VibVViRVJJNUpkcUdNZVBaVm94dFpoWkZMVXpfeFNUS3N0RlBsWFlwV3FDejlCV09CWDFsaGFKUjZxUm1wSkdrd2VlT1lfM0d1bV8wUUd3WlJCaGxVNUNMY2ZBUURa0gF0QVVfeXFMTjN6eDVKa1lQZ0JMNUhlTDRYd05PSThQckRfT21qMzZ3QmpubUNKdlBhRUtsVWJBU3hiN0ZfaVhkVERDdDFDV1hBMnpRRm01WUlxSG83YlowNFhIUW9BelVCcHFPU2N5eGdUaG8yV3J5YnN5X28?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
           "title": "미 민주 압승 '이란전 종식' 기대에 국제유가 폭락‥WTI 8.29%↓",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FcWdUbmxMSV9kUl9YUm4tc2JZUllnZkhBb0xEN1RGR0ZKaDFoM3kzMEoyeUd1bHkydzJwWTM0SUVndC16WkYtT2ItSE82TUNCRDZ4T1ZaN1padlY5Smg5ZlZQNUlldDBpOFhWcnZoWl9QV1JW0gF0QVVfeXFMTm51bkVWQVpsSl9PTGM5dGRoRjFvMnotQXhpd1BIakZlQWdNQUZVMzkyaHZtYTlIOW1HajNtaFhVRjdLcGxpQnJHX3l5RE9KYklJcGFrRnI3aVNDeThlYmxxUUNVcUo1bVlaaTE3UFFqbXUzQmI?oc=5"
         },
         {
-          "name": "MBC 뉴스",
-          "title": "미·이란 협상 기대에 국제유가 7%대 급락‥WTI 96달러선",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWUF9aUmNOMFFFNk5Yem9fOEVXM05Sc2JHbWRyejQ0T0FHcFVuTUdqSW5Wd2tSemdtOUp0N1ZucHRMakFwWWhJRmpVYnFndWNZS1A4UUNCRzEySlRTbmljWVhqYXpCRDdiV2ZkRzYwRFpJaHVf0gF0QVVfeXFMUDdZUmI3M1N6OVZMSDJQTHJIMXoyUXFDUG1jZVhpVzBselgwSEN2MmNWMV9HVk16NHFLcW9tSi1qRUM3ZTVfSjVvVV96OUJRR3k4VGdfbFZlSmJUSDJ0RGdvSWFoTjlMdVYyT3haMWx6TjBtOUg?oc=5"
+          "name": "YTN",
+          "title": "국제유가, 폭락 후 반등...WTI 2.7%·브렌트 3.9%↑",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYZjVtYXVCUXloUlhtNXQyYmdJaWZVb1oxSE5SaVRLblJVVHg4X3o0TU5MUWRqalZ1UU5pdkFqYTkzUVI3Q29RMDEwY2ZkTVd3amxvMVgyS1lHWFo3ZXc?oc=5"
         },
         {
           "name": "YTN",
           "title": "미 민주 압승 '이란전 종식' 기대에 국제유가 급락...WTI 8.29%↓",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGdjZ1SGFYcEdHeHY1SjlpODduWTFuaDJCVTNEa05YZWd4bEZSZF9BUnVEa2RHdVd0Z3pzdkVjLU9SeDk5eks3NDg1cklGVlVfRERhbkVXSXBMQzZ6bUE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "증시 '급등' 속 트럼프 테마주 '폭락'...국제유가 8% 넘게 '급락'",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55X1R3WHVyTFpVYm9ERnozMXFvQ1BnSHc3TUx6Qzc0RGVzUUNtU3dtSWJVVERnd3pRRzhJUDJCQTkteDYyRHhaZER6T2VHUVg4dU91MkZDWm12ZmRNWUE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "국제 유가, 종전 기대감에 한 달 만에 최저로 하락",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GdUZMbTAwRXI5ck9GS2lDdGxrbEdiYXh1ZFBzOUlCeHpXLXA0eUszYV9PNVdlb0tpV0JCU2RuZkFYQ1hsZlJmT0l0cDluaDZveVR6a1hEVERTd01FTGc?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "미국·이란 협상 기대감에 국제 유가 7%대 급락",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4dTR4aTdvY0xNZnZTN1ZwUENZT2ozWkJpVkxSRExMVVlDbmNwNGdoRUc5UmhnOUpsTUxRdW8tSVUwX24yNkl3UVo4RlBZeWlqblBzU2pKczNoSG5aV3c?oc=5"
         }
       ],
       "keywords": [
         "국제유가",
         "브렌트유",
-        "종전기대감",
-        "유가하락"
+        "종전 기대감",
+        "유가 하락",
+        "원유 시장"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261105-002/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261106-006/600/400"
     },
     {
-      "id": "news-20261105-003",
-      "headline": "서울 동대문구 휘경베스트빌현대 59.92㎡ 7억 9천만원 거래…최근 3년 신고가 경신",
-      "category": "경제",
-      "categories": [
-        "IT/과학",
-        "경제"
-      ],
-      "summary": {
-        "overview": "국토교통부 실거래가 공개시스템에 서울 동대문구 휘경베스트빌현대 전용면적 59.92㎡ 매매 거래가 새로 등록되었습니다.\n\n이번 거래 금액은 7억 9천만원으로, 최근 3년 동안 해당 면적에서 거래된 금액 중 가장 높은 수준입니다.\n\n휘경베스트빌현대는 동대문구 내 실수요자들의 접근성이 높은 아파트 단지 중 하나입니다.\n\n최근 서울 중소형 아파트 단지를 중심으로 형성된 실거래 가격 상승 분위기가 이번 거래에도 반영된 모습입니다.\n\n이러한 신고가 기록은 향후 주변 아파트 단지의 매매 호가 형성 및 시장 거래 추이에도 영향을 줄 수 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "동대문구 휘경베스트빌현대 59.92㎡ 7억 9천만원… 최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12197942"
-        },
-        {
-          "name": "매일경제",
-          "title": "중랑구 신내동 새한 59.77㎡ 6억 6천만원… 최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12197943"
-        },
-        {
-          "name": "매일경제",
-          "title": "성북구 길음동 롯데캐슬골든힐스 84.93㎡ 12억 9천만원… 최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12197944"
-        },
-        {
-          "name": "매일경제",
-          "title": "성북구 종암에스케이 114.75㎡ 13억원… 최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12197945"
-        },
-        {
-          "name": "매일경제",
-          "title": "강북구 미아동 성북프라자 68.675㎡, 5억 7천만원에 거래… 최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12197946"
-        },
-        {
-          "name": "매일경제",
-          "title": "동대문구 휘경리오포레아파트(2단지) 39.98㎡ 7억원… 최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12197941"
-        },
-        {
-          "name": "매일경제",
-          "title": "강남구 자곡동 강남자곡아이파크 59.96㎡ 19억 6천만원… 최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12197936"
-        },
-        {
-          "name": "매일경제",
-          "title": "송파구 풍납동 현대리버빌2지구 59.4㎡ 13억 9천만원 거래…최근 3년 신고가 [MAI부동산]",
-          "url": "https://www.mk.co.kr/news/realestate/12197937"
-        }
-      ],
-      "keywords": [
-        "휘경베스트빌현대",
-        "동대문구",
-        "실거래가",
-        "신고가",
-        "아파트매매"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261105-003/600/400"
-    },
-    {
-      "id": "news-20261105-004",
-      "headline": "9월 경상흑자 614억 달러 '역대 최대'…반도체 수출 호조에 600억 달러 첫 돌파",
+      "id": "news-20261106-007",
+      "headline": "미 중간선거 여파에 AI 규제론 부상…빅테크 웃고 반도체·원자재 시장 요동",
       "category": "경제",
       "categories": [
         "경제",
-        "비즈니스"
+        "글로벌",
+        "IT/과학"
       ],
       "summary": {
-        "overview": "한국은행이 발표한 국제수지 잠정 통계에 따르면 올해 9월 경상수지가 614억 6천만 달러 흑자를 기록하며 월간 기준 역대 최대치를 경신했습니다. 월간 경상수지 흑자가 600억 달러를 넘어선 것은 관련 통계 집계 이래 최초입니다. 이로써 올해 1월부터 9월까지의 누적 경상수지 흑자는 3천406억 6천만 달러에 달해 지난해 같은 기간 실적의 4배를 웃돌았습니다.\n\n이번 대규모 흑자는 반도체를 비롯한 정보기술(IT) 품목의 수출 호조와 분기 말 효과가 함께 작용한 결과입니다. 9월 상품수지 흑자는 627억 5천만 달러로 역대 최고 기록을 세웠으며, 전체 수출액은 컴퓨터 주변기기와 반도체 등의 급증에 힘입어 전년 동기 대비 92.4% 늘어났습니다. 자본재와 원자재 수입도 함께 증가했으나 수출 증가 폭에는 미치지 못했습니다.\n\n서비스수지는 여행수지 적자 여파로 33억 5천만 달러 적자를 나타냈으나, 계절적 요인이 해소된 배당소득수지 개선으로 본원소득수지 흑자 폭은 확대됐습니다. 한국은행은 3분기 누적 흑자 규모가 이미 지난해 연간 전체 실적을 넘어섰다며, 올해 연간 흑자 전망치인 4천500억 달러 달성이 무난할 것으로 예상했습니다."
+        "overview": "미국 중간선거에서 민주당이 상·하원을 장악하면서 금융시장에 큰 변화가 나타나고 있습니다. 지정학적 갈등 완화 기대감으로 국제유가가 장중 10% 급락하고 미국 국채금리가 안정을 찾았으나, 예산안 합의 지연에 따른 정부 셧다운 우려도 함께 커졌습니다.\n\n선거 결과로 인공지능(AI) 관련 규제가 강화될 것이라는 전망이 나오면서 산업별 희비는 뚜렷하게 갈렸습니다. AI 데이터센터 건설 속도 조절 가능성이 제기되자 이미 인프라를 확보한 아마존, 마이크로소프트 등 주요 빅테크 기업은 투자 과열 해소와 수익성 개선 기대감에 주가가 상승했습니다.\n\n반면 설비투자 의존도가 높은 반도체 업계는 직격탄을 맞았습니다. 메모리 수요 둔화 우려로 미국 반도체 기업들의 주가가 약세를 보였으며, 그 여파로 삼성전자와 SK하이닉스 역시 큰 폭의 하락세를 기록했습니다. 원자재 시장에서도 데이터센터 수요 약화 전망에 구리 가격이 내린 반면, 전기차 지원 재개 기대감으로 니켈 가격이 오르는 등 차별화 현상이 나타났습니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "9월 경상흑자 첫 600억달러 돌파…\"3분기에만 작년 연간치 넘어\"(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261105019951002"
-        },
-        {
           "name": "한겨레",
-          "title": "9월 경상수지 흑자 사상 첫 600억달러 돌파",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1285863.html"
+          "title": "미, AI 규제론 ‘블루 쓰나미’에…퍼렇게 질린 ‘반도체 한국’",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1286016.html"
         },
         {
-          "name": "MBC 뉴스",
-          "title": "9월 경상흑자 614억 달러로 사상 최대‥ 반도체 수출 260% 증가",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIRm1oUmFjalNaOFJ5RjJkcVQ3ekJ2R3NWNEN4cW1RMXhuZ1BXTW9GaVo2d2Y5SzBQMVlLMXo5LWdLc0xQNDdTSkYzdjVqX1pUWG4tMXZvX3dsZkNUVGxzTFVqa0Z4dDg0ak80Qm1RaWZIbnpS0gF0QVVfeXFMTU9HcXF0QnE0aGJIeHFNRTg4Z3JKaGhXREV0NkYwMHV4aWM0b2hzZ1owb01yX1J5RGhnMC1QNEM2RHBYLU9Hc2p4QzZrUkxuSWk5dU1zM090bWJuV01sc0ptbV8waDR1U0Zsc2xBNkc2djZ4dmM?oc=5"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "에코프로비엠 3분기 영업이익 120억원…작년 동기 대비 76%↓",
-          "url": "https://www.yna.co.kr/view/AKR20261105050500527"
+          "name": "YTN",
+          "title": "\"AI 기술주 투매에 급락\"...'삼전닉스' 위협하는 '블루 쓰나미' [굿모닝경제]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93OEJKdFRiQlZWQkxTd2dHbEYtc1p1c09NOF95NURsY2YxTlRxWEJPbkFOTGgtSFBTWXlRM3FEbHVISVVMRm95dGdfY1d3WFk1NURzczgwTGhGdFg3TWc?oc=5"
         },
         {
           "name": "경향신문",
-          "title": "월간 경상흑자 600억달러 첫 돌파…반도체 수출 260% ‘껑충’",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMW1fZkg0TzBXa1FlY0ktYzlMXzNvRk9OV0xFck1qVEJZZkc2YUhqdnRlMmZWQXFzWUczNHd6b3drWmp0NGp2cFBWNzhmdHJsQWpXYVZsN3R1Z9IBX0FVX3lxTE9SWlJOQUgyMjBWNjkyVnZiTkxRZ2RkenloRXJ3LUVscEJFTHpMaXlzR09oOGVVam4yeEE2NnZRYnRaeEE1V25QbFlsUFZ4b2xGWnVIaGhCbUFMLU1lcVRZ?oc=5"
+          "title": "미국선 승리 비유, 일본선 재난 기억…‘블루 쓰나미’ 표현 논란",
+          "url": "https://www.khan.co.kr/article/202611060716001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "청년·히스패닉의 귀환, 고졸 백인의 전향…‘블루 쓰나미’ 이끌었다",
+          "url": "https://www.hani.co.kr/arti/international/america/1286048.html"
         }
       ],
       "keywords": [
-        "경상수지",
-        "한국은행",
-        "반도체 수출",
-        "상품수지",
-        "국제수지"
+        "미국 중간선거",
+        "AI 규제",
+        "빅테크",
+        "반도체",
+        "국제유가"
       ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/01/PYH2026110105370005100_P2.jpg"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1105/53_17938775997455_20261105503516.webp"
     },
     {
-      "id": "news-20261105-005",
-      "headline": "더불어민주당 한병도 원내대표, 국회 정책조정회의 참석",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "더불어민주당 한병도 원내대표가 5일 서울 여의도 국회에서 열린 정책조정회의에 참석했다.\n\n이번 회의는 국회에서 진행되었으며, 당의 주요 현안과 정책 방향을 점검하는 자리로 마련되었다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "더불어민주당 정책조정회의 입장하는 한병도 원내대표",
-          "url": "https://www.mk.co.kr/news/politics/12198055"
-        },
-        {
-          "name": "매일경제",
-          "title": "더불어민주당 정책조정회의 발언하는 한병도 원내대표",
-          "url": "https://www.mk.co.kr/news/politics/12198054"
-        },
-        {
-          "name": "매일경제",
-          "title": "더불어민주당 정책조정회의 발언하는 한병도 원내대표",
-          "url": "https://www.mk.co.kr/news/politics/12198052"
-        },
-        {
-          "name": "매일경제",
-          "title": "더불어민주당 정책조정회의 발언하는 한병도 원내대표",
-          "url": "https://www.mk.co.kr/news/politics/12198051"
-        }
-      ],
-      "keywords": [
-        "더불어민주당",
-        "한병도",
-        "원내대표",
-        "정책조정회의",
-        "국회"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/05/news-p.v1.20261105.a81e3c73975542f1a970d34558239c60_R.jpg"
-    },
-    {
-      "id": "news-20261105-006",
-      "headline": "김여정 연속 대미 담화로 대화 여지 모색…트럼프 방중 앞둔 미북 관계 향방",
+      "id": "news-20261106-008",
+      "headline": "김여정 대미 담화 발표와 바이낸스 해킹 악재 속 북미 대화 타진 가능성",
       "category": "글로벌",
       "categories": [
-        "글로벌"
+        "글로벌",
+        "IT/과학"
       ],
       "summary": {
-        "overview": "김여정 북한 노동당 부부장이 사흘 사이 두 차례 대미 담화를 발표하며 향후 북미 대화 재개 가능성을 염두에 둔 행보를 보였습니다. 북한은 대결과 대화 모두 준비되어 있다는 메시지를 미국에 전달하며 대화 재개의 걸림돌을 제거하는 데 주력하는 모습입니다.\n\n한편 미 연방수사국(FBI)은 가상자산 거래소 바이낸스에서 발생한 8조 원 규모의 해킹 사건 배후를 추적하고 있습니다. 도널드 트럼프 전 미국 대통령의 중국 방문을 앞두고 돌발 악재와 외교적 변수가 겹치면서 한반도를 둘러싼 국제 정세가 복잡한 양상으로 흐르고 있습니다."
+        "overview": "김여정 북한 노동당 부부장이 사흘 만에 두 차례 대미 담화를 내놓으며 향후 북미 대화 재개 가능성을 염두에 둔 행보를 보였습니다.\n\n북한은 대결과 대화 모두 준비되어 있다는 메시지를 던지는 한편, 향후 협상 테이블에 걸림돌이 될 만한 요소들을 사전에 정리하려는 의도를 내비쳤습니다.\n\n이러한 상황에서 미 연방수사국(FBI)이 8조 원 규모의 가상자산 거래소 바이낸스 해킹 사건 배후를 추적하는 등 악재가 겹치면서 복잡한 정세가 이어지고 있습니다."
       },
       "publishers": [
         {
@@ -360,66 +436,65 @@
           "url": "https://www.mk.co.kr/news/politics/12194155"
         },
         {
-          "name": "Khan.co.kr",
-          "title": "면접관도 CEO도 가짜였다···북한 해커들의 바이낸스 해킹 수법",
-          "url": "https://www.khan.co.kr/article/202611040748001"
+          "name": "Zdnet.co.kr",
+          "title": "코인베이스 \"이용자 자산 99% 이상, 콜드월렛에…바이낸스發 해킹 피해없어\"",
+          "url": "https://zdnet.co.kr/view/?no=20261105091938"
         }
       ],
       "keywords": [
         "김여정",
-        "대미담화",
         "북미대화",
+        "대미담화",
         "바이낸스 해킹",
         "트럼프"
       ],
       "image_url": "https://pimg.mk.co.kr/news/cms/202611/04/news-a.v1.20261104.8919bf9dcb694cf8ad9a9a985ba7c15c_R.jpg"
     },
     {
-      "id": "news-20261105-007",
-      "headline": "미국 반도체주 급락 여파에 코스피 장 초반 2%대 하락",
-      "category": "경제",
+      "id": "news-20261106-009",
+      "headline": "우주에서 본 달은 회색이지만 지구 대기를 거치면 48가지 빛깔로 빛난다",
+      "category": "IT/과학",
       "categories": [
-        "비즈니스",
-        "경제",
+        "IT/과학",
         "글로벌"
       ],
       "summary": {
-        "overview": "미국 뉴욕증시가 중간선거 종료에 따른 정치적 불확실성 해소로 일제히 상승 마감했습니다. 다우존스30산업평균지수가 3% 넘게 올랐고 애플과 마이크로소프트 등 주요 대형 기술주도 강세를 보였습니다.\n\n하지만 증시 전반의 랠리 속에서도 반도체 업종은 급락세를 기록하며 약세를 면치 못했습니다.\n\n미국 반도체주의 하락 여파는 즉각 국내 증시로 전해졌습니다. 코스피는 장 초반 반도체주를 향한 매도세가 거세지며 2%대 급락세를 나타냈습니다. 삼성전자와 SK하이닉스 등 대표 반도체 종목들의 하락이 전체 지수를 아래로 끌어내리고 있습니다."
+        "overview": "우주에서 바라본 달의 실제 표면은 철과 마그네슘 광물이 덮고 있어 대체로 갈색 기운이 도는 회색에 가깝습니다. 화산 활동으로 형성된 '바다' 지형은 빛 반사율이 낮아 주변보다 어둡고, 달 전체의 햇빛 반사율은 지구의 절반에도 미치지 못합니다.\n\n그러나 지구에서 보는 달은 대기를 거쳐 온 빛의 성질 때문에 붉은색, 노란색, 푸른색 등 다양한 색깔로 나타납니다. 이탈리아의 천체사진가 마르첼라 줄리아 파체가 10년 동안 포착한 달의 48가지 색조를 나선형으로 배열한 작품이 나사의 오늘의 천체사진에 소개되었습니다.\n\n달이 지평선 가까이에 있을 때는 대기를 통과하는 거리가 길어져 파장이 짧은 파란빛은 흩어지고 붉은빛이 눈에 도달합니다. 반대로 하늘 높이 뜬 달은 통과하는 대기층이 짧아져 노란빛을 거쳐 밝고 하얗게 보입니다.\n\n대기에 큰 먼지 입자가 떠 있을 때는 푸른 달이 나타나기도 하며, 대기의 굴절 현상 때문에 지평선 근처의 달은 위아래가 눌린 타원형으로 보입니다. 결국 다채로운 달의 색상과 모양은 달 자체가 변하는 것이 아니라 지구 대기가 빛을 굴절시키고 산란시킨 결과입니다."
       },
       "publishers": [
         {
-          "name": "동아일보",
-          "title": "반도체 비껴간 美증시 랠리…코스피, 삼전·닉스 급락에 장초반 2%↓",
-          "url": "https://www.donga.com/news/Economy/article/all/20261105/134969707/1"
+          "name": "한겨레",
+          "title": "‘48가지 빛깔’ 보름달…지구 대기는 ‘달의 연출가’ [놀라운 우주]",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1286069.html"
         },
         {
-          "name": "동아일보",
-          "title": "美반도체 부진에 장초반 SK하닉 6% 급락…삼전 3%↓",
-          "url": "https://www.donga.com/news/Economy/article/all/20261105/134969583/1"
+          "name": "한겨레",
+          "title": "‘구조 실패’ 우주망원경, 오늘 지구 추락…사람 다칠 확률은 2100분의 1?",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1285672.html"
         },
         {
-          "name": "동아일보",
-          "title": "코스피, 장초반 2.14% 하락한 5561.93…코스닥 0.67%↓",
-          "url": "https://www.donga.com/news/Economy/article/all/20261105/134969552/1"
+          "name": "코리아타임뉴스",
+          "title": "미국 스위프트(SWIFT) 우주망원경 4일 저녁 대기권 재진입 예상 한반도 영향 없어",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZER2UjZPbjlvYjlZbTlXMm91ZjBBSFZGX3Fvb1BtWERzZng5UHJYQnRZUTZ2Z3F5aUEwbjRudFZCemNBZ1VBS19FWi1LYVc4WktCV0RSTEM1bVJpNzhPaVVvRm5pYXdkNUE?oc=5"
         },
         {
-          "name": "연합인포맥스",
-          "title": "코스피, 美 '블루웨이브' 여파에 2%대 하락…반도체주 주춤",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HTVJTMEFEaXI1bTFwcV9XbkJWNG1HZHdqckRuNHA0eF95LTlSLWRxYmVLWmtYZFk0ZThJazVjT1NoMldydk5VZ3Jtdi1CaG9YOU4xeURhZTNHX1ZzN1F2TGQ4MlVyeDJzSjVaRklkSUTSAXRBVV95cUxPVmJ3Q290eTJfaGduUm1nM21zVWI2M3J0X1RqeWkyaVJHXzJ4UXJ4UHV1U0EyRmdyWGtQdHEydTVjaW9vUGJ1UTQ0VTVSOXhnUFFxeXJveTBjSE5mWWhzYmxMVVNmdTVEWFVwMk91b290TVdSQw?oc=5"
+          "name": "한겨레",
+          "title": "〔놀라운 우주〕 지구 대기가 연출한 ‘48가지 빛깔 보름달’",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZUcyemxNc3V4T1o3MUhkTjNVd1luSTRZWWlCS19FMV9pZlBKcXJXUWNyNXFHUDVRcEFaQ3hfVHJkSWNpWkhyM1FjcTZDQ3JnSG5ILTJvZk55NXMtZ3ZtZm1LUkNub3Rtc1JVc1RuWEw0UQ?oc=5"
         }
       ],
       "keywords": [
-        "코스피",
-        "반도체주",
-        "뉴욕증시",
-        "삼성전자",
-        "SK하이닉스"
+        "달의 색깔",
+        "지구 대기",
+        "천체사진",
+        "개기월식",
+        "빛의 산란"
       ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/05/134969708.1.jpg"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1106/53_17939251065226_20261106500443.webp"
     },
     {
-      "id": "news-20261105-008",
-      "headline": "AI 해킹 위협 고조에 금융당국 580여개 금융사 보안 전수점검 착수",
+      "id": "news-20261106-010",
+      "headline": "롯데칠성음료, 현대건설에 동절기 한랭질환 예방 물품 전달",
       "category": "경제",
       "categories": [
         "경제",
@@ -427,348 +502,265 @@
         "IT/과학"
       ],
       "summary": {
-        "overview": "금융당국이 인공지능(AI) 기술을 악용한 해킹 위협이 급증함에 따라 가상자산사업자를 포함한 전체 금융권 580여 개사를 대상으로 보안 전수 점검에 나섭니다. 최근 사흘간 37개 금융회사에서 40건의 침해 사고가 발생해 47만여 건의 정보가 유출되고 10억 원 상당의 자금이 탈취된 데 따른 조처입니다.\n\n이번 점검에서는 응용프로그램인터페이스(API) 등 외부 접점 시스템과 그동안 관리가 소홀했던 주변부 시스템까지 폭넓게 조사합니다. 관리대장에 등재된 외부 접점은 이달 말까지, 미등재 시스템과 내부통제 실태는 올해 말까지 조사를 마무리할 계획입니다.\n\n해킹 피해의 광범위한 확산을 막기 위해 공격 방식과 악성코드 정보를 전 금융권에 즉시 공유하는 통합관제시스템(FIRST)도 도입합니다. 가상자산거래소 역시 침해 사고 발생 시 금융감독원과 금융보안원에 즉시 신고하도록 가이드라인을 정비하고, 내년 1분기에는 전자금융거래법 수준의 규제를 적용하는 '디지털금융 안전법' 제정을 추진합니다.\n\n이 밖에도 대형 금융사의 취약점 점검 횟수를 연 2회로 늘리고 망분리 규제 개선을 추진해 AI 기반 공격을 AI로 방어하는 보안 체계를 구축하기로 했습니다. 정보 유출로 인한 2차 피해를 예방하기 위해 보이스피싱 피해금 일부를 금융회사가 배상하는 무과실책임 법제화도 함께 진행합니다."
+        "overview": "롯데칠성음료가 지난 5일 서울 종로구 현대건설 본사에서 동절기 안전보건 지원 물품 전달식을 개최했다.\n\n이번 전달식을 통해 온장고, 핫팩, 온수통, 응급키트 등 2천만 원 상당의 물품이 현대건설 현장에 지원되었다.\n\n롯데칠성음료는 온열질환 예방 업무협약을 맺은 현대건설을 시작으로 총 6개 건설사를 대상으로 순차적인 지원을 이어갈 예정이다."
       },
       "publishers": [
         {
-          "name": "한겨레",
-          "title": "커지는 AI 해킹 위협…금융권 580여개사 보안 전수점검",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1285868.html"
+          "name": "연합뉴스",
+          "title": "[게시판] 롯데칠성, 현대건설에 동절기 안전보건 지원 물품 전달",
+          "url": "https://www.yna.co.kr/view/AKR20261106050700030"
         },
         {
-          "name": "동아일보",
-          "title": "금융권 해킹 37개사에서 정보유출 47만건…당국, 내부통제 전수점검",
-          "url": "https://www.donga.com/news/Economy/article/all/20261105/134969503/1"
+          "name": "연합뉴스",
+          "title": "[게시판] 롯데삼동복지재단, 울산 저소득층에 패딩·김치 지원",
+          "url": "https://www.yna.co.kr/view/AKR20261106053900030"
         },
         {
-          "name": "KBS 뉴스",
-          "title": "580개 금융사 보안 ‘전수 점검’…가상자산업권도 포함",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XX2pHTUwzVEdFRnE4eVhEankzY2Y0eXpyNWxQc3Z0UGJ3a1VKVXd1a0M2TlBybHNobnd5RkhEMzRqUUZXa0pyOXN4ZjY3LS04Wkw5YTlpMWswdW8?oc=5"
+          "name": "매일경제",
+          "title": "“안전·착용감 잡았다”…GS건설, 동절기 현장 근무복 3종 공개",
+          "url": "https://www.mk.co.kr/news/realestate/12200218"
         }
       ],
       "keywords": [
-        "AI 해킹",
-        "보안 전수점검",
-        "금융위원회",
-        "디지털금융 안전법",
-        "가상자산사업자"
+        "롯데칠성음료",
+        "현대건설",
+        "동절기 안전",
+        "한랭질환 예방",
+        "안전보건"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1105/53_17938374937787_20261105500381.webp"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106050700030_01_i_P2.jpg"
     },
     {
-      "id": "news-20261105-009",
-      "headline": "11월 5일 주요 국내외 경제 일정 및 캘린더 안내",
+      "id": "news-20261106-011",
+      "headline": "이 대통령 \"경제 질적 도약 위해 성장 방식 대전환…국민창업 시대 연다\"",
       "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "11월 5일 기준 주요 경제 일정을 정리한 경제 캘린더가 안내되었습니다.\n\n이번 일정은 국내외 주요 금융시장 변동과 정책 발표 등 당일 예정된 주요 경제 이벤트를 확인할 수 있도록 구성되었습니다. 시장 참여자들은 주요 경제 지표 공개에 따라 주가 및 환율 등 자산 가격이 반응할 가능성을 염두에 두고 있습니다.\n\n정부 기관과 금융권의 발표 자료는 향후 경기 동향을 가늠하는 기준점 역할을 하게 됩니다. 개별 투자자와 기업은 발표 일정에 맞추어 리스크 관리와 투자 방향성을 점검하는 것이 필요합니다."
-      },
-      "publishers": [
-        {
-          "name": "YTN",
-          "title": "11월 5일 (木) 경제 캘린더",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaktxcTEyZTBqaXFVN3JpWWctZi1XOHdTY041VWlfbWVydGtvWW95WS1fN2lKdkU2cXg0VXJHWU9fUE1rR0JlNV9YcHBrR2FVOG5CT0p6UW5BaUJVZmc?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "■11월 4일 수요일 경제 캘린더",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKRjAwVDN5NEhSWHdid2owelozNG9WTWdZd0pyOUtrR3pFY0phTGlrVGhDZkFMVjhpSzhQSGJtbE1RUF80WEdqeHhsRnh4QVNwQ2lMVnk3TmM3LXdJbmc?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "■11월 3일 화요일 경제 캘린더",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ndGN6a3hTWFNzQmhveEpaWVlRZ3pyVW9pNnpqRTRNZXdRTEEwWU8xTTlHUGducE5aZ2wzUXZNc0pXTThjRXNuUUJqc2p0dGxVS0NEWlVhME9QYjA1Y0E?oc=5"
-        }
-      ],
-      "keywords": [
-        "경제 캘린더",
-        "11월 5일",
-        "경제 일정",
-        "금융시장",
-        "경제지표"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261105-009/600/400"
-    },
-    {
-      "id": "news-20261105-010",
-      "headline": "민주당, 미 중간선거서 상·하원 모두 석권…'트럼프 심판론'에 공화당 텃밭 붕괴",
-      "category": "글로벌",
       "categories": [
         "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "미국 중간선거에서 민주당이 연방 상원과 하원 권력을 모두 탈환하며 대승을 거두었습니다. 고물가 여파와 도널드 트럼프 행정부에 대한 심판 여론이 맞물리면서 텍사스와 캔자스 등 전통적인 공화당 강세 지역까지 민주당이 싹쓸이했습니다. 야당이 상·하원을 동시에 석권한 것은 2006년 이후 20년 만의 대이변입니다.\n\n사전투표 인원이 6000만 명을 넘어서는 등 유색인종 청년층을 중심으로 한 표심이 크게 움직였습니다. 민주당은 의회 주도권을 바탕으로 대대적인 국정 기조 전환과 부패 청산을 예고했습니다.\n\n트럼프 대통령은 선거 패배 결과를 수용하겠다면서도 국정 실패 책임은 인정하지 않았습니다. 행정권과 입법권이 분열되면서 트럼프 대통령의 남은 임기 2년 동안 국정 교착과 정치적 대립이 가속화될 것으로 보입니다."
+        "overview": "이 대통령이 한국 경제의 질적 도약을 도모하기 위해 기존의 성장 방식을 대전환하겠다는 구상을 밝혔습니다. 정부는 국민 누구나 창업에 도전할 수 있는 '국민창업 시대'를 본격적으로 열어나갈 계획입니다.\n\n이번 발표는 단순한 양적 성장에 머무르지 않고, 질적 성장과 혁신을 중심으로 경제 체질을 바꾸겠다는 강한 의지를 담았습니다. 개인의 창의적인 아이디어가 자유롭게 사업화되는 환경을 조성하여 경제 전반의 역동성을 높이겠다는 구상입니다. 정부는 이러한 성장 패러다임 변화를 발판 삼아 지속 가능한 경제 기반을 구축해 나갈 방침입니다."
       },
       "publishers": [
         {
+          "name": "KBS 뉴스",
+          "title": "이 대통령 “경제 질적 도약 위해 성장 방식 대전환…국민창업 시대로”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMbXlIWEhZcndnZ0xicWZHQndJekVuQ3BOMHZidm51WjlhVW8tTUNZUGk5YWR2WVBaMDF3WXdNWXl5NXcxU1Z6WDV3QW5oUkNEcU9fWmRVQkhEOTg?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "이 대통령 “글로벌 기업들 투자도 지역 향해…‘모두의 성장’ 만들어 갈 것”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUZ0Vma3laVDZHajJZamdtRzlpbURkdktiUkJybzZydVhxQVZCTnAwbDF3bkwzRlhFWTFMeE9nQXRUUGlxX3R4Nl8yWlpIcm1KRHhkS19nZzhhWnc?oc=5"
+        },
+        {
           "name": "YTN",
-          "title": "'샤이 트럼프' 없었다...'블루 쓰나미' 덮친 미국, 한국에 미칠 파장은? [뉴스특보]",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JSWR1dXVVQXJxRGxpa0E5N2F0RVVMbFdiS0FSYURjVGg2ZTh1N1hwUFVzYlgydDgxZnU4YnpsbUtvX0ZHcGZlWlV3OXFiTlNialBHMkdERV95aVNLSnc?oc=5"
-        },
-        {
-          "name": "경향신문",
-          "title": "트럼프 향한 분노, 미국을 뒤집었다",
-          "url": "https://www.khan.co.kr/article/202611042129025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "한겨레",
-          "title": "미국의 ‘파란’…트럼프 심판했다",
-          "url": "https://www.hani.co.kr/arti/international/america/1285835.html"
+          "title": "[충북] 청주국제공항 성장 연계 지역경제 활성화 추진",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13Z3dlMTJBdFB3dDlXd0hTLW1tMWlMUGhzdzdTNExSbnBOU0NnTU5kSU1ySl94S1dpZmRkRUVtRU1LOEJVakNuUldsODg4MW5IcURYTlFTbHQxQmFDb1E?oc=5"
         }
       ],
       "keywords": [
-        "미국 중간선거",
-        "민주당 압승",
-        "도널드 트럼프",
-        "상하원 탈환",
-        "레임덕"
+        "이 대통령",
+        "성장 방식 대전환",
+        "국민창업 시대",
+        "경제 질적 도약"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1104/53_17937945103632_7217937944043364.webp"
+      "image_url": "https://picsum.photos/seed/news-20261106-011/600/400"
     },
     {
-      "id": "news-20261105-011",
-      "headline": "밴스 미 부통령, 중간선거 패인으로 '이란 전쟁' 지목하며 트럼프와 거리두기",
+      "id": "news-20261106-012",
+      "headline": "미국 중간선거 여파로 日 닛케이지수 5일 연속 급락…6만 선 붕괴",
       "category": "글로벌",
       "categories": [
         "글로벌",
         "경제"
       ],
       "summary": {
-        "overview": "미국 공화당의 중간선거 패배 직후 제이디 밴스 부통령이 선거 패배의 결정적 원인으로 이란 전쟁을 지목하며 도널드 트럼프 대통령과 거리두기에 나섰습니다. 밴스 부통령은 소셜미디어를 통해 유권자들이 이란 전쟁과 높은 생활비, 인플레이션, 이스라엘에 대한 과도한 지원에 분노했다고 지적했습니다.\n\n외교 정책에서 이란 전쟁 조기 종식을 주장해 온 밴스 부통령의 이번 발언은 트럼프 행정부와의 정책적 결별을 공식화한 것으로 풀이됩니다. 백악관 내부에서는 밴스 부통령이 2028년 대선 행보를 염두에 두고 본격적인 정치적 홀로서기를 시작한 신호탄으로 평가하고 있습니다.\n\n트럼프 대통령은 선거에 이란 전쟁이 미친 영향을 일부 인정하면서도 이란의 핵무기 보유를 저지하기 위해 전쟁은 불가피한 결정이었다고 반박했습니다. 동시에 밴스 부통령의 차기 대선 출마 가능성을 견제하는 언급을 내놓으면서, 중간선거 이후 트럼프 진영 내부의 균열과 권력 투쟁이 심화할 것으로 보입니다."
+        "overview": "미국 중간선거 결과의 여파로 일본 증시 대표 지수인 닛케이225평균주가가 5거래일 연속 급락하며 약 6개월 만에 6만 선 아래로 떨어졌습니다.\n\n도쿄 주식시장 개장 직후 지수 낙폭은 한때 3,000을 넘어서며 장중 6% 이상 하락해 57,100선 부근에서 등락을 거듭했습니다. 이번 급락은 미 중간선거에서 민주당이 압승하면서 인공지능 인프라 투자가 위축될 수 있다는 우려가 번진 데 따른 것입니다.\n\n전 세계적인 반도체와 인공지능 관련주 매도 흐름에 맞춰 도쿄 증시에서도 도쿄일렉트론과 어드반테스트 등 주요 반도체 종목에 매도 물량이 쏟아졌습니다. 앞서 닛케이지수는 지난 4월 반도체와 인공지능 주도의 매수세에 힘입어 사상 처음으로 6만 선을 돌파했으나, 대외 정치 지형 변화로 상승 동력이 크게 꺾였습니다."
       },
       "publishers": [
         {
-          "name": "한겨레",
-          "title": "밴스 미 부통령 “이란 전쟁이 선거 패배 원인”…트럼프와 거리두기",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1285866.html"
+          "name": "연합뉴스",
+          "title": "日닛케이지수 닷새째 하락 6만선 붕괴…美 중간선거 여진",
+          "url": "https://www.yna.co.kr/view/AKR20261106046400073"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "중간선거 압승에 美민주 잠룡들 경쟁 주목…시동 건 부커",
+          "url": "https://www.yna.co.kr/view/AKR20261106042400009"
         },
         {
           "name": "한겨레",
-          "title": "돈도, 전략도 안 통해…고물가·전쟁·반이민에 ‘앵그리 트럼프’ 공화 삼켰다",
-          "url": "https://www.hani.co.kr/arti/international/america/1285857.html"
-        },
-        {
-          "name": "한겨레",
-          "title": "‘예산·전쟁 권한’ 쥔 민주당 의회…트럼프 ‘마이웨이 외교’ 제동 건다",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1285853.html"
+          "title": "“중간선거 참패에 루비오 국무장관 사임 검토”…국무부는 강력 부인",
+          "url": "https://www.hani.co.kr/arti/international/america/1286035.html"
         }
       ],
       "keywords": [
-        "밴스",
-        "트럼프",
-        "이란 전쟁",
-        "중간선거",
-        "미국 대선"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1105/53_17938338497003_20261105500247.webp"
-    },
-    {
-      "id": "news-20261105-012",
-      "headline": "공화당 중간선거 참패로 동력 잃은 트럼프의 ‘마가 연합’… 세 확장 대신 지지층 축소 위기",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "미국 중간선거에서 여당인 공화당이 기록적인 참패를 거두며 도널드 트럼프 전 대통령의 집권 기반인 ‘마가(MAGA)’ 운동이 깊은 내상을 입었습니다. 트럼프 전 대통령은 자신을 투표 표지에 둔 마음으로 임해달라고 호소했으나, 오히에 이에 반대하는 유권자 표심이 결집하며 공화당 약세를 가져왔습니다.\n\n무엇보다 2024년 대선에서 트럼프 지지로 돌아섰던 비대졸 비백인 유권자층의 이탈이 결정적이었습니다. 출구조사에 따르면 중남미계, 아시아계, 흑인 및 청년층 유권자 대부분이 민주당으로 대거 회귀하면서 트럼프가 구축했던 다인종 노동자 계층 연합에 균열이 생겼습니다.\n\n텍사스, 사우스캐롤라이나 등 기존 공화당 텃밭 지역조차 과반의 유권자가 트럼프를 부정적으로 평가했습니다. 핵심 지지층인 백인 복음주의층 등은 남아있지만, 무당층과 스윙 보터가 민주당으로아서며 마가 운동이 세 확장 대신 지지 기반을 스스로 갉아먹는 한계를 드러내고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "한겨레",
-          "title": "공화 참패에 금 간 트럼프 ‘마가 연합’…기로에 선 ‘마가’",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1285862.html"
-        },
-        {
-          "name": "한겨레",
-          "title": "대참패 다음날 ‘연회장 자랑’한 트럼프, “탄핵 추진땐 민주당 파멸할 것”",
-          "url": "https://www.hani.co.kr/arti/international/america/1285859.html"
-        },
-        {
-          "name": "한겨레",
-          "title": "‘불복’ 접고 참패 인정한 트럼프…“민주당과 협력할 것”",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1285834.html"
-        }
-      ],
-      "keywords": [
-        "트럼프",
-        "마가(MAGA)",
+        "닛케이지수",
         "미국 중간선거",
-        "공화당 참패",
-        "표심 이탈"
+        "일본 증시",
+        "반도체주",
+        "AI 투자"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1105/53_17938364523371_20261105500172.webp"
+      "image_url": "https://img.yna.co.kr/photo/cms/2020/03/09/83/PCM20200309000183990_P2.jpg"
     },
     {
-      "id": "news-20261105-013",
-      "headline": "영화 '실낙원', 스웨덴 스톡홀름국제영화제 공식 초청",
+      "id": "news-20261106-013",
+      "headline": "이 대통령 부부, 국제기능올림픽 선수단 청와대 초청해 오찬 격려",
       "category": "글로벌",
       "categories": [
         "글로벌"
       ],
       "summary": {
-        "overview": "영화 '실낙원'이 스웨덴에서 개최되는 스톡홀름국제영화제에 공식 초청받았습니다.\n\n스톡홀름국제영화제는 북유럽 지역을 대표하는 주요 영화 행사로, 매년 세계 각국의 독창적이고 우수한 작품들을 선별해 소개해 왔습니다.\n\n이번 초청을 통해 영화 '실낙원'은 스웨덴 현지 상영을 포함해 세계 영화 관계자들과 관객들에게 작품을 선보이게 되었습니다.\n\n국내 영화 작품이 유럽 현지에서 관객과 직접 소통하며 해외 무대로 영역을 넓히는 기회를 마련했습니다."
+        "overview": "이 대통령 부부가 국제기능올림픽에 출전한 선수단을 청와대로 초청해 오찬 자리를 마련했습니다.\n\n이번 행사는 세계 무대에서 뛰어난 기량을 선보인 선수들의 노고를 치하하기 위해 진행되었습니다.\n\n참석한 선수단은 청와대에서 오찬을 함께하며 대회 비하인드 스토리와 소회를 나눴습니다.\n\n정부는 앞으로도 기술 인재들이 자부심을 가지고 역량을 펼칠 수 있도록 지원을 이어갈 방침입니다."
       },
       "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "이 대통령 부부, 국제기능올림픽 선수단 청와대 초청 오찬",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FN1FqelR1LXpnbzBiRXZDeHZRdEVlRWk2dWV6QUNhV2J4aXE1S1Naa3R4dXlVNU1fOXFoZElZb2wxYzN1Z3Z5N3lQWlpIVXdnZGZNZHhPaEJNY0MyRFotMHJmdE9idEZ2a0IwQ29nLUhwaGpuRHdoQ9IBeEFVX3lxTE1Sbi02R3VRUWJ4c01DVUpnM3BQTGVfcGVLZ1RFSXYxbXVRTVBHTDJ6cHl2OHgzQjRMOG9MZ1lFNFJwZnJDX0VCWTlSOHhZTjRuRVBsWXVOeEVGWVBtMTNXV2lseFU4d19QR0wzV0lUUzFvXzVDN28zXw?oc=5"
+        },
         {
           "name": "MBC 뉴스",
           "title": "[문화연예 플러스] '실낙원' 스웨덴 스톡홀름국제영화제 초청",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EU243a0NEeTQzMWpFSjFPcmZuVUg4V09oSUFPRzZnRjQ1S2thckpSSFZFalRMaENqbzhacjgxSEg5Y0dBWXhCdXhCSmhPT0htb1E0VW1jRDVWaURnTmxyTGdaSlV1R3oyU1RVTDVaU2MyNVg4bVpOYWZB0gF6QVVfeXFMTWN1NmVYQndNUTlDclZQMTRMMWgtWjVVY0NIdE9xbjctMHd2TldZa3hRSmJQbVQtZ0tHM3NyemtiVDhaQlB6SmN5WlhySko4TXVTVmJqZGV6aURzUTdSYWlpTnRQNnZCTWZsX0hlVm9uenl5NTVHdC12SWc?oc=5"
         },
         {
-          "name": "MBC 뉴스",
-          "title": "[문화연예 플러스] '꿀알바' 흥행 돌풍‥글로벌 2위",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpNzlMZEJPRG9KZXhvXzM0UE9mQXIzV0NZT243T0JRU3RBQzFndmExeFhGTkZ1Rkl6eG0wUWNNV24yUnFRSjExNjE1MjV1eG5ST0dJVmUwZnB2QkNpdHJYd0Z1SUN6ZzNRNUs1RmxYdzZ6Zk5ZQWVnNjVn0gF6QVVfeXFMT2M0ajlnT2dta0o3Q2hBVlJnZEZyUVFqRXlDV0gydEtzOXZzT19RWG91SkxkcUJpbmNrcEs4M1RsS2VKU2prX3RCLVUxMEcyb21CVDF6RC1RR01PTUhzNDdqSWFrZUp5SFJpeWhGc1NYemhOMERxX3ptT2c?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "[문화연예 플러스] BTS, 남미 5개 도시서 14회 공연 매진",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vWU5yWUFJRk9IYXNZc2RpZXV0RnNMdm9BTnkzZEpjSU85MUNCY2tFNGJoLWplX3gyTEU1M2JwMk9QRFRWc05QeGxlYzJNQ1FXclIwRTJ1WXBCU3g4ZUdKYldGWVktd0FRa2ptcWplTk13Q3NZVkRMUDVn0gF6QVVfeXFMTXVqTFV4aE1zWTBkTzlsZUxjLVc1RUdjX01HOEkwQVF0ZnI4dlpaNldRVkg4bFNuV1VpaGJPQVdkOWgwbjhjYXlxekNPYzBFSnZWd3NaV3JkSEdPX1ZhNzRXeUJfQVpxMmExRTRoejU1M2ZvOWJKLUdXRmc?oc=5"
+          "name": "YTN",
+          "title": "이 대통령, 국제기능올림픽 선수단 청와대 초청 오찬 [현장영상+]",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wdnUtVUEtSnM1eVNKYXR1Ri05RGVGdzY3LWthLTctYTJwOEtwTktTR2xBdm94Vl9Db1BoZnY5dWl2NndNZTZoS3F0X05QNlRmREFRQ3ZSRzl6TkFndExUdDVCaUV4YWg0UjZxR1NFOA?oc=5"
         }
       ],
       "keywords": [
-        "실낙원",
-        "스톡홀름국제영화제",
-        "스웨덴",
-        "영화제 초청"
+        "국제기능올림픽",
+        "청와대",
+        "오찬",
+        "선수단"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261105-013/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261106-013/600/400"
     },
     {
-      "id": "news-20261105-014",
-      "headline": "국제유가 급락에 국내 항공주 일제히 강세…정유주는 동반 약세",
-      "category": "비즈니스",
+      "id": "news-20261106-014",
+      "headline": "강원 횡성군, 청년 토마토 농업인 공동브랜드 'REDCREW' 개발",
+      "category": "경제",
       "categories": [
-        "글로벌",
-        "비즈니스",
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "강원 횡성군이 청년 토마토 농업인의 공동 판촉과 상품 경쟁력을 높이기 위해 공동브랜드 'REDCREW'를 새롭게 선보였다.\n\n이번 브랜드 개발은 지식재산처의 '지역 대표 K-브랜드 100 지원사업'과 연계해 추진되었으며, 횡성군농업기술센터와 강원지식재산센터, 디자인 전문업체, 청년토마토농업인연구회가 협력해 완성했다.\n\n'REDCREW'는 '여름을 키우는 청년들'을 주제로 신선함과 청년의 열정, 지속 가능한 농업을 향한 신뢰를 핵심 가치로 담아냈다.\n\n횡성군은 상표권과 디자인권 등 지식재산권 10건을 출원해 브랜드 권리를 확보했으며, 앞으로 토마토 포장재와 홍보물 제작 및 공동 판촉에 적극적으로 활용할 방침이다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "횡성 청년토마토 공동브랜드 'REDCREW' 개발",
+          "url": "https://www.yna.co.kr/view/AKR20261106055000062"
+        }
+      ],
+      "keywords": [
+        "횡성군",
+        "토마토",
+        "REDCREW",
+        "청년농업인",
+        "공동브랜드"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106055000062_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261106-015",
+      "headline": "HDC현대산업개발, 동절기 대비 경영진 현장 안전 점검 실시",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "HD현대산업개발은 다가오는 겨울철을 맞아 지난 5일 주요 현장을 대상으로 경영진 안전 점검을 진행했다.\n\n이번 점검은 정부 당국의 본격적인 동절기 점검에 앞서 일교차에 따른 근로자 보건 관리와 안전사고를 선제적으로 예방하기 위해 마련됐다.\n\n정경구 대표이사와 양승철 최고안전보건책임자 등 주요 경영진은 김해도시계획시설 토목공사 현장과 김해 신문 센트럴 아이파크 현장을 직접 방문했다.\n\n현장 경영진은 공사 진행 상황을 보고받고 동결과 해빙으로 인해 발생할 수 있는 안전사고 위험 요소를 집중적으로 살폈다.\n\n정경구 대표이사는 기본과 원칙을 준수하며 공정 초기부터 마무리까지 예방 중심의 관리 체계를 철저히 구축할 것을 당부했다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "IPARK현산, 겨울철 안전사고 대비 경영진 현장 점검",
+          "url": "https://www.yna.co.kr/view/AKR20261106044000003"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "F4 “미국 중간선거 영향 지속 점검…변동성 철저 대비”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yVVpRYXgxUGJvaFlHYTJUX3hoSmlzN2tHN1ZPMEhNdXdUTjlweWFlVnFMVmFrRWZxUzhaWTVwTzhLNTFHNlBmZzhBeDA4ZS1NeEhkUmFSRWVQLVU?oc=5"
+        }
+      ],
+      "keywords": [
+        "HDC현대산업개발",
+        "안전점검",
+        "동절기사고예방",
+        "건설현장"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106044000003_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261106-016",
+      "headline": "진중권, 민주당을 향해 조국혁신당에 끌려다닌다고 강하게 비판",
+      "category": "경제",
+      "categories": [
         "경제"
       ],
       "summary": {
-        "overview": "미국 중간선거 결과의 영향으로 국제유가가 8% 이상 급락하면서 국내 증시에서 항공주와 정유주의 희비가 엇갈렸습니다. 시장에서는 전쟁 조기 종식에 대한 기대감이 형성되며 유가 하락을 이끌었고, 이는 항공사들의 원가 부담 완화 전망으로 이어졌습니다.\n\n장 초반 제주항공이 9%대 상승률을 기록한 것을 비롯해 진에어, 트리니티항공, 에어부산, 아시아나항공, 대한항공 등 주요 항공 종목에 매수세가 집중되었습니다. 뉴욕상업거래소에서 서부텍사스산원유(WTI) 선물 가격은 전장 대비 8.29% 내린 배럴당 88.12달러에 마감했으며 브렌트유 역시 8.67% 하락했습니다.\n\n반면 유가 하락에 따른 정제마진 축소 우려로 정유업종은 내림세를 나타냈습니다. S-Oil과 SK이노베이션을 비롯해 GS칼텍스를 자회사로 둔 GS 등 정유 관련 주가들이 일제히 약세를 보였습니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "유가 급락에도 하락했던 지수, 약보합권 머물러",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TMWNLRHZQQ2cwdDQzRWRabDdEZ08yZnJqWnBEUG1vX3pRclZRckdJM2RLeGZaWUY2ZlZ4UG1icVVDT0dUcWhyM0wxX1lDaGRMSlBDaEVBTVotMVgxVGNGSk5fVERRTnI2TDdjYW5RR1l3OVZucGpEVtIBeEFVX3lxTFBHVHpnVzZuTU9DaWNtNTN2d21Kby0yTzFSTWpobV9COGFjdWtYbVIwRm5Na0NoeXdmS3VUbHZkazVrVUUzZjdiSGFjUzZ0dFBpYnlPSW1DT3JaX0xGLTlTbWQxbnJzTFVJRTJKRGYxcmtSMnRHVEhYOQ?oc=5"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[특징주] 유가 급락에 항공주 줄상승…정유주는 약세",
-          "url": "https://www.yna.co.kr/view/AKR20261105049100008"
-        },
-        {
-          "name": "매일경제",
-          "title": "미 데이터센터 규제 우려에 코스피 하락 출발…삼전닉스 3~6%대 급락",
-          "url": "https://www.mk.co.kr/news/stock/12198029"
-        }
-      ],
-      "keywords": [
-        "국제유가",
-        "항공주",
-        "정유주",
-        "미국 중간선거",
-        "제주항공"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/07/22/PYH2026072207080001300_P2.jpg"
-    },
-    {
-      "id": "news-20261105-015",
-      "headline": "현대건설, AI·빅데이터 기반 현장 품질관리 시스템 '큐포켓' 고도화",
-      "category": "비즈니스",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "현대건설이 인공지능(AI)과 빅데이터를 활용해 건설현장 품질관리 시스템의 디지털 전환을 대폭 강화합니다. 지난 2021년 업계 최초로 개발한 스마트 통합 검측 시스템 '큐포켓(Q-Pocket)'의 적용 범위를 품질관리 전 영역으로 확대하고, 발주처와 감리단, 시공사 및 협력사가 실시간으로 정보를 공유하는 협업 체계를 구축합니다.\n\n이번 고도화를 통해 큐포켓에는 콘크리트 품질관리 전용 시스템인 '큐콘(QCON) v3'가 새롭게 탑재됩니다. 큐콘 v3는 기상청 날씨 예측 데이터와 연계해 기온과 강우 상황에 맞춘 타설 및 양생 계획을 수립하고, 레미콘 생산부터 압축 강도 시험까지 전 과정을 모바일로 통합 관리합니다.\n\n이와 함께 콘크리트 결함 관리와 탈현장건설(OSC) 공장 생산 제품 관리 메뉴를 새로 신설해 현장 응용력을 넓혔습니다. AI 기반 지능형 문자 인식 기술(ICR)도 적용해 현장 작업자가 손으로 작성한 기록을 자동 데이터화함으로써 관리의 정확성을 증대했습니다. 현대건설은 앞으로도 AI 기반 분석 기능을 발전시켜 스마트 품질관리 기술을 전 현장에 100% 적용할 계획입니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "현대건설, AI·빅데이터 기반 품질관리 시스템 고도화",
-          "url": "https://www.yna.co.kr/view/AKR20261105047400003"
-        }
-      ],
-      "keywords": [
-        "현대건설",
-        "큐포켓",
-        "품질관리 시스템",
-        "큐콘v3",
-        "AI 디지털 전환"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105047400003_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261105-016",
-      "headline": "정부, 민·관 공동투자로 희귀질환 치료제 개발 추진…사업법인제 도입",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "정부가 희귀·난치질환 치료제 개발을 지원하기 위해 기존 정부출연금 중심 지원에서 벗어나 민·관 공동투자 방식을 본격 도입합니다. 과학기술정보통신부는 최근 투자생태계 구축 사업설명회를 열고 신약 개발을 전담할 사업화 전문법인 설립 계획을 발표했습니다.\n\n이번 방안은 사업화 전문법인을 신설해 초기 임상 진입을 도우며 민간 자본 유치를 적극 촉진하는 데 중점을 둡니다. 연구개발 단계부터 민간 자금과 전문성을 결합해 실질적인 치료제 상용화 성과를 창출하고, 국내 바이오 산업의 투자 생태계를 강화할 방침입니다."
+        "overview": "조희대 대법원장 탄핵과 국정조사를 둘러싼 야권의 공세가 지속되는 가운데, 진중권 동양대 교수가 더불어민주당의 행태를 정조준했다.\n\n진 교수는 민주당이 조국혁신당의 강경 기조에 완전히 끌려다니는 모양새를 보이고 있다고 직격했다.\n\n야권 내부의 주도권 경쟁과 대여 투쟁 방식을 두고 정치권 안팎의 시선이 집중되는 상황이다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "민-관 공동투자로 희귀질환 치료제 개발한다…사업법인제 도입",
-          "url": "https://www.mk.co.kr/news/business/12198058"
+          "title": "“김민석 머리채 잡혀…조국혁신당에 끌려다니는 민주당” 진중권 직격",
+          "url": "https://www.mk.co.kr/news/politics/12200224"
         },
         {
-          "name": "연합인포맥스",
-          "title": "최태원, SK하이닉스 美 AI 투자법인 이사회 의장 맡는다",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRDdqMjFuMGlnWUVrbGFMRTdVa2w0QTdlOHM3dFFsalB2S0s5d2ZCS2QyN0ZFcmRhZHl4UkhvcDhDLVhVUTJmWGMxOVltRGRheHRqTVdqdl95VlpaWmZBcGtXcWE1ZDVBQlJjVGNkTjI?oc=5"
+          "name": "매일경제",
+          "title": "“결혼을 혼자 하느냐”…민주당 합당론에 발끈한 조국혁신당",
+          "url": "https://www.mk.co.kr/news/politics/12200223"
         }
       ],
       "keywords": [
-        "민관 공동투자",
-        "희귀질환 치료제",
-        "과학기술정보통신부",
-        "사업화 전문법인",
-        "바이오 투자"
+        "진중권",
+        "더불어민주당",
+        "조국혁신당",
+        "대법원장 탄핵"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/05/news-p.v1.20261104.bb5f88b4cd7e44dd94450b4bdfa540d3_R.jpg"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/06/rcv.YNA.20260824.PYH2026082408040001300_R.jpg"
     },
     {
-      "id": "news-20261105-017",
-      "headline": "저축은행 예금은 정체인데 기관 자금은 급증… 조달 비용 절감과 유동성 부담 교차",
-      "category": "경제",
+      "id": "news-20261106-017",
+      "headline": "트럼프 미국 대통령, 러시아-우크라이나 전쟁 종식 및 유럽 전체 합의 예고",
+      "category": "글로벌",
       "categories": [
         "경제",
-        "비즈니스"
+        "글로벌"
       ],
       "summary": {
-        "overview": "저축은행 업권의 전체 예금 규모가 1년 동안 100조원 안팎에 머무르며 정체 상태를 벗어나지 못하고 있습니다.\n\n이런 가운데 금융기관과 신탁 등을 통한 기관 자금 유입은 큰 폭으로 늘어난 것으로 나타났습니다.\n\n부보예금은 감소한 반면 비부보 예금은 크게 증가하여 저축은행들이 조달 비용을 낮추는 효과를 거두고 있습니다.\n\n다만 이러한 자금 구조의 변화는 동시에 유동성 관리 측면에서 새로운 부담으로 작용할 가능성을 내포하고 있습니다."
+        "overview": "도널드 트럼프 미국 대통령이 러시아와 우크라이나의 전쟁이 곧 끝날 것이라고 직접 언급했다.\n\n트럼프 대통령은 최근 푸틴 러시아 대통령의 특사와 비공개로 회동을 갖고 구체적인 협상 방안을 논의했다.\n\n이번 협상은 단순한 우크라이나 전선 정지뿐만 아니라 유럽 전체를 포괄하는 광범위한 합의를 목표로 진행된다.\n\n다만 회담의 구체적인 내용과 합의 조건은 아직 외부에 공개되지 않은 상태다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "저축은행 예금 100조 제자리인데… 저금리 기관자금은 ‘쑥’",
-          "url": "https://www.mk.co.kr/news/economy/12198056"
+          "title": "“전쟁 곧 끝난다”…트럼프, 우크라 넘어 ‘유럽 전체 합의’ 예고",
+          "url": "https://www.mk.co.kr/news/world/12200219"
         },
         {
-          "name": "MBC 뉴스",
-          "title": "프랑스 은행 해킹에 1천500억 원 털려‥가상화폐로 자금 세탁",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmV2dEbTBTQ015c2F3TU0xMDZyZmJYcWFjbEMwcGpiazk2SUhvcFpWZ3V0WEdkQW1zSWdKZU9nQ0dFSzNsSkxPVzFBZ0h5WHNXRExEVkZNZHBZSDU5Z0RKdFdJZTMwMm1ySmZtSFExOGtteXR40gF0QVVfeXFMT0tsd3dWOHdwWTF0bnI4RjBuY0xuNVNJekdicFl5RHZzTWp6UGJEc3hsai1ia2kyOTVmcHI1RDZCNWJUNWdwTmNZUGVOS0tXbW9xcURxU3l0RDhJbnlVMjVpenlJT1diQ0taNmVHQWJUb0t4M1I?oc=5"
+          "name": "한겨레",
+          "title": "‘차기 대선주자 물망’ 밴스, 이란전쟁 비판…트럼프와 거리두기",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1286015.html"
         }
       ],
       "keywords": [
-        "저축은행",
-        "부보예금",
-        "조달비용",
-        "유동성"
+        "트럼프",
+        "러시아",
+        "우크라이나",
+        "전쟁종식",
+        "푸틴특사"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/05/news-p.v1.20261105.4a2870e15f7e42b08482024ddd02db03_R.png"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/06/news-p.v1.20261106.a0dfa4a7c89a4f2284908bc8d15a52f7_R.jpg"
     },
     {
-      "id": "news-20261105-018",
-      "headline": "쿠팡, 3분기 역대 최대 매출에도 6천억대 영업손실 기록... 3개 분기 연속 적자",
+      "id": "news-20261106-018",
+      "headline": "미국 중간선거 여파에 삼성전자·SK하이닉스 폭락…개장 직후 서킷브레이커 발동",
       "category": "경제",
       "categories": [
         "경제",
@@ -776,91 +768,94 @@
         "비즈니스"
       ],
       "summary": {
-        "overview": "쿠팡의 모회사 쿠팡아이엔씨가 올해 3분기 역대 최대 매출을 기록했으나, 6000억원이 넘는 영업손실을 내며 3개 분기 연속 적자를 이어갔다.\n\n이번 적자는 인천 물류센터 화재 비용과 개인정보 유출 사고 이후 늘어난 마케팅 지출이 수익성을 크게 끌어내린 결과다. 3분기 매출은 14조2209억원으로 전년 동기 대비 늘었지만, 영업손실은 6423억원으로 적자 전환했다.\n\n인천 물류센터 화재로 인한 손실 3540억원이 반영되었으며, 이를 제외해도 일회성 비용 기준 분기 손실은 2021년 이후 최대 규모다. 다만 화재 손실의 상당 부분은 추후 보험금으로 보전될 예정이며, 김범석 의장은 신규 회원 유입이 공백을 메우고 있다고 밝혔다.\n\n쿠팡 측은 일시적 요인이 해소되면 내년에 실적이 회복될 것으로 기대하고 있다.\n\n반면 업계에서는 유통 채널 간 경쟁 심화와 공정거래위원회의 제재 예고 등 겹악재로 인해 수익성 개선이 쉽지 않을 것이라는 회의적인 시각도 공존한다."
+        "overview": "미국 중간선거 결과로 인공지능 산업 전망이 악화하면서 국내 반도체 대형주가 장 초반부터 큰 타격을 입었습니다.\n\n6일 개장 직후 삼성전자와 에스케이하이닉스에 패닉셀링이 쏟아지며 주가가 각각 9%와 11% 이상 급락했습니다.\n\n코스피가 8% 이상 하락하면서 오전 9시 3분 1단계 서킷브레이커가 발동되었고, 두 종목은 20분간 매매거래가 중단되었습니다.\n\n삼성전자는 18만원 선이 무너졌고 에스케이하이닉스 역시 110만원 아래로 떨어지며 올해 최저치를 기록했습니다.\n\n이번 폭락으로 두 종목 모두 연고점 대비 반토막 수준으로 주저앉았습니다."
       },
       "publishers": [
         {
           "name": "한겨레",
-          "title": "쿠팡 김범석 “신규 회원 유입, 회원 수 공백 충분히 메워”",
-          "url": "https://www.hani.co.kr/arti/economy/consumer/1285793.html"
+          "title": "삼성전자 9%·하이닉스 11% 급락…개장 3분 만에 서킷브레이크",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1286070.html"
         },
         {
-          "name": "Zdnet.co.kr",
-          "title": "김범석 쿠팡 \"와우 멤버십 회원 역대 최대…이탈 회원 일부 아직 미복귀\"",
-          "url": "https://zdnet.co.kr/view/?no=20261104075329"
+          "name": "MBC 뉴스",
+          "title": "코스피·코스닥 동반 5%대 급락 마감‥삼성전자 7%↓·SK하이닉스 9%↓",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PTXlNV2FtWTdPZWlrT2FlY1RQbXRLb2poSFU4dEtQRVFmSVRBSkZnRHhCZ195ZjlEaEJkLVFpY3p1VHlwWEp0bDktX1MtVkNCRjBqakZ0UHotcHU5VjVMOEg0bUFsMmt2Y0RmSy1ZSTNWNS1Y0gF0QVVfeXFMTThKakZGS2RWcEw3Mjl3d0NkbUd0VDFOTHF1OE5nMUJlTzhubDJYR1RBM3c1SFM4WnlwemYyU3pDT040N1dlNFFicnozVThoSmNsMUFZZlVSSEc5ZXFvdk9YdFBLaTllSjRYTV91S2VKTWZWMXE?oc=5"
         }
       ],
       "keywords": [
-        "쿠팡",
-        "영업손실",
-        "김범석",
-        "실적발표",
-        "물류센터화재"
+        "반도체",
+        "서킷브레이커",
+        "삼성전자",
+        "SK하이닉스",
+        "증시폭락"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1104/53_17937837543882_20261104503607.webp"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1106/53_17939251196239_20261106500451.webp"
     },
     {
-      "id": "news-20261105-019",
-      "headline": "한국경제신문 기자들, 미공개 취재 정보로 45억 원대 부당이득 챙겨…금융당국 조사 마무리",
+      "id": "news-20261106-019",
+      "headline": "미국 대선 결과에 따른 반도체 산업 변동성과 한국 경제의 대응 전략",
       "category": "경제",
       "categories": [
         "경제",
+        "글로벌",
         "비즈니스"
       ],
       "summary": {
-        "overview": "한국경제신문 소속 기자들이 미공개 취재 정보를 활용해 주식을 매매하고 약 45억 원 규모의 부당이득을 올린 사건에 대해 금융당국이 조사를 마무리했습니다.\n\n금융감독원 자본시장특별사법경찰은 해당 기자들이 기사 작성 과정에서 알게 된 미공개 호재성 정보를 미리 입수해 관련 주식을 선매수하는 방식으로 시세차익을 거둔 것으로 보고 있습니다.\n\n취재 과정에서 얻은 내부 정보를 개인의 사익 추구에 악용한 이번 정황은 언론의 신뢰도를 실추시키고 자본시장 질서를 교란했다는 지적을 받습니다.\n\n금융당국은 수집한 증거와 진술을 바탕으로 막바지 법리 검토를 진행하고 있습니다.\n\n조사 절차가 끝나는 대로 관련자들을 검찰에 이송해 형사 처벌 수순을 밟을 예정입니다."
+        "overview": "미국 대선 결과가 글로벌 반도체 시장 전반에 큰 파장을 일으키면서 한국 경제의 대응 셈법이 복잡해지고 있다.\n\n새로운 행정부의 대외 정책과 보조금 기조 변화에 따라 국내 주요 반도체 기업들의 투자 전략과 수출 환경이 직접적인 영향을 받는다.\n\n불확실성이 커진 대외 변수 속에서 정부와 산업계는 공급망 재편과 리스크 관리를 위한 대책 마련에 집중하고 있다."
       },
       "publishers": [
         {
           "name": "KBS 뉴스",
-          "title": "[단독] “취재정보로 매매해 45억 부당이득”…한국경제신문 조사 마무리",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlX0tEN0dxdDhJVjNKLVVNbDhFLUw3UnhnNFR6Q2N3d0lsUjlFSTBtNElXeDRpclJoVko0SllDNXNyUWlzSGhtc0FJZVMycFdTMWN2R0ZIR1BjRFU?oc=5"
+          "title": "미 선거에 흔들린 반도체…복잡해진 우리 경제 셈법",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBENzhfQ0lZWDNkZEVlMmlCSmQyOGMzdEt0dDNoclpuOFRlU3I0a19OT0diV2xtRGozRnBxSXJidGtocVNZbldpemxnQXhKem44X0pVa0g2V3NBYWs?oc=5"
         },
         {
           "name": "KBS 뉴스",
-          "title": "[단독] “취재정보로 매매해 45억 부당이득”…한국경제신문 조사 마무리",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XSC1YMW54amZLZ05KaTZKb3NrT3oxTzNyQVkzcUtDVVIzMzNRR0RzM0VnYW5lZnhZV2xKZG5hN05BMnJnT2N1YVN6NmlyeTFnMlM2ZURoVWpHQjV4MUVRU1pVMmtpdw?oc=5"
+          "title": "[사사건건] 미국 중간선거 민주당 승리 전망…경제 영향은?",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NcHFKV09YWWl0aHJBaGJ5a0x3SEt2YXdJMU8xbGtaS1JtLUtsSHM4dXRjb0RuTjJQTlFmOUJ0N3d3eDFWQUFXb2p5MGtueXRqckRvRzFRLXlFMFk?oc=5"
         }
       ],
       "keywords": [
-        "한국경제신문",
-        "미공개 정보",
-        "부당이득",
-        "금융감독원",
-        "주식 선매수"
+        "미국 대선",
+        "반도체",
+        "한국 경제",
+        "공급망",
+        "수출 전략"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261105-019/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261106-019/600/400"
     },
     {
-      "id": "news-20261105-020",
-      "headline": "북한, 순항미사일 집속탄 시험 발사... 남측 비행장 타격 능력 과시",
-      "category": "글로벌",
+      "id": "news-20261106-020",
+      "headline": "테슬라와 스페이스X의 주가 폭락으로 일론 머스크가 재정적 타격을 입음",
+      "category": "경제",
       "categories": [
-        "글로벌"
+        "경제",
+        "비즈니스",
+        "글로벌",
+        "IT/과학"
       ],
       "summary": {
-        "overview": "북한이 탄도미사일에 이어 순항미사일에 중형 탄두를 탑재한 집속탄 시험 발사를 감행했습니다.\n\n이번 시험은 순항미사일의 수직비행 및 정밀공격 능력을 부각하며 남한의 비행장과 탄약고 등을 타격할 수 있음을 과시하려는 의도로 분석됩니다.\n\n군 당국은 북한의 이러한 무력 시위에 대응하여 관련 동향을 면밀히 주시하고 있습니다."
+        "overview": "전기차 기업 테슬라와 우주 탐사 기업 스페이스X의 가치가 급락하면서 최고경영자인 일론 머스크가 직접적인 타격을 받았다.\n\n두 핵심 기업의 동반 부진은 머스크의 자산 규모와 향후 사업 운영 전반에 상당한 압박으로 작용한다.\n\n시장 전문가들은 이번 폭락 사태가 글로벌 경제 불확실성과 개별 기업의 리스크가 맞물린 결과로 분석한다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "北, 이번엔 순항미사일로 집속탄 무력시위…韓 비행장·탄약고 등 타격능력 과시",
-          "url": "https://www.mk.co.kr/news/politics/12194509"
+          "name": "YTN",
+          "title": "테슬라·스페이스X의 폭락...일론 머스크도 '직격탄' [굿모닝경제]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81ZkxBdzlnX19ybkx1cjhLdGRjYjdtb3VHaEpuNjNSd2lUNkphVnFkQTNmTkQxQjIxSlRycno1VTZtdTI4TlBXYmdhVzJod3E5WV95Tm9ybUtaMW1PbXc?oc=5"
         },
         {
-          "name": "매일경제",
-          "title": "北, ‘악마의 무기’ 집속탄 무력시위…축구장 18개 면적 공격력 과시",
-          "url": "https://www.mk.co.kr/news/politics/12192607"
+          "name": "KBS 뉴스",
+          "title": "스페이스X·테슬라 이틀째 급락…시총 500조 원↓",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mM09TV2UzYWlmX01Ya1UxVkdxcGlWQlNPbnpkS01ydFJtdlVCdGNZck9IcndCM0NPNW9uQkZNQjhpQ2hmSGRhV3FUckY1X3o4YmJrRUVtazgxbWc?oc=5"
         }
       ],
       "keywords": [
-        "북한",
-        "순항미사일",
-        "집속탄",
-        "무력시위",
-        "탄두"
+        "테슬라",
+        "스페이스X",
+        "일론 머스크",
+        "주가 폭락"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.f66fae875b474c93b4b568010838deb2_R.jpeg"
+      "image_url": "https://picsum.photos/seed/news-20261106-020/600/400"
     }
   ]
 }
