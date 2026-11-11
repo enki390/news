@@ -1,191 +1,29 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T12:17:22.087097+09:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T10:21:03.861185+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261110-001",
-      "headline": "美 중간선거 후에도 동맹 압박 지속 전망…외교 원로들 \"한미 신뢰 회복 시급\"",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "미국 중간선거 이후에도 동맹국을 향한 미국의 통상 및 안보 압박이 지속될 것으로 예상되면서 외교안보 원로들이 한미 신뢰 회복을 시급한 과제로 제시했습니다.\n\n송민순 전 외교통상부 장관은 전시작전통제권 전환을 급하게 추진할 경우 미국의 협상 카드로 악용될 위험이 있다고 지적했습니다. 조현동 전 외교부 차관은 정보협력 제한 등 얽혀 있는 난제는 정상급 차원의 결단으로 풀어야 한다고 강조했습니다.\n\n아울러 미국 의회의 견제로 핵잠수함 도입이나 우라늄 농축 관련 협상이 난항을 겪을 가능성이 커졌습니다. 대미 투자 역시 조사와 청문회 등 불확실성에 노출되어 있어 우리 정부와 기업의 철저한 대응 노력이 필요한 시점입니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "이 대통령 “미국·국제 경제 상황 예의주시…외교안보 합의 이행 지혜 모아가야”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96dk05RkpkWUptUlhIdy1LUGZRWEJEeHBtWlN2aDV0YWZiRlZPdmNFbC1xSmVHR2ZuYXdmb2hjQmlIRHB0RktXNHFtVjdTaWY3VlRjNmJVU1RoNkU?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "이 대통령, 우즈베키스탄 상원의장 접견 \"경제·인적 교류 강화\"",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54Mk0yWjdDTWZ4UXdKd2d2dVJ5bWU5SHJVdm5MTTdOOWk0aWRTeEFrNmhCd3JkWWpxSTdZQzhaQ3NiSldVazBLT1cwa3Z3dUk2cUZibHJ6QTZDQ2hMZndCMkhBVHRuMEZ6Vjk2YmtTSFR6VjAzN3BwUdIBeEFVX3lxTE1uWk1Ib2QyUFdWUVhLQm5pdF9KVTh4VlVIa3lDVHNsUlFGNndubHZka2xLa1F4QnhIMWtZMDZLeUtqOEx1cEJJbXhsczRZQjNTcDE4eXJhb1R4MUhnZWRsX2xHVjczRjZtaXYyNEt1QURaaEI1MUVBQQ?oc=5"
-        },
-        {
-          "name": "매일경제",
-          "title": "美 중간선거 후에도 동맹 압박 지속…외교안보 원로들 “한미 신뢰 회복 시급”",
-          "url": "https://www.mk.co.kr/news/politics/12200413"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "국제유가, 중동 정세 주시 속 보합권 마감…WTI 0.34%↑",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1dzZldUFGQ3ZDbDRudlFzeC1sMkgySVdhdVJKT0UtVXJrWmdKX0RGdHdoUlBieWRORERBVEQ1S0o4VjhGUjZqNkdoRTh2eTVnalRwSkItTTJhaFk?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "이 대통령 부부, 국제기능올림픽 선수단과 오찬‥\"기술인 인정·존중 받는 사회\"",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QUDFCVE5vNGJQa3FtMTRmVUhaYU9vTVdPTDZ2N056WERUMzFqTl82dDZZU3F5Y2NIZEVqNTJtWXBpeU9WdlptLS03TDVGbjlETU9xbi1MRUhLMjNldlVDYnFITWtBbDhnRGhPQTdpalZ3czd3R3FsWNIBeEFVX3lxTE9UQzNXdVVlbkVCaFk0Y2t4RFkzbTZlcFl3dG5CT0tiQ3NSZjJRQUpnbV9fWEp5bEFOblpmLThhcXlDemJTVV90MGV0NnB4NGhzS0xRZm5nQkVfdElrZmY0SHNmWGN6S21nSi0yUEFvOTNsNUluSVpmdg?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "이 대통령 부부, 국제기능올림픽 선수단 청와대 초청 오찬",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FN1FqelR1LXpnbzBiRXZDeHZRdEVlRWk2dWV6QUNhV2J4aXE1S1Naa3R4dXlVNU1fOXFoZElZb2wxYzN1Z3Z5N3lQWlpIVXdnZGZNZHhPaEJNY0MyRFotMHJmdE9idEZ2a0IwQ29nLUhwaGpuRHdoQ9IBeEFVX3lxTE1Sbi02R3VRUWJ4c01DVUpnM3BQTGVfcGVLZ1RFSXYxbXVRTVBHTDJ6cHl2OHgzQjRMOG9MZ1lFNFJwZnJDX0VCWTlSOHhZTjRuRVBsWXVOeEVGWVBtMTNXV2lseFU4d19QR0wzV0lUUzFvXzVDN28zXw?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "이 대통령, 국제기능올림픽 선수단 청와대 초청 오찬 [현장영상+]",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZHo0bXFDY1BzS1FHeGRlOXBtNXR5SEJ4QmFlSDYwMlpZT0o5OXlCalNnbXVmTE1HVEtyQmwyaVFsVDlBT3laaTNZcUtwU2h3VkVSV084Y2hETERwa01zbGNHazRnMTBsNWIzWFNEWk0tVE42dWc?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "이 대통령, 국제기능올림픽 선수단 청와대 초청 오찬 [현장영상+]",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wdnUtVUEtSnM1eVNKYXR1Ri05RGVGdzY3LWthLTctYTJwOEtwTktTR2xBdm94Vl9Db1BoZnY5dWl2NndNZTZoS3F0X05QNlRmREFRQ3ZSRzl6TkFndExUdDVCaUV4YWg0UjZxR1NFOA?oc=5"
-        }
-      ],
-      "keywords": [
-        "한미관계",
-        "외교안보",
-        "전작권",
-        "대미투자",
-        "미국중간선거"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/06/news-p.v1.20261106.ea253288c44c4cafad8aa996bb497222_R.jpg"
-    },
-    {
-      "id": "news-20261110-002",
-      "headline": "트럼프 \"미·이란 전쟁 종식 긍정적 모멘텀 보이는 중…군사 공격 재개 가능성 낮아\"",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "도널드 트럼프 미국 대통령이 미·이란 전쟁 종식을 위한 긍정적인 모멘텀이 나타나고 있다고 밝혔습니다. 트럼프 대통령은 백악관에서 카타르 총리와 면담한 후, 중동 정세에 즉각 대응할 준비가 돼 있으나 현시점에서 군사 공격을 재개할 가능성은 상당히 낮다고 평가했습니다.\n\n아울러 이스라엘과 중동 전역이 이란의 위협으로부터 안전하게 보호받고 있다며 이란의 핵무기 보유 불가 원칙을 재확인했습니다.\n\n트럼프 대통령은 당초 중간선거가 끝난 뒤 이란에 대한 강력한 군사 타격을 예고한 바 있습니다. 그러나 선거 결과 이후 카타르와 사우디아라비아 등 역내 우방국들이 평화적 해결을 원한다는 점을 들며 군사 행동을 서두르지 않겠다는 유화적 태도로 입장을 선회했습니다."
-      },
-      "publishers": [
-        {
-          "name": "경향신문",
-          "title": "트럼프 “미·이란 전쟁, 긍정적 모멘텀 보인다···군사 공격 재개 가능성 낮아”",
-          "url": "https://www.khan.co.kr/article/202611100813001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "경향신문",
-          "title": "프랑스 “‘냉장고 온도 50도까지 높인 사이버 공격’, 이란 혁명수비대 소행”",
-          "url": "https://www.khan.co.kr/article/202611100759001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "한겨레",
-          "title": "트럼프 “전쟁 조만간 끝날 듯”…이란 최고지도자도 현 상황 종식 지시",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1286552.html"
-        },
-        {
-          "name": "한겨레",
-          "title": "프랑스 “냉장고 공격 배후에 이란 혁명수비대”…대사 불러 항의",
-          "url": "https://www.hani.co.kr/arti/international/europe/1286545.html"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "국제유가, 트럼프 이란 추가 공격 자제 시사에 급락",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jVjN3Q1pybHByUjA0THM0OGR6UXhvWllwV0dDRlFHdmpOVEZEQXJnSjlUVUNQc2xKSlR5aFJCWGFnZnJuSlMtXy1jYnEzV0M4RlBMSDdnTGhqNzg?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "국제유가, 트럼프 이란 추가 공격 자제 시사에 급락",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UZEJYRVN2MnNzTDFPNS1IMUp3czBoNEMxZHo0ak9OSUQxRlNsazY3MS12dGRKY0psbnh6blltVlcwWFBwYVVDQUJqXy1CWktLakY2N2xCakFNek1sU1dBYkZWcUlmZUpvNW9xRTZhMEhtTGIz0gF0QVVfeXFMTlBIemFrTUxJS2NScU01MmtiQllqRE5xZDVrTXFrV1dkWVRnNG1Da1NxaEJUNmJPb29YdjZZVFd2S2U0UGl5M2dSYnVfTXJyZXYyWU9hSktTeHJDbDJPU3ZkM1pPRW1peUd5NDBhOFB5NFNSSC0?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "국제유가, 트럼프 이란 추가 공격 자제 시사에 급락",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHN3R0amdCOTZpTWQyUXFmcmF1VmMtNmlSZ2lVeWI1MzBtZC1ObC1ocFRhR3JPcjA4M1VGdDVwQWdaektubElQaWpqakFwVHNJem0xOXZ6czhtQ1pkVlE?oc=5"
-        }
-      ],
-      "keywords": [
-        "트럼프",
-        "미·이란 관계",
-        "중동 정세",
-        "카타르",
-        "군사 공격"
-      ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1110/53_17942726274428_20261110500743.webp"
-    },
-    {
-      "id": "news-20261110-003",
-      "headline": "젠슨 황 사생활·안보 논란…엔비디아 '1인 리더십' 경영 리스크 부각",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "글로벌",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "엔비디아 젠슨 황 최고경영자(CEO)가 개인 사생활 논란과 함께 대중국 기술 유출 등 국가안보 의혹에 휩싸였습니다. 황 CEO는 전 직원 대상 이메일을 통해 외도 사실을 인정하고 사과했으나, 국가안보 의혹에 대해서는 이사회의 독립적인 조사에 적극 협조하겠다는 입장을 나타냈습니다. 엔비디아 이사회와 도널드 트럼프 미국 대통령은 일단 황 CEO에 대한 신뢰를 표명했으며, 황 CEO는 CEO직을 유지한 채 조사를 받을 예정입니다.\n\n창업 이후 33년간 황 CEO 개인의 리더십에 크게 의존해 온 엔비디아는 이번 사태로 커다란 경영 리스크를 맞닥뜨렸습니다. 명확한 후계 구도가 마련되지 않은 상황에서 황 CEO의 대외 활동이 위축될 경우 주요 사업 전략과 고객사 협력 추진에 차질이 생길 가능성이 큽니다.\n\n여파는 국내 일정에도 미쳤습니다. 서울에서 열린 기술 행사에 참석할 예정이던 황 CEO의 딸 매디슨 황 수석이사가 일정을 전격 취소하면서 국내 기업들과의 면담 계획이 변경되었습니다. 시장에서는 이번 조사 결과와 함께 엔비디아의 향후 경영권 승계 향방을 주시하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "YTN",
-          "title": "[스타트 경제] '젠슨 황 오너리스크' 엔비디아 나홀로 하락...'깐부' 한국 기업 영향은?",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHc3V3WllHdHlIb3EyRThCWWhQbDd3S1V3WUJMTXdVaGJxM0doUm1BZ19tMl9DeXpYaXExN1lSZXdTWFVyWFJVRHBoR000WDVjWlNjejJ2MWszMmZ0OUE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "뉴욕증시 반등 속 엔비디아 홀로 '폭락'...젠슨 황 스캔들 영향? [굿모닝경제]",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Dem53VDA5blhhYUxCd2drRXFkakpBaTV6UjF6TThNRFlTcldQenFWcjlLdDQ2ZXFveWtLdU9UcGEzQmx0X3gyWFFhazVxS3lvYUEtRjlJM3RkUU9fS2c?oc=5"
-        },
-        {
-          "name": "연합뉴스TV",
-          "title": "“’젠슨황 불륜’ 여성, 中 투자자들에 ’엔비디아 친분’ 과시“",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1Y0FZdlRTSzhzem82d0lpcjBaU002SUZmbnlzNnRBN2hPQjNkd0xMWVJkLURZcU1xb3FlbUI5bVNYaWRhZDk0dlFZZVNCTjl2ZDlVQldSblZLOGFIX0FYdE44ZE9HZnc?oc=5"
-        },
-        {
-          "name": "머니투데이",
-          "title": "유가 하락에 증시 반등...'젠슨황 불륜' 엔비디아만 급락[뉴욕마감] - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83amctR0o3YXBSeDk4WnV4WHo4NmJTcVVCdWpCUGhueTZzd19sZU4yLWFlc1BQX0hiWklUNUNfWjhsaEFIOEVaRjhIZnI3b3JERkpLWjZVMHpkdU1HdHo0U3FPc0RGZXZj0gFuQVVfeXFMT0tMeFRHa2Vick5nd0VBaGhJVE9GamZoUG00Uk5vQWhhSll5NGRnNGdWMDV0MENzeDJYcDhDb2dDZUN2dG1KN3dZX0tGSWtIeE5kZmJFa01NcTVaeV94aFI3OTE0amduRXlGUG43RWc?oc=5"
-        },
-        {
-          "name": "Inews24.com",
-          "title": "'엔비디아의 얼굴' 젠슨 황 흔들…AI 제국에 드리운 경영 리스크",
-          "url": "http://www.inews24.com/view/2024016"
-        }
-      ],
-      "keywords": [
-        "엔비디아",
-        "젠슨 황",
-        "국가안보 의혹",
-        "경영 리스크",
-        "후계 구도"
-      ],
-      "image_url": "https://image.inews24.com/v1/ccc567d6831aa2.jpg"
-    },
-    {
-      "id": "news-20261110-004",
-      "headline": "국제유가 전날 8%대 폭락 뒤 반등…WTI 2.7%·브렌트유 3.9% 상승",
+      "id": "news-20261111-001",
+      "headline": "국제유가 하락세 지속되며 지난 8월 말 이후 최저치 기록",
       "category": "글로벌",
       "categories": [
         "글로벌",
         "경제"
       ],
       "summary": {
-        "overview": "국제유가가 전날 8%가 넘는 폭락세를 뒤로하고 하루 만에 상승세로 돌아섰습니다.\n\n서부텍사스산원유(WTI) 가격은 2.7% 올랐으며, 북해산 브렌트유 역시 3.9% 상승하며 오름세를 기록했습니다.\n\n직전 거래일의 급격한 가격 하락에 따른 반발 매수세가 유입되면서 유가 반등을 끌어올린 것으로 풀이됩니다.\n\n시장에서는 최근 유가 변동 폭이 확대됨에 따라 원유 수급 동향과 향후 글로벌 경제 상황이 미칠 영향을 다각도로 분석하고 있습니다."
+        "overview": "국제유가의 하락 흐름이 이어지면서 지난 8월 31일 이후 가장 낮은 수준까지 떨어졌습니다.\n\n글로벌 경기 침체 우려와 원유 수요 감소 전망이 지속되면서 유가 하락 압력이 계속 작용하는 모습입니다.\n\n세계 원유 시장의 수급 변화와 주요 산유국들의 정책 동향에 따라 향후 유가 향방이 결정될 것으로 보입니다.\n\n금융시장 참가자들은 유가 변동이 국내외 물가와 경제 전반에 미칠 파장을 면밀히 점검하고 있습니다."
       },
       "publishers": [
         {
           "name": "KBS 뉴스",
-          "title": "국제유가, 전날 8%대 폭락 후 반등…WTI 2.7%·브렌트 3.9%↑",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EeU9EV3l0QUZmNkN2c3dLOTFuVFlDMUNKeGRHb0pSQS1hQmZaTW1SaXdNb1VHWGtCa1ZMXzdXZm5TSjczQnZ2ekZKa0dnS1dFWHByZUNxYk1zTkU?oc=5"
+          "title": "국제유가 하락세 지속…8월 31일 이후 최저",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zOXJaTkpYS05lamZQTUoxcWY1Wjh0N1lTdXd6UF9mXzNjTFR2M2ZFMkRjdkdVUHhCNTVjWldhSWNDSHQ5cmV3THVqSXJ0eHZwSmRCcFdDODlyelk?oc=5"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "정부 북핵대표, IAEA에 ‘국제사회에 북핵 관심 환기 지속’ 당부",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GUHVqMTRiaHFlVENUTERBVlJKaTM5Q24xd2RVcjN0RnZaaFhDMlBzMTNESVJ2YUFUVWFpOHJxMjVwU212YWJfOGd3cDN1ZktfZ1RQNzN1QjZBTm8?oc=5"
         },
         {
           "name": "MBC 뉴스",
@@ -204,523 +42,700 @@
         },
         {
           "name": "YTN",
+          "title": "국제유가 하락세 지속...8월 31일 이후 최저",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZVWJ2d2xBQzVYWHpWdUI0Skktc0RVVk1uNW1hWUhsMFctOVFsNGVJYmo5S21PZ2hkdmZqLWRycUxfSzR6WVk1QXFQVmp6SEQyM3ItcEVacDl6ZnRHMWc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "정부 북핵대표, IAEA에 \"북핵 문제 국제사회 관심 지속\" 당부",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tVHZOWWwzN1dMZlFrYkFvRmRfcFlzQ1gxSUZKdGgwVWRPejFNYmJMSlFfSkxiY080YkZMODJuanJ2WU44dFNhRjNJMDRta0wtTXpQaHY0czB0S1hfZ0E?oc=5"
+        },
+        {
+          "name": "YTN",
           "title": "국제유가, 폭락 후 반등...WTI 2.7%·브렌트 3.9%↑",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYZjVtYXVCUXloUlhtNXQyYmdJaWZVb1oxSE5SaVRLblJVVHg4X3o0TU5MUWRqalZ1UU5pdkFqYTkzUVI3Q29RMDEwY2ZkTVd3amxvMVgyS1lHWFo3ZXc?oc=5"
         }
       ],
       "keywords": [
         "국제유가",
-        "WTI",
-        "브렌트유",
-        "유가반등",
-        "원유시장"
+        "유가하락",
+        "최저치",
+        "원유시장",
+        "글로벌경제"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261110-004/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261111-001/600/400"
     },
     {
-      "id": "news-20261110-005",
-      "headline": "현대엔지니어링, 통합 샤워 솔루션으로 2026 굿디자인 어워드 수상",
-      "category": "비즈니스",
+      "id": "news-20261111-002",
+      "headline": "미국 중간선거 이후에도 계속되는 동맹 압박에 외교안보 원로들 한미 신뢰 회복 촉구",
+      "category": "글로벌",
       "categories": [
         "경제",
-        "글로벌",
-        "비즈니스"
+        "글로벌"
       ],
       "summary": {
-        "overview": "현대엔지니어링의 '유니버설 플로우 샤워 솔루션'이 2026 굿디자인 어워드에서 국가기술표준원장상인 인간공학디자인 특별상을 받았습니다.\n\n이 솔루션은 안전손잡이와 샤워기, 샤워시트를 하나의 시스템으로 통합한 욕실 제품입니다. 욕실 안에서의 이동과 지지, 샤워, 휴식 과정을 자연스럽게 연결해 어린아이부터 노인까지 모두 안전하게 쓸 수 있도록 설계했습니다.\n\n한편 현대엔지니어링이 시공한 대표 건축물들도 디자인 우수성을 인정받았습니다. 'G1 서울'은 실내건축 부문에서, '에코 아뜰리에'는 환경 디자인 부문에서 각각 우수디자인(GD)에 선정되었습니다."
+        "overview": "미국 중간선거가 끝난 이후에도 동맹국을 향한 미국의 압박 기조는 계속될 가능성이 높습니다. 이에 외교안보 원로들은 양국 간 훼손된 신뢰를 신속히 회복하는 조치가 시급하다고 조언했습니다.\n\n송민순 전 외교통상부 장관은 전시작전통제권 전환을 성급하게 서두르면 오히려 미국 측의 협상 카드로 악용될 수 있다고 지각을 촉구했습니다. 조현동 전 외교부 1차관 역시 제한적인 한미 정보협력 구조를 정상급 회담을 통해 해결해야 한다고 제안했습니다.\n\n미국 의회의 견제가 강화되면서 핵잠수함 확보나 우라늄 농축 협상 등 핵심 안보 현안도 난항을 겪을 것으로 보입니다. 한국 기업들의 대미 투자와 관련한 불확실성도 커지고 있어 다각적인 대비책이 요구됩니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "[게시판] 현대엔지니어링, 샤워 솔루션으로 굿디자인 어워드 수상",
-          "url": "https://www.yna.co.kr/view/AKR20261110085600003"
+          "name": "KBS 뉴스",
+          "title": "이 대통령 “미국·국제 경제 상황 예의주시…외교안보 합의 이행 지혜 모아가야”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WREcwM0hsd0R6ZGJhTE01eFE3Ul9aZEZpYldjUFN1YUF3U1BmcURHNGpZTDhpV0FZeUZsdndlSG9aRTZZUVExVG15Q3p5aDU1VlItclFGcnFSS3M?oc=5"
         },
         {
           "name": "KBS 뉴스",
-          "title": "인천국제공항 인공지능 안내서비스, ‘레드닷 디자인 어워드’ 본상 수상",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02dVFHZXdyejlUM2dxMVBwYmFubG54QnlLWlNJTkhNd3RycEJWRWw2VDdXVjgwNkVIVDhsLUF0WXNqS2ZtekxlRDhZb2JlUWRwQnY4R1hFQWl2Ulk?oc=5"
+          "title": "이 대통령 “미국·국제 경제 상황 예의주시…외교안보 합의 이행 지혜 모아가야”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96dk05RkpkWUptUlhIdy1LUGZRWEJEeHBtWlN2aDV0YWZiRlZPdmNFbC1xSmVHR2ZuYXdmb2hjQmlIRHB0RktXNHFtVjdTaWY3VlRjNmJVU1RoNkU?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "이 대통령, 우즈베키스탄 상원의장 접견 \"경제·인적 교류 강화\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54Mk0yWjdDTWZ4UXdKd2d2dVJ5bWU5SHJVdm5MTTdOOWk0aWRTeEFrNmhCd3JkWWpxSTdZQzhaQ3NiSldVazBLT1cwa3Z3dUk2cUZibHJ6QTZDQ2hMZndCMkhBVHRuMEZ6Vjk2YmtTSFR6VjAzN3BwUdIBeEFVX3lxTE1uWk1Ib2QyUFdWUVhLQm5pdF9KVTh4VlVIa3lDVHNsUlFGNndubHZka2xLa1F4QnhIMWtZMDZLeUtqOEx1cEJJbXhsczRZQjNTcDE4eXJhb1R4MUhnZWRsX2xHVjczRjZtaXYyNEt1QURaaEI1MUVBQQ?oc=5"
+        },
+        {
+          "name": "매일경제",
+          "title": "美 중간선거 후에도 동맹 압박 지속…외교안보 원로들 “한미 신뢰 회복 시급”",
+          "url": "https://www.mk.co.kr/news/politics/12200413"
+        },
+        {
+          "name": "한겨레",
+          "title": "사우디 국영방송 “미국·이란, 우라늄 농축 제한 등 합의 근접”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1286710.html"
         }
       ],
       "keywords": [
-        "현대엔지니어링",
-        "굿디자인어워드",
-        "샤워솔루션",
-        "인간공학디자인",
-        "우수디자인"
+        "한미동맹",
+        "전시작전통제권",
+        "외교안보",
+        "미국중간선거",
+        "대미투자"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110085600003_01_i_P2.jpg"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/06/news-p.v1.20261106.ea253288c44c4cafad8aa996bb497222_R.jpg"
     },
     {
-      "id": "news-20261110-006",
-      "headline": "부산상의, 가덕도신공항 연내 착공 및 통합 LCC 본사 부산 유치 건의",
+      "id": "news-20261111-003",
+      "headline": "서울 노원구 상계대림 59.67㎡ 6억 4500만 원 거래…3년 만에 최고가 경신",
+      "category": "경제",
+      "categories": [
+        "IT/과학",
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "서울 노원구 상계동 상계대림 아파트 전용면적 59.67㎡가 6억 4,500만 원에 매매 계약을 체결했습니다. 2026년 11월 10일 국토교통부 실거래가 공개시스템에 신규 등록된 거래건으로, 최근 3년 이내 거래된 동일 면적 중 최고가를 기록했습니다.\n\n해당 지역 내 중소형 아파트를 중심으로 실거주 및 투자 수요가 이어지면서 매매가가 상향 조정되는 흐름을 보입니다. 국토부 실거래가 데이터를 기반으로 부동산 거래 동향을 추적하는 MAI 부동산 시스템을 통해 이번 거래 내역이 최종 확인되었습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "노원구 상계대림 59.67㎡ 6억 4500만원 거래…최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12204997"
+        },
+        {
+          "name": "매일경제",
+          "title": "노원구 상계주공11단지 58.01㎡ 7억 8천만원 거래… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12204998"
+        },
+        {
+          "name": "매일경제",
+          "title": "강동구 천호동 동아하이빌아파트 84.97㎡ 11억원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12204995"
+        },
+        {
+          "name": "매일경제",
+          "title": "관악구 관악푸르지오 59.58㎡ 12억 7천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12204992"
+        },
+        {
+          "name": "매일경제",
+          "title": "관악구 삼성산주공3단지 58.55㎡ 6억 2천만원 거래…최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12204994"
+        },
+        {
+          "name": "매일경제",
+          "title": "관악구 봉천동 현대(관악) 84.74㎡ 12억 2천만원… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12204993"
+        },
+        {
+          "name": "매일경제",
+          "title": "동작구 대방동 대림아파트 164.79㎡, 22억 9천만원 거래… 최근 3년 신고가 [MAI부동산]",
+          "url": "https://www.mk.co.kr/news/realestate/12204991"
+        }
+      ],
+      "keywords": [
+        "상계대림",
+        "노원구 아파트",
+        "실거래가",
+        "신고가"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261111-003/600/400"
+    },
+    {
+      "id": "news-20261111-004",
+      "headline": "미 하원, 헤그세스 국방장관 탄핵소추안 법사위 회부로 본회의 표결 무산",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "피트 헤그세스 미국 국방장관에 대한 의회의 탄핵 추진이 사실상 무산됐습니다. 미 연방 하원은 10일(현지시간) 헤그세스 장관의 탄핵소추안을 하원 법사위원회로 회부하는 안건을 찬성 211표, 반대 204표로 통과시켰습니다.\n\n이번 결정으로 당초 11일 열릴 예정이던 탄핵소추안 본회의 표결은 저지됐습니다. 안건이 법사위에 계류되면서 오는 12월 중순 끝나는 이번 의회 회기 안에 탄핵 절차를 다시 밟기는 어렵게 됐습니다.\n\n최근 치러진 중간선거 참패 원인으로 이란 전쟁 이슈가 지목되면서 공화당 내 이탈표가 다수 발생할 수 있다는 관측이 나왔으나, 여당 의원들은 단합된 표를 행사했습니다. 공화당에서는 소추안을 발의한 켄터키주 토머스 매시 의원 단 1명만 반대표를 던졌으며, 나머지 의원들이 결집해 트럼프 행정부의 정치적 방패막이 역할을 해냈습니다."
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "[속보] 미 하원, 헤그세스 탄핵소추안 표결 무산···법사위로 회부",
+          "url": "https://www.khan.co.kr/article/202611110819001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "경향신문",
+          "title": "미 국방 “나에 대한 탄핵은 정치적 쇼”···트럼프 “헤그세스 기자회견은 A+++”",
+          "url": "https://www.khan.co.kr/article/202611110738001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "미 공화당, 헤그세스 탄핵안 표결 제동…한숨 돌린 트럼프",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1286729.html"
+        },
+        {
+          "name": "한겨레",
+          "title": "‘탄핵 위기’ 헤그세스 “이란전은 성공한 작전…탄핵은 정치 쇼”",
+          "url": "https://www.hani.co.kr/arti/international/america/1286711.html"
+        }
+      ],
+      "keywords": [
+        "피트 헤그세스",
+        "미국 하원",
+        "탄핵소추안",
+        "법사위원회",
+        "공화당"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1111/53_17943552443576_20261111500389.webp"
+    },
+    {
+      "id": "news-20261111-005",
+      "headline": "잇단 이란 보복 공격에 걸프 6개국, 쿠웨이트에 통합군사사령부 ‘전진 본부’ 창설",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국과 이란 간 분쟁 여파로 이란의 보복 공격을 받아온 걸프지역 6개국이 쿠웨이트에 통합군사사령부 산하 ‘전진 본부’를 설치하기로 합의했습니다. 걸프협력회의(GCC) 회원국인 사우디아라비아, 아랍에미리트(UAE), 바레인, 쿠웨이트, 오만, 카타르는 바레인에서 열린 제23차 공동방위협의회에서 전진 본부 창설을 승인하고 병력을 배치하기로 결정했습니다.\n\nGCC 발표에 따르면 이란은 지난 2월부터 6월까지 미사일 약 1,716기와 무인기 5,311대를 동원해 걸프국들을 총 7,028회 공격했습니다. 국가별로는 UAE가 2,846건으로 가장 많은 타격을 입었으며 사우디아라비아와 쿠웨이트가 그 뒤를 이었습니다.\n\n이란은 중재국을 통해 종전협상을 논의하면서도 전면전 재개 시 걸프국들을 다시 겨냥하겠다고 위협해 왔습니다. 이에 맞서 걸프 6개국은 쿠웨이트 전진 본부를 중심으로 역내 안보 수호와 공동 위협 대응 역량을 한층 강화할 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "잇단 이란 보복 공격에···걸프 6개국, 쿠웨이트에 ‘전진 본부’ 창설 결정",
+          "url": "https://www.khan.co.kr/article/202611102222001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "국제유가, 트럼프 이란 추가 공격 자제 시사에 급락",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jVjN3Q1pybHByUjA0THM0OGR6UXhvWllwV0dDRlFHdmpOVEZEQXJnSjlUVUNQc2xKSlR5aFJCWGFnZnJuSlMtXy1jYnEzV0M4RlBMSDdnTGhqNzg?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "국제유가, 트럼프 이란 추가 공격 자제 시사에 급락",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UZEJYRVN2MnNzTDFPNS1IMUp3czBoNEMxZHo0ak9OSUQxRlNsazY3MS12dGRKY0psbnh6blltVlcwWFBwYVVDQUJqXy1CWktLakY2N2xCakFNek1sU1dBYkZWcUlmZUpvNW9xRTZhMEhtTGIz0gF0QVVfeXFMTlBIemFrTUxJS2NScU01MmtiQllqRE5xZDVrTXFrV1dkWVRnNG1Da1NxaEJUNmJPb29YdjZZVFd2S2U0UGl5M2dSYnVfTXJyZXYyWU9hSktTeHJDbDJPU3ZkM1pPRW1peUd5NDBhOFB5NFNSSC0?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "국제유가, 트럼프 이란 추가 공격 자제 시사에 급락",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHN3R0amdCOTZpTWQyUXFmcmF1VmMtNmlSZ2lVeWI1MzBtZC1ObC1ocFRhR3JPcjA4M1VGdDVwQWdaektubElQaWpqakFwVHNJem0xOXZ6czhtQ1pkVlE?oc=5"
+        }
+      ],
+      "keywords": [
+        "걸프협력회의",
+        "GCC",
+        "쿠웨이트 전진본부",
+        "이란 보복공격",
+        "통합군사사령부"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261111-005/600/400"
+    },
+    {
+      "id": "news-20261111-006",
+      "headline": "미 연준 금리 우려 및 반도체 악재에 삼성전자·SK하이닉스 장 초반 약세",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스",
-        "IT/과학"
+        "글로벌"
       ],
       "summary": {
-        "overview": "부산상공회의소가 우원식 국회의장을 초청해 간담회를 열고 지역 숙원 사업 해결을 위한 국회 차원의 지원을 요청했습니다.\n\n부산상의는 가덕도신공항 부지조성공사의 지연을 막기 위해 계약 체결 이전 물가상승분을 공사비에 반영하는 특별법 개정안을 신속히 처리해 달라고 건의했습니다. 공사비 조정 근거를 마련해 당초 예정된 연내 착공을 차질 없이 추진해야 한다는 취지입니다.\n\n내년 3월 출범하는 통합 진에어 본사의 부산 유치도 강조했습니다. 지역 상공계가 설립에 참여한 에어부산의 역사와 가덕도신공항과의 연계성을 감안하면 통합 LCC 본사 소재지는 부산이 최적지라는 입장입니다.\n\n해양수산부와 HMM 본사 이전에 맞춘 정책금융 지원체계 구축을 위해 한국산업은행법 개정안의 신속한 입법도 요청했습니다. 부산·경남 지역의 오랜 과제인 맑은 물 공급 사업 역시 정부가 지역 간 이견을 조정하며 속도감 있게 추진해 줄 것을 건의했습니다."
+        "overview": "11일 국내 증시에서 삼성전자와 SK하이닉스가 미국 증시 약세의 여파로 장 초반 1% 안팎의 하락세를 보이고 있습니다.\n\n간밤 뉴욕증시는 미국 10월 소비자물가지수(CPI)가 시장 예상치를 상회한 데다, 연방준비제도(Fed) 당국자의 0.5%포인트 금리 인상 가능성 발언이 나오면서 3대 지수가 모두 내렸습니다. 여기에 엔비디아 규제 강화 우려까지 겹치면서 필라델피아 반도체 지수 역시 밀렸습니다.\n\n다만 미국 네오클라우드 기업 코어위브가 시장 기대를 웃도는 3분기 실적과 긍정적인 향후 매출 전망을 내놓으면서, 국내 반도체 대형주들의 낙폭은 일정 부분 제한되는 양상입니다.\n\n수급 측면에서는 외국인이 코스피 전기·전자 업종에서 매도세를 이어가는 반면, 개인과 기관을 비롯해 연기금과 자사주 매입에 나선 기타법인이 매수 우위를 나타내고 있습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "부산상의, 가덕도신공항 연내 착공·LCC 본사 유치 건의",
-          "url": "https://www.yna.co.kr/view/AKR20261110064200051"
+          "title": "[특징주] 삼전·닉스, 美증시 약세에 장초반 1% 안팎 하락",
+          "url": "https://www.yna.co.kr/view/AKR20261111046100008"
         },
         {
-          "name": "동아일보",
-          "title": "대우건설, 가덕도신공항 착공 준비 본격화…2035년 개항 목표",
-          "url": "https://www.donga.com/news/Economy/article/all/20261110/134997506/1"
+          "name": "연합뉴스",
+          "title": "[특징주] 시프트업, 3분기 영업이익 급감에 장초반 8%대↓",
+          "url": "https://www.yna.co.kr/view/AKR20261111041000008"
         },
         {
-          "name": "매일경제",
-          "title": "대우건설 컨소시엄, 가덕도신공항 부지조성공사 실시설계 착수…2035년 개항 목표",
-          "url": "https://www.mk.co.kr/news/realestate/12203575"
+          "name": "연합뉴스TV",
+          "title": "美훈풍에 삼전·닉스 4∼6%↑…코스피·코스닥 ’매수 사이드카’",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRS1XR0E0MzhZcmZvbC0tYndjcXNySnZXRlRPME9iU3g4ZFl2djg2aVJzcm1ra2RLd2Jyd3BCcTRjRUxqakF4ZWVyWUx6TnJ3Qzh3LU5mWUd5NHk2M25LN0VwR2poU1U?oc=5"
         }
       ],
       "keywords": [
-        "부산상공회의소",
-        "가덕도신공항",
-        "통합진에어",
-        "한국산업은행법",
-        "에어부산"
+        "삼성전자",
+        "SK하이닉스",
+        "뉴욕증시",
+        "소비자물가지수",
+        "코어위브"
       ],
-      "image_url": "https://img.yna.co.kr/photo/cms/2026/05/20/95/PCM20260520000095990_P2.jpg"
+      "image_url": "https://img.yna.co.kr/photo/cms/2026/10/29/28/PCM20261029000028990_P2.jpg"
     },
     {
-      "id": "news-20261110-007",
-      "headline": "의사 부부 위장퇴사에 위장미혼까지…아파트 부정청약 354건 적발",
+      "id": "news-20261111-007",
+      "headline": "11월 초 반도체 수출 4배 급증…연간 수출 '1조 달러' 달성 눈앞",
       "category": "경제",
       "categories": [
         "경제",
-        "비즈니스",
-        "IT/과학"
+        "비즈니스"
       ],
       "summary": {
-        "overview": "국토교통부와 국무조정실이 부동산 점검을 실시한 결과, 아파트 부정청약 의심 사례 354건이 적발됐습니다. 이번 조사는 지난해 7월부터 올해 3월까지 분양한 서울 등 규제지역과 인기 단지 43곳, 총 2만5천 가구를 대상으로 진행됐습니다.\n\n적발된 사례 중에는 고소득 의사 부부가 저소득자 전용 특별공급 자격을 얻으려 공고 직전 허위로 퇴사한 뒤 일용직으로 재취업한 정황이 포함됐습니다. 아울러 실제 혼인 관계를 유지하고 자녀를 양육하면서도 무주택 자격을 얻기 위해 혼인신고를 피한 '위장 미혼' 사례도 여럿 확인됐습니다.\n\n유형별로는 부양가족 점수를 높이거나 특정 지역 거주 요건을 채우기 위한 위장전입이 334건으로 대부분을 차지했습니다. 이 외에도 위장 미혼 18건, 청약 자격을 타인에게 넘겨 대리 청약을 진행한 자격 매매 1건이 함께 적발됐습니다.\n\n정부는 적발된 의심 사례 전수를 경찰에 수사 의뢰할 방침입니다. 부정청약 사실이 확정되면 3년 이하의 징역이나 3천만 원 이하의 벌금형에 처해지며, 분양 계약 취소 및 계약금 몰수, 10년간 청약 자격 제한 조치가 이뤄집니다."
+        "overview": "11월 초 반도체 수출이 폭발적으로 늘어나며 전체 수출액이 전년 동기 대비 두 배 이상 증가했습니다. 관세청이 발표한 11월 1일부터 10일까지의 수출액은 335억 달러로, 동기간 기준 역대 최대치를 경신했습니다. 조업일수를 반영한 일평균 수출액 역시 97.7% 늘어난 44억 6천만 달러를 기록했습니다.\n\n이 같은 흐름이 이어지면 올해 연간 누적 수출액은 사상 처음으로 1조 달러를 돌파할 것으로 예상됩니다. 특히 반도체 수출이 331.2% 급증한 166억 달러를 기록하며 전체 수출 실적을 주도했습니다. 반도체가 전체 수출에서 차지하는 비중도 50%에 육박하는 수준까지 확대되었습니다.\n\n국가별로는 중국, 미국, 베트남, 대만 등 주요 교역국에서 고른 증가세를 나타냈습니다. 수입액 역시 에너지와 반도체 수입 증가 영향으로 45% 늘어난 247억 달러를 기록했으나, 수출이 이를 크게 웃돌면서 무역수지는 동기간 역대 최대인 88억 달러 흑자를 달성했습니다."
       },
       "publishers": [
         {
-          "name": "한겨레",
-          "title": "의사 부부가 ‘위장퇴사’로 저소득자 청약…부정청약 354건 적발",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1286560.html"
+          "name": "연합뉴스",
+          "title": "반도체 수출 4배로 껑충…'1조 달러' 곧 달성 전망(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261111035651002"
         },
         {
           "name": "동아일보",
-          "title": "의사 부부까지 청약 꼼수…허위 퇴사로 신혼특공 당첨 후 재입사",
-          "url": "https://www.donga.com/news/Economy/article/all/20261110/134997258/1"
-        },
-        {
-          "name": "매일경제",
-          "title": "분양권 노리고 위장미혼·위장퇴사…청약 꼼수 354건",
-          "url": "https://www.mk.co.kr/news/realestate/12203688"
+          "title": "1~10일 수출 역대 최대 335억달러 111.9%↑…반도체 비중 49.7%",
+          "url": "https://www.donga.com/news/Economy/article/all/20261111/135004118/1"
         }
       ],
       "keywords": [
-        "부정청약",
-        "위장전입",
-        "국토교통부",
-        "아파트 분양",
-        "청약자격 제한"
+        "반도체 수출",
+        "1조 달러",
+        "관세청",
+        "무역수지 흑자",
+        "수출액"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1110/53_17942747370816_1817942746454682.webp"
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/07/24/PYH2026072405380006100_P2.jpg"
     },
     {
-      "id": "news-20261110-008",
-      "headline": "AI·반도체주 과낙폭 인식에 코스피·코스닥 ‘매수 사이드카’ 발동",
+      "id": "news-20261111-008",
+      "headline": "미국 '빅스텝' 우려와 뉴욕증시 하락 속 코스피 보합세…코스닥은 2%대 상승",
       "category": "경제",
       "categories": [
         "경제",
-        "비즈니스",
-        "글로벌",
-        "IT/과학"
+        "글로벌"
       ],
       "summary": {
-        "overview": "미국 민주당의 AI 규제 우려로 급한 불을 겪었던 반도체와 기술주에 대해 과도한 낙폭이었다는 평가가 나오며 10일 국내 증시가 급반등했다.\n\n중동 사태 완화 기대로 인한 국제유가 급락이 더해지면서 코스피와 코스닥 시장 모두 장 초반 매수 사이드카가 발동했다.\n\n삼성전자와 SK하이닉스 등 시가총액 상위 반도체 종목들이 유가증권시장의 상승세를 이끌었고, 외국인과 기관 투자자 역시 동반 매수에 나섰다.\n\n모건스탠리와 UBS 등 주요 투자은행들이 AI 투자 위축 우려가 과장됐다는 분석을 내놓자 기술주 중심의 반발 매수세가 강하게 들어온 것으로 풀이된다.\n\n전날 뉴욕 증시에서 필라델피아 반도체 지수가 급등하고 글로벌 원유 선물 가격이 하락세를 보인 점도 투자심리 회복에 긍정적으로 작용했다."
+        "overview": "미국의 10월 소비자물가지수(CPI)가 시장 예상치를 웃돌면서 연방준비제도(Fed)의 긴축 강화 우려가 다시 커졌습니다. 크리스토퍼 월러 연준 이사의 50bp 인상 가능성 언급에 미 10년물 국채 금리가 장중 5%를 넘어섰고, 뉴욕증시 3대 지수는 일제히 내림세로 마감했습니다. 엔비디아를 비롯한 주요 메모리 반도체 관련 종목도 악재가 겹치며 약세를 면치 못했습니다.\n\n이러한 여파로 11일 국내 코스피는 외국인의 순매도 속에 장 초반 보합권에서 등락을 거듭하며 방향성을 탐색하고 있습니다. 삼성전자와 SK하이닉스 등 반도체 대표 종목이 하락 출발 후 등락을 이어가는 가운데, 기관과 개인이 매수 우위를 보이며 지수 하락을 방어하는 흐름입니다.\n\n반면 코스닥 지수는 외국인과 기관의 동반 매수세에 힘입어 2% 넘게 오르며 상승폭을 키우고 있습니다. 오락·문화, 의료·정밀기기 등 특정 업종이 오름세를 견인하면서 코스피와는 대비되는 견조한 흐름을 나타내고 있습니다."
       },
       "publishers": [
         {
-          "name": "한겨레",
-          "title": "코스피·코스닥 ‘매수 사이드카’…“AI·반도체 주가 낙폭 과도”",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1286548.html"
-        },
-        {
-          "name": "YTN",
-          "title": "속보 코스피 급등세에 매수 사이드카 발동",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tdXJsSmlTQ0hKNTNDcmNkeUpDTzlvRnhSWmhabU5GVXVxa3Ryd09lelN1VERRdTRGc29aS0xORXlGMmc0ODR2Z253WXRtQlAxcWxlN0d1bmNnSVNYNEtONENVVWlvUzU5cS1tSjFnWGxjNUNYaXc?oc=5"
+          "name": "연합뉴스",
+          "title": "코스피, 美 '빅스텝' 우려속 보합권 등락…코스닥 2%대 상승(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261111037351008"
         },
         {
           "name": "MBC 뉴스",
           "title": "장 초반 4%대 급반등‥코스피·코스닥에 '매수 사이드카'",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wWmIyQkF3MkFIWjdXZVZKUVU1VEFMd1phZWt6eWhWMFQ4YUhXOHQ4VUQ0TmRjVTZRbWhhblNqVFUyZ1o2MWRza2lvVDVzSi1ZZkpNQ3Y3NmUxZHpJWGRidmFBUE5lT3VJZnlseHVZRTVBUGZo0gF0QVVfeXFMTk9JRXhDbEx0a2FfWGhrMFY4M2JjRTd3djJNSHViUXo2S012YVpTNFg4dkUzZEhrc0ZNODN4Q0dGSTYyWGRuNjZiY01JRF90VEstZ3A3N3VqTkhiRXE5UDBQSHRLRWRtWDNzbHVjUmI1c2dXZTU?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "최근 하락 딛고 반등...코스피 코스닥 매수 사이드카",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3UFZvdFlFb1NaZUdQMlVtS09aSEU2RHpxRUJqTEdKTXlRc0lybGZBcFk5NTNRckdTbGRQVWlmODI4ZjBQV0NocW9qQWlWQ3NKeXBUWnFGRU9PUWZpdGVNcXZEZmkzSjU5bzI1N3ZtaXRBSW1RWEE?oc=5"
         }
       ],
       "keywords": [
         "코스피",
-        "매수 사이드카",
-        "반도체",
-        "국제유가",
-        "증시 반등"
+        "코스닥",
+        "기준금리",
+        "소비자물가지수",
+        "빅스텝"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1110/53_17942704510532_20261110500498.webp"
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111102890001300_P2.jpg"
     },
     {
-      "id": "news-20261110-009",
-      "headline": "미 상원 에너지 인프라 신속 승인법 토의 착수…데이터센터 규제·환경 반발 맞물려",
+      "id": "news-20261111-009",
+      "headline": "금융보안원 해킹 피해…금융사 직원 개인정보 외부 유출",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "금융권 사이버 보안을 총괄하는 금융보안원이 해킹 공격을 받아 금융회사 직원의 개인정보가 외부로 유출되었습니다.\n\n금융보안원은 해킹 정황을 확인한 직후 해당 시스템 접속을 차단하고 금융위원회 등 관계 기관에 보고했습니다. 현재 금융감독원이 정확한 유출 규모와 피해 정황을 조사 중입니다. 해킹 피해를 본 시스템은 금융회사의 보안 수준을 평가하는 행정 업무용 지원 시스템으로, 현재 운영이 중단된 상태입니다.\n\n유출된 정보는 서류에 기재된 담당자의 이름, 전화번호, 이메일 주소 등으로 일부는 마스킹 처리되어 있었습니다. 금융당국은 보안 취약점과 같은 민감한 정보는 해당 시스템에서 다루지 않아 유출 피해가 없는 것으로 판단하고 있습니다.\n\n다만 금융 보안을 전담하는 대표 기관의 시스템이 뚫렸다는 사실만으로도 금융권 전체의 신뢰성에 큰 타격이 불가피할 전망입니다. 금융위원회는 유사 사고가 다시 발생하지 않도록 금융보안원 전체 시스템을 전면 점검하라고 주문했습니다."
+      },
+      "publishers": [
+        {
+          "name": "한겨레",
+          "title": "금융보안원마저 뚫렸다…해킹에 금융사 정보 유출",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1286705.html"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "금융보안원마저 뚫렸다…상시평가 지원시스템 해킹",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6TjA5eEloTW9PUlJRVDdOWFhpOXNCdWJRaV9rdDY3bVhjcTFTdXcxY3owQldOTmJDVGhDWTdIZDdXZ0lhVENhZGFTWFVPVFhJREJPbFE2OThjV0k?oc=5"
+        },
+        {
+          "name": "Zdnet.co.kr",
+          "title": "차세대 보안 리더 BoB, 대만 국제 해킹대회서 우승",
+          "url": "https://zdnet.co.kr/view/?no=20261110091950"
+        }
+      ],
+      "keywords": [
+        "금융보안원",
+        "해킹",
+        "개인정보 유출",
+        "금융위원회",
+        "보안 시스템"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1110/17943131471337_20261110503465.webp"
+    },
+    {
+      "id": "news-20261111-010",
+      "headline": "트럼프, '젠슨 황 중국 스파이 연루 의혹' 보고받고도 무조치 대응 논란",
       "category": "글로벌",
       "categories": [
+        "경제",
+        "글로벌",
+        "IT/과학",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 최고경영자(CEO)의 중국 스파이 연루 의혹을 사전에 보고받고도 아무런 조치를 취하지 않은 것으로 나타났습니다. 뉴욕타임스(NYT) 보도에 따르면 트럼프 대통령은 지난 5월 중국으로 향하던 전용기 안에서 마코 루비오 국무장관으로부터 해당 첩보를 전달받았습니다.\n\n당시 트럼프 대통령은 황 CEO를 중국 순방 일정에 기습 합류시켰으며, 의혹을 전달받은 이후에도 별다른 우려를 표하지 않고 일정을 강행했습니다. 트럼프 대통령은 최근 취재진의 질문에 관련 사실을 들은 바 없다고 부인했으나, 지난해 늦가을 첫 보고를 포함해 최소 두 차례 이상 관련 내용을 인지했던 것으로 전해졌습니다.\n\n미국 수사 당국은 황 CEO와 연인 관계였던 인물이 중국 정보기관 국가안전부와 연계된 것으로 보고 있습니다. 황 CEO는 초기 해명과 달리 해당 여성과의 관계를 인정했고, 엔비디아 측은 자체적인 독립 조사에 착수했습니다.\n\n이번 사실이 공개되면서 미국 정치권에서는 국가 안보 부실 대응에 대한 비판이 거세지고 있습니다. 민주당 측은 트럼프 대통령이 국가 안보를 수호하기보다 측근 기업인을 감싸는 데 치중했다고 강력히 질타했습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "\"스파이인 줄 몰랐대\"‥트럼프 감싸기에도 벼랑 끝 젠슨 황",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sWi1JNmhSUVJBRUd4UEY1RlJyNHk2aXdpd2JTblJKOFVpWm5wZ25tVzJYVUNCeV9GckJyTGRWSm1GZWVkRFd2bkVKNjBfc3NiVHF2S2RnOEVrcVRlbnM3TWZwS3djVFFiZWI5Q1J5ZUg1NjFmY2N5edIBeEFVX3lxTE1NWWN2ZGZCZk0xR090NEhDMjNCVGJjREhWdWJia3RFUHFBUXRMYVRvTjd1dTlEYl9rQWQtVmw0cTdzVjN2R3RNaHB5Q3FVdU40bVBVS21keTQzN29TdEMxOVpVaHRrbVBWUHpERldKb3VBS3RUVXphLQ?oc=5"
+        },
+        {
+          "name": "경향신문",
+          "title": "‘젠슨 황 스캔들’ 몰랐다던 트럼프···NYT “5월 중국행 전용기서 이미 보고 받아”",
+          "url": "https://www.khan.co.kr/article/202611110925001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "한겨레",
+          "title": "NYT “트럼프, 젠슨 황 중국 정보원 접촉 보고받고도 방중 동행”",
+          "url": "https://www.hani.co.kr/arti/international/america/1286722.html"
+        }
+      ],
+      "keywords": [
+        "트럼프",
+        "젠슨 황",
+        "엔비디아",
+        "중국 스파이 의혹",
+        "에어포스원"
+      ],
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1111/53_17943495480142_20261111500156.webp"
+    },
+    {
+      "id": "news-20261111-011",
+      "headline": "엔비디아 리스크 털어낸 코스피 4% 급반등‥추가 상승 시험대",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "엔비디아 차세대 인공지능 칩 설계 결함 우려 등 글로벌 빅테크발 악재 속에서도 코스피가 4% 넘게 급반등했습니다.\n\n최근 급격한 하락세를 겪었던 삼성전자와 SK하이닉스를 비롯한 반도체 대형주에 저가 매수세가 강하게 유입되면서 지수 반등을 견인했습니다. 외국인과 기관 투자자들은 낙폭 과대 인식을 바탕으로 동반 순매수에 나서며 충격을 흡수했습니다.\n\n시장 전문가들은 단기적인 급락에 따른 기술적 반등 성격이 짙은 만큼 당분간 변동성 장세가 이어질 수 있다고 진단합니다. 향후 엔비디아의 실적 발표와 미국 경기 지표 발표 결과에 따라 국내 증시의 추세적 반등 여부가 결정될 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "젠슨 황 리스크에도 코스피 4% 반등‥상승세 이어갈까?",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NMkpjcWd1NGczYmxLZWlhOTMzOF9FSGRMSDRIaUdtWkU5dmpQcXk4QkQzOHhZRXIwWnk0NDNiV2hyd3VXb3FhR3EyQTVUZElHV2k2aTIxclhTakgwZzRFZFBXMUNRVDlYZzhYTUdHbjlvZ3lTWkFUbdIBeEFVX3lxTE5TRUdCWTU4clQ0VWZENGRNUElSazVnYTloSkg0WjRlX09qcDlUOFZPZ0JCWm12R3hCd2xJZHJzTlkwRTJiUlNQTmtwMVpYdGVJOUVQMlJBRlVSRG9FelZDSS1MbGtiWUt6TFRKby1KeTF1aXlXdHFGbA?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "[스타트 경제] '젠슨 황 오너리스크' 엔비디아 나홀로 하락...'깐부' 한국 기업 영향은?",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHc3V3WllHdHlIb3EyRThCWWhQbDd3S1V3WUJMTXdVaGJxM0doUm1BZ19tMl9DeXpYaXExN1lSZXdTWFVyWFJVRHBoR000WDVjWlNjejJ2MWszMmZ0OUE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "뉴욕증시 반등 속 엔비디아 홀로 '폭락'...젠슨 황 스캔들 영향? [굿모닝경제]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Dem53VDA5blhhYUxCd2drRXFkakpBaTV6UjF6TThNRFlTcldQenFWcjlLdDQ2ZXFveWtLdU9UcGEzQmx0X3gyWFFhazVxS3lvYUEtRjlJM3RkUU9fS2c?oc=5"
+        }
+      ],
+      "keywords": [
+        "코스피",
+        "젠슨 황",
+        "엔비디아",
+        "반도체",
+        "증시 반등"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261111-011/600/400"
+    },
+    {
+      "id": "news-20261111-012",
+      "headline": "엔비디아, 젠슨 황 CEO '중국 연계 의혹' 독립 조사 책임자에 한국계 준 김 변호사 선임",
+      "category": "글로벌",
+      "categories": [
+        "경제",
         "글로벌",
         "비즈니스",
         "IT/과학"
       ],
       "summary": {
-        "overview": "미국 상원이 에너지 인프라 인·허가 절차를 단축하고 대형 데이터센터의 전력망 개선 비용 부담을 늘리는 '미국 경제적 부담 완화·일자리법(BAAJA)' 토의에 착수했습니다. 이번 절차 표결은 민주당이 압승한 중간선거 직후 연방의회에서 추진된 첫 주요 법안 조치입니다.\n\n도널드 트럼프 대통령은 데이터센터가 자체 전력을 조달하고 전력망 투자 비용을 부담하도록 보장한다며 법안 통과를 강하게 요구했습니다. 초당적 법안 발의에 참여한 의원들 역시 전력 인프라 확충과 전기요금 부담 완화를 위해 신속한 승인 절차가 필수적이라는 입장을 밝혔습니다.\n\n반면 시에라클럽 등 주요 환경단체와 민주당 일부 의원들은 법안에 강력히 반발하고 있습니다. 환경영향평가를 제한해 주민 의견 수렴을 어렵게 만들고, 데이터센터 건립을 오히려 부추길 수 있다는 우려 때문입니다.\n\n상원 최종 가결 여부와 함께 하원 통과까지는 난항이 예상됩니다. 차기 하원의장으로 거론되는 하킴 제프리스 민주당 원내대표가 환경 보호 조치 강화를 요구하고 있어 의회 논의 과정에서 상당한 진통이 따를 전망입니다."
+        "overview": "엔비디아가 젠슨 황 최고경영자(CEO)를 둘러싼 중국 정보기관 연계 의혹을 조사하기 위해 미 연방검사 출신 한국계 준 김(김준현) 변호사를 선임했습니다. 이번 조사는 위기관리와 고위험 소송 분야 전문 로펌인 '와첼 립턴 로젠 앤드 카츠(WLRK)'가 주도합니다.\n\n준 김 변호사는 뉴욕남부지검 검사장 직무대행을 지낸 한인 2세 법조인입니다. 그는 과거 앤드루 쿠오모 전 뉴욕주지사의 성추문 독립 조사를 성공적으로 수행하여 사퇴를 이끌어낸 이력을 갖고 있으며, 2017년 맨해튼 트럭 테러 사건 수사도 지휘했습니다.\n\n앞서 엔비디아 이사회는 황 CEO와 중국 스파이로 의심되는 여성 사업가의 관계를 둘러싼 의혹에 대해 독립 조사에 착수했다고 발표했습니다. 이사회는 외부 변호사의 자문을 받는 독립이사 위원회가 조사를 감독하며, 황 CEO 역시 조사 과정에 협조하기로 했다고 설명했습니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "미 의회 블루웨이브 첫 가동…데이터센터 규제법안 첫 시험대",
-          "url": "https://www.yna.co.kr/view/AKR20261110083800009"
+          "name": "YTN",
+          "title": "흔들리는 '젠슨 황' 33년 독주 체제...엔비디아 후계 구도에 쏠리는 시선 [굿모닝경제]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SdkV5VDNPdVVYcmlMeDJJc1lmTENKXzE3bWhGYVN1SlFycV9HcGJXbVhzeGZVeXJVS3BBR1M0bWFWY1pBQzRwM2FkNWJ4c0VCYzd5MGRMVWNBS183Q2c?oc=5"
         },
         {
-          "name": "한겨레",
-          "title": "‘블루 쓰나미’ 이후…백악관 넘어 의회·지역 사회로 한국 외교 지평 넓혀야",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1286540.html"
+          "name": "경향신문",
+          "title": "엔비디아 ‘젠슨황 스캔들’ 독립 조사 책임자에 한국계 전 연방검사",
+          "url": "https://www.khan.co.kr/article/202611110809001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         },
         {
-          "name": "연합뉴스",
-          "title": "실적 엇갈린 통신3사…다음 성장동력은 AI 데이터센터",
-          "url": "https://www.yna.co.kr/view/AKR20261110085300017"
+          "name": "매일경제",
+          "title": "‘젠슨황 스캔들’ 엔비디아 이틀새 주가 -10%… 앤트로픽은 상장 강행?",
+          "url": "https://www.mk.co.kr/news/stock/12205004"
         }
       ],
       "keywords": [
-        "미국 상원",
-        "데이터센터",
-        "에너지 인프라",
-        "BAAJA 법안",
-        "전력망"
+        "엔비디아",
+        "젠슨 황",
+        "준 김",
+        "독립 조사",
+        "WLRK"
       ],
-      "image_url": "https://img.yna.co.kr/photo/reuters/2026/10/30/PRU20261030151201009_P2.jpg"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/11/news-m.v1.20261111.eb83cbdcd82e494abe935b0f82a0635e_R.jpg"
     },
     {
-      "id": "news-20261110-010",
-      "headline": "GS건설, 겨울철 콘크리트 품질 확보 위해 레미콘 공장 사전 전수검증 실시",
+      "id": "news-20261111-013",
+      "headline": "더본코리아, 이탈리아 우녹스 스마트 오븐에 한식 조리 프로그램 탑재 추진",
       "category": "비즈니스",
       "categories": [
         "경제",
-        "비즈니스"
+        "비즈니스",
+        "글로벌"
       ],
       "summary": {
-        "overview": "GS건설이 올 겨울철 건설 현장의 콘크리트 품질을 확보하기 위해 레미콘 공급 단계부터 선제적인 관리 체계를 가동합니다. 지난달 12일부터 동절기 내한 콘크리트를 공급할 예정인 전체 레미콘 공장을 대상으로 사전 성능 검증을 진행 중입니다.\n\n겨울철 기온이 하강하면 타설한 콘크리트가 얼어 구조물 품질에 문제가 생길 수 있어, 영하의 날씨에도 안정적인 강도를 내는 내한 콘크리트의 사용이 늘고 있습니다. 내한 콘크리트는 조강 시멘트와 특수 첨가제를 활용해 비닐을 덮는 단순 양생만으로도 동해 발생 없이 필요한 강도를 확보하는 특징이 있습니다.\n\nGS건설은 영하 환경에서의 동해 발생 여부와 강도 발전 등 기본 성질을 직접 검증해 정해진 기준을 충족하는지 파악하고 있습니다. 품질 기준에 미달하는 레미콘 공장은 현장 납품을 즉시 제한할 계획입니다.\n\n회사 측은 저온 환경에서 초기 강도를 확보하는 것이 핵심인 만큼 공장별 사전 검증을 필수로 진행하겠다고 밝혔습니다. 자체 연구 역량을 바탕으로 품질 리스크를 사전에 차단하고 동절기에도 안전한 구조물을 시공한다는 방침입니다."
+        "overview": "백종원 대표가 이끄는 더본코리아가 이탈리아의 상업용 스마트 오븐 전문 기업 우녹스와 업무협약을 체결하고 유럽 시장 공략에 속도를 냅니다.\n\n이번 협약에 따라 더본코리아는 자체 개발한 TBK 소스 11종을 활용해 우녹스 오븐으로 구현할 수 있는 한식 메뉴 조리 방식을 실험합니다. 양사는 데이터 기반의 표준 조리법과 운영 매뉴얼을 공동 개발하여, 한식 조리 경험이 부족한 현지 사용자도 일정한 맛과 품질을 낼 수 있도록 지원할 계획입니다.\n\n우녹스는 지난해 글로벌 매출 3억 6천만 유로를 기록한 오븐 전문 기업으로, 열풍과 증기를 결합한 스마트 콤비 오븐에 1천 개 이상의 조리 프로그램을 탑재하고 있습니다. 더본코리아는 유럽 현지에서 우녹스 오븐을 사용하는 고객들에게 한식을 자연스럽게 알리며 새로운 사업 기회를 만들어갈 방침입니다.\n\n앞서 더본코리아는 독일 유통업체 글로버스가 운영하는 하이퍼마켓 푸드코트에 소스와 조리법 컨설팅을 제공하며 유럽 시장에 첫발을 내디뎠습니다. 향후 우녹스 오븐을 통한 한식 레시피 홍보와 글로버스 푸드코트 컨설팅 사업을 두 축으로 삼아 유럽 공략을 계속 강화할 계획입니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "GS건설 \"겨울철 콘크리트 품질 확보\"…레미콘 공장 전수검증",
-          "url": "https://www.yna.co.kr/view/AKR20261110082500003"
+          "title": "더본코리아, 우녹스 오븐에 한식 조리 프로그램 탑재 추진",
+          "url": "https://www.yna.co.kr/view/AKR20261111042400030"
         }
       ],
       "keywords": [
-        "GS건설",
-        "내한 콘크리트",
-        "레미콘 전수검증",
-        "동절기 시공",
-        "품질 관리"
+        "더본코리아",
+        "우녹스",
+        "백종원",
+        "한식 조리법",
+        "유럽 진출"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110082500003_01_i_P2.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/11/AKR20261111042400030_01_i_P2.jpg"
     },
     {
-      "id": "news-20261110-011",
-      "headline": "충북도·기후부·지역난방공사, 재생 및 미활용열 활용 확대 업무협약 체결",
+      "id": "news-20261111-014",
+      "headline": "한진, 보유 자사주 전량 소각 발표에 주가 16%대 급등",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "충청북도가 기후에너지환경부, 한국지역난방공사와 손잡고 재생에너지 및 미활용열의 활용 확대를 위한 협력 체계를 구축합니다.\n\n이번 협약은 총사업비 3천726억 원을 들여 완공한 청주 친환경에너지 개선공사의 준공 시점에 맞춰 체결했습니다. 공사를 통해 난방공사 청주지사의 열병합발전소 용량을 기존 58㎿에서 270㎿로 대폭 증축하면서 청주 일대 9만 3천444가구에 안정적인 열과 전기를 공급할 기반을 마련했습니다.\n\n협약에 참여한 세 기관은 소각열과 산업단지 미활용열, 반도체 및 데이터센터 등 산업공정에서 발생하는 여열 정보를 공유하고 수요처 발굴에 나섭니다. 아울러 재생·미활용열을 활용한 사업모델 개발과 타당성 조사, 투자 검토를 비롯해 태양광, 바이오가스, 수열, 하수열 등 다양한 재생에너지 사업 추진 과정 전반에서 협력을 이어갈 계획입니다."
+        "overview": "한진이 보유 중인 자기주식을 전량 소각하기로 확정하면서 장 초반 주가가 가파른 상승세를 기록했습니다. 11일 오전 유가증권시장에서 한진은 전 거래일 대비 16.70% 오른 2만1450원에 거래되며 강한 매수세를 보였습니다.\n\n자사주 소각은 시장에 유통되는 주식 수를 실질적으로 줄여 주당순이익을 높이는 대표적인 주주가치 제고 방안입니다. 투자자들은 한진의 이번 행보를 적극적인 주주환원 의지로 받아들이며 긍정적인 평가를 내놓았습니다. 물류 업황 전반의 변화 속에서 기업가치 개선에 속도를 낼 것이라는 기대감이 형성되고 있습니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "충북도·기후부·난방공사, '재생·미활용열 활용 확대' 협약",
-          "url": "https://www.yna.co.kr/view/AKR20261110082400064"
+          "name": "매일경제",
+          "title": "한진, 자사주 전량 소각 결정에 16%대 급증…주주환원 확대 기대감 쑥",
+          "url": "https://www.mk.co.kr/news/stock/12205060"
         }
       ],
       "keywords": [
-        "충청북도",
-        "한국지역난방공사",
-        "친환경에너지",
-        "미활용열",
-        "열병합발전소"
+        "한진",
+        "자사주 소각",
+        "주주환원",
+        "주가 급등",
+        "유가증권시장"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110082400064_01_i_P2.jpg"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.283aa6617bff470e97298fd5a605f001_R.png"
     },
     {
-      "id": "news-20261110-012",
-      "headline": "한미약품이 MSD에 기술수출한 MASH 신약, 글로벌 임상 2b상서 유효성 입증",
-      "category": "경제",
+      "id": "news-20261111-015",
+      "headline": "포톤 자회사 포톤엣지큐, 서울대와 차세대 전고체 냉각기술 공동 개발",
+      "category": "비즈니스",
       "categories": [
         "경제",
         "비즈니스",
         "IT/과학"
       ],
       "summary": {
-        "overview": "한미약품이 개발해 다국적 제약사 MSD에 기술 수출한 대사이상 지방간염(MASH) 치료 후보물질 '에피노페그듀타이드'가 글로벌 임상 2b상에서 치료 유효성을 확인했습니다. MSD는 환자 381명을 대상으로 52주간 진행한 임상에서 간 섬유화 개선 효과를 확인했다고 발표했습니다.\n\n이번 임상에서 에피노페그듀타이드를 투약한 환자군의 MASH 해소 비율은 용량에 따라 56~63%를 기록해 위약군의 13%를 크게 웃돌았습니다. 안전성 측면에서도 비만 치료제 위고비의 핵심 성분인 세마글루타이드와 유사한 수준을 보였습니다.\n\n에피노페그듀타이드는 약효 지속 시간을 늘려주는 한미약품의 '랩스커버리' 기술을 적용한 GLP-1·글루카곤 이중 작용제입니다. 한미약품은 지난 2020년 MSD와 총 8억 7천만 달러 규모의 기술수출 계약을 체결했으며, 해당 물질은 미국 식품의약국(FDA) 패스트트랙으로 지정돼 개발이 진행 중입니다."
+        "overview": "코스닥 상장사 포톤의 자회사 포톤엣지큐가 차세대 전고체 냉각기술 개발에 본격 착수합니다. 포톤엣지큐는 서울대학교 산학협력단과 기술 협력 체계를 구축하고 공동 연구를 시작했습니다.\n\n이번 개발 프로젝트는 서울대학교 화학생물공학부 정인 교수 연구팀과 함께 진행합니다. 전고체 냉각기술은 기존 냉매 방식과 달리 고체 소재의 특성을 활용해 열을 제어하는 첨단 냉각 설루션입니다.\n\n포톤엣지큐는 학계의 고도화된 기초 원천 기술을 이전받아 산업용 냉각 모듈로 상용화할 방침입니다. 고성능 반도체와 전자 장비의 발열 문제를 해결해 차세대 열 관리 시장에서 기술 경쟁력을 확보한다는 계획입니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "MSD \"한미약품 지방간염 신약, 임상 2b상서 유효성 확인\"",
-          "url": "https://www.yna.co.kr/view/AKR20261110081100017"
+          "name": "매일경제",
+          "title": "포톤 자회사 포톤엣지큐, 서울대와 손잡고 차세대 전고체 냉각기술 개발",
+          "url": "https://www.mk.co.kr/news/stock/12205049"
         }
       ],
       "keywords": [
-        "한미약품",
-        "MSD",
-        "에피노페그듀타이드",
-        "MASH",
-        "임상2b상"
+        "포톤엣지큐",
+        "전고체 냉각기술",
+        "서울대 산학협력단",
+        "포톤",
+        "열관리"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/10/AKR20261110081100017_01_i_P2.jpg"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.43cb765999a34e339f219dd4e99892a1_R.jpg"
     },
     {
-      "id": "news-20261110-013",
-      "headline": "공제회 지방 이전 시 10년간 회원 손실 8.6조 원 달할 것으로 분석",
+      "id": "news-20261111-016",
+      "headline": "셀바스AI, 예스24 전자책 서비스에 온디바이스 AI 음성합성 기술 적용",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "인공지능 전문기업 셀바스AI가 독자 개발한 온디바이스 음성합성(TTS) 기술을 예스24 전자책 앱에 탑재하며 상용화에 성공했습니다. 이번 솔루션 적용을 통해 예스24 이용자들은 네트워크 연결 유무와 관계없이 고품질 오디오로 전자책을 감상할 수 있습니다.\n\n해당 솔루션은 크로스링구얼 기술을 적용하여 다국어 음성을 자연스러운 톤으로 구현합니다. 서버를 거치지 않고 기기 내부에서 직접 구동되어 데이터 소비 부담이 없으며 반응 속도와 보안성 면에서도 강점을 지닙니다.\n\n셀바스AI는 예스24 전자책 상용화를 계기로 다양한 디지털 콘텐츠 및 모바일 애플리케이션 분야로 온디바이스 AI 솔루션 공급을 늘려갈 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "셀바스AI, AI 음성합성 기술 예스24 전자책에 적용·상용화",
+          "url": "https://www.mk.co.kr/news/stock/12205044"
+        }
+      ],
+      "keywords": [
+        "셀바스AI",
+        "예스24",
+        "음성합성",
+        "온디바이스",
+        "전자책"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.43a41f8fd29c4c60bbf344f65b2370da_R.png"
+    },
+    {
+      "id": "news-20261111-017",
+      "headline": "MK시그널, 골든크로스 돌파 종목으로 한국타이어앤테크놀로지·쓰리빌리언 포착",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "한국정책평가연구원이 공제회의 지방 이전에 따른 경제성을 분석한 결과, 이전 추진 시 10년 동안 회원들이 입을 손실이 총 8조 6,000억 원에 달할 수 있다는 분석이 나왔습니다. 공제회가 수도권을 벗어날 경우 전문 인력 이탈과 수익성 악화가 불가피해 회원 이자율이 연 1.13%포인트 깎일 위험이 크다는 지적입니다.\n\n공제회 자산 운용은 대체투자 비중이 높아 금융 네트워크와 전문 인력 확보가 사업 성패를 가릅니다. 지방으로 이전하면 수도권 중심의 투자 정보망에서 소외되고 인재 확보가 어려워져 자산 운용 효율이 크게 저하될 우려가 있습니다.\n\n자율적인 민간 성격을 띤 공제회는 과거 1차 공공기관 이전 대상에서도 제외된 바 있습니다. 연구 결과는 지역 균형 발전이라는 명분만으로 이전을 강행할 경우 회원들의 직접적인 재산상 피해로 직결될 수 있음을 경고합니다."
+        "overview": "인공지능 종목 분석 서비스 MK시그널이 이동평균선 골든크로스를 돌파한 주요 종목을 발표했습니다. 이번에 포착한 핵심 종목은 한국타이어앤테크놀로지와 쓰리빌리언입니다.\n\n한국타이어앤테크놀로지는 글로벌 타이어 시장에서의 기술력과 안정적인 실적 흐름을 바탕으로 단기 이동평균선이 장기 이동평균선을 뚫고 올라서는 긍정적인 기술적 지표를 나타냈습니다. 시장에서는 향후 주가 상승 모멘텀 형성 여부를 유심히 살펴보고 있습니다.\n\n함께 선정된 쓰리빌리언 역시 최근 거래량 증가와 함께 상향 흐름을 타고 있으며, 기술적 분석 관점에서 강한 전환 신호인 골든크로스를 기록했습니다. MK시그널은 AI 기반 데이터를 활용해 시장 내 주요 이슈 종목의 매매 시점과 주가 흐름을 정밀하게 분석하여 전달하고 있습니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "“공제회 지방이전 땐 회원 손해 10년간 8.6조”",
-          "url": "https://www.mk.co.kr/news/stock/12203731"
+          "title": "[MK 골든크로스 돌파종목 : 한국타이어앤테크놀로지(161390) & 쓰리빌리언(394800)]",
+          "url": "https://www.mk.co.kr/news/stock/12205038"
         }
       ],
       "keywords": [
-        "공제회",
-        "지방 이전",
-        "한국정책평가연구원",
-        "대체투자",
-        "회원 손실"
+        "MK시그널",
+        "골든크로스",
+        "한국타이어앤테크놀로지",
+        "쓰리빌리언",
+        "주식분석"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/10/news-p.v1.20261110.13caede378d8459692c2a9e0abbba281_R.jpg"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.d8ea939847564d1aaf55135ca41ba49a_R.jpg"
     },
     {
-      "id": "news-20261110-014",
-      "headline": "투자 초고수들, 삼성바이오로직스·삼성전자우 사들이고 반도체 대형주는 매도",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "미래에셋증권의 주식 투자 수익률 상위 1% 초고수들이 최근 삼성바이오로직스와 삼성전자우를 집중적으로 사들였습니다. 반면 단기간 주가가 급등한 삼성전자 보통주와 SK하이닉스 등 반도체 대형주는 매도하며 이익 실현에 나서는 모습을 보였습니다.\n\n특히 하루 만에 순매수 1위로 올라선 삼성바이오로직스에는 주가 하락을 기회로 삼은 저가 매수세가 강하게 유입되었습니다. 증권가에서는 내년 5공장의 본격적인 가동과 미국 록빌 공장 확보를 바탕으로 삼성바이오로직스의 실적 성장이 이어질 것으로 평가합니다.\n\n메리츠증권은 내년 하반기부터 5공장의 이익 기여가 확대되면서 매출과 영업이익이 모두 증가할 것으로 내다봤습니다. 현지 생산 거점을 마련해 글로벌 고객사를 추가로 유치할 가능성이 커진 점도 긍정적인 요인으로 꼽힙니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“삼성전자 팔고 ‘삼전우’ 샀다”…주식 초고수들 엇갈린 선택 [주식 초고수는 지금]",
-          "url": "https://www.mk.co.kr/news/stock/12203730"
-        }
-      ],
-      "keywords": [
-        "삼성바이오로직스",
-        "삼성전자우",
-        "주식 초고수",
-        "순매수",
-        "반도체주"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/10/news-p.v1.20261110.01b80032e4a149b8b445b07bc549f99e_R.png"
-    },
-    {
-      "id": "news-20261110-015",
-      "headline": "아파트 관리 브랜드화 나선 KES 서일섭 대표 \"체계적인 관리가 집값 가치 결정할 것\"",
-      "category": "경제",
+      "id": "news-20261111-018",
+      "headline": "교보리얼코, 전기차 화재 신속 대응 소화 시스템 특허 등록",
+      "category": "비즈니스",
       "categories": [
         "경제",
         "IT/과학",
         "비즈니스"
       ],
       "summary": {
-        "overview": "국내 최대 아파트 관리 기업 KES의 서일섭 대표가 아파트 관리의 브랜드화와 자산 가치 향상의 연관성을 강조했습니다. 연식이 오래된 아파트라도 체계적이고 전문적인 관리가 뒷받침되면 자산 가치를 유지하고 올릴 수 있다는 설명입니다.\n\nKES는 투명한 운영 체계를 구축하기 위해 적정 공사비와 관리비 기준을 제시하는 'KES 지수' 개발을 추진 중입니다. 아파트 입주 초기부터 노후화, 재건축 단계까지 생애주기별 맞춤형 관리 솔루션을 제공하여 아파트 관리 시장의 수준을 한 단계 끌어올릴 계획입니다."
+        "overview": "교보생명 계열 부동산자산관리회사 교보리얼코가 전기차 화재에 신속하게 대응할 수 있는 자체 소화 시스템을 개발하고 특허 등록을 완료했습니다.\n\n이번에 등록한 기술은 이중 감지 장치로 화재 징후를 사전에 포착한 뒤 차량 하부에 소화수를 직접 분사하는 방식을 적용했습니다. 전기차 배터리 화재 시 나타나는 열폭주 현상을 초기 단계에서 효과적으로 차단할 수 있도록 설계했습니다.\n\n교보리얼코는 해당 소화 기술을 자사가 관리하는 주요 건물 주차장에 우선적으로 적용해 화재 안전 역량을 강화할 예정입니다. 전기차 보급 확대로 늘어나는 주차장 화재 위험에 선제적으로 대비하며 자산 관리 전문성을 한층 더 높일 계획입니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "“아파트 관리도 브랜드 시대…집값 차이 만들 것”",
-          "url": "https://www.mk.co.kr/news/realestate/12203726"
+          "title": "교보리얼코, 전기차 화재진압 기술 특허 등록",
+          "url": "https://www.mk.co.kr/news/economy/12205037"
         }
       ],
       "keywords": [
-        "KES",
-        "서일섭",
-        "아파트 관리",
-        "KES지수",
-        "자산가치"
+        "교보리얼코",
+        "전기차 화재",
+        "소화 시스템",
+        "특허 등록"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/10/news-p.v1.20261110.366d95c3ca6a4d4dba26bb2206060f55_R.jpg"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.7aad6d468e9a4bfea715fa4a32358e1c_R.jpg"
     },
     {
-      "id": "news-20261110-016",
-      "headline": "서부T&D 용산 호텔 하우스 ‘코르디아’, 글로벌 명품 브랜드 대거 적용",
+      "id": "news-20261111-019",
+      "headline": "디어유, 중국 시장 진출 본격화와 밸류에이션 재평가 기대감에 주가 강세",
       "category": "경제",
       "categories": [
         "경제",
-        "IT/과학",
         "비즈니스"
       ],
       "summary": {
-        "overview": "서울드래곤시티를 운영하는 서부T&D가 용산에 선보이는 고급 주거 공간 '코르디아(CORDIA)'에 해외 유수 브랜드를 전면 배치합니다.\n\n주거 완성도를 높이기 위해 손길이 닿는 모든 마감재와 설비에 독일, 이탈리아, 미국, 일본의 주요 브랜드를 엄선했습니다. 창호와 빌트인 가구, 위생도기, 가전 및 전기제품 전반에 글로벌 브랜드의 제품을 고루 채택해 고급 호텔 수준의 주거 환경을 구현합니다.\n\n서부T&D는 섬세한 공간 설계를 바탕으로 차별화된 하이엔드 주거 경험을 제공할 방침입니다."
+        "overview": "팬덤 비즈니스 플랫폼 기업 디어유가 중국 시장 진출에 따른 실적 개선 기대감에 힘입어 가파른 주가 상승세를 보였다.\n\n11월 11일 장 초반 디어유는 2만 원 선을 넘어서며 전 거래일에 이어 강한 매수세를 이어갔다. 증권가에서는 디어유가 글로벌 거점 확장을 본격화하면서 기업가치 재평가 국면에 들어섰다는 분석을 내놓았다.\n\n핵심 서비스인 버블의 현지 이용자 유입이 가시화할 경우 외형 성장과 수익성 개선이 동시에 탄력을 받을 수 있다는 전망이 나온다. 해외 팬덤 플랫폼 시장 내 영향력 확대와 유료 구독자 증가 속도가 향후 추가 반등의 핵심 요소로 꼽힌다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "“주거는 손 닿는 곳에서 완성”…서부T&D, 호텔하우스 ‘코르디아’ 글로벌 브랜드 도입",
-          "url": "https://www.mk.co.kr/news/realestate/12203724"
+          "title": "[MK시그널] 디어유, 중국 시장 진출 본격화에 따른 밸류에이션 재평가 기대감 등에 주가상승률 16.61%",
+          "url": "https://www.mk.co.kr/news/stock/12205036"
         }
       ],
       "keywords": [
-        "서부TD",
-        "코르디아",
-        "서울드래곤시티",
-        "호텔하우스",
-        "용산"
+        "디어유",
+        "중국 진출",
+        "밸류에이션",
+        "버블",
+        "주가 강세"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/10/news-p.v1.20261110.0dacc48460804735b43ec748ea5faa7a_R.jpg"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.fa7e7feba56c45f4b7b73fe515d3a034_R.jpg"
     },
     {
-      "id": "news-20261110-017",
-      "headline": "금감원, 회계법인에 정보보안 재점검 당부…상장사 회계감리 주기 선진국 수준 단축 추진",
+      "id": "news-20261111-020",
+      "headline": "정부, 유류세 인하 내년 1월까지 2개월 추가 연장…중동발 유가 불안 대응",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "금융감독원이 주요 회계법인 최고경영자들과 만나 감사 과정에서 취득한 기업 기밀과 중요 정보의 보안 체계를 철저히 재점검해 달라고 요청했습니다. 디지털 감사기법 확산과 최근 잇따른 해킹 사고 속에서 수집 정보의 외부 유출이나 오남용을 원천 차단하겠다는 취지입니다.\n\n상장사의 회계부정을 제때 적발하기 위해 재무제표 심사·감리 체계도 전면 개편합니다. 현재 국내 상장사의 감리 주기는 약 20년에 달해 경영진의 평균 재임 기간보다 턱없이 길어 부정을 조기에 걸러내기 어려운 구조였습니다.\n\n금감원은 미국처럼 3년, 영국처럼 5년 주기로 상장사를 정기 점검하는 선진국형 감리 시스템을 도입할 계획입니다. 부실감사에 대한 선별 감리와 회계부정에 대한 무관용 원칙을 적용하고 회계업계 전반의 내부통제 책임도 한층 강화합니다."
+        "overview": "정부가 이달 말 종료될 예정이던 유류세 인하 조치를 내년 1월 말까지 2개월 추가 연장하기로 결정했습니다.\n\n재정경제부는 비상경제장관회의를 열고 중동 정세의 불확실성과 고유가 상황을 고려해 국민의 유류비 부담을 덜고 향후 유가 변동성에 대응할 여력을 확보하고자 현행 조치를 유지한다고 밝혔습니다.\n\n적용 인하율은 휘발유 15%, 경유 25%, 액화석유가스(LPG) 부탄 25%로 기존과 동일합니다. 이에 따라 리터당 유류세는 휘발유 698원, 경유 436원이 그대로 유지됩니다.\n\n정부는 이번 조치를 실행하기 위해 교통·에너지·환경세법과 개별소비세법 시행령 개정안을 차후 국무회의에 상정해 개정 절차를 밟을 예정입니다."
       },
       "publishers": [
         {
           "name": "한겨레",
-          "title": "금감원장 “회계업계도 정보보안 중요…유출 없도록 보안 재점검”",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1286551.html"
+          "title": "유류세 인하 내년 1월까지…중동전쟁 불확실성에 2개월 더 연장",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1286731.html"
         },
         {
-          "name": "한겨레",
-          "title": "앤트로픽, 개보위에 개인정보 유출 신고…국내 기업 클로드 계정 100여개",
-          "url": "https://www.hani.co.kr/arti/economy/it/1286527.html"
+          "name": "동아일보",
+          "title": "유류세 인하 내년 1월까지 2개월 연장…휘발유 15%·경유 25% 유지",
+          "url": "https://www.donga.com/news/Economy/article/all/20261111/135003915/1"
         }
       ],
       "keywords": [
-        "금융감독원",
-        "회계법인",
-        "정보보안",
-        "회계감리",
-        "회계부정"
+        "유류세 인하",
+        "중동 정세",
+        "휘발유",
+        "경유",
+        "재정경제부"
       ],
-      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1110/53_17942714820116_20261110500694.webp"
-    },
-    {
-      "id": "news-20261110-018",
-      "headline": "교황 레오 14세, 아르헨티나 방문서 인간 중심의 경제 질서 강조",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "교황 레오 14세가 아르헨티나를 방문해 경제 시스템의 본질적인 목적에 대해 목소리를 높였습니다. 교황은 경제가 단순한 수치나 이윤 추구의 수단이 아니라 인간의 존엄성을 보호하고 증진하는 방향으로 작동해야 한다고 주장했습니다.\n\n이번 발언은 빈부 격차와 사회적 불평등이 심화하는 현대 사회의 구조적 모순을 지적하는 취지로 풀이됩니다. 교황은 경제 활동의 중심에 사람이 있어야 하며, 모든 정책과 경영의 우선순위가 구성원들의 삶의 질 향상에 맞춰져야 함을 역설했습니다.\n\n아르헨티나의 경제적 상황과 맞물려 교황의 이번 메시지는 많은 현지 시민과 지도자들에게 깊은 울림을 주었습니다. 교황은 자본주의가 초래한 사회적 소외 문제를 언급하며, 공동체 전체가 공생할 수 있는 따뜻한 경제 모델의 필요성을 거듭 강조했습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "교황 레오 14세 “경제는 사람 위해 존재해야”…아르헨티나 방문 [이런뉴스]",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80aHVMN2ZWOEl4VHc3aWlOUUN2Q0wtVDh4MC1ranpZNHpueVplTTBDT3htYVFFVFFWOG5hcjNMeWpTLUNBenpqVHlYWVVmWUR6dnpNM2pzdnBtZDJESjBMU2k3N0w1QQ?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "교황 \"경제는 사람 섬겨야\"...아르헨티나 밀레이 만나 당부",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtUFFEQllmbTFoVHhQSTZyRzZCbUNyVE5oM0FXdEcxbG9Kc2ZVS3hxYnB2eWVVakM0MmdSUzdmR2o4b1JIRDVCdldlX2pBV2hKcE56XzZ5d1JYcVdSM3c?oc=5"
-        }
-      ],
-      "keywords": [
-        "교황 레오 14세",
-        "아르헨티나",
-        "인간 중심 경제",
-        "사회적 불평등"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261110-018/600/400"
-    },
-    {
-      "id": "news-20261110-019",
-      "headline": "시리아, 사우디-후티 전선 파병 검토…사우디 경제 지원과 연계 추진",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "시리아 정부가 사우디아라비아와 예멘 후티 반군 간의 분쟁 전선에 병력을 파병하는 방안을 추진하고 있습니다.\n\n사우디아라비아가 제공하는 경제 지원을 받는 대가로 군사 협력을 진행하는 구상입니다.\n\n오랜 내전으로 극심한 경제난을 겪는 시리아는 사우디의 자금 지원을 확보해 재정 위기를 타개하려는 의도로 풀이됩니다.\n\n사우디아라비아는 예멘 후티 반군과의 대치 상황에서 군사적 방어선을 보강하고 안보 부담을 덜어내려는 계산을 하고 있습니다.\n\n외교 관계를 회복한 양국이 안보와 경제를 맞바꾸는 실질적 연대로 나아가면서 중동 지역 역학 구도에도 적잖은 변화가 일어날 전망입니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "시리아, 사우디-후티 전선에 파병 추진…“사우디 경제 지원”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncDJtZmE3V3FtLW5wUS1LZk1kYUZZTERWMFRBODdqVVV1cmhNU3RINEJxZ21rVllNcFc2VGtVcENtaXV1SWNrNjZXckYwc1VuLVFxOUR0U2ZMMlE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "[충북] 청주국제공항 성장 연계 지역경제 활성화 추진",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13Z3dlMTJBdFB3dDlXd0hTLW1tMWlMUGhzdzdTNExSbnBOU0NnTU5kSU1ySl94S1dpZmRkRUVtRU1LOEJVakNuUldsODg4MW5IcURYTlFTbHQxQmFDb1E?oc=5"
-        }
-      ],
-      "keywords": [
-        "시리아",
-        "사우디아라비아",
-        "후티 반군",
-        "파병",
-        "경제 지원"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261110-019/600/400"
-    },
-    {
-      "id": "news-20261110-020",
-      "headline": "쿠팡 개인정보 과징금 2천억 원 효력정지 및 원가 인하 반영 물가 동향",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "법원이 쿠팡에 부과된 대규모 개인정보 과징금 가운데 약 2천억 원에 달하는 처분에 대해 효력정지 결정을 내렸습니다. 본안 소송 결과가 나오기 전까지 해당 처분의 집행을 잠정적으로 중단해 기업의 회복하기 어려운 손해를 막겠다는 판단입니다.\n\n원자재 가격 하락분을 제품 판매 가격에 즉각 반영해야 한다는 시장과 소비자들의 목소리가 함께 전해졌습니다. 원가 상승기에는 가격을 발 빠르게 올렸던 소비재 기업들이 원가 안정 국면에서는 가격 조정을 미루는 관행을 개선해야 한다는 지적을 담고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "[간추린 경제] 1. 원가 내리면 가격도‥ 2. 쿠팡 '개인정보 과징금' 중 2천억 원 효력정지",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PS25WV0xjZ3F6UXc1ZWluQlFSSG10VHRpUDlOLTVPUHJMYzF1dUtDN2xZbGhTb1ZZdkhrLTFvUWJlV1EwbGxkOVlQUm1zUUlWblpHZEVzLW16WXdZdlVuRTVicHMzTlNrVkhvaVJkaW1xelBpVy0xbdIBeEFVX3lxTE5FWGtqZ3JXNGNpUW53djBWNUhoVGd3SGdnTW80T283eGM1UFFEeFVxaGlnYlJwM0ZPS01HNTV3ZEY3YkVvOWdTSU5IZm80VFlqNmNIdUhXdm0yeWRmN0k3Nk1hVThEaVNhSWs2YVFDWjYtWlVka3JDTA?oc=5"
-        },
-        {
-          "name": "Google News 비즈니스",
-          "title": "[EBN 오늘(9일) 이슈 종합] 쿠팡·배민 과징금 6319억원 ’역대 최대’...제재 형평성 논란 등 By EBN - Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42U0VjRHh4TVRLd0ZvY2dPb3VMVkwxSWs3bXJLVG9rNUx6ajdTOUxwaU5aUS1IVmluMHVWWnA4VExCcTQyZm9HRU9WZEg0N25zejN0Q1Y1ZUJqMDRELWRyallCX25FSS1UZ2dFV3h0d24?oc=5"
-        }
-      ],
-      "keywords": [
-        "쿠팡",
-        "개인정보",
-        "과징금",
-        "효력정지",
-        "원가인하"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261110-020/600/400"
+      "image_url": "https://flexible.img.hani.co.kr/flexible/normal/300/180/imgdb/child/2026/1111/53_17943556650215_20261110503658.webp"
     }
   ]
 }
