@@ -1,7 +1,7 @@
 import json
 import re
 import datetime
-from config import DATA_DIR, RETENTION_DAYS
+from config import DATA_DIR, RETENTION_DAYS, KST
 
 def clean_old_files():
     """Delete news JSON files older than 30 days."""
@@ -9,8 +9,8 @@ def clean_old_files():
     if not DATA_DIR.exists():
         return
 
-    today = datetime.date.today()
-    cutoff_date = today - datetime.timedelta(days=RETENTION_DAYS)
+    today_kst = datetime.datetime.now(KST).date()
+    cutoff_date = today_kst - datetime.timedelta(days=RETENTION_DAYS)
 
     for file_path in DATA_DIR.glob("*.json"):
         match = re.match(r'^(\d{4}-\d{2}-\d{2})\.json$', file_path.name)
@@ -23,16 +23,19 @@ def clean_old_files():
             except ValueError:
                 pass
 
-def save_daily_news(news_items):
+def save_daily_news(news_items, target_date=None):
     """Save payload to YYYY-MM-DD.json, latest.json, and update available_dates.json manifest."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    today_str = datetime.date.today().strftime('%Y-%m-%d')
-    output_path = DATA_DIR / f"{today_str}.json"
+    if target_date is None:
+        target_date = datetime.datetime.now(KST).date()
+
+    date_str = target_date.strftime('%Y-%m-%d')
+    output_path = DATA_DIR / f"{date_str}.json"
     latest_path = DATA_DIR / "latest.json"
 
     data_payload = {
-        "date": today_str,
-        "generated_at": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).isoformat(),
+        "date": date_str,
+        "generated_at": datetime.datetime.now(KST).isoformat(),
         "total_count": len(news_items),
         "news_items": news_items
     }

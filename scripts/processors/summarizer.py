@@ -9,7 +9,7 @@ from google import genai
 from google.genai import types
 
 from sources.base import NewsArticle
-from config import ALLOWED_CATEGORIES, GEMINI_API_KEY, MAX_CLUSTERS
+from config import ALLOWED_CATEGORIES, GEMINI_API_KEY, MAX_CLUSTERS, KST
 
 # Preferred Gemini models for text generation (in order of priority)
 PREFERRED_MODELS = [
@@ -146,7 +146,7 @@ def summarize_with_gemini(featured_article: NewsArticle, api_key: str, candidate
     return None
 
 
-def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict = None):
+def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict = None, target_date=None):
     """Process clusters into final news items by summarizing the selected featured article's full body."""
     api_key = GEMINI_API_KEY
     if not api_key:
@@ -155,8 +155,11 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
             "Gemini AI summarization is required and fallback mode is disabled."
         )
 
+    if target_date is None:
+        target_date = datetime.datetime.now(KST).date()
+
     news_items = []
-    print(f"Processing top {min(len(clusters), MAX_CLUSTERS)} topic clusters for categories {ALLOWED_CATEGORIES}...")
+    print(f"Processing top {min(len(clusters), MAX_CLUSTERS)} topic clusters for categories {ALLOWED_CATEGORIES} (Target Date: {target_date})...")
 
     for i, cluster in enumerate(clusters[:MAX_CLUSTERS]):
         # Select featured article: prefer article with valid full_content
@@ -206,7 +209,7 @@ def process_news_clusters(clusters: List[List[NewsArticle]], feedback_dict: dict
                 real_image = art.thumbnail_url
                 break
 
-        item_id = f"news-{datetime.date.today().strftime('%Y%m%d')}-{len(news_items)+1:03d}"
+        item_id = f"news-{target_date.strftime('%Y%m%d')}-{len(news_items)+1:03d}"
         card_image = real_image or f"https://picsum.photos/seed/{item_id}/600/400"
 
         news_items.append({

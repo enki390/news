@@ -1,9 +1,11 @@
+import datetime
 import requests
 import re
 from bs4 import BeautifulSoup
 from typing import List
 from sources.base import BaseNewsSource, NewsArticle
-from config import HTTP_HEADERS
+from config import HTTP_HEADERS, KST
+from utils import is_article_from_target_date
 
 class KakaoNewsAPISource(BaseNewsSource):
     """카카오 뉴스 검색 API 수집기 스텁"""
@@ -30,10 +32,11 @@ class KakaoNewsAPISource(BaseNewsSource):
         return []
 
 class NewsAPISource(BaseNewsSource):
-    """NewsAPI.org 뉴스 수집기 연동 (원문 URL 웹 크롤링을 통한 기사 본문 전체 수집)"""
+    """NewsAPI.org 뉴스 수집기 연동 (수집 날짜 당일 기사만 필터링)"""
 
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, target_date=None):
         self.api_key = api_key
+        self.target_date = target_date or datetime.datetime.now(KST).date()
 
     @property
     def source_name(self) -> str:
@@ -90,8 +93,11 @@ class NewsAPISource(BaseNewsSource):
                     title = item.get("title", "")
                     if not title or title == "[Removed]":
                         continue
-                    pub_name = item.get("source", {}).get("name", "NewsAPI")
                     article_url = item.get("url", "")
+                    if not is_article_from_target_date(item, target_date=self.target_date, fallback_url=article_url):
+                        continue
+
+                    pub_name = item.get("source", {}).get("name", "NewsAPI")
                     description = item.get("description", "") or ""
                     raw_content = item.get("content", "") or ""
 
@@ -108,15 +114,16 @@ class NewsAPISource(BaseNewsSource):
                         published_at=item.get("publishedAt", ""),
                         thumbnail_url=item.get("urlToImage", "") or ""
                     ))
-                print(f"[{self.source_name}] 경제/비즈니스 수집 완료: {len(articles)}개 기사")
+                print(f"[{self.source_name}] 경제/비즈니스 당일 수집 완료: {len(articles)}개 기사")
             else:
                 print(f"[{self.source_name}] 경제 수집 응답 실패 ({resp.status_code})")
         except Exception as e:
             print(f"[{self.source_name}] 경제 수집 중 예외 발생: {e}")
 
-        # 2. 글로벌 카테고리 (Everything search with global keywords in Korean)
+        # 2. 글로벌 카테고리 (Everything search with global keywords in Korean, 당일 날짜 필터링)
         try:
-            global_url = f"https://newsapi.org/v2/everything?q=글로벌 OR 세계 OR 환율 OR 미증시&language=ko&sortBy=publishedAt&pageSize=10&apiKey={self.api_key}"
+            target_str = self.target_date.strftime('%Y-%m-%d')
+            global_url = f"https://newsapi.org/v2/everything?q=글로벌 OR 세계 OR 환율 OR 미증시&language=ko&from={target_str}&to={target_str}&sortBy=publishedAt&pageSize=10&apiKey={self.api_key}"
             resp = requests.get(global_url, timeout=10)
             if resp.status_code == 200:
                 data = resp.json()
@@ -125,8 +132,11 @@ class NewsAPISource(BaseNewsSource):
                     title = item.get("title", "")
                     if not title or title == "[Removed]":
                         continue
-                    pub_name = item.get("source", {}).get("name", "NewsAPI")
                     article_url = item.get("url", "")
+                    if not is_article_from_target_date(item, target_date=self.target_date, fallback_url=article_url):
+                        continue
+
+                    pub_name = item.get("source", {}).get("name", "NewsAPI")
                     description = item.get("description", "") or ""
                     raw_content = item.get("content", "") or ""
 
@@ -143,7 +153,7 @@ class NewsAPISource(BaseNewsSource):
                         published_at=item.get("publishedAt", ""),
                         thumbnail_url=item.get("urlToImage", "") or ""
                     ))
-                print(f"[{self.source_name}] 글로벌 수집 완료: {len(articles) - initial_count}개 기사")
+                print(f"[{self.source_name}] 글로벌 당일 수집 완료: {len(articles) - initial_count}개 기사")
             else:
                 print(f"[{self.source_name}] 글로벌 수집 응답 실패 ({resp.status_code})")
         except Exception as e:
@@ -160,8 +170,11 @@ class NewsAPISource(BaseNewsSource):
                     title = item.get("title", "")
                     if not title or title == "[Removed]":
                         continue
-                    pub_name = item.get("source", {}).get("name", "NewsAPI")
                     article_url = item.get("url", "")
+                    if not is_article_from_target_date(item, target_date=self.target_date, fallback_url=article_url):
+                        continue
+
+                    pub_name = item.get("source", {}).get("name", "NewsAPI")
                     description = item.get("description", "") or ""
                     raw_content = item.get("content", "") or ""
 
@@ -178,7 +191,7 @@ class NewsAPISource(BaseNewsSource):
                         published_at=item.get("publishedAt", ""),
                         thumbnail_url=item.get("urlToImage", "") or ""
                     ))
-                print(f"[{self.source_name}] IT/과학 수집 완료: {len(articles) - initial_count}개 기사")
+                print(f"[{self.source_name}] IT/과학 당일 수집 완료: {len(articles) - initial_count}개 기사")
             else:
                 print(f"[{self.source_name}] IT/과학 수집 응답 실패 ({resp.status_code})")
         except Exception as e:

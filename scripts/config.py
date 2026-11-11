@@ -1,11 +1,15 @@
 import os
 import json
+import datetime
 from pathlib import Path
 
 # Paths
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
 RETENTION_DAYS = 30
+
+# Timezone (Korea Standard Time)
+KST = datetime.timezone(datetime.timedelta(hours=9))
 
 # Rules
 ALLOWED_CATEGORIES = ["경제", "글로벌", "비즈니스", "IT/과학"]

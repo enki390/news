@@ -1,7 +1,10 @@
 import re
+import calendar
+import datetime
 import requests
 from bs4 import BeautifulSoup
-from config import HTTP_HEADERS
+from dateutil import parser as date_parser
+from config import HTTP_HEADERS, KST
 
 def clean_html(text):
     """Remove HTML tags, strip RSS snippet junk, and clean up whitespace."""
@@ -71,3 +74,60 @@ def fetch_article_content(url):
         return full_text.strip()
     except Exception:
         return ""
+
+def parse_article_date_kst(entry_or_item, fallback_url: str = ""):
+    """Extract and parse publication date into KST datetime.date from feedparser entry, dict, or fallback URL."""
+    # 1. feedparser parsed struct_time (UTC)
+    parsed_time = getattr(entry_or_item, 'published_parsed', None) or getattr(entry_or_item, 'updated_parsed', None)
+    if parsed_time:
+        try:
+            ts = calendar.timegm(parsed_time)
+            dt_utc = datetime.datetime.fromtimestamp(ts, tz=datetime.timezone.utc)
+            return dt_utc.astimezone(KST).date()
+        except Exception:
+            pass
+
+    # 2. String date (RFC 822 / ISO 8601 / custom string)
+    date_str = ""
+    if hasattr(entry_or_item, 'get'):
+        date_str = (
+            entry_or_item.get('published') or 
+            entry_or_item.get('updated') or 
+            entry_or_item.get('publishedAt') or 
+            entry_or_item.get('pubDate') or ""
+        )
+    elif hasattr(entry_or_item, 'published'):
+        date_str = getattr(entry_or_item, 'published', "")
+
+    if date_str:
+        try:
+            dt = date_parser.parse(str(date_str))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=KST)
+            return dt.astimezone(KST).date()
+        except Exception:
+            pass
+
+    # 3. Fallback: Parse date from URL path pattern like /20261111/ or /2026-11-11/
+    target_url = fallback_url
+    if not target_url and hasattr(entry_or_item, 'get'):
+        target_url = entry_or_item.get('url', entry_or_item.get('link', ''))
+    if target_url:
+        match = re.search(r'/(20\d{2})[-/_]?(\d{2})[-/_]?(\d{2})', str(target_url))
+        if match:
+            try:
+                return datetime.date(int(match.group(1)), int(match.group(2)), int(match.group(3)))
+            except Exception:
+                pass
+
+    return None
+
+def is_article_from_target_date(entry_or_item, target_date=None, fallback_url: str = "") -> bool:
+    """Check if article's publication date in KST matches the target collection date (default: today KST)."""
+    if target_date is None:
+        target_date = datetime.datetime.now(KST).date()
+
+    art_date = parse_article_date_kst(entry_or_item, fallback_url=fallback_url)
+    if art_date is None:
+        return False
+    return art_date == target_date

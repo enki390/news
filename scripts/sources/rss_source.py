@@ -1,8 +1,13 @@
+import datetime
 from typing import List
 import feedparser
 from bs4 import BeautifulSoup
+from config import KST
 from sources.base import BaseNewsSource, NewsArticle
-from utils import clean_html, parse_publisher_from_title, fetch_article_content
+from utils import (
+    clean_html, parse_publisher_from_title, fetch_article_content,
+    is_article_from_target_date, parse_article_date_kst
+)
 
 WEATHER_KEYWORDS = [
     "[날씨]", "날씨", "폭염", "기상청", "체감온도", "일기예보", 
@@ -47,12 +52,13 @@ def extract_thumbnail_from_entry(entry: dict, summary_raw: str = "") -> str:
     return ""
 
 class RSSNewsSource(BaseNewsSource):
-    """RSS 피드 기반 뉴스 수집기"""
+    """RSS 피드 기반 뉴스 수집기 (수집 날짜 당일 기사만 필터링)"""
 
-    def __init__(self, feeds_config, enable_crawling=False, max_articles_per_feed=8):
+    def __init__(self, feeds_config, enable_crawling=False, max_articles_per_feed=8, target_date=None):
         self.feeds = feeds_config
         self.enable_crawling = enable_crawling
         self.max_per_feed = max_articles_per_feed
+        self.target_date = target_date or datetime.datetime.now(KST).date()
 
     @property
     def source_name(self) -> str:
@@ -64,7 +70,7 @@ class RSSNewsSource(BaseNewsSource):
 
     def fetch_articles(self) -> List[NewsArticle]:
         articles = []
-        print(f"[{self.source_name}] RSS 피드 수집 시작 (피드 수: {len(self.feeds)}, 크롤링: {self.enable_crawling})...")
+        print(f"[{self.source_name}] RSS 피드 수집 시작 (피드 수: {len(self.feeds)}, 기준일: {self.target_date} KST, 크롤링: {self.enable_crawling})...")
 
         for feed_info in self.feeds:
             try:
@@ -85,7 +91,11 @@ class RSSNewsSource(BaseNewsSource):
                     clean_title, pub_name = parse_publisher_from_title(title, feed_info['name'])
                     summary_clean = clean_html(summary_raw)
 
-                    # Exclude weather articles
+                    # 1. 당일 뉴스 필터링 (수집 날짜 당일 기사만 인식)
+                    if not is_article_from_target_date(entry, target_date=self.target_date, fallback_url=link):
+                        continue
+
+                    # 2. Exclude weather articles
                     if is_weather_article(clean_title, summary_clean):
                         print(f"    - Excluded weather article: {clean_title}")
                         continue
@@ -119,5 +129,5 @@ class RSSNewsSource(BaseNewsSource):
             except Exception as e:
                 print(f"    Warning: Failed to fetch {feed_info['name']}: {e}")
 
-        print(f"[{self.source_name}] 총 수집된 기사 수: {len(articles)}")
+        print(f"[{self.source_name}] 총 수집된 당일({self.target_date}) 기사 수: {len(articles)}")
         return articles
