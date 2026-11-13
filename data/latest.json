@@ -1,148 +1,113 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T06:30:15.148063+09:00",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T05:34:17.044132+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261113-001",
-      "headline": "도널드 트럼프, 엔비디아 후임자로 애플 팀 쿡 지목",
-      "category": "경제",
+      "id": "news-20261114-001",
+      "headline": "스콧 베선트, 메가스피드 제재 권한은 상무부 소관…하워드 러트닉 공개 비판",
+      "category": "글로벌",
       "categories": [
         "경제",
-        "글로벌",
-        "비즈니스",
-        "IT/과학"
+        "글로벌"
       ],
       "summary": {
-        "overview": "도널드 트럼프 전 대통령이 엔비디아의 CEO 젠슨 황의 역할을 대신할 인물로 애플의 팀 쿡을 언급했다.\n\n그는 팀 쿡의 경영 능력을 높게 평가하며 대체 불가능한 역량을 가진 리더로 지목했다. 이번 발언은 글로벌 IT 기업 경영진의 리더십에 대한 트럼프 전 대통령의 개인적인 견해가 반영된 결과로 보인다.\n\n시장 관계자들은 이번 발언이 미국 빅테크 기업들과 트럼프 전 대통령 사이의 향후 관계에 어떤 변화를 줄지 살피고 있다. 기업 경영 환경과 정치권의 상호작용이 기술 산업 전반에 미치는 영향력을 다시 한번 확인하는 계기가 되었다."
+        "overview": "도널드 트럼프 2기 행정부 내각 지명자들 사이에서 부처별 권한을 둘러싼 갈등이 표면화되고 있습니다. 스콧 베선트 재무장관 지명자가 중국 제재 대상 기업인 메가스피드에 대한 제재 권한이 재무부가 아닌 상무부에 있음을 명확히 하며 하워드 러트닉 상무장관 지명자를 공개적으로 비판했습니다.\n\n이번 발언은 대중국 경제 제재 추진 과정에서 주요 부처 수장 간의 주도권 다툼이 본격화되고 있음을 드러냅니다. 베선트 지명자는 관련 규정과 절차상 핵심 제재 조치의 주도권이 상무부 소관이라는 점을 분명히 했습니다.\n\n경제팀 내부에서 부처 간 역할 분담과 정책 집행을 둘러싼 이견이 노출되면서 향후 대중 제재 정책의 추진 방식에 어떠한 변화가 생길지 파장이 이어지고 있습니다."
       },
       "publishers": [
         {
-          "name": "KBS 뉴스",
-          "title": "트럼프 “젠슨 황 자리 이을 단 한 사람, 애플 ‘팀 쿡’뿐”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XcVR1RWJnVkRzRlF2RFd1NTYyZUdhYWI1OW5kLUxYbXhJcXJ1aGZBREtFZjhKTmR0R243UFU4NFM1Z21ZLUlPb2FRMzNUbmZjRXpPbG9ydGNhMlU?oc=5"
+          "name": "MBC 뉴스",
+          "title": "베선트 \"메가스피드 제재 권한은 상무부\"‥러트닉 공개 저격",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53SlZLLXM3bzZHUnJic0lBVnpMalRPN2xNcnprR0xtQ0lZeUQ0bEwtT25qdEE0Zk5uRjZIek5MSXdIT3ZPcXplb0M3OGtIYmFYbzAtdWtMU2Q0UnRBTTZNMnBscExsZHB5bDRmRUdjUHlFSWtq0gF0QVVfeXFMUFlRbU5raUJtNnlfQ2VWUDdla0E4RVpLZk1POS1FU1lLTTcyckZQWTR6NGtRV1JzRlc5WlktdDJsUUNEOGdEOFBDTlhXdzdPRC1mOFFoTXV4T2tPbFFlSFBRY0Jsd3cyNEJIak9nV2Z4ajBxYno?oc=5"
         },
         {
           "name": "YTN",
-          "title": "젠슨 황 엔비디아 CEO 사퇴...트럼프 \"애플 팀 쿡 이어받아야\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sV2t3QjV1amNKaDFRSHZ1MTZ2NEJ1ckdBZUdvX2l1ZmFWRFkzczFoQ1dVN2oySmJUbEhYUHBSRXlSSExrODQ0bVFHSlJaVTY2cjZCd0JJNFhNT0xtcHc?oc=5"
+          "title": "베선트 \"메가스피드 제재 권한은 상무부\"...러트닉 공개 저격",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45TWN5NE5LVXhoZVNQZGdHQ1RGR1lSVXVaMTJ6Y3B2Y0ZHY2NhTTJvUDNhWFlmUFdPRFlpbDAtMUoydUdCSlYycF9CcGFHNFpTcm9wX3NBQmtDSUI0Ync?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "러트닉 미 상무장관, 젠슨 황 비호 의혹으로 '경질론' 위기",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vblYwR1Vmb2Jja19MN1FheWtrYy11SUxhUVRrSmhJRTRGQUZfVXFGRmZpNEhjRUZoOUJOVldHYThsaGtlOVRqeTl3S1hYZEs4V0lZR0QwR2FTRlI3dXZUQXc5MUFLWWdTRm5xcVR4RXRGQURt0gF0QVVfeXFMUHJuR1J5bUFSNHVURWNhNmM0T3Z5YlhIVTRSVnRxa25HWVB1TDRJN1plWmFrVTNSLV9zUmtYT2JNYVA3b19NWTBUTnh6MW1hbThnS3FlNjJZZDVnQUFWXzNjSjF1Mk4waFhhVWxXdnFxQ2pWUTU?oc=5"
         }
       ],
       "keywords": [
-        "도널드 트럼프",
-        "팀 쿡",
-        "엔비디아",
-        "젠슨 황",
-        "빅테크"
+        "베선트",
+        "러트닉",
+        "메가스피드",
+        "상무부",
+        "대중제재"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261113-001/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261114-001/600/400"
     },
     {
-      "id": "news-20261113-002",
-      "headline": "엔비디아 젠슨 황 CEO, 불륜 스캔들로 전격 사임",
-      "category": "비즈니스",
+      "id": "news-20261114-002",
+      "headline": "미 중간선거 '블루 웨이브' 여파… 태양광 기업 어레이 주가 일주일 새 70% 급등",
+      "category": "경제",
       "categories": [
         "경제",
-        "비즈니스",
         "글로벌"
       ],
       "summary": {
-        "overview": "인공지능 반도체 분야를 이끌어온 젠슨 황 엔비디아 CEO가 불륜 스캔들의 여파로 자리에서 물러났다. 황 CEO는 중국 스파이 의혹이 제기된 앨리스 황과의 관계를 인정했고, 뒤이어 킴벌리 파월 엔비디아 헬스케어 부사장과의 추가 불륜 의혹까지 드러났다.\n\n엔비디아는 창업 이후 황 CEO의 1인 경영 체제에 의존해온 탓에 이번 사태로 인한 경영 공백이 불가피한 상황이다. 이사회는 콜레트 크레스 CFO를 임시 CEO로 선임해 혼란 수습에 나섰다.\n\n크레스 임시 CEO는 정식 후임자가 결정될 때까지 수석부사장 겸 CFO 업무를 병행한다. 엔비디아는 이와 함께 하비 존스를 첫 이사회 의장으로 임명하며 조직 안정화에 집중하고 있다."
+        "overview": "미국 중간선거 결과 민주당이 의회 주도권을 장악하는 '블루 웨이브'가 현실화하면서 뉴욕 증시의 자금 흐름이 급변했습니다. 규제 강화를 우려한 빅테크와 화석연료 기업 주가가 흔들린 반면, 정책 수혜 기대가 커진 친환경 인프라 분야로 대규모 자금이 들어왔습니다.\n\n이 같은 자금 이동 속에서 세계 1위 태양광 추적 시스템 기업인 어레이 테크놀로지스(ARRY)가 폭발적인 상승세를 기록했습니다. 선거 직전인 10월 30일 3.39달러에 머물던 어레이의 주가는 개표 윤곽이 나온 11월 4일 하루 만에 14.87% 치솟았습니다.\n\n상승세는 계속 이어져 11월 6일에도 10.5% 추가 폭등하며 5.86달러에 거래를 마쳤습니다. 정치적 불확실성이 해소된 불과 일주일 사이에 주가가 72.8% 수직 상승하며 시장의 매수세를 흡수했습니다."
       },
       "publishers": [
+        {
+          "name": "매일경제",
+          "title": "공포장 속에서 빛나는 ‘태양’ … 美 중간선거 후 70% 급등한 이 회사",
+          "url": "https://www.mk.co.kr/news/business/12208038"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "“밴스 미국 부통령, 중간선거 참패로 2028년 대선 출마 포기 검토”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1NXUtbWpNazhHUlk3TEEwWmpJcDZmaE04WDVSQkk5NzFVU2RVR0M3VFFRbGVOU24zbWZFTTdaNXZseGxvaFBUbmNGTnJ5dEdIaG5Tb0dIMWx4MHM?oc=5"
+        },
         {
           "name": "MBC 뉴스",
-          "title": "젠슨 황 엔비디아 CEO 사임‥불명예 퇴진",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqaWFnNWJ3V2EwNWpHUU05S3hNRVZObHFXeWt3SE10TnBZOGMyMm1fVlpaeVoxdXRxWGtKeGU3SlQwTVRzZEY1WG5OaXgtSjk0VGVZZVJhbmptcmJMaVU5MlotRHNPUTNHSFFDNE5JdVJETmxGRkxpZ9IBeEFVX3lxTE85SkZ1UVJ5VjdVMTd6eUVoVzRMZERsNnJ4empSaHg3SjI1dW5DVkNJZGdwLVY2OXpKRzJVV0pydW5vMzZmZE5PRE9MZEhVb21XNWlxYWlENlhoMEl0MnJpZllrZ2VjNWwtYUVZV3RDQlkwdTFhaDNKSw?oc=5"
-        },
-        {
-          "name": "동아일보",
-          "title": "AI 록스타  몰락하다… 젠슨 황, 엔비디아 CEO-이사직 사임",
-          "url": "https://www.donga.com/news/Inter/article/all/20261113/135017916/2"
-        },
-        {
-          "name": "동아일보",
-          "title": "‘젠슨 황 1인 독주’ 엔비디아 변화 불가피… 의사결정 지연으로 기술 개발 차질 우려",
-          "url": "https://www.donga.com/news/Economy/article/all/20261113/135017904/2"
+          "title": "\"밴스 미 부통령, 중간선거 참패로 2028년 대선 출마 포기 검토\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzcDJ0TVRzRHV5Q1Z4XzVOYTdlRHJONFpIWF9YTk11d2RrdkFteG5oY1JLeVhEVi1mSjd0b0lIbS1qZWtWS3RWT2lodHdqUGpGNmhueDd0WW9lbjFYaGJlaXJvLXNJeUJRR2YtaTh1WHYwajVE0gF0QVVfeXFMUFNuTjFZclMwZWxZV1ZvVTJTM216Z1VRY3lMUFItY0dsYV9BVlNfc0paYWFMRjlIQUd6MmNZUHV0NWxFejAwRlZZRmV4aml5b21BcTZQRUtKM25yVThYWi1vTEsxWVFiLS1vNDJSTFozZ2VYY1Q?oc=5"
         }
       ],
       "keywords": [
-        "젠슨 황",
-        "엔비디아",
-        "CEO 사임",
-        "콜레트 크레스",
-        "불륜 스캔들"
+        "미국 중간선거",
+        "블루 웨이브",
+        "어레이 테크놀로지스",
+        "태양광",
+        "친환경 인프라"
       ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/13/135015741.5.png"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/13/news-p.v1.20261112.630967a9198d45358c1b30b3c9dd2d4a_R.png"
     },
     {
-      "id": "news-20261113-003",
-      "headline": "은행지주 회장 연임 요건 강화…지배구조 개선 본격화",
-      "category": "비즈니스",
-      "categories": [
-        "비즈니스",
-        "경제"
-      ],
-      "summary": {
-        "overview": "정부와 더불어민주당이 그동안 관행처럼 이어져 온 은행지주 회장의 장기 연임에 제동을 걸기로 했습니다. 금융회사의 투명한 지배구조를 확립하기 위해 최고경영자(CEO) 선임 절차를 대폭 강화합니다.\n\n앞으로 은행지주 회장이 연임에 도전할 때는 현직 회장이 승계 과정에 개입하지 못하도록 후보추천위원회를 전원 독립이사로 구성해야 합니다. 또한, 연임을 거듭할수록 의결 문턱을 높여 견제 장치를 마련했습니다.\n\n주주총회 의결 요건을 보면, 첫 연임 시에는 출석 의결권의 3분의 2 이상, 2회 이상 연임할 경우 4분의 3 이상의 찬성을 얻어야 합니다. 후보추천위원회 의결 요건 역시 기존 과반수에서 첫 선임 시 3분의 2, 연임 시 4분의 3 이상으로 엄격하게 바뀝니다.\n\n이번 조치는 금융지주 내 소수 인원이 지배권을 독점하는 폐단을 막아야 한다는 정치권의 비판을 수용한 결과입니다. 11개월간의 논의 끝에 금융회사의 지배구조 개선 방안이 구체화함에 따라 향후 은행권 인사에 큰 변화가 예상됩니다."
-      },
-      "publishers": [
-        {
-          "name": "동아일보",
-          "title": "은행지주 회장 연임, 문턱 높여 제동건다",
-          "url": "https://www.donga.com/news/Economy/article/all/20261113/135017912/2"
-        },
-        {
-          "name": "동아일보",
-          "title": "퇴임 회장에 자문료 年7억… 연임하려 측근 사외이사 앉혀",
-          "url": "https://www.donga.com/news/Economy/article/all/20261113/135017815/2"
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "은행지주 CEO 연임 문턱 높인다…주총 의결요건 단계 강화",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xQWUtSTFnbkZVdHg2MGZ2cjJZVGkwMXZpUWxPUm1HcjFyb1V6bWdIdDJ3XzQ0NHRzX1luUHpkSEdnSzM2NGtLUW9zUXVTVG5hYmY1S1JvSWNjbVhhT2NTdWY4Rl9fUVJScFVSMg?oc=5"
-        }
-      ],
-      "keywords": [
-        "은행지주",
-        "회장 연임",
-        "지배구조",
-        "후보추천위원회",
-        "의결 요건"
-      ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/13/135018035.1.jpg"
-    },
-    {
-      "id": "news-20261113-004",
-      "headline": "프로 농구 감독들 매료시킨 경복고 쌍둥이 형제, 드래프트 지명 변수 떠올라",
-      "category": "비즈니스",
+      "id": "news-20261114-003",
+      "headline": "나이 들어서도 살기 좋은 집… 23년 맞은 실버타운 ‘서울시니어스 분당타워’",
+      "category": "경제",
       "categories": [
         "경제",
-        "글로벌",
+        "IT/과학",
         "비즈니스"
       ],
       "summary": {
-        "overview": "프로 농구 신인 드래프트를 앞두고 경복고등학교 쌍둥이 선수가 현장 감독들의 최우선 지명 후보로 떠올랐습니다.\n\n두 선수는 고교 농구 무대에서 압도적인 경기력과 잠재력을 선보이며 일찍부터 프로 구단들의 시선을 사로잡았습니다.\n\n그러나 대학 진학을 비롯한 선수 본인들의 진로 결정 문제가 남아 있어 구단들이 당장 영입하기에는 어려움이 따르는 상황입니다.\n\n현장 지도자들 사이에서는 뛰어난 기량을 인정받으면서도 당장 손에 쥐기 힘든 '그림의 떡'이라는 평가가 나오고 있습니다.\n\n쌍둥이 형제의 최종 진로 선택이 향후 프로 농구 신인 드래프트 구도와 구단별 전력 구상에 직접적인 영향을 미칠 전망입니다."
+        "overview": "분당은 주거 선호도가 높은 지역이지만, 노년기에 필요한 주거 환경은 젊은 층의 기준과 다릅니다. 나이가 들수록 매일 운동할 수 있는 환경과 가까운 대형병원, 촘촘한 돌봄 체계가 동반되어야 합니다.\n\n분당서울대학교병원 맞은편에 자리한 서울시니어스 분당타워는 이러한 요구를 충족하는 시니어 주거 공간입니다. 2003년 문을 연 이래 23년 동안 254세대의 입주민과 함께하며 안정적인 노후 환경을 제공해 왔습니다.\n\n단지 안에서는 수영과 포켓볼을 즐기거나 도서관에서 책을 읽는 고령 입주민들의 모습을 흔히 볼 수 있습니다. 입주자들은 뛰어난 의료 접근성과 다양한 여가 활동을 바탕으로 저마다 활력 있는 일상을 이어가고 있습니다."
       },
       "publishers": [
         {
-          "name": "MBC 뉴스",
-          "title": "[엠빅뉴스] “당장 1순위” 프로 감독들의 원픽! 경복고 쌍둥이 형제!! 그런데 그림의 떡??",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nRXh5dzRHRDRmQ3JkQ0Fuc2liaHR0eWVqRVVjb004UDdPNlBjTV82RW5manBXd1dlTlhwVExjZzhVQmtibkxmRzZHek1mb3Fhcll5Y2lqOWhtX192eFFQM0kyc2FxRUHSAWdBVV95cUxQV1lBS0dhVnpwazhrQ2NSTmpUOW0yaUU2M2tzOFQ2VUpoMXhSQlBFemxlaHNLQ3N6aVVWckMtZEhhT2MyX0JLZnNrdno0cHo0WHAtUXhuV1Fia0RmUjBoQUZuR3VVaFRB?oc=5"
+          "name": "매일경제",
+          "title": "“바로 이곳이 천당 아래” … 나이 들어도 살고 싶은 집 ‘분당타워’",
+          "url": "https://www.mk.co.kr/news/realestate/12208097"
         }
       ],
       "keywords": [
-        "경복고",
-        "쌍둥이 선수",
-        "신인 드래프트",
-        "프로 농구",
-        "진로 선택"
+        "서울시니어스 분당타워",
+        "실버타운",
+        "노후 주거",
+        "분당서울대병원",
+        "시니어 라이프"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261113-004/600/400"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/13/news-p.v1.20261110.8cd7748b4684407faf8a27f25e341411_R.jpg"
     },
     {
-      "id": "news-20261113-005",
-      "headline": "충청서 첨단 메가프로젝트 첫 삽…삼성전자, 46조 투입해 HBM 패키징 공장 착공",
+      "id": "news-20261114-004",
+      "headline": "호실적에도 40% 급락한 AI 인프라 ETF… 규제 리스크에 변동성 장세 지속",
       "category": "경제",
       "categories": [
         "경제",
@@ -150,62 +115,368 @@
         "IT/과학"
       ],
       "summary": {
-        "overview": "이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스에서 열린 첨단 투자 사업 1호 착공식에 참석했다. 이번 행사는 정부가 발표한 '3대 메가프로젝트' 중 첫 번째로 진행된 착공 현장이다.\n\n이 대통령은 축사에서 충청권을 비롯해 호남권과 영남권의 모든 첨단산업 투자 계획을 차질 없이 추진하겠다고 밝혔다. 정부와 지자체가 힘을 합쳐 인허가부터 전력·용수 등 핵심 인프라 구축까지 확실히 책임지겠다는 구상을 내놓았다.\n\n삼성전자는 총 46조 원을 투입해 고대역폭메모리(HBM) 첨단 후공정 공장인 '온양 5라인' 건설을 본격적으로 시작했다. 가동 목표 시점도 당초 계획보다 1년 앞당긴 2028년 6월로 정하고 투자 집행에 속도를 내고 있다."
+        "overview": "미국 AI 데이터센터와 광통신 기업에 투자하는 국내 상장지수펀드(ETF) 수익률이 최근 석 달 만에 40%가량 떨어졌습니다. 올해 상반기 AI 열풍을 타고 대규모 자금이 유입되었으나, 하반기 들어 시장 분위기가 급격히 냉각된 여파입니다.\n\nAI 업계 전반의 투자금 조달 불안감이 커진 데다 미국 정치권에서 반(反)데이터센터 표심까지 드러나며 악재로 작용했습니다. '네오클라우드'로 불리는 AI 컴퓨팅 임대 기업들은 시장 기대를 뛰어넘는 실적을 내고도 주가가 오르내림을 반복했으며, 광통신 기업들 역시 하락세를 면치 못하고 있습니다.\n\n증권가에서는 미국 새 의회가 관련 규제 윤곽을 정하는 내년까지 높은 변동성이 이어질 것으로 전망합니다. 이에 따라 AI 인프라 ETF 투자 시 단순 저가 매수에 나서기보다는 세부 구성 종목과 위험 요인을 면밀히 확인해야 한다고 당부합니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "깜짝 실적에도 석 달 새 40% ‘뚝’ … AI 인프라 ETF 저가 매수 기회 왔나",
+          "url": "https://www.mk.co.kr/news/stock/12208142"
+        }
+      ],
+      "keywords": [
+        "AI ETF",
+        "데이터센터",
+        "광통신",
+        "네오클라우드",
+        "변동성"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/13/news-p.v1.20261113.da7057fef0ac43228ce895a6a93d155c_R.jpg"
+    },
+    {
+      "id": "news-20261114-005",
+      "headline": "고등학교 수행평가서 생성형 AI 대필 적발… 사상 첫 재시험 실시",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "고등학교 수행평가 과정에서 학생들이 인공지능(AI)을 활용해 과제를 대필한 사실이 적발되어 사상 초유의 재시험이 결정되었습니다. 학교 측은 제출된 평가물에서 부정행위 정황을 확인하고 성적 산출의 공정성을 확보하기 위해 전면 재시험을 치르기로 방침을 정했습니다.\n\n최근 생성형 AI가 보편화되면서 일상 영역을 넘어 교육 현장까지 빠르게 침투하고 있습니다. 글쓰기나 서술형 보고서 과제에서 AI를 활용한 작성 사례가 늘어나면서, 학생의 실제 역량을 평가해야 하는 학교 시험의 신뢰도에 큰 혼란이 발생하고 있습니다.\n\n이번 사건은 교육 현장에서 AI 활용에 대한 구체적인 가이드라인과 기준 마련이 얼마나 시급한 과제인지 명확히 보여줍니다. 단순한 처벌을 넘어 올바른 AI 윤리 교육과 함께 디지털 시대에 맞는 공정한 평가체계를 다듬어야 한다는 목소리가 커지고 있습니다."
       },
       "publishers": [
         {
           "name": "MBC 뉴스",
-          "title": "메가프로젝트 충청서 첫 삽‥'HBM 거점'으로",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HSGJ0ZmFwekNMcjdYNFJaLVpoZXpnZUQzZVNzOXdfTWljNVh4Y1B6LTBIc0N1TnIxdXF0N3FpNUFyN0pqUUVqQjVoMk84cnNxbmVldnhSSUdxOWItVWdWUm42M1lhWTJseGRodmZjak85bFZuQWlaY9IBeEFVX3lxTFBMS2tsZ2gwdXloT1htNENaNjlMSkQtSjJTWHVqSlQ3QVZyeTdXQVVaTlVsRWxUUkVySUQyaG5STHU3amRGQTR6SzJUNmNfWXBmTWNRekswXzFDOFROSDk4ZG5JMzRFMHlzaTdGSDFvT3pLNllzOXNrUQ?oc=5"
-        },
-        {
-          "name": "동아일보",
-          "title": "충청서 ‘메가프로젝트’ 첫삽… 李 “호남-영남 투자도 차질없게”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261113/135017908/2"
+          "title": "고교 수행평가서도 'AI 대필'‥초유의 재시험",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tSmg3ZGY3WlZLbmpOZkVHcld1RGppMHJFS1h2cl9YSEtnQUYtcXIzNXpVMUotUGYwMHdscVZPMjBwd0hVQTU1MGhTVDJOU0pJWHBZa01yRWl3clYzc0Iyb3FRVDVNQ05zaTROODRRd3FwVmk1dGYxZtIBeEFVX3lxTE9tOTJFLVg1Z2gwZ1JScXlQR29aMW1EQjNhWW0tUjRKTHFsN2l1SGI0ZmZCVzdwbDByOVhodUxTOXZZbWJ4N0tUemJyMTNjejdSbWpiYmtlWTFvdVNkZ2psVXhDblN1bmZxS0UzUFFwdGFPeHZ1SE03SA?oc=5"
         }
       ],
       "keywords": [
-        "메가프로젝트",
-        "삼성전자",
-        "HBM",
-        "이재명 대통령",
-        "온양 5라인"
+        "수행평가",
+        "AI 대필",
+        "재시험",
+        "생성형 AI",
+        "교육 현장"
       ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/12/135012376.1.jpg"
+      "image_url": "https://picsum.photos/seed/news-20261114-005/600/400"
     },
     {
-      "id": "news-20261113-006",
-      "headline": "美 워싱턴 DC 아파트 피트니스센터서 총기 난사…1명 사망·4명 부상 후 범인 자살",
+      "id": "news-20261114-006",
+      "headline": "젠슨 황 엔비디아 CEO 퇴진 파장… 국내외 반도체 '깐부 동맹' 변화에 촉각",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "IT/과학",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "엔비디아를 이끌어온 젠슨 황 최고경영자(CEO)의 퇴진 소식이 전해지면서 글로벌 반도체 시장 전반에 큰 파장이 일고 있습니다. 리더십 교체에 따른 후폭풍이 본격화되는 가운데, 국내외 주요 기업들과 맺어온 기술·비즈니스 협력 전선에도 지각변동이 생길 수 있다는 분석이 나옵니다.\n\n그동안 젠슨 황 CEO는 독보적인 리더십을 바탕으로 국내 핵심 반도체 제조사들과 굳건한 파트너십을 구축해 왔습니다. 수장 부재라는 변수를 맞이한 상황에서 기존의 밀접한 협력 관계가 어떤 방향으로 재편될지 업계 내부의 관심이 집중되고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "젠슨 황 퇴진 후폭풍‥'깐부 동맹' 파장 촉각",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15NE4zU09KdkpNVjB0ZWd5TW00ZjFmWU9FNUR0d3NFUldodzktb2NRR1d3N1RMQjllR0FUeG5YOVRkZ1BHMTZiajhGMFNSM1FkNDU1QjZjMlF3ZUlWSjYtcExwMTNSVE01dWs5ZlVxN0xRTlpqRXdxZ9IBeEFVX3lxTE1uc1ZtZG12bGR6SHA2T20xWEZITmM0STJLVF9vS0VWeG9iOU1waEU1LW54SzJlbURIRGk5SXBSbUlzUXVZYkdUQjVNdWRiYlJ1MnJ3emkzZ1RvMmVOVjBQRTNTcEpaM0tXOE5kalZDd1JqOEpIS0wwMA?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "CEO 사임에 '깐부 동맹' 흔들리나...국내 기업 촉각",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SOUlVVzZ4bG1jaFUxbWN3R3IzNHV4OGVoRldVaTRqQ0xBekxwVUlNdWRVRHBXMXRyWFFoaTRUS0lwZTVhSzRzTjdsMm1Qdk10N3NWZmNmdkpHUkpLN0E?oc=5"
+        }
+      ],
+      "keywords": [
+        "젠슨 황",
+        "엔비디아",
+        "깐부 동맹",
+        "반도체",
+        "파장"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261114-006/600/400"
+    },
+    {
+      "id": "news-20261114-007",
+      "headline": "미국 민주당 상원 원내대표 경선, 진보파 밴 홀런과 중도파 슈머 맞대결",
       "category": "글로벌",
       "categories": [
+        "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "미국 수도 워싱턴 DC의 백악관 인근 아파트 피트니스센터에서 총기 난사 사건이 발생해 1명이 숨지고 4명이 다쳤습니다. 12일 오전 로건서클 지역의 한 아파트 건물에서 시작된 이번 총격으로 피트니스센터에서 운동 중이던 주민 1명이 현장에서 숨졌습니다. 피의자는 범행 직후 건물 맨 위층에 있는 자신의 집으로 이동하는 과정에서도 주차장 입구 등에서 총을 쏴 추가로 4명에게 부상을 입혔으며, 이 중 1명은 중태에 빠졌습니다.\n\n경찰 조사 결과 범인은 해당 아파트 펜트하우스에 거주하던 의사 맷 램버트로 확인됐습니다. 피의자는 집 안에 바리케이드를 치고 출동한 경찰과 1시간가량 대치하다 스스로 목숨을 끊었습니다.\n\n경찰은 아파트 건물 측과의 갈등이 범행 동기일 가능성에 무게를 두고 있습니다. 피의자는 건물 외벽 공사 이후 발생한 곰팡이와 누수 문제로 집을 사용할 수 없게 되자 관리업체를 상대로 소송을 진행 중이었던 것으로 알려졌습니다. 사건이 발생한 건물은 백악관에서 불과 1.6km 떨어진 곳으로, 경찰 병력이 긴급 투입되고 주변 교통이 통제되면서 일대에 큰 혼잡이 이어졌습니다."
+        "overview": "미국 민주당 상원 원내대표 자리를 둘러싸고 당내 진보파와 중도파 간의 주도권 다툼이 본격화하고 있습니다. 진보 성향의 크리스 밴 홀런 상원의원과 중도 성향의 척 슈머 원내대표가 차기 사령탑 자리를 놓고 맞대결을 펼칩니다.\n\n이번 원내대표 선출은 향후 민주당의 입법 방향과 정책 우선순위를 결정하는 계기가 될 것으로 보입니다. 당내 진보 진영과 중도 진영의 노선 차이가 명확한 만큼, 최종 결과에 따라 상원 내 당 운영 기조에도 큰 변화가 이어질 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "미국 민주당 상원 원내대표 놓고 진보파 밴 홀런 vs 중도파 슈머",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45VUYwQnJDYVRWOTFsVDVpdE02ZGJ2aEoxZTNiZVpuRkloeU1DVWxSSkhZd0RDUHBjWk1BZXJfZUxEbVFaS05oOUlhaUpkajFjUlZ5dGU4UDBIcUpjd3c?oc=5"
+        }
+      ],
+      "keywords": [
+        "미국 민주당",
+        "상원 원내대표",
+        "밴 홀런",
+        "척 슈머",
+        "당권 경쟁"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261114-007/600/400"
+    },
+    {
+      "id": "news-20261114-008",
+      "headline": "엔비디아 차기 CEO 후보로 러네이 하스 Arm 총괄 접촉",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "젠슨 황 전 최고경영자(CEO)의 사임 이후 엔비디아 이사회가 차기 수장으로 러네이 하스 Arm CEO를 후보군에 두고 접촉한 것으로 알려졌습니다.\n\n하스 CEO는 2006년부터 2013년까지 엔비디아 부사장을 지낸 자사 출신 인사로, 내부 사정에 밝고 기존 임원진과도 긴밀한 관계를 유지하고 있습니다. 2022년부터 영국 반도체 기업 Arm을 이끌며 성공적인 나스닥 상장을 주도하는 등 경영 역량도 증명했습니다.\n\n다만 하스 CEO가 최종 후보로 확정된 것은 아니며 본인의 수락 여부도 불투명한 상태입니다. 현재 86%의 지분을 보유한 대주주 소프트뱅크와 Arm 측은 이번 접촉에 대한 공식 논평을 내놓지 않았습니다.\n\n엔비디아 내부에서는 임시 수장을 맡은 콜레트 크레스 최고재무책임자(CFO)와 핵심 플랫폼 '쿠다'를 개발한 이언 벅 부사장이 후보로 꼽힙니다. 외부 인사로는 리사 수 AMD CEO와 팀 쿡 애플 이사회 집행의장 등 반도체·IT 업계 주요 인사들이 함께 거론되고 있습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "美워싱턴 아파트 피트니스센터에 총기난사…1명 사망 4명 부상",
-          "url": "https://www.yna.co.kr/view/AKR20261113008500071"
+          "title": "\"엔비디아, 차기 수장 후보로 英 반도체기업 Arm CEO 접촉\"",
+          "url": "https://www.yna.co.kr/view/AKR20261114004700091"
         },
         {
-          "name": "KBS 뉴스",
-          "title": "‘백악관 지척’ 미 워싱턴 D.C 번화가 총격 “1명 사망·4명 부상”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GcTkzLXB3b2g4TVBIOURUS2RULW0yLXNxUnR4QjFYaDVuOFVDZXRJZS1lUUZ4dHdnaWpJN01jaUswdGtOUzhmdUQwZGpmYlRDMmdHQ0hFeEhVOUE?oc=5"
+          "name": "MBC 뉴스",
+          "title": "\"엔비디아, 차기 수장 후보로 英 반도체기업 Arm CEO 접촉\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42QXUtbWZNLTZJbUZiZGNiczdGZzh2WDduRVdQZ2V6RFVvellBVkRkM1VHMHR5MEoyamc5emZBY2pwaUNnZmZFZEpBcXZfRmMwOVpGMC1IdjFzMjFSd0I0SUc3d1M1T1NRNTh4dnNFUF9LTjRU0gF0QVVfeXFMUEIxeVcxQTBOSlEzWmlLOG1LUDBpUVdBWUtJX2VyRzR1cjk3YWpQbVFPd25taF9vLXptSUtLZmdmalNiMjNMNHNOWU5KOHJCMlNfN3p3TWNCNU8xSXE2cmdDR3pIRWk2RGtMUF9DUlc4cV9GSjA?oc=5"
         }
       ],
       "keywords": [
-        "미국 총기난사",
-        "워싱턴 DC",
-        "아파트 분쟁",
-        "맷 램버트"
+        "엔비디아",
+        "러네이 하스",
+        "Arm",
+        "젠슨 황",
+        "CEO 인선"
       ],
-      "image_url": "https://img.yna.co.kr/photo/etc/gt/2026/11/12/PGT20261112196401009_P2.jpg"
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/14/PRU20261114039001009_P2.jpg"
     },
     {
-      "id": "news-20261113-007",
-      "headline": "중국 스파이 '앨리스 황' 스캔들 파장…미 검찰, 슈퍼마이크로 AI 장비 밀수 의혹 수사",
+      "id": "news-20261114-009",
+      "headline": "산업장관, 체코 측에 \"원전사업 완수…결과로 책임질 것\"",
+      "category": "비즈니스",
+      "categories": [
+        "비즈니스",
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "산업통상자원부가 체코 두코바니 신규 원전 프로젝트의 차질 없는 추진을 위해 체코 정부와 밀착 소통에 나섰습니다. 김정관 산업부 장관은 13일 카렐 하블리첵 체코 산업부 장관과 화상 면담을 갖고 원전 사업을 끝까지 책임지고 이행하겠다는 의지를 전했습니다.\n\n최근 한국수력원자력과 기존 시공 컨소시엄 간 협상이 성사되지 않았으나, 정부는 신규 시공사 선정을 신속하고 투명하게 추진해 관련 업무의 연속성을 확보하기로 했습니다. 이에 따라 산업부는 장관 및 차관이 주재하는 점검회의를 격주로 개최하며 '팀코리아'의 계획 달성 현황을 점검하고 있습니다.\n\n양국은 매주 국장급 실무 회의를 여는 한편 연내 제4차 장관급 이행점검 협의체를 개최해 주요 현안을 논의할 예정입니다. 체코 측도 장관 간 월 1회 회의 개최를 제안하며 양국 간 협력 체계를 더욱 강화하기로 했습니다. 두코바니 원전 사업은 내년 4월 건설허가 신청과 2029년 11월 착공을 목표로 추진됩니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "산업장관, 체코 측에 \"원전사업 완수…결과로 책임질 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20261114000300003"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "산업장관, 체코 측에 \"원전사업 완수…결과로 책임질 것\"",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15VXBFbjF4X0JFMU1NTjJmZW5QMy00TjFtMGlFMGtCamZKa3NEQkFPbk9OU3NkWXAzUGhDZF9oUlR5dTRkVDhnTzBEQjExZVBLc1pZeUYwTWJwMUXSAWBBVV95cUxOV2RuU0laNi1lWXdMZVEtQUtEeFp3dmlBMGxmTmhGNU83WGFSbkNoM2JVSWNVYkpURzR3NEZsRXFscWlhc0NSRU9KSzBkYm5JMklNYkpUNXF5c0VNeXNWN1g?oc=5"
+        }
+      ],
+      "keywords": [
+        "체코 원전",
+        "산업통상자원부",
+        "두코바니",
+        "팀코리아",
+        "한국수력원자력"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/12/PYH2026111218230001300_P2.jpg"
+    },
+    {
+      "id": "news-20261114-010",
+      "headline": "기업 상황과 비용 구조에 맞는 AI 모델 선택 가이드… LLM과 SLM의 차이점과 판단 기준",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "IT/과학",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "기업이 인공지능(AI) 시스템을 도입할 때는 처리할 업무 성격과 운영 비용 구조에 맞춰 적절한 모델을 선택해야 합니다. 다양한 업무를 두루 처리하는 거대 언어모델(LLM)과 특정 업무에 효율적인 소형 언어모델(SLM)은 각기 명확한 차이점을 가집니다.\n\n흔히 모델 크기로 범용성과 맞춤형 여부를 판단하지만, 단순히 규모만으로 성능과 맞춤화 수준을 단정 짓기는 어렵습니다. 거대 언어모델도 기업 특화 데이터를 반영해 세부 조정할 수 있으며, 소형 언어모델 역시 추가 학습 과정 없이 곧바로 업무에 투입할 수 있습니다.\n\n성공적인 AI 도입을 달성하려면 모델의 크기와 맞춤화 수준, 설치 환경을 다각도로 분류해 판단해야 합니다. 투자수익률과 총소유비용을 종합적으로 검토해 조직의 실제 업무 방식과 예산 구조에 가장 적합한 방안을 찾는 과정이 선행되어야 합니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "‘백화점 기성복’ vs ‘내게 맞춘 양복’ … 우리 회사에 맞는 AI 모델은?",
+          "url": "https://www.mk.co.kr/news/it/12208140"
+        }
+      ],
+      "keywords": [
+        "인공지능",
+        "거대언어모델",
+        "소형언어모델",
+        "LLM",
+        "SLM"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/13/news-p.v1.20261112.18fd609f33024b3aafcc4894cd313238_R.jpg"
+    },
+    {
+      "id": "news-20261114-011",
+      "headline": "구글맵, 내년부터 한국서 길찾기·내비게이션 본격 가동…네이버·카카오와 정면 대결",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "IT/과학",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "구글이 한국 고정밀 지도 데이터 반출 허용을 계기로 그동안 제한되었던 구글맵의 핵심 기능들을 국내에서 본격 가동할 전망입니다. 그동안 국내 고정밀 지도 데이터 부재로 실시간 길찾기나 차량 내비게이션 등 주요 기능을 제대로 제공하지 못했던 구글맵이 반전의 계기를 마련했습니다.\n\n이르면 내년부터 차량 내비게이션과 도보 길찾기 등 간판 기능이 작동하기 시작하면 국내 사용자뿐만 아니라 방한 외국인들의 이용 편의성도 대폭 개선될 것으로 보입니다.\n\n이에 따라 국내 지도 및 내비게이션 시장을 독점하다시피 해온 네이버와 카카오 등 주요 플랫폼 기업들의 긴장감이 높아지고 있습니다. 구글맵의 핵심 기능 봉인 해제가 지도 플랫폼 경쟁 구도에 어떤 파급력을 가져올지 시장의 관심이 집중되고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "폰에 깔려 있어도 안 쓰던 구글맵…간판 기능 봉인 해제에 네카오 ‘긴장’",
+          "url": "https://www.mk.co.kr/news/it/12208595"
+        }
+      ],
+      "keywords": [
+        "구글맵",
+        "내비게이션",
+        "길찾기",
+        "고정밀지도",
+        "네이버카카오"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/14/news-p.v1.20261114.f55ab276a53945c8b0edd143ea246c95_R.png"
+    },
+    {
+      "id": "news-20261114-012",
+      "headline": "학원 가던 초등학생, 어린이 보호구역 우회전 차량에 참변",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "학원으로 향하던 초등학생이 어린이 보호구역(스쿨존)에서 우회전하던 차량에 치이는 사고가 발생했습니다.\n\n최근 어린이 보호구역 내 보행자 안전을 강화하기 위해 우회전 차량의 일시 정지 의무화 등 관련 법 규정이 대폭 강화되었습니다. 하지만 이러한 조치에도 불구하고 현장에서는 여전히 보행자 안전을 위협하는 사고가 잇따르고 있습니다.\n\n경찰은 사고 운전자를 상대로 과실 여부와 정확한 사고 경위를 조사하고 있습니다.\n\n스쿨존 안에서의 사고 방지를 위해 운전자들의 철저한 신호 준수와 보행자 보호 의식 재정립이 요구되고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "학원 가던 초등생, 스쿨존 우회전 차에 참변",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tTzd3LWEzbDliMkhaTm5Ndzk2YldrVUZFN2oxVjVsQWVVVHZ1OVdaNHhiNXlaY3ZFd2c3Tm9URG5MVzE2bVYwbGt0YUE5U09DM1hiVzM4MjZaM1Y2UjNTOU0xemh0eEZGbDFKNldDRlFlbmlEUE9Ed9IBeEFVX3lxTE1PaW1Qa3NQR2VBZGhrOV9YaV8za1JVLV8xeXZEV3pJVFRSX0xzeEVMc0pCeVo4SFdveE9tQ1Uxa2dCdUtVOEs2Q3BtQkdWVUZHcVRQdEUxcUxXN2ZwQ3RUX3hSd25fWUhsUDRjMGdWZlRYWlJaUXNDcg?oc=5"
+        }
+      ],
+      "keywords": [
+        "스쿨존",
+        "우회전 사고",
+        "어린이 보호구역",
+        "교통사고",
+        "초등학생"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261114-012/600/400"
+    },
+    {
+      "id": "news-20261114-013",
+      "headline": "자격증 시험장에 번지는 AI 안경 우려…첨단 기기 부정행위 대책 시급",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "인공지능 기술이 적용된 스마트 안경 보급이 늘어남에 따라 자격증 시험장에서 이를 악용한 부정행위 우려가 커지고 있습니다. 외형상 일반 안경과 거의 차이가 없는 첨단 기기가 등장하면서 시험 감독 과정에서 착용 여부를 판단하기가 점차 어려워지는 추세입니다. 일부 수험생 사이에서는 시험의 공정성이 훼손될 수 있다는 의심과 불안감이 번지고 있습니다.\n\n시험 관리 기관들은 전자기기 제출 범위를 확대하고 안경 정밀 점검을 실시하는 등 현장 단속을 강화하려 노력하고 있습니다. 하지만 점차 정교해지는 기기의 진화 속도를 기존의 감독 체계로 완벽히 차단하기에는 한계가 존재합니다. 이에 따라 첨단 기기를 활용한 부정행위를 효과적으로 예방할 수 있는 실효성 있는 관리 기준 마련이 시급하다는 지적이 나옵니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "\"혹시 AI 안경?\"‥자격증 시험마다 번지는 의심",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zX0JPU0VaOWE1V1dCM1BGUlU1amF2SmJHSGNMU2lfX1duOENLN2pOOHdlYkFpQ21SLXBTVlJUQ0lVNW1Na1ZRdlJFWVVzSTZiUXJXLXo4NmgzOVhyTWdyMThTbHJIb3FuVHRiaU91eUEyVzdNbGotTtIBeEFVX3lxTE16LUI0UFFENktKaThXV21PNTBmdHR5V1JDcGRkMVVISXlRcElxRUhRWEUza2ZRc1VJV3NCWEJmajNyeWxRdGdtcXFoZlNneUQ3YU42bFFBZWFoWmFSbDNGbnBSVDVXOV9mXy02QlU4NVhSZFA5TnFDZA?oc=5"
+        }
+      ],
+      "keywords": [
+        "AI 안경",
+        "자격증 시험",
+        "부정행위",
+        "시험 감독",
+        "스마트 안경"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261114-013/600/400"
+    },
+    {
+      "id": "news-20261114-014",
+      "headline": "장동혁 측 외부 인사 문자 내용 바탕 징계 추진 논란",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "장동혁 의원 측 외부 인사가 보낸 문자 메시지 내용을 바탕으로 징계가 추진되는 상황을 두고 논란이 이어지고 있습니다. 해당 문자 내용에 대한 명확한 사실관계 확인이나 충분한 자체 검증 없이 징계 절차의 주요 근거로 활용되었다는 지적이 제기되었습니다.\n\n외부 인사의 제보 내용을 그대로 수용해 징계를 결정하는 방식은 절차적 정당성을 훼손할 수 있다는 우려가 나옵니다. 반면 징계 절차를 진행하는 측에서는 전달된 내용을 토대로 내부 기준에 맞춰 적절한 조치를 취한 것이라는 입장을 유지하고 있습니다.\n\n외부 제보의 객관적 검증 기준과 징계 절차의 공정성을 둘러싼 당사자 간 시각차가 커 관련 파장이 이어질 것으로 보입니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "장동혁 측 외부 인사 '문자' 그대로 징계?",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10NXJodkVYOWhMcXBKeS11a2xubi1IUnRIVC0wVnVvSjdnb0MwbVJrcUZ6UXdoVzlVNzY4OHdkc3dfRWlLYUNSVFQ4Q3dOckpxUVVKamt5YUtic2xiTnhJbmVaY0xLcF93c05pdlRaUTVWZUx2VE04eNIBeEFVX3lxTFBpV0pDTTRYLWZJazNLRENSQ2dBZHFmNkZEYW9lb1JTSTBFSU9uQjZRYVhaV090NW9vWGxCS3I4TXl5dFBLU2N2UXpRdEl2Ym44SUg0WkhKQTdtTnVLaEpSU2NaVmk5NzN6dGQwRGFGbTY0LVhTaHM5ag?oc=5"
+        }
+      ],
+      "keywords": [
+        "장동혁",
+        "외부 인사",
+        "문자 제보",
+        "징계 논란"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261114-014/600/400"
+    },
+    {
+      "id": "news-20261114-015",
+      "headline": "'30억 로또 아파트' 부정 청약 적발…수사당국 피의자 검찰 송치",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "최근 수십억 원의 시세 차익이 예상돼 이른바 '로또 아파트'로 불린 인기 당첨 단지에서 부정 청약 정황이 적발됐습니다.\n\n수사당국은 위장 전입이나 자격 조작 등 불법적인 방법으로 분양권을 취득한 혐의를 받는 피의자들을 수사해 검찰에 송치했습니다.\n\n정부와 관련 기관은 청약 시장의 공정성을 훼손하는 부정 청약 행위에 대해 전수 조사와 단속을 대폭 강화하고 있습니다.\n\n이번 송치 조치로 적발된 가구는 주택 매매 계약 취소는 물론 형사 처벌과 향후 청약 자격 제한 등 강력한 제재를 받게 됩니다.\n\n당국은 불법 청약을 통한 부당 이득을 철저히 환수하고 엄정한 법 집행을 이어갈 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "'30억 로또 아파트' 날아가나‥'부정 청약' 송치",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEeE5LcVlHRTZvRXJNUk4wdlVVcTB6b0xzSDBwT1l5VGVFa3l5dlBaUmwyUDVlUms2R3RZbVJ6dmZEV2dTb1BuVHIyT29UYlpPeFlJNVJiNnlORFNYT0RrNnVVZ2RpQ0J0aE9JNjlua29EaHVjWktsWNIBeEFVX3lxTE05RC01cnZXbUFIUzM3VkJVSTRWU21CdTFldXNlT0RyWjZJUmJEMGxkd2h5NDM4TE5yQ1VneUlJOTZ3VnE2MDRxMFVDWC1XMUpCWVFTSjA4N2JQZWJuaW9ud28zYm54NExmZHB0UmhKei1vR0lXTTVNQg?oc=5"
+        }
+      ],
+      "keywords": [
+        "부정청약",
+        "로또아파트",
+        "검찰송치",
+        "부동산수사",
+        "분양권취소"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261114-015/600/400"
+    },
+    {
+      "id": "news-20261114-016",
+      "headline": "배추 가격 67% 폭락에도 식어버린 김장 열기…소비 패턴 변화 직격탄",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "배추 출하량 변화 등으로 배추 가격이 전년 대비 67%나 급락했습니다.\n\n예년 같으면 가격 하락이 김장철 특수로 이어졌겠지만, 올해 시장 분위기는 냉랭하기만 합니다. 배춧값이 큰 폭으로 떨어졌음에도 불구하고 실제 가정의 김장 수요는 오히려 큰 폭으로 줄어들었습니다.\n\n1인 가구 증가와 포장김치 선호 트렌드가 자리 잡으면서 직접 김치를 담그는 가구가 지속적으로 줄어든 영향이 큽니다. 고춧가루와 젓갈 등 김장 부재료 가격 부담이 여전한 점도 소비자의 발길을 돌리게 만들었습니다. 배추 가격 폭락에 소비 부진까지 겹치면서 농가와 유통 업계의 시름이 깊어지고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "배추 가격 67% 급락했는데...김장 수요 '뚝'",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04SjQyZmdONWl5eUhFOWdNX0pmdEZyS1A2UVlOd0syTElsWmc3b1k1UlNfQVpJRGpTNGM3b1VMSVpyQ2x1bWw0eUd4Nm0wNmVKQnF2UmtMQkEyN2V3eVE?oc=5"
+        }
+      ],
+      "keywords": [
+        "배추 가격",
+        "김장 수요",
+        "농산물 유통",
+        "소비 동향"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261114-016/600/400"
+    },
+    {
+      "id": "news-20261114-017",
+      "headline": "마이크로소프트, 이틀째 이어진 서비스 대장애에 공식 사과…전 세계 70여 개국 혼란",
       "category": "글로벌",
       "categories": [
         "글로벌",
@@ -213,32 +484,81 @@
         "비즈니스"
       ],
       "summary": {
-        "overview": "중국 스파이 혐의를 받는 앨리스 황 스캔들이 엔비디아를 넘어 서버 제조사 슈퍼마이크로 등 인공지능 업계 전반으로 확산하고 있습니다. 미국 뉴욕남부연방검찰은 앨리스 황과 연관된 단체가 슈퍼마이크로의 AI 장비를 중국으로 우회 밀반입하려 한 정황을 포착하고 조사에 나섰습니다.\n\n검찰은 황 씨가 엔비디아 반도체 외에 다른 AI 장비 유출에도 관여했는지 살펴보고 있습니다. 앞서 슈퍼마이크로는 지난 3월에도 공동창업자를 포함한 전직 임직원들이 태국을 경유해 수십억 달러 상당의 AI 서버를 중국 고객에게 우회 수출하려 한 혐의로 기소된 바 있습니다.\n\n슈퍼마이크로 측은 당시 관련 임직원을 해임하고 현 경영진과 무관하다는 독립 조사 결과를 발표했으나, 검찰의 추가 수사 소식이 전해지면서 주가가 11% 이상 급락했습니다. 한편 행방이 불분명했던 앨리스 황은 현재 중국 정보당국의 인지 아래 베이징에 머물고 있는 것으로 파악됐습니다."
+        "overview": "마이크로소프트의 이메일과 사무용 소프트웨어 대규모 장애가 이틀 동안 이어지면서 전 세계 곳곳에서 큰 혼란이 발생했습니다. 마이크로소프트 측은 소셜미디어를 통해 이번 사태로 고객과 파트너들이 겪은 불편에 대해 깊이 사과한다고 공식 입장을 밝혔습니다.\n\n이번 장애는 미주와 유럽, 아시아 등 70여 개국으로 확산했으며 영국 연방 하원과 뉴질랜드 외교부 등 주요 정부 기관과 금융권까지 여파가 미쳤습니다. 일부 국가에서는 서비스 중단으로 인해 증시 거래 확인 작업을 팩스로 대체하는 소동이 벌어지기도 했습니다.\n\n마이크로소프트는 이번 사태가 사이버 공격이나 인공지능 에이전트와는 관련이 없으며 과거 네트워크 용량 증설 과정의 문제가 최근 작업 이후 드러난 기술적 결함이라고 설명했습니다. 한편 온라인상에서는 365일 작동한다는 의미의 서비스명을 빗대어 'MS364'로 바꿔 부르는 밈이 확산하는 등 조롱 섞인 반응이 이어지고 있습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "앨리스황 스캔들, 업계전반 번지나…美 슈퍼마이크로도 조사중",
-          "url": "https://www.yna.co.kr/view/AKR20261113007300091"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "앨리스 황 ‘중 스파이 의혹’, AI 업계 전반 확산…“슈퍼마이크로 조사”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aSHhkNDl5RkFTQ1ZhVjVfaUV3SXVrSGRSTHZ2TURyMndBbG12eGhMeEQyNkVTaXFTWVhQWUVDRnlPdm5HbkdBdG8weXpwZFNGOGJRRVdCVzZxY0k?oc=5"
+          "title": "이틀째 이어진 장애에 MS 사과…온라인서 'MS364'로 조롱받기도",
+          "url": "https://www.yna.co.kr/view/AKR20261114006400091"
         }
       ],
       "keywords": [
-        "앨리스 황",
-        "슈퍼마이크로",
-        "AI 장비 밀수",
-        "미 검찰 수사",
-        "미중 갈등"
+        "마이크로소프트",
+        "MS365",
+        "서비스 장애",
+        "네트워크 오류",
+        "글로벌 혼란"
       ],
-      "image_url": "https://img.yna.co.kr/photo/reuters/2026/10/15/PRU20261015391101009_P2.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/14/AKR20261114006400091_01_i_P2.jpg"
     },
     {
-      "id": "news-20261113-008",
-      "headline": "젠슨 황 해임으로 본 실리콘밸리 거대 기업 창업자들의 축출 잔혹사",
+      "id": "news-20261114-018",
+      "headline": "美 민주당, '거부권 유도' 입법 전략으로 트럼프 행정부 맞불 검토",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 중간선거 승리로 차기 연방의회 다수당을 차지한 민주당이 도널드 트럼프 행정부를 겨냥한 '거부권 유도 작전'을 구상하고 있습니다. 상·하원 과반을 확보했지만 대통령의 거부권을 무력화할 3분의 2 의석에는 미치지 못하자, 트럼프 대통령이 거부권을 행사하도록 압박해 정치적 부담을 극대화하려는 구상입니다.\n\n민주당은 필리버스터를 회피할 수 있는 예산조정 절차를 활용해 감세와 복지 예산 삭감을 담은 트럼프의 핵심 입법을 대대적으로 뒤집는 수정안을 밀어붙일 방침입니다. 저소득층 의료 지원과 식품 지원 프로그램을 복원하는 법안을 대통령 책상 위에 올려놓아 거부권 행사를 강제하고 2028년 대선 의제를 선점하겠다는 계산이 깔려 있습니다.\n\n다만 민주당 내부에서는 강성 진보 진영과 중도파 간 입장이 갈리고 있습니다. 진보 성향 의원들은 오바마케어 보조금 되살리기와 부유세 도입까지 추진하자는 강경론을 펴는 반면, 중도 성향 의원들은 급진적 법안 강행 대신 물가와 생활비 부담 완화 등 현실적인 민생 성과를 챙겨야 한다며 맞서고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "美민주 '거부권 유도'로 트럼프에 맞불?…대선 앞 입법공세 채비",
+          "url": "https://www.yna.co.kr/view/AKR20261114006000071"
+        }
+      ],
+      "keywords": [
+        "미국 민주당",
+        "도널드 트럼프",
+        "거부권 유도",
+        "예산조정 절차",
+        "미국 연방의회"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/etc/gt/2026/11/13/PGT20261113143701009_P2.jpg"
+    },
+    {
+      "id": "news-20261114-019",
+      "headline": "'젠슨 황 비호' 의혹 휩싸인 러트닉 미 상무장관…행정부 내부 경질론 급물살",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "하워드 러트닉 미국 상무장관이 엔비디아의 대중 반도체 수출통제 조치를 의도적으로 지연시켰다는 의혹에 휩싸이며 사퇴 압박을 받고 있습니다. 러트닉 장관은 엔비디아의 첨단 반도체 우회 공급 통로로 의심받는 싱가포르 기업 메가스피드를 상무부 제재 목록에 올리지 않아 논란을 불렀습니다.\n\n러트닉 장관 측은 중국과의 관계 관리를 원하는 트럼프 대통령의 뜻에 맞춘 대응이라고 주장하고 있습니다. 하지만 그가 설립한 투자회사 캔터 피츠제럴드의 사업 이해관계가 작용했거나 비공개 정부 정보를 주식 거래에 활용했을 수 있다는 정황이 드러나며 개인적 이해상충 논란으로 확대되었습니다.\n\n재무부와 국방부 등 타 부처가 수개월 전부터 메가스피드 제재를 요구했으나 상무부가 이를 뭉갠 사실도 밝혀졌습니다. 특히 스콧 베선트 재무장관이 수출통제 지연의 책임자로 러트닉 장관을 공개 지목하고 백악관 내에서도 퇴진 논의가 가열되면서, 러트닉 장관은 취임 이후 가장 심각한 낙마 위기에 직면했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "트럼프 뜻 따랐다는 러트닉…젠슨 황 비호 의혹에 '경질론' 위기(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261114001251071"
+        }
+      ],
+      "keywords": [
+        "하워드 러트닉",
+        "엔비디아",
+        "대중 수출통제",
+        "스콧 베선트",
+        "트럼프 행정부"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/ap/2026/09/29/PAP20260929050601009_P2.jpg"
+    },
+    {
+      "id": "news-20261114-020",
+      "headline": "젠슨 황 퇴진 둘러싼 실리콘밸리의 맹목적 옹호…WSJ \"제왕적 CEO 권력의 한계\"",
       "category": "글로벌",
       "categories": [
         "글로벌",
@@ -246,373 +566,23 @@
         "IT/과학"
       ],
       "summary": {
-        "overview": "젠슨 황 전 엔비디아 최고경영자(CEO)가 사생활 문제로 사실상 해임되면서 자가 창업한 기업에서 축출된 실리콘밸리 리더 대열에 합류했습니다. 실리콘밸리에서는 창업자가 회사에서 쫓겨났다가 복귀하거나 영구 이탈하는 사례가 지속해서 반복되어 왔습니다.\n\n가장 대표적인 인물인 스티브 잡스는 1985년 전문경영인과의 갈등 끝에 애플에서 쫓겨났으나 12년 뒤 복귀해 회사를 세계 최고 기업으로 일궜습니다. 트위터의 잭 도시 역시 사내 권력 다툼으로 2008년 해임되었다가 2015년 CEO로 복귀해 기업 가치를 크게 올린 바 있습니다.\n\n반면 우버의 트래비스 캘러닉은 리더십 부재와 사내 성희롱 문제 등으로 투자자 압박을 받아 물러난 뒤 회사와 완전히 결별했습니다. 최근 오픈AI의 샘 올트먼은 이사회의 갑작스러운 해임 통보에 직원 90%가 사퇴 의사를 밝히며 닷새 만에 복귀하는 해프닝을 겪기도 했습니다.\n\n과거 대다수 창업자가 경영 방향 차이나 권력 다툼으로 쫓겨났던 것과 달리, 젠슨 황은 개인적 과오가 기업 가치를 훼손해 물러나게 되었다는 점에서 차이가 있습니다. 이는 혼외관계 여파로 경영 일선에서 물러난 제프 베이조스나 세르게이 브린의 사례와 유사합니다."
+        "overview": "젠슨 황 전 엔비디아 최고경영자(CEO)가 수장에서 물러난 가운데, 실리콘밸리 테크 엘리트들이 그를 적극 감싸며 세 결집에 나서고 있습니다. 일론 머스크를 비롯한 주요 투자자와 창업자들은 이번 사태를 중국의 심리전이나 이사회의 그릇된 판단으로 규정하며 젠슨 황을 두둔했습니다.\n\n그러나 스파이 연루 의혹과 사내 혼외관계 등 잇따른 폭로 속에서도 이어지는 무조건적인 옹호 행태에 대해 비판의 목소리가 높습니다. 전문가들은 승리만을 추구해온 기술업계 내부의 도덕적 타락과 제왕적 CEO 우상화가 적나라하게 드러났다고 지적합니다.\n\n아울러 이러한 옹호론의 본질이 첨단 AI 반도체 수급에서 불이익을 받을지 모른다는 실리콘밸리 내부의 두려움에서 비롯됐다는 분석도 나옵니다. 월스트리트저널은 이번 사태를 두고 제왕적 CEO 시대에도 권력의 한계가 명확히 존재함을 보여주는 대표적 사례라고 평가했습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "내쫓긴 젠슨황…美거대기업 일군 창업자 '파문' 흑역사 반복",
-          "url": "https://www.yna.co.kr/view/AKR20261113007000075"
-        },
-        {
-          "name": "동아일보",
-          "title": "잇단 불륜 파문에… 젠슨 황, 자신이 33년간 일군 AI제국서 물러나",
-          "url": "https://www.donga.com/news/Economy/article/all/20261113/135017906/2"
+          "title": "젠슨황 두둔하는 실리콘밸리…WSJ \"제왕적CEO 권력도 한계\" 일침",
+          "url": "https://www.yna.co.kr/view/AKR20261114005300091"
         }
       ],
       "keywords": [
         "젠슨 황",
         "엔비디아",
         "실리콘밸리",
-        "창업자 해임",
-        "스티브 잡스"
+        "월스트리트저널",
+        "제왕적 CEO"
       ],
-      "image_url": "https://img.yna.co.kr/photo/etc/epa/2008/09/10/PEP20080910016401009_P2.jpg"
-    },
-    {
-      "id": "news-20261113-009",
-      "headline": "젠슨 황 전 엔비디아 CEO, 세 번째 사내 불륜 의혹 제기 속 전격 사퇴",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "젠슨 황 전 엔비디아 최고경영자(CEO)를 둘러싼 세 번째 불륜 스캔들이 수면 위로 올라왔습니다. 로이터 통신은 황 전 CEO가 엔비디아 사내의 또 다른 여직원과 내연 관계를 맺었다는 복수 소식통의 증언을 보도했습니다. 이는 앞서 밝혀진 앨리스 황 전 메가스피드 임원, 킴벌리 파월 엔비디아 헬스케어 부문 부사장에 이은 세 번째 혼외관계 의혹입니다.\n\n세계적인 AI 반도체 기업 엔비디아를 창업하고 이끌어온 황 전 CEO는 잇따른 사생활 파문 끝에 결국 사퇴했습니다. 그는 성명을 통해 아내와 가족에게 상처를 주었다며 불충실했던 자신의 행동에 대해 사죄했으나, 논란이 된 상대 여직원의 신원은 구체적으로 언급하지 않았습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "젠슨황 세번째 불륜스캔들 나와…\"또다른 여직원과도 내연관계\"",
-          "url": "https://www.yna.co.kr/view/AKR20261113008800075"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "젠슨 황 세 번째 불륜 스캔들 나와…“또다른 여직원과 내연 관계”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YSmNVNG1DZFdyQ2tCZVFSQWN2N1l4WDgwU1QzUGhDNkNGd09FdGFWWFlXUXdnSW1KQXhsbjRudTF4N2lQVjd3djBuOEl1dXlUazFtSVNPaU8xR1U?oc=5"
-        }
-      ],
-      "keywords": [
-        "젠슨 황",
-        "엔비디아",
-        "불륜 스캔들",
-        "CEO 사퇴",
-        "사내 내연관계"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/cms/2026/10/08/81/PCM20261008000081072_P2.jpg"
-    },
-    {
-      "id": "news-20261113-010",
-      "headline": "이란 남부 호르모즈간주 시리크 군사 공격 받아… 국영 매체 보도",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "이란 국영 IRNA 통신은 이란 남부 호르모즈간주의 시리크 지역이 적의 공격을 받았다고 소식통을 인용해 12일(현지시간) 보도했습니다. 통신은 이번 타격이 군사적 성격을 띤 공격이라고 전했습니다.\n\n그러나 공격을 가한 주체가 누구인지에 대해서는 명확히 밝히지 않았습니다. 아울러 현장의 구체적인 피해 규모나 사상자 발생 여부 등 세부 정보 역시 공개되지 않은 상태입니다.\n\n페르시아만 입구 부근에 위치한 호르모즈간주 시리크 지역에서 발생한 이번 군사 공격으로 인해 중동 정세의 불확실성이 한층 더 커지고 있습니다. 이란 당국은 현장 상황을 파악하면서 공식 입장 및 대응책을 정립할 예정입니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "이란 매체 \"남부 호르모즈간주 시리크, 적 공격 받아\"",
-          "url": "https://www.yna.co.kr/view/AKR20261113008700079"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "이란 매체 “남부 호르모즈간주 시리크, 적 공격 받아”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMFFweGFrOHBQTmFELXptQTNqTzluLUpxUDRSeTJSTlJENUxZRS1rRVFVdnJSSkd1VncyRTN0bkEzcUtyUzlUMHhUMTNyUzlvQXpKSDhXbkFwS0k?oc=5"
-        }
-      ],
-      "keywords": [
-        "이란",
-        "호르모즈간주",
-        "시리크",
-        "군사 공격",
-        "IRNA통신"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113008700079_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261113-011",
-      "headline": "젠슨 황 사임 여파에 긴장하는 국내 재계, HBM·AI 동맹 차질 우려",
-      "category": "비즈니스",
-      "categories": [
-        "비즈니스",
-        "IT/과학",
-        "경제"
-      ],
-      "summary": {
-        "overview": "젠슨 황 엔비디아 최고경영자(CEO)의 사임 소식이 전해지면서 그와 긴밀한 협력 관계를 이어오던 국내 주요 기업들이 향후 파장에 촉각을 곤두세우고 있습니다.\n\n황 CEO는 그동안 삼성, SK, 현대차, LG 등 국내 대기업 총수들과 잇달아 회동하며 인공지능 데이터센터와 차세대 반도체, 미래 모빌리티 등 핵심 신사업 전반에서 동맹 관계를 다져왔습니다.\n\n특히 고대역폭메모리(HBM)를 공급하며 첨단 AI 칩 및 데이터센터 구축을 함께 추진하던 삼성전자와 SK하이닉스를 비롯해, 미래 먹거리 사업을 속도감 있게 진행하던 기업들은 사업 일정에 차질이 생기지 않을까 우려하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "동아일보",
-          "title": "HBM-자율차-로봇-AI팩토리… 젠슨 황 ‘깐부 동맹’ 파장 촉각",
-          "url": "https://www.donga.com/news/Economy/article/all/20261113/135017900/2"
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "자율주행차·로봇 등 탑재 AI칩 10종, 2030년까지 개발",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSVdidEdzYnJoU2hpOU9lcGFxajBLRkRjNi1Pbksyc2ZTLXFfUGJKbVdUYmlvY21VQy00N2VfaGI3OF9xWVF4clA0Um5jcVFMa2ctUHo5c1NJRUkxY1VDS242RTVUV19MVFlYcA?oc=5"
-        }
-      ],
-      "keywords": [
-        "젠슨 황",
-        "엔비디아",
-        "HBM",
-        "인공지능",
-        "반도체 동맹"
-      ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/13/135018074.1.jpg"
-    },
-    {
-      "id": "news-20261113-012",
-      "headline": "인텔 꺾은 AMD의 대역전극, K-반도체에 던지는 경고",
-      "category": "IT/과학",
-      "categories": [
-        "경제",
-        "IT/과학",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "반세기 동안 반도체 제왕으로 군림하던 인텔이 영원한 2인자였던 AMD에 밀려나고 있습니다. 불과 10년 전만 해도 인텔의 기업가치는 AMD의 80배에 달했으나, 2022년 시가총액 역전을 시작으로 격차는 점차 벌어져 현재는 AMD의 시총이 인텔의 세 배에 육박합니다.\n\n시장 기대치뿐 아니라 실제 외형 지표에서도 순위가 뒤바뀌는 형국입니다. 최근 실적 전망치에 따르면 AMD의 4분기 예상 매출이 인텔을 넘어서면서 양사의 매출 규모마저 공식적으로 역전될 예정입니다.\n\n지킬 것이 많아 혁신 속도가 무뎌진 거인이 어떻게 무너지는지를 인텔의 사례가 적나라하게 보여줍니다. 급속도로 기술력을 끌어올리는 중국 반도체 기업들의 거센 공세 속에서, 삼성전자와 SK하이닉스 역시 과거의 영광에 안주할 수 없다는 위기감이 커지고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "지킬 게 많았던 ‘반도체 지존’의 몰락 … 인텔에서 삼전닉스를 떠올린 이유",
-          "url": "https://www.mk.co.kr/news/business/12206534"
-        }
-      ],
-      "keywords": [
-        "인텔",
-        "AMD",
-        "반도체",
-        "삼성전자",
-        "SK하이닉스"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/12/news-p.v1.20261007.da8325082372477d9e96ecddc15aea73_R.jpg"
-    },
-    {
-      "id": "news-20261113-013",
-      "headline": "정년퇴직 후 뛰어든 창업 전선, 5060세대 준비 부족과 높은 폐업 위험에 직면",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "60세 전후로 퇴직한 중장년층이 생계유지를 위해 창업 시장으로 대거 유입되고 있습니다. 평생 몸담았던 직장을 떠나 새로운 소득원을 찾고자 자영업을 선택하는 이들이 늘어난 영향입니다.\n\n하지만 평생 직장 생활만 해온 은퇴자들에게 실전 창업은 낯설고 어려운 도전입니다. 실제 현장에서는 머릿속 구상을 사업계획서로 작성하는 기초 단계부터 어려움을 겪는 사례가 적지 않습니다.\n\n정부 지원사업 신청이나 단계별 실행 계획 수립 등 실무 절차 전반에서 높은 진입장벽을 마주하면서 노후 자금을 잃을 수 있다는 위기감이 커지고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“이러다 노후 자금 다 날리겠어” … 5060 폐업 급증에 찾아낸 생존법",
-          "url": "https://www.mk.co.kr/news/economy/12206515"
-        }
-      ],
-      "keywords": [
-        "정년퇴직",
-        "중장년 창업",
-        "노후 자금",
-        "자영업 폐업",
-        "사업계획서"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/12/news-p.v1.20261111.baf0a98a8af44eb78761b16329879b59_R.png"
-    },
-    {
-      "id": "news-20261113-014",
-      "headline": "엔비디아, 젠슨 황 공백 메울 임시 CEO로 콜레트 크레스 CFO 선임",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "엔비디아가 33년간 회사를 이끈 공동창업자 젠슨 황의 자리를 대신할 인물로 콜레트 크레스 최고재무책임자(CFO)를 지목했다. 회사는 공시를 통해 이사회가 크레스 CFO에게 임시 최고경영자 역할을 맡겼다고 공식 발표했다.\n\n시장에서는 이번 결정을 두고 재무 전문가가 잠시 지휘봉을 잡는 동안, 차기 정식 경영자 후보군으로 엔지니어 출신 인물들이 유력하게 거론된다는 점에 주목한다.\n\n엔비디아는 변화하는 기술 시장 환경 속에서 경영 리더십의 안정성을 확보하고자 이번 인사를 단행했다. 앞으로 기업의 기술적 방향성과 재무적 건전성을 모두 아우르는 체제를 구축하려는 의도가 읽힌다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "엔비디아 임시 CEO에 재무통 … 후임은 엔지니어 물망",
-          "url": "https://www.mk.co.kr/news/world/12207254"
-        }
-      ],
-      "keywords": [
-        "엔비디아",
-        "젠슨황",
-        "콜레트크레스",
-        "CFO",
-        "경영진"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/13/20261113_01170102000002_L00.jpg"
-    },
-    {
-      "id": "news-20261113-015",
-      "headline": "젠슨 황 엔비디아 CEO 전격 사임, 경영 일선에서 물러난다",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "엔비디아의 공동창업자이자 수장이었던 젠슨 황이 사장, 최고경영자(CEO), 그리고 이사회 이사직을 모두 내려놓기로 했다.\n\n엔비디아 이사회는 12일 성명을 내고 황 전 CEO의 즉각적인 사임 소식을 공식 발표했다. 그동안 회사를 이끌어온 상징적인 인물의 퇴진은 업계에 큰 충격을 던지고 있다.\n\n이번 결정의 배경에는 부사장인 킴벌리 파월과의 관계와 그에 따른 이사회의 신뢰 상실이 결정적인 이유로 작용했다. 사실상 이사회가 경영진의 행보에 등을 돌린 것으로 풀이된다.\n\n창업자가 떠나면서 엔비디아는 창사 이래 가장 큰 리더십 공백을 마주하게 되었다. 향후 누가 이 거대 기술 기업의 지휘봉을 잡게 될지 시장의 관심이 쏠린다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "부사장 킴벌리 파월과 밀회 … 믿었던 이사회 끝내 돌아서",
-          "url": "https://www.mk.co.kr/news/world/12207253"
-        }
-      ],
-      "keywords": [
-        "젠슨 황",
-        "엔비디아",
-        "경영진 사임",
-        "킴벌리 파월",
-        "이사회"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261113-015/600/400"
-    },
-    {
-      "id": "news-20261113-016",
-      "headline": "삼성·구글·젠틀몬스터 합작 스마트 안경 출시, 실시간 통역 기능 탑재",
-      "category": "IT/과학",
-      "categories": [
-        "경제",
-        "IT/과학",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "삼성전자와 구글, 젠틀몬스터가 협업하여 개발한 새로운 스마트 안경이 시장에 등장한다. 이 제품은 다음 달 10일부터 정식 판매를 시작하며, 가격은 65만 원에서 70만 원 사이로 책정되었다.\n\n사용자는 이 안경을 착용하는 것만으로도 외국어 통역 기능을 활용할 수 있다. 예를 들어 일본인과 대화할 때 실시간으로 한국어 번역을 지원받아 언어 장벽 없이 소통이 가능하다.\n\n기술 기업들과 패션 브랜드가 결합해 성능과 디자인을 동시에 잡으려는 시도가 돋보인다. 이번 출시는 웨어러블 기기 시장에서 실질적인 사용자 편의를 제공하는 제품들이 본격적으로 경쟁에 돌입했음을 보여준다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“통역 없어도” 안경 쓰니 일본인과 한국어로 대화 술술",
-          "url": "https://www.mk.co.kr/news/economy/12207244"
-        }
-      ],
-      "keywords": [
-        "스마트안경",
-        "실시간통역",
-        "삼성전자",
-        "구글",
-        "젠틀몬스터"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/13/news-p.v1.20261112.ff765ca6296e43e49a87cb07e11e9adb_R.jpg"
-    },
-    {
-      "id": "news-20261113-017",
-      "headline": "국민의힘, 2026 지방선거 대비 청년 지방의원 협의회 공식 출범",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "국민의힘이 2026년 전국 지방선거를 앞두고 당 소속 청년 지방의원들과 함께 발대식을 개최했다. 이번 행사는 다가오는 선거에서 청년 정치인들의 결집력을 높이고 전략적 대응 체계를 갖추기 위해 마련됐다.\n\n참석자들은 각 지역 현안을 논의하며 정책 역량 강화와 실질적인 성과 창출 방안을 모색했다. 당 지도부는 청년 의원들이 지역 현장에서 민심을 수렴하고 대안을 제시하는 구심점이 되어달라고 당부했다.\n\n이번 발대식을 기점으로 국민의힘은 청년 정치인들의 현장 목소리를 수렴해 향후 지방선거 공약과 정책 개발에 적극 반영할 계획이다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "국민의힘, ‘2026 전국청년지방의원협의회 발대식’ 개최",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wcEp2X1h6X3gwZ3BhUFB0dENJOXZneHVSZXMwUFc4TlJxdnQzNzNyaElGN0dtZ1lyRk54S2d1SW5aWjhEclg3VzVmNWhxS2lUdlUxdEJxWmlFYlE?oc=5"
-        }
-      ],
-      "keywords": [
-        "국민의힘",
-        "지방선거",
-        "청년 정치인",
-        "지방의회",
-        "정책 개발"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261113-017/600/400"
-    },
-    {
-      "id": "news-20261113-018",
-      "headline": "화재 현장에서 주민 먼저 대피시키던 아파트 경비원 심정지로 쓰러져",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "아파트 화재 현장에서 자신의 안전보다 주민들의 대피를 먼저 챙기던 경비원이 심정지로 쓰러졌습니다.\n\n화재를 발견한 경비원은 신속하게 불이 난 사실을 외치며 주민들이 안전하게 대피할 수 있도록 현장을 살폈습니다.\n\n주민 대피를 유도하던 도중 경비원은 심정지 상태로 발견되어 응급 처치를 받으며 병원으로 옮겨졌습니다.\n\n소방 당국과 현장 관계자들은 경비원의 신속한 대피 안내가 인명 피해를 줄이는 데 결정적인 역할을 했다고 전했습니다.\n\n경찰과 소방 당국은 정확한 화재 원인과 함께 경비원의 사고 경위를 상세히 조사 중입니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "\"불이야\" 주민 먼저 챙기다‥경비원 심정지",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpc3RzeDM2UVFTVmtCSEt2aXBST0o0STc1ME9YLXlkLXJqQlpXQUVOSHFwazB5YTQ0UVdBdGZON2h6T2IxOUJZV203T0pOdHE5RGs2RW9UMV9YQlNMZ213Y2NOTXpBcjQ4WTIyRm1heXBvYzhuREFlUdIBeEFVX3lxTFBoLW56OXhfRjNVTF9qbFFXbGVMVDdyOWtSeDl2MTlwdzJjc1Y3UVNNTkZRbElNZDY1cTNDRldqTkpESC1UUXZQQ2xiaUs1VXI2cmtRYlFqLXEwOVpyZHVXTXFqMkY0c3VwV2JfVGxTTFZWTUVRTlpMMw?oc=5"
-        }
-      ],
-      "keywords": [
-        "아파트 화재",
-        "경비원",
-        "심정지",
-        "주민 대피"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261113-018/600/400"
-    },
-    {
-      "id": "news-20261113-019",
-      "headline": "AI 업계 대표 인사, 부사장과의 불륜설 파문으로 도덕성 논란과 리더십 위기 직면",
-      "category": "IT/과학",
-      "categories": [
-        "경제",
-        "IT/과학",
-        "글로벌",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "인공지능(AI) 업계를 이끌던 주요 경영 인사가 자사 부사장과의 불륜설에 휩싸이며 거센 논란의 중심에 섰습니다. 성공적인 기술 성과로 이른바 'AI 황제'라 불리던 인물의 윤리적 구설이 잇따르면서 기업 리더십 전반에 큰 균열이 생기고 있습니다.\n\n최근 관련 언론과 업계를 통해 내부 고위 임원과의 부적절한 관계가 드러났으며, 이로 인해 조직 내부의 공정성과 기업 윤리에 대한 비판이 쏟아지는 상황입니다. 과거에도 여러 차례 개인적 이슈에 휩싸였던 만큼, 이번 사건은 개인의 입지는 물론 회사 전체의 신뢰도에도 치명적인 타격을 주고 있습니다.\n\n주주와 투자자들 사이에서는 경영진 리스크가 기업 가치를 훼손할 수 있다는 우려가 급격히 확산하는 모양새입니다. 시장에서는 이번 파문이 브랜드 이미지 악화와 투자 이탈로 이어질 가능성을 경계하며 이사회 차원의 대응 방안에 집중하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "이번엔 부사장과 불륜설‥AI 황제의 끝없는 추락",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84YnNrLW11elFmM205TUM2V0lFUlpYcEwzSkNDTjF6aEdZS2NBeUg0ekp2akFsWTl6TVhfQmVwVkdYd2hRT05oMS1KY3l3bThYVW55M1owLUtnSklvZ1loV2xtTV91d2JHdDJJSnIxUi1rdlBtV2FWWNIBeEFVX3lxTE5sMUNHNmw0ZHZaVFlHTXEwREo0RHFNOEN1WWI4dTdtVjYycWFvbHRFbU1oNkpiWUFzYTE4SDlXSGdLMlZtMlo1WVRHRFFLTUdUeXRVdnZBa3ctZVhpbmZtR01qeDAzNUNoUDIzSlNwZXZBdVppMnZVdA?oc=5"
-        }
-      ],
-      "keywords": [
-        "AI 황제",
-        "부사장 불륜설",
-        "경영진 리스크",
-        "기업 윤리",
-        "리더십 위기"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261113-019/600/400"
-    },
-    {
-      "id": "news-20261113-020",
-      "headline": "11월 13일 주요 국내외 경제 일정 및 지표 발표 안내",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "11월 13일 금요일에 예정된 주요 경제 지표 발표와 정책 일정이 공유되었습니다. 해당 일정에는 국내외 금융시장과 산업계에 직간접적인 변수를 제공할 주요 통계 및 발표 사항들이 포함됩니다.\n\n투자자들과 시장 관계자들은 공개되는 지표에 따라 시장 변동성이 달라질 수 있어 관련 동향을 다각도로 살피고 있습니다. 발표 결과에 맞춰 향후 시장 흐름과 정책 방향성 역시 명확해질 전망입니다."
-      },
-      "publishers": [
-        {
-          "name": "YTN",
-          "title": "■11월 13일 금 경제 캘린더",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tT2lISF9SNkxJeGpNeHc2aklJa0dEa3RYdEFzSjNzSEN2NmJsRld4XzJEUU1QNDJzVTZEYkIxamM1by1hSDhtZ0pVT0dxLW9pU1lDRUdxUURmbHhBTWc?oc=5"
-        }
-      ],
-      "keywords": [
-        "경제 캘린더",
-        "11월 13일",
-        "경제 지표",
-        "금융시장",
-        "정책 일정"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261113-020/600/400"
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/14/PRU20261114000501009_P2.jpg"
     }
   ]
 }
