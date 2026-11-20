@@ -1,598 +1,584 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T06:44:41.802734+09:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T06:10:35.077410+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261120-001",
-      "headline": "미·중·러 첫 3자 정상회담에 CSIS \"강대국 공동지배 시도, 동맹국엔 최악의 시나리오\"",
-      "category": "글로벌",
+      "id": "news-20261121-001",
+      "headline": "미국 11월 소비자심리지수 시장 전망 부합…중간선거 후 경기 기대감 회복",
+      "category": "경제",
       "categories": [
         "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "아시아태평양협력체(APEC) 정상회의를 계기로 열린 사상 첫 미·중·러 3자 정상회동을 두고 강대국 중심의 공동지배 구상이 동맹국들에 심각한 위협이 될 수 있다는 전문가 분석이 나왔습니다. 빅터 차 국제전략문제연구소(CSIS) 석좌는 도널드 트럼프 미국 대통령이 미·중·러 3국의 합의만을 강조한 발언을 지적하며, 이는 미국 동맹국 입장에서 상상할 수 있는 최악의 시나리오라고 비판했습니다.\n\n특히 트럼프 대통령이 중국의 대일 경제적 강압이나 러시아의 방공식별구역 침범 등 동맹국이 직면한 안보 위협을 전혀 제기하지 않은 점이 문제로 꼽혔습니다. 회담 이후 나온 공동성명에서도 이란, 우크라이나, 북한 등 주요 국제 안보 현안이 완전히 배제되어 핵심 사안에 대한 합의가 무산되었음을 보여주었습니다.\n\n전문가들은 이번 회담이 과거 얄타 체제와 유사한 강대국 중심의 질서 재편 우려를 자극한다고 평가했습니다. 시드 사일러 CSIS 선임 고문은 트럼프 대통령이 기존 국제 질서를 수호하기보다 중국과 러시아의 수정주의적 목표를 수용하는 태도를 보였다며, 이러한 구상이 실제로 이행될 경우 동맹국들과의 마찰이 크게 커질 것이라고 경고했습니다."
+        "overview": "미국의 11월 소비자심리지수가 시장 전문가들의 예상치에 부합하는 수준을 기록했습니다.\n\n미국 중간선거가 마무리되면서 정치적 불확실성이 완화되었고, 이에 따라 향후 경기 흐름을 바라보는 소비자들의 전망도 일부 개선된 것으로 나타났습니다.\n\n시장에서는 고물가와 금리 인상 환경 속에서도 미국 내 소비 심리가 급격히 냉각되지 않고 방어선을 유지하고 있다는 점에 의미를 두고 있습니다.\n\n선거 종료에 따른 심리적 안정감이 형성되면서 당장의 소비 지출 기조가 당분간 이어질 수 있다는 관측이 나옵니다.\n\n다만 연방준비제도의 긴축 기조 지속 여부와 실제 물가 수치에 따라 체감 경기가 다시 냉각될 가능성은 여전히 남아 있습니다.\n\n전문가들은 선거 이후의 정치적 상황과 향후 발표될 통화정책 향방이 실제 민간 소비에 미칠 영향을 면밀히 살피고 있습니다."
       },
       "publishers": [
         {
-          "name": "YTN",
-          "title": "트럼프 \"김정은과 좋은 관계지만, 회담 성사 안 돼\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02aFgyMWJtUWJDbFhMNG1YTGF1M2tvNGRjWDJOaG4xd3o1d1JJcUQweEMzeEgtVjJhLTlTX1BleUktVXZPdWhsS3QyMGl6ODc2UmhsOEswazNwMXI3TkE?oc=5"
+          "name": "KBS 뉴스",
+          "title": "미국 11월 소비자심리 예상 부합…“중간선거 후 경기전망 개선”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zc0RFNFRhQ1V4QWM0dldwVHQ1eHhFcndObmVyTTVkalZmTGVpaks0SzVrM2RReV90c0RvMUZISUttOU5HSGtZYUFRT0dLSmk5azhURUw3Vnp3T2s?oc=5"
         },
         {
           "name": "YTN",
-          "title": "트럼프, 아시아 순방 마치고 귀국길...김정은과 회동 불발",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02bkVwTDV1ZkdnUkVMTW9UdHpEZmhtc0xRRDk5MkZaSm1LblNPdUFFbkM0RDJvYnJhbExhNGlkSkpvWHZ5bDZrS296OEp3NVhHVzhWZ0dPU0RuUkxMemc?oc=5"
+          "title": "중간선거 이후 미국 소비자 심리 개선...예상 부합",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jRldCTThSSGVicHhJVEFIZWJscnFMRWdRTmlmQW9fRmZ1SVdpdFBUWXUzOTVnbXU0MU04blBxdVN3UTZBN0lSQmlsQ244S0pjZjgyQy1jVDhsOG9sVlE?oc=5"
         },
         {
-          "name": "연합뉴스",
-          "title": "[미중러 정상회담] \"트럼프 '강대국 공동지배' 발언…동맹에 최악\"",
-          "url": "https://www.yna.co.kr/view/AKR20261120008500071"
+          "name": "YTN",
+          "title": "트럼프, 중간선거 패배 원인 제시...본인은 제외",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GRk9UalFCSGpGZlg0WS1kVVlGdzFlbUt1N2dYOVhwOTRwMVQyYnRwajcwajRKbjctMTBkeExsNFdOZm40V3Y1cEVSTHoyS09YWkhqRVBtWTl4cDdVdFE?oc=5"
         }
       ],
       "keywords": [
-        "미중러 정상회담",
-        "트럼프",
-        "강대국 공동지배",
-        "CSIS",
-        "동맹국"
+        "미국 경제",
+        "소비자심리지수",
+        "중간선거",
+        "경기전망"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120008500071_01_i_P2.jpg"
+      "image_url": "https://picsum.photos/seed/news-20261121-001/600/400"
     },
     {
-      "id": "news-20261120-002",
-      "headline": "앤트로픽, 역대 최대 IPO 성공하며 시총 1조7700억달러 달성…AI 투자 우려는 지속",
-      "category": "경제",
+      "id": "news-20261121-002",
+      "headline": "미중 정상, 군사적 AI 활용 시 인간 개입 합의…베선트 미 재무장관 공개",
+      "category": "글로벌",
       "categories": [
         "경제",
         "글로벌",
         "IT/과학"
       ],
       "summary": {
-        "overview": "인공지능 챗봇 '클로드' 개발사 앤트로픽이 미국 나스닥 상장 첫날 공모가 대비 17.1% 오른 97.17달러에 거래를 마감했다. 종가 기준 시가총액은 약 1조7700억달러로 메타와 브로드컴을 넘어섰다. 앤트로픽은 이번 기업공개를 통해 역대 최대 규모인 약 1073억달러의 자금을 조달했으며, 이를 연구개발과 컴퓨팅 인프라 확충에 투입한다.\n\n상장 직후 주가는 장중 111.50달러까지 치솟았으나 차익 실현 매물이 쏟아지며 상승폭이 줄어들었다. 개장 직후 매수한 투자자들이 손실을 기록한 데다 나스닥100지수도 거래 시작 후 내림세로 돌아서며 시장에 남은 AI 투자 불안을 입증했다.\n\n대규모 기업공개와 맞물려 AI 규제 논의 역시 빠르게 재점화됐다. 미국 정치권에서는 AI 관련 규제 법안 처리를 촉구하는 목소리가 높아졌고, 나스닥 거래소 인근에서는 AI 개발 속도 조절을 요구하는 시위가 벌어졌다."
+        "overview": "미국과 중국 정상이 인공지능(AI) 기술을 활용한 군사적 결정 과정에서 항상 인간이 개입해야 한다는 원칙에 합의했습니다. 스콧 베선트 미국 재무부 장관은 CNBC 인터뷰에서 도널드 트럼프 대통령과 시진핑 중국 국가주석이 주요 군사 작전 시 기술의 자율적 작동을 허용하지 않기로 뜻을 모았다고 발표했습니다. 베선트 장관은 이번 합의가 양국 간 AI 기술 패권 다툼과는 별개로 군사적 통제권을 확보하기 위해 거둔 주요 성과라고 평가했습니다.\n\n다만 사이버 공격 위험이 있는 중국 측 AI 모델에 대응하려면 미국 연구기관들이 기술 우위를 확고히 지켜야 한다고 부연했습니다. 이와 더불어 베선트 장관은 연방준비제도(Fed)를 향해 과도한 금리 인상 주장을 받아들이지 말 것을 요구했습니다. 원유 인도가격 하락을 예로 들며 연준이 과거 통계에 연연하기보다 향후 시장 상황을 내다보고 통화 정책을 운용해야 한다고 덧붙였습니다."
       },
       "publishers": [
         {
-          "name": "매일경제",
-          "title": "앤트로픽, 상장 첫날 17% 상승…시총 1조7700억달러",
-          "url": "https://www.mk.co.kr/news/it/12214186"
+          "name": "YTN",
+          "title": "베선트 미 재무장관 \"미중, AI 군사 결정에 인간 개입 합의\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uUEZ6c1lrVmFoLUR3TDRNMHRqcVNmeEZFekI0UDhSMXZ5QzYyZk4wa3hXbjZTeVhjT2JLUGItNzRZSUlLS1c3djBYcVItdlFZSWx1TWFESmNaZUFwWGc?oc=5"
         },
         {
           "name": "연합뉴스",
-          "title": "앤트로픽 상장에도 뉴욕증시 2%대 급락…다우 50,000선 아래로",
-          "url": "https://www.yna.co.kr/view/AKR20261120010700072"
+          "title": "베선트 \"미중 정상, AI 군사 결정에 인간 개입 합의\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121004500072"
         },
         {
-          "name": "연합뉴스",
-          "title": "[속보] 앤트로픽, 상장 첫날 97.17달러로 마감",
-          "url": "https://www.yna.co.kr/view/AKR20261120010000091"
+          "name": "KBS 뉴스",
+          "title": "베선트 “미중 정상, AI 군사 결정에 인간 개입 합의”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mU3hjZmZ3LVBKUXdMdWRQaUxtcWR5MGdINVRJc1FVQ3FBQklEYktMSUlycDU2aHZzNWNoVy1ybzZCWjBXS3NkVkthdGphaHdQcHp1TGVMRThZUm8?oc=5"
         }
       ],
       "keywords": [
-        "앤트로픽",
-        "IPO",
-        "시가총액",
-        "나스닥",
-        "AI 규제"
+        "미중 정상회담",
+        "인공지능",
+        "스콧 베선트",
+        "연방준비제도",
+        "슈퍼지능"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261120.74d898bf86ad41de9ace7405aa71f3ce_R.png"
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/17/PRU20261117291401009_P2.jpg"
     },
     {
-      "id": "news-20261120-003",
-      "headline": "중국 왕이 외교부장, 첫 미·중·러 정상회담 구상에 \"역사책에 실릴 상징적 사건\" 평가",
+      "id": "news-20261121-003",
+      "headline": "미국 무역대표부, 상호관세 대체할 무역법 301조 조사 연말까지 완료 방침",
       "category": "글로벌",
       "categories": [
         "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "중국 왕이 외교부장이 최근 거론된 미국·중국·러시아 3국 간의 첫 정상회담 구상을두고 역사적 의미를 부여했습니다. 왕 부장은 해당 회담이 성사된다면 향후 역사책에 기록될 만큼 상징적인 사건이 될 것이라며 강한 기대감을 드러냈습니다.\n\n세계 안보와 국제 정세를 좌우하는 미·중·러 3국의 정상 만남은 다자 외교 지형에서 매우 이례적인 구상으로 평가받습니다. 최근 지정학적 긴장과 통상 갈등이 이어지는 상황에서 강대국 간 전격적인 대화 채널이 열릴지 외교가의 시선이 모입니다.\n\n중국 측은 글로벌 평화와 안정을 유지하기 위해 대국 간의 책임 있는 소통이 필수라는 점을 거듭 내세웠습니다. 이번 발언을 계기로 3국 간의 정상급 외교 논의가 실제 회담 개최로 이어질지 향후 행보에 관심이 쏠립니다."
+        "overview": "미국 무역대표부(USTR)가 상호관세를 대체하기 위한 무역법 301조 조사를 올해 연말까지 마무리하겠다는 계획을 밝혔습니다.\n\n이번 조사는 상대국의 불공정 무역 관행에 대응해 특정 수입품에 고율 관세를 부과하기 위한 법적 근거를 마련하는 차원에서 추진됩니다. 무역대표부는 조사 결과를 바탕으로 관세율 조정 등 후속 조치를 단행할 방침입니다.\n\n연내 조사가 완료되면 미국 정부의 차기 통상 규제 방향과 국가별 영향이 구체적으로 드러날 전망입니다."
       },
       "publishers": [
-        {
-          "name": "YTN",
-          "title": "중국 왕이, 첫 미중러 정상회담에 \"역사책에 실릴 상징적 사건\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMVBPY0NQckkzbTBiU1RkMFhPcmpvcXhxcER6ZGNBWUQwNnpRUXpIZ3pKUkVyTjBxbzhydkZ4cnpVcUdEd3dNN1FVRWwwRE1Db1o2ZGF4VEtSZHljSUE?oc=5"
-        },
         {
           "name": "MBC 뉴스",
-          "title": "미·중·러 정상, 세기의 회담‥'평화선언' 발표",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90MHdsLXNSRkdZaThtRDRadWNRUUNrQy0tOHFTTVhudTFaVno1bHB0U3o0NXpMMDY2RlhvbkxDTDl1U0JZTEpmeUtKdTNqU2x4ZVlwNC1DOWFocmw3NWdkR2NpTWJRalV2dUZnQmJvbmRHRlpFQXJSR9IBeEFVX3lxTFA5c0oxVDRMN0F1VlljdDZBU1J4Z0cwamcxSklJREhXRUllZGJVU1NnTHRaOENWNGFtMVBxRGJRaXBwQTFpLUxBcVIwY3N4T1VlLVN1cVAwc0tNVHAxaUtUbnN4QmlNQm1QemtSbm5ucVJhRDBhOGNSZw?oc=5"
+          "title": "美무역대표 \"'상호관세 대체' 301조 조사 연말까지 마무리\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MTHN4ZFE5VXJXVXZ2eldkd1VyaU9hdkx4ZC1KN2Flc1NrNTJOS1dsVUhRVExoVmEtQkNBVWtDamJ6UXcwNGlPdVNaQ3QyclgxRnpvSnV4U0VBX3JRMWpYS0FPbzJocEhIcUkzSUlQNzlTQTQz0gF0QVVfeXFMTTA5UjdHUUdBQjVvV2JqT0FPVF90MjI5NUdrcTNNNnY1VUdBX0ZKbUFXdkpnSWt3T0cyR3JPTzFEZ2VzbHM5OWwzTUhpdWpjQXJ6VlRtSVczWmRIbkJTZnpTZXE5ZU80N2ZaR09kQ2JwenltWDQ?oc=5"
         },
         {
-          "name": "YTN",
-          "title": "미중러 사상 첫 정상회담...핵 군축·우크라··한반도 문제 논의",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Iblo3em56TjNOZGlWYnhYdldtcDhmTFhVUFhlOWlKNjV4OS1teTlRWHUwZE8yWHhOUm9pd1RlTEZlNWo4TmIxR0lXZF9nQWwzemVnTUl2M2xUOE1sbXc?oc=5"
+          "name": "KBS 뉴스",
+          "title": "미국 무역대표 “‘상호관세 대체’ 301조 조사 연말까지 마무리”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qeVBaWEt5Z0pFazJ4YzVCMXI4cVNLcElTbHgxV0pTSHRUb09HS19RSzhIcG1JTkxYVGtWbzRpeER5Ykt0MmhRenVULUwyQ1F2M093VmJ0TnpTSlk?oc=5"
         }
       ],
       "keywords": [
-        "왕이",
-        "미중러 정상회담",
-        "중국 외교",
-        "다자외교",
-        "국제정세"
+        "미국 무역대표부",
+        "무역법 301조",
+        "상호관세",
+        "관세 조사",
+        "통상 정책"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261120-003/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261121-003/600/400"
     },
     {
-      "id": "news-20261120-004",
-      "headline": "10월 생산자물가 0.1% 하락…농축산물 급락에 3개월 만에 내림세",
+      "id": "news-20261121-004",
+      "headline": "반도체 주도 수출 호조 속 차세대 성장 동력 발굴 과제",
       "category": "경제",
       "categories": [
         "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "한국은행에 따르면 10월 생산자물가지수가 129.66으로 전월 대비 0.1% 하락하며 3개월 만에 내림세로 돌아섰다. 이번 하락은 기상 여건 개선과 추석 이후 수요 감소로 농림수산품 가격이 8.3% 크게 떨어진 영향이 컸다. 사과 가격이 29.2% 하락하는 등 농산물이 11.8% 내렸고, 돼지고기 가격이 12.8% 떨어지며 축산물도 7.3% 하락했다.\n\n반면 공산품은 원자재 가격 상승분이 시차를 두고 반영되면서 전월 대비 0.3% 올랐다. 황산 등 화학제품(1.5%)과 제트유 등 석탄·석유제품(1.9%)이 상승세를 이끌었으며, 산업용 도시가스 요금 인상 영향으로 전력·가스·수도 및 폐기물도 0.2% 상승했다. 한국은행은 농림수산품의 일시적 하락 요인을 제외하면 생산자물가가 실질적으로 0.2% 상승한 셈이라고 설명했다.\n\n물가 변동 측정 지표인 국내 공급물가지수는 수입 원재료 가격 상승의 영향으로 전월 대비 0.7% 올랐으며, 수출을 포함한 총산출물가 역시 0.3% 상승했다. 한국은행은 11월 물가 전망에 대해 최근 국제유가가 내림세를 보였으나 도시가스 요금과 항공 유류할증료 인상 등이 변수로 작용할 것으로 내다봤다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "10월 생산자물가 0.1% 하락…사과 29.2%·돼지고기 12.8%↓",
-          "url": "https://www.yna.co.kr/view/AKR20261119157000002"
-        }
-      ],
-      "keywords": [
-        "생산자물가지수",
-        "한국은행",
-        "농림수산품",
-        "공산품",
-        "국내공급물가지수"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2019/05/12/PYH2019051206950001300_P2.jpg"
-    },
-    {
-      "id": "news-20261120-005",
-      "headline": "서울 지하철 노조 준법투쟁 돌입…인력 충원 요구하며 25일 총파업 예고",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "서울교통공사 노동조합이 안전 인력 확충과 구조조정 철회를 요구하며 20일 새벽부터 준법투쟁에 돌입했습니다. 이에 따라 출퇴근 시간대 지하철 운행이 지연되는 등 시민 불편이 이어질 전망입니다.\n\n노조는 사측의 인력 감축안 철회와 필수 안전 인력 충원을 강력히 요구하고 있습니다. 요구안이 수용되지 않을 경우 오는 25일부터 무기한 총파업에 들어가겠다는 강경한 입장을 밝혔습니다.\n\n이번 투쟁에는 GTX-A 노선 관련 인력과 철도노조도 힘을 보태기로 하면서 수도권 전반의 교통 대란 우려가 커지고 있습니다. 사측과의 노사 협상이 타결점을 찾지 못할 경우 연쇄적인 운행 차질이 불가피할 것으로 보입니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "서울 지하철 노조 오늘부터 준법투쟁…출근길 열차 지연 우려",
-          "url": "https://www.mk.co.kr/news/society/12214174"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "서울지하철 노조, 오늘부터 준법투쟁…출퇴근 열차 지연 예상",
-          "url": "https://www.yna.co.kr/view/AKR20261119160200004"
-        }
-      ],
-      "keywords": [
-        "서울지하철",
-        "준법투쟁",
-        "노동조합",
-        "총파업",
-        "교통지연"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/20/rcv.YNA.20261119.PYH2026111915000001300_R.jpg"
-    },
-    {
-      "id": "news-20261120-006",
-      "headline": "트럼프, 시진핑과 AI 안전장치 논의…미·중·러 정상회담서 우크라이나 문제 집중 다뤄",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌",
+        "비즈니스",
         "IT/과학"
       ],
       "summary": {
-        "overview": "도널드 트럼프 미국 대통령이 아시아태평양경제협의체(APEC) 정상회의 일정을 마친 뒤 시진핑 중국 국가주석과 인공지능(AI) 안전장치 마련에 관해 의견을 나누었다고 밝혔습니다. 트럼프 대통령은 AI의 부작용을 관리하는 데 신중해야 함을 강조하면서도, 구체적인 안전장치 내용에 대해서는 말을 아꼈습니다.\n\n이어 열린 미·중·러 3자 정상회담에서는 우크라이나 사태가 주요 의제로 다루어졌습니다. 트럼프 대통령은 크림대교 피격 사건으로 볼로디미르 젤렌스키 우크라이나 대통령에게 강한 불만을 표출한 블라디미르 푸틴 러시아 대통령의 입장에 공감을 표했습니다.\n\n다만 당사자인 우크라이나를 배제한 채 전쟁 관련 최종 결정을 내리지는 않겠다는 입장을 분명히 했습니다. 순방 일정을 마친 트럼프 대통령은 백악관 복귀 후 기자회견을 열어 태국 및 필리핀과의 무역 협정을 포함한 주요 순방 성과를 발표할 예정입니다."
+        "overview": "최근 한국 수출 시장은 반도체 품목이 견인하며 긍정적인 흐름을 이어가고 있습니다. 글로벌 IT 경기 회복세와 더불어 주력 품목인 반도체 수출 실적이 급증한 영향입니다.\n\n하지만 특정 산업 하나에 과도하게 의존하는 수출 구조는 대외 환경 변화에 취약할 수 있다는 우려가 나옵니다. 반도체 단일 품목의 호조를 넘어 전체 산업을 안정적으로 받쳐줄 후속 성장 동력 확보가 시급한 상황입니다.\n\n정부와 관련 기업들은 자동차, 바이오, 이차전지 등 유망 신산업 분야를 육성하기 위해 투자 확대와 제도 개선에 전력을 기울이고 있습니다. 기존 주력 산업의 체질을 개선하고 고부가가치 산업군을 확장하려는 시도가 이어지고 있습니다.\n\n글로벌 경제의 불확실성이 지속되는 상황에서 안정적인 성장을 도모하려면 수출 포트폴리오 다각화 전략을 신속히 실현해야 합니다."
       },
       "publishers": [
         {
           "name": "YTN",
-          "title": "에스컬레이터 같이 타며 손 잡더니...시진핑 연설 도중 조는 트럼프?",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxUVY2YTlyd1pJV1I5c2J1Slc2Nl9WdjZMclZMOUZkQ2FqUTdJWVR0dEM2Y1NzQy1NM3N6MnQ0MTBCUXZqTWtvODQ0MDllYnQzd1ZtR3Y1WWdKX3Btd1E?oc=5"
+          "title": "반도체가 이끈 수출...다른 성장 엔진은?",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93RFVxTkRFSkt3a1dmb0FNeHBxeDk0SHV3U19RYVNiTS0wOE5YYXpOb3BYckJKbUo4Zi1RcnRLUEcxcG80aFgwZDU4Z2pvcTFOSkhSendPV3N1NDZ0aEE?oc=5"
         },
         {
+          "name": "뉴스1",
+          "title": "美 \"시진핑, 정상회담서 반도체 수출통제 거론 안 해\"…中 보복 근거 없어\"",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fMWRZc012c3VrcWZrSjJVZFpZUDUxbEk1QTVob0tFS0dwbmZOR1FCQ2taMVNxcWhKbEUxbWRGbnhkRWM4dlZINnUxOG5IZFFGQnFLZmxlRnQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "반도체",
+        "수출실적",
+        "성장동력",
+        "산업다변화",
+        "한국경제"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261121-004/600/400"
+    },
+    {
+      "id": "news-20261121-005",
+      "headline": "트럼프, 이란 실질적 합의 촉구하며 핵무기 보유 절대 불가 재확인",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 미국 대통령이 백악관 기자회견에서 이란과의 협상에 대해 강경한 입장을 밝혔습니다. 트럼프 대통령은 이란이 합의를 원하고 있지만 자신이 수용할 만한 진정한 협상안은 제시하지 않고 있다며, 기존의 형식적인 협상 방식에서 벗어날 것을 촉구했습니다. 고유가 문제의 해결 역시 이란과의 협상 성패에 달려 있다고 덧붙였습니다.\n\n아시아태평양경제협력체(APEC) 정상회의 기간 열린 미·중·러 3자 회담에서도 이란의 핵무기 보유를 차단하는 방안이 중점적으로 다뤄졌습니다. 트럼프 대통령은 이란 정권을 향한 비판 수위를 높이는 한편, 이란의 핵무기 보유를 결코 좌시하지 않겠다는 강력한 의지를 표명했습니다. 워싱턴DC를 겨냥한 방사능 오염 폭탄 테러 모의 정황에 대해서도 철저히 정세를 파악하고 있으며 이를 용납하지 않겠다고 경고했습니다.\n\n한편 미·러 정상회담과 관련해서는 블라디미르 푸틴 러시아 대통령이 우크라이나 전쟁의 외교적 해결을 바라고 있다고 전했습니다. 다만 볼로디미르 젤렌스키 우크라이나 대통령과 푸틴 대통령 사이의 깊은 대립으로 인해 종전 협상이 쉽게 풀리지 않는 상황이라고 설명했습니다."
+      },
+      "publishers": [
+        {
           "name": "연합뉴스",
-          "title": "트럼프 \"시진핑과 AI안전 논의…크림대교 피격에 화난 푸틴 이해해\"",
-          "url": "https://www.yna.co.kr/view/AKR20261120006400071"
+          "title": "트럼프 \"이란, 합의 원하지만 내가 수용할 합의는 원하지 않아\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121007200071"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "트럼프 “이란, 합의 원하지만 내가 수용할 합의는 원하지 않아”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01cWI3VDJnZnJLeFkxSG5iWGo5a3o5cW51LU9QeUhOQ3Vjc2J3MTNOX2ZCX0FVSWJfQlBrdEFQNFk3NVdKNXVwMnB1anZpaFlMMnN6OVBpeVVGa2s?oc=5"
         }
       ],
       "keywords": [
         "트럼프",
-        "시진핑",
-        "푸틴",
-        "AI 안전장치",
-        "미중러 정상회담"
+        "이란 핵무기",
+        "미중러 정상회담",
+        "우크라이나 전쟁",
+        "APEC"
       ],
-      "image_url": "https://img.yna.co.kr/photo/ap/2026/11/20/PAP20261120022301009_P2.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121007200071_01_i_P2.jpg"
     },
     {
-      "id": "news-20261120-007",
-      "headline": "한국무역협회, 브뤼셀서 한-EU 정책 파트너십 포럼 개최…공급망 및 통상 협력 논의",
+      "id": "news-20261121-006",
+      "headline": "트럼프 \"美 기업, 해외에 AI 데이터센터 지으면 고율 세금 부과\"",
       "category": "글로벌",
       "categories": [
         "글로벌",
-        "비즈니스",
+        "IT/과학",
         "경제"
       ],
       "summary": {
-        "overview": "한국무역협회가 벨기에 브뤼셀에서 유럽한국기업총연합회, 유럽정책연구원과 함께 '2026 한-EU 정책 파트너십 포럼'을 진행했습니다. 이번 행사에는 유럽 현지에 진출한 한국 기업과 EU 정책 당국, 산업계 및 연구기관 관계자 150여 명이 모여 최근 유럽 정책 변화에 따른 대응책을 모색했습니다.\n\n참석자들은 산업가속화법과 탄소국경조정제도 등 EU의 핵심 통상·산업 규제가 기업 현장에 미치는 현황을 정밀하게 점검했습니다. 이와 함께 핵심 원자재 공급망을 다변화하고 전략산업 분야에서 투자와 기술 협력을 늘리는 구체적인 방안을 논의했습니다.\n\n전문가들과 기업인들이 참여한 대담에서는 경제안보, 순환경제, 디지털 무역 등 다양한 영역에서 전략적 공조를 강화해야 한다는 의견이 잇따랐습니다. 윤진식 무역협회장은 한-EU FTA 발효 15주년을 계기로 양측의 경제 협력 수위를 한 단계 높여야 한다고 강조했으며, 유럽의회 관계자들을 만나 규제 수립 과정에서 한국 기업의 입장을 충분히 반영해 줄 것을 요청했습니다."
+        "overview": "도널드 트럼프 미국 대통령이 미국 기술 대기업이 해외에 인공지능(AI) 데이터센터를 건설할 경우 고액의 세금을 부과하겠다고 공언했습니다. 트럼프 대통령은 과거 반도체 등 주요 산업의 해외 이전을 방치해 미국이 뒤처지기 시작했다고 언급하며, AI 데이터센터 분야에서 중국에 주도권을 넘겨주지 않겠다는 강한 의지를 나타냈습니다.\n\n최근 미국 내에서는 데이터센터 건설로 인한 전기요금 급등 우려로 반대 목소리가 컸으나, 트럼프 대통령은 국내 데이터센터 건설을 차질 없이 추진하겠다는 방침을 분명히 했습니다. 기업이 자체 전력을 생산하고 지역사회에 비용을 들이게 만들면 일반 가구의 전기요금 부담도 낮출 수 있다는 논리를 펼쳤습니다.\n\n이번 언급은 대규모 데이터센터가 전력 수요 비용을 직접 부담하도록 규정한 법안이 연방 상원을 통과한 시점에 나왔습니다. 트럼프 행정부는 강경한 세금 정책과 전력 비용 부담 법안을 앞세워 글로벌 AI 주도권을 사수하고 국내 투자를 유도할 계획입니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "무역협회, 브뤼셀서 한국·EU 정책 협력 포럼 개최",
-          "url": "https://www.yna.co.kr/view/AKR20261120006500098"
+          "title": "트럼프 \"美기업, 다른 나라에 데이터센터 지으면 엄청난 세금 부과\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121006000071"
         },
         {
-          "name": "동아일보",
-          "title": "“아태, 하나의 자유무역지대 추진… AI-디지털경제 분야 협력 강화”",
-          "url": "https://www.donga.com/news/Inter/article/all/20261119/135057366/2"
+          "name": "경향신문",
+          "title": "트럼프 ““다른 나라에 데이터센터 지으면 엄청난 세금 부과”",
+          "url": "https://www.khan.co.kr/article/202611210445001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         }
       ],
       "keywords": [
-        "한국무역협회",
-        "한-EU 정책 파트너십 포럼",
-        "탄소국경조정제도",
-        "공급망 협력",
-        "산업가속화법"
+        "트럼프",
+        "데이터센터",
+        "AI",
+        "세금 부과",
+        "전력 비용"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120006500098_01_i_P2.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121006000071_01_i_P2.jpg"
     },
     {
-      "id": "news-20261120-008",
-      "headline": "앤스로픽, 813억 달러 공모액으로 나스닥 상장… 역대 최대 IPO 기록 경신",
-      "category": "비즈니스",
+      "id": "news-20261121-007",
+      "headline": "사우디 연합군, 홍해 내 예멘 후티 반군 무기 밀수 근거지 전격 타격",
+      "category": "글로벌",
       "categories": [
-        "비즈니스",
-        "IT/과학",
-        "글로벌",
-        "경제"
-      ],
-      "summary": {
-        "overview": "인공지능(AI) 모델 '클로드' 개발사인 미국 앤스로픽이 813억 4000만 달러(약 108조 원) 규모의 공모액을 기록하며 미국 나스닥 시장에 종목코드 'ANT'로 입성했습니다. 이는 지난 6월 스페이스X가 세웠던 종전 최대 기록 750억 달러를 5개월 만에 넘어선 역대 최대 기업공개(IPO) 규모입니다.\n\n앤스로픽은 당초 희망 범위였던 주당 70~78달러를 넘어서는 83달러로 공모가를 확정했습니다. 투자 수요가 폭증함에 따라 발행 물량 역시 기존 8억 2500만 주에서 9억 8000만 주로 늘렸으며, 현지 언론에 따르면 청약 주문은 공모 물량의 7배에 달했습니다.\n\n이번 상장은 거대 AI 기업이 시장에서 거둔 첫 대형 시험대로 평가받고 있습니다. 시장에서는 앤스로픽의 향후 주가와 매출 실적이 생성형 AI 산업 전반의 실질적인 수익성을 판단하는 핵심 지표가 될 것으로 파악하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "동아일보",
-          "title": "앤스로픽, 813억달러 역대 최대 상장… 스페이스X 넘어섰다",
-          "url": "https://www.donga.com/news/Economy/article/all/20261120/135057814/2"
-        },
-        {
-          "name": "마켓인",
-          "title": "앤스로픽 상장에 데이터 저장장치·반도체주도 '들썩'",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BVml1ejc4QWNpeFh3Q0RPRnhEaFFhUUpVN0dKUUtvNmNXSUdkM1BZNjdWZGd6VlVCVWtWRmZyQmxxR2JFVlhwTVBqcEtUQ0RCR05qVmRsMHJCVVpQaEU4QUxaVlF0SHQ2akFnT2E4RmozLW8?oc=5"
-        }
-      ],
-      "keywords": [
-        "앤스로픽",
-        "클로드",
-        "기업공개",
-        "나스닥",
-        "AI수익성"
-      ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/20/135057998.1.jpg"
-    },
-    {
-      "id": "news-20261120-009",
-      "headline": "외국인, 10월 국내 주식 26조 원 순매도…채권은 순투자로 전환",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "지난 10월 외국인 투자자가 국내 상장주식을 26조 원가량 팔아치우며 두 달 연속 순매도세를 이어갔습니다. 금융감독원이 발표한 외국인 증권투자 동향에 따르면, 외국인은 유가증권시장에서 25조 150억 원, 코스닥시장에서 9천630억 원을 순매도하며 이른바 '셀코리아' 기조를 이어갔습니다.\n\n주식 매도세가 지속됨에 따라 10월 말 기준 외국인의 상장주식 보유 잔액은 1천899조 원으로 전월 대비 396조 9천억 원 감소했습니다. 전체 시가총액에서 외국인이 차지하는 비중도 34.0%로 내려앉았으며, 지역별로는 미주 지역 투자자가 15조 9천억 원을 순매도해 가장 큰 비중을 차지했습니다. 특히 미국 투자자의 순매도액은 13조 9천억 원에 달했습니다.\n\n반면 주식시장과 달리 채권 시장에서는 한 달 만에 순투자로 전환했습니다. 외국인은 10월 한 달 동안 상장채권 7조 6천250억 원을 순매수하고 만기상환금을 차감해 총 7조 3천750억 원을 순투자했습니다.\n\n채권 종류별로는 국채에 7조 4천억 원의 자금이 유입되었으며, 외국인의 상장채권 총 보유 금액은 전월보다 7조 5천억 원 증가한 330조 3천억 원으로 집계됐습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "외국인 10월 국내 주식 26조원 팔았다…2개월째 순매도",
-          "url": "https://www.yna.co.kr/view/AKR20261119169500002"
-        }
-      ],
-      "keywords": [
-        "외국인 순매도",
-        "증권투자동향",
-        "셀코리아",
-        "상장주식",
-        "상장채권"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/cms/2026/10/22/10/PCM20261022000010990_P2.jpg"
-    },
-    {
-      "id": "news-20261120-010",
-      "headline": "권민수 한국은행 부총재, 취임 후 첫 재산공개서 16억8천만원 신고",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "권민수 한국은행 부총재가 취임 후 첫 재산공개에서 본인과 가족 명의로 총 16억 7천599만 원의 재산을 신고했습니다. 정부공직자윤리위원회가 공개한 고위공직자 수시 재산공개 내역에 따르면 자산의 상당 부분은 부동산이 차지했습니다.\n\n주요 자산 항목으로는 경기도 성남시 분당구 서현동 소재 아파트가 18억 4천962만 원으로 집계됐습니다. 여기에 예금 2억 3천132만 원, 증권 2억 6천165만 원, 제네시스와 지프 랭글러 루비콘 등 차량 2대 가액 7천20만 원이 포함됐으며, 채무는 7억 3천680만 원이었습니다. 권 부총재의 부모는 독립생계 유지를 이유로 고지 거부했습니다.\n\n한편 지난 8월 퇴임한 유상대 전 한국은행 부총재는 이전 신고액보다 소폭 늘어난 28억 8천559만 원의 재산을 신고했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "[재산공개] 권민수 한국은행 부총재 16억8천만원",
-          "url": "https://www.yna.co.kr/view/AKR20261119128900002"
-        }
-      ],
-      "keywords": [
-        "권민수",
-        "한국은행",
-        "부총재",
-        "재산공개",
-        "고위공직자"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/cms/2026/08/21/16/PCM20260821000016990_P2.jpg"
-    },
-    {
-      "id": "news-20261120-011",
-      "headline": "\"수능 끝난 수험생 잡아라\"…유통업계, 백화점 세일과 맞춰 할인 경쟁 본격화",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "대학수학능력시험이 끝나면서 유통업계가 수험생을 유치하기 위한 대대적인 할인 혜택을 선보이고 있습니다. 수험표를 지참한 고객을 대상으로 노트북과 게임기 등 인기 전자제품은 물론, 뷔페와 외식 브랜드까지 할인 범위를 넓혔습니다.\n\n백화점 업계는 연말 겨울 정기세일 시작과 함께 수험생 마케팅을 본격적으로 전개하고 있습니다. 주요 매장에서는 패션, 잡화, 가전 등 다양한 품목에서 수험표 소지자에게 추가 할인 혜택이나 사은품을 증정합니다.\n\n시험 준비로 지친 수험생과 가족들의 외식 및 쇼핑 수요가 몰릴 것으로 기대되는 만큼, 업계는 당분간 다채로운 수능 특수 프로모션을 이어갈 계획입니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“딸, 수능 수고했어”…수험표만 들고가면 노트북·게임기·뷔페 할인",
-          "url": "https://www.mk.co.kr/news/business/12214138"
-        }
-      ],
-      "keywords": [
-        "수능 할인",
-        "유통업계",
-        "백화점 세일",
-        "수험표 혜택",
-        "수능 특수"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261119.5ede4309e3f049b98cabc1c4b120f343_R.png"
-    },
-    {
-      "id": "news-20261120-012",
-      "headline": "세계적 뮤지컬 거장 앤드루 로이드 웨버 \"한국어 가창과 K뮤지컬 역량에 감탄\"",
-      "category": "비즈니스",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "세계적인 뮤지컬 거장 앤드루 로이드 웨버가 한국을 방문해 한국 뮤지컬 시장의 뛰어난 역량과 음악적 깊이에 찬사를 보냈습니다. 웨버는 한국 배우들이 한국어로 자신의 대표곡을 자연스럽게 소화하는 모습을 보고 감명을 받았으며, 한국을 더 일찍 찾지 않은 점이 아쉽다고 밝혔습니다.\n\n그는 한국의 풍부한 음악적 전통과 K팝 열풍이 뮤지컬 산업을 지탱하는 탄탄한 기반이 되고 있다고 평가했습니다. 국내에서 탄생한 다양한 창작 뮤지컬 목록을 직접 언급하며 한국 시장의 독창성과 성장 잠재력에 높은 기대감을 나타냈습니다.\n\n웨버는 내년에 한국 창작 뮤지컬을 직접 관람하기 위해 다시 방한하겠다는 계획을 발표했습니다. 모나리자 도난 실화를 바탕으로 준비 중인 신작 프로젝트 소식도 함께 전하며 한국 팬들과의 지속적인 소통을 약속했습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "뮤지컬 전설 웨버 “한국어로 부르는 내 음악…놀랍고 아름다웠다”",
-          "url": "https://www.mk.co.kr/news/culture/12214137"
-        }
-      ],
-      "keywords": [
-        "앤드루 로이드 웨버",
-        "한국 뮤지컬",
-        "K뮤지컬",
-        "창작 뮤지컬",
-        "공연 예술"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/20/rcv.YNA.20261119.PYH2026111911610001300_R.jpg"
-    },
-    {
-      "id": "news-20261120-013",
-      "headline": "직장인 복지포인트는 과세·공무원은 비과세…형평성 논란 확산",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "민간기업 직원이 받는 복지포인트에는 세금이 부과되는 반면, 공무원의 복지포인트는 비과세 혜택을 받으면서 조세 형평성 논란이 불거졌습니다. 과거 법제처는 공무원 복지포인트가 현금화할 수 없고 근로의 대가가 아니라는 이유로 비과세 대상이라고 판단했습니다.\n\n반면 대법원은 민간기업 직원의 복지포인트를 노동 대가로 제공되는 근로소득으로 보아 과세가 타당하다는 정반대 판결을 내렸습니다. 같은 성격의 복지 혜택을 두고 수혜 대상에 따라 다른 기준이 적용되는 셈입니다.\n\n이 같은 불균형에 민간 직장인들의 불만이 커지고 있으며 조세 행정에 대한 신뢰마저 흔들리고 있습니다. 동일한 복지 혜택에 대해 공평하고 일관된 과세 기준을 정립해야 한다는 목소리가 힘을 얻고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "복지포인트 내로남불…직장인은 과세, 공무원은 비과세 이유 ‘황당’",
-          "url": "https://www.mk.co.kr/news/economy/12214136"
-        }
-      ],
-      "keywords": [
-        "복지포인트",
-        "근로소득",
-        "비과세",
-        "조세 형평성",
-        "과세 기준"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261119.dd7a428b4ca84a58a5162356f8fc18a5_R.jpg"
-    },
-    {
-      "id": "news-20261120-014",
-      "headline": "중국의 압도적 신약 개발 속도에 화이자 CEO \"AI 기술 도입으로 맞선다\"",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "글로벌 제약사 화이자의 최고경영자(CEO)가 제프리스 글로벌 헬스케어 콘퍼런스에서 인공지능(AI) 기술 없이는 시장 경쟁이 불가능하다는 진단을 내놓았습니다. 중국이 저렴한 비용과 독보적인 개발 속도를 앞세워 글로벌 신약 시장을 빠르게 점유하고 있기 때문입니다.\n\n중국의 신약 개발은 기존 방식 대비 비용이 절반에 불과하며, 전임상 단계에서는 개발 속도가 최대 10배까지 빠른 것으로 분석됐습니다. 업계에서는 향후 신약 혁신의 70~80%가 중국에서 배출될 수 있다는 전망까지 흘러나옵니다.\n\n화이자는 거센 중국의 추격을 따돌리기 위해 AI 기술을 연구·개발 전반에 전면 도입하는 대응책을 제시했습니다. AI를 활용해 임상 연구의 효율을 극대화하고 신약 출시 기간을 획기적으로 줄여 글로벌 주도권을 지키겠다는 전략입니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“중국 신약개발, 반값인데 속도 4배”…긴장한 화이자 내놓은 비책은",
-          "url": "https://www.mk.co.kr/news/it/12214135"
-        }
-      ],
-      "keywords": [
-        "화이자",
-        "신약개발",
-        "인공지능",
-        "중국 제약",
-        "헬스케어"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261119.f9c45fd26efe4a538307c093f1350d3b_R.png"
-    },
-    {
-      "id": "news-20261120-015",
-      "headline": "포르셰 버리고 '선명상' 전파 나선 현안스님…청년층 삶 바꾸는 명상의 힘",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "포르셰와 저택을 포기하고 '선명상' 전파에 나선 현안스님이 서울 안국역 인근 보화선원에서 청년들과 소통을 이어가고 있습니다. 모임에 참석한 이들은 처음에는 가벼운 마음이나 의구심을 품고 방문했다가 직접 명상을 경험하며 변화를 겪고 있습니다.\n\n요가 강사 A씨는 무료 보이차를 마시기 위해 선원을 찾았으나, 스님의 권유로 6일간 결가부좌를 실천한 끝에 오랜 알레르기 증상이 개선되는 경험을 했습니다. 명상을 접한 후 대인관계나 일상을 바라보는 관점도 이전과 달라졌다고 털어놓았습니다.\n\n현안스님은 의심이 많고 쉽사리 마음을 열지 않는 젊은 세대의 특성을 고려해 강요 없는 대화 방식으로 다가가고 있습니다. 직접적인 체험을 통해 스스로 일상의 변화를 느끼게 하는 접근법이 청년층의 호응을 얻고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "“좋았던 남친도 ‘이것’ 해보니 별로” … 얼굴·발걸음 바꾸는 ‘명상의 힘’",
-          "url": "https://www.mk.co.kr/news/culture/12213648"
-        }
-      ],
-      "keywords": [
-        "선명상",
-        "현안스님",
-        "보화선원",
-        "MZ세대",
-        "결가부좌"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/19/news-p.v1.20261117.bbd4a9707ac7432e93804059ae0540f1_R.jpg"
-    },
-    {
-      "id": "news-20261120-016",
-      "headline": "마이크로소프트 보안 수장 \"AI 공격 막으려면 사후 대응 아닌 사전 예방 체계 구축해야\"",
-      "category": "IT/과학",
-      "categories": [
-        "경제",
-        "IT/과학",
         "글로벌"
       ],
       "summary": {
-        "overview": "마이크로소프트(MS)가 'MS 이그나이트' 행사에서 여러 AI 에이전트가 업무를 분담하는 보안 플랫폼 '퍼셉션'을 정식 출시했습니다. 퍼셉션은 취약점을 탐색하는 '레드', 경보를 분석하는 '블루', 허점을 수정하는 '그린' 에이전트로 구성되어 보안 담당자의 업무 부담을 대폭 줄여줍니다.\n\n데이비드 웨스턴 MS 보안 담당 부사장은 공격자들이 규제에 얽매이지 않고 AI를 빠르게 도입하면서 방어자보다 앞서 나가는 상황이라고 설명했습니다. 다만 방어자도 AI를 적극 활용하면 기존의 사후 대응에서 벗어나 사전에 취약점을 보완하는 방향으로 보안 체계 자체를 개편할 수 있다고 강조했습니다.\n\n최근 해킹 공격을 겪은 한국 금융권 최고정보보호책임자(CISO)들에게는 공격받기 전 취약점을 발굴하고 도입하는 AI 에이전트를 엄격히 통제할 것을 조언했습니다. 이와 함께 프로그램 개발과 관제 등으로 나누어진 조직 체계를 AI 중심으로 통합해야 신기술의 이점을 제대로 살릴 수 있다고 언급했습니다.\n\n아울러 일반 사용자를 대상으로는 다중인증 설정과 최신 소프트웨어 업데이트를 권장했습니다. 최근 한국에서 발생한 AI 활용 시험 부정행위 논란에 대해서는 외부 네트워크를 물리적으로 차단하는 '에어갭' 방식을 해결책으로 제안했습니다."
+        "overview": "사우디아라비아가 이끄는 아랍 연합군이 홍해 연안에 위치한 예멘 후티 반군의 무기 밀수 근거지를 전격 공습했습니다.\n\n연합군은 이번 작전이 후티 반군으로 흘러들어가는 불법 무기 유입 경로를 차단하기 위해 감행되었다고 설명했습니다. 해당 거점은 그동안 홍해 해상 안전과 민간 선박의 자유로운 항행을 위협하는 무기 반입 창구로 활용되어 왔습니다.\n\n최근 홍해 일대에서는 반군의 해상 도발과 무력 시위가 이어지며 중동 지역의 안보 불안이 한층 심화되는 양상입니다. 연합군은 반군의 무력 증강을 막고 해상 안보를 수호하기 위해 군사적 대응을 지속할 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "사우디 연합군 “홍해 후티 반군 ‘무기 밀수 근거지’ 타격”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmS0RVN21vTGpEVFZuT1JFa2w5UVcxVTBrYV8yQWFOMHM5RFZVSlh5LUNXWGNNWFpRM0x3c0NyVWtoT2VmZ043cm5TVGVFUHMxcUpQRlBpdDlEc1k?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "사우디 연합군 \"후티 반군 '무기 밀수 근거지' 타격\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRm5McGloMEx0Qzl1Slc5RzhyMjdKeU1LVm16RkVLTS1RYUw4X2RFZVQ3dVo1dy1qTmgwZVNzbXEwbW5JQU5xQXFoNVhDTTR1UnNfQTFvSWhDS1dFWnc?oc=5"
+        }
+      ],
+      "keywords": [
+        "사우디 연합군",
+        "후티 반군",
+        "홍해",
+        "무기 밀수",
+        "중동 안보"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261121-007/600/400"
+    },
+    {
+      "id": "news-20261121-008",
+      "headline": "티켓팅 전쟁 없는 마라톤…대한육상연맹, 전국 30개 코스 완주 인증 메달 도입",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "대한육상연맹이 치열한 마라톤 대회 참가권 확보 경쟁과 도심 교통 통제 문제를 줄이기 위한 색다른 아이디어를 선보였습니다. 전국 30개 공식 마라톤 코스를 직접 달리고 완주를 인증하면 연맹 공식 메달을 지급하는 방식입니다.\n\n기존 대규모 마라톤 대회는 비싼 참가비와 잇따른 '광클' 티켓팅 문제, 도심 도로 통제로 인한 시민들의 불편을 지속해서 유발했습니다. 이번 완주 인증 제도는 참가자가 원하는 일정에 맞춰 자유롭게 지정 코스를 달릴 수 있어 이러한 한계를 보완합니다.\n\n육상연맹은 이번 시도를 통해 대규모 집결 방식에 의존하던 마라톤 문화를 분산시키고 새로운 러닝 트렌드를 만들 계획입니다. 참가자들 역시 시공간 제약 없이 언제든 도전할 수 있다는 점에서 호응을 보이고 있습니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "“한국 은행들, 해킹 안당하려면”…‘그 비서’ 너무 믿어선 안된다는데",
-          "url": "https://www.mk.co.kr/news/it/12214134"
+          "title": "서울 ‘마라톤 지옥’ 해결 아이디어 나왔다…육상연맹이 내놓은 신박한 굿즈",
+          "url": "https://www.mk.co.kr/news/sports/12215085"
         }
       ],
       "keywords": [
-        "마이크로소프트",
-        "AI보안",
-        "퍼셉션",
-        "데이비드웨스턴",
-        "사이버보안"
+        "대한육상연맹",
+        "마라톤 메달",
+        "완주 인증",
+        "러닝 문화",
+        "마라톤 코스"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261119.0b2097f47e6a49e1aa2b29cdbdfc91ac_R.png"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/21/news-p.v1.20261120.9ae6f8efa93242b4a2187aca65d9e322_R.png"
     },
     {
-      "id": "news-20261120-017",
-      "headline": "MBC 뉴스 마감 클로징 순서 안내",
+      "id": "news-20261121-009",
+      "headline": "월가 사모펀드, 미국 인기 고단백 육포 브랜드 '촘프스'에 4800억 원 투자",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "미국 소비시장에서 건강한 스낵을 찾는 소비자가 늘면서 소고기나 칠면조로 만든 미트스틱 브랜드 '촘프스'가 빠르게 성장하고 있습니다. 기존 육포와 달리 설탕과 보존료를 줄이고 단백질 함량을 높여 단순한 주전부리가 아닌 간편한 건강식으로 자리 잡았습니다. 운동선수뿐만 아니라 직장인과 어린이에 이르기까지 소비층도 넓어졌습니다.\n\n이 같은 인기에 힘입어 글로벌 사모투자사 식스스리트는 촘프스의 소수 지분을 3억 5000만 달러(약 4800억 원)에 인수했습니다. 창업진이 경영권을 유지하는 상태에서 대규모 투자금이 유입되며 성장 동력을 확보했습니다. 최근 비만치료제 보급으로 단백질 중심 식단 선호도가 높아진 흐름이 월가의 대형 투자를 끌어낸 핵심 배경으로 꼽힙니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "월가 “마운자로 믿고 5000억 베팅” … 단백질 바를 이긴 ‘이 간식’의 정체",
+          "url": "https://www.mk.co.kr/news/world/12214671"
+        }
+      ],
+      "keywords": [
+        "촘프스",
+        "미트스틱",
+        "단백질 간식",
+        "식스스리트",
+        "사모펀드"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/20/news-a.v1.20261120.1ee95a9d938542499c2480e3e58a9f87_R.png"
+    },
+    {
+      "id": "news-20261121-010",
+      "headline": "MBC 뉴스 방송 마감 클로징",
       "category": "경제",
       "categories": [
         "경제"
       ],
       "summary": {
-        "overview": "MBC 뉴스가 당일 보도 일정을 모두 마치고 클로징 멘트와 함께 방송을 마무리했습니다.\n\n이번 방송에서는 주요 현안과 경제 관련 소식들을 전달한 뒤 시청자들에게 인사를 전했습니다. 앵커는 현장 취재 결과와 각계 입장을 종합 정리하며 방송을 마무리했습니다. 보도국은 당일 주요 이슈 보도를 마치고 다음 방송 준비에 들어갔습니다. 시청자들은 다음 정규 방송을 통해 신규 소식을 계속 확인할 수 있습니다."
+        "overview": "MBC 뉴스 방송의 마감을 알리는 클로징 관련 정보입니다.\n\n전달된 기사 본문에 구체적인 취재 내용이나 세부 보도 항목이 포함되어 있지 않아 상세한 소식을 제공하기 어렵습니다."
       },
       "publishers": [
         {
           "name": "MBC 뉴스",
           "title": "클로징",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03Ql93dWNBUXo1OXBaYVhKVUNIVXFQeXhyb2xYSlZSLWRuYjVVTExac3N6TDlJNVhtVVgyVjBYNmF4dDNBVVE3M1BGcVoxMzRVYkNlX0o1bEp0NmdNYVpQSXZmVXB5RlZvYjRRTEJTaTl2aUdSM0Npd9IBeEFVX3lxTE9YTXNHZFRZX0JkcUx5WnctYXBmNENTNlhvdlBCbWNnRUY2SjhjeFdrd3U4ZE93cmgzVlQ4SEthU1oyR2tmN0lseExVMzlnZHh1QmI5Z0VSMTU3RjNhNlFuc0YyeUhhZkhfSGRfci0zM0tKRUNBNWUwVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oc2RZZFZGSWdrSVRrMFZJckd4dkgtYjVCdTh3VmNsSGVzQ3R1dWV2azZMNW9XNnYtSUlyaWhBUTI4TU5MSUFqRW5vOFFod2JIdXNjRGExbkUzOF9zdUZfeG1GOV90SldPWHJWRks3ajhZNVNSQUgxR9IBeEFVX3lxTFBqaG1hV0U2QnFKZHRCeXBXZjNjamhQb0JNcHZGeUd6N2ZxYW5OZy0tNC1HZmpLMFRhWTR0UG9Hbm5TWXlJRTdqTzlua2NaZndULVBYZlFMWU9mZmc2MGstckpTQWFOcDZyVUN5cnRWSUc0eGg5V0ZRNA?oc=5"
         }
       ],
       "keywords": [
         "MBC뉴스",
         "클로징",
-        "방송마감",
-        "보도",
-        "뉴스데스크"
+        "방송마감"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261120-017/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261121-010/600/400"
     },
     {
-      "id": "news-20261120-018",
-      "headline": "조희대 대법원장 탄핵론과 사법부 판결 존중을 둘러싼 여야 대립",
+      "id": "news-20261121-011",
+      "headline": "전국 대부분 지역 영하권 강추위…충남·호남·제주에 눈이나 비",
       "category": "경제",
       "categories": [
         "경제"
       ],
       "summary": {
-        "overview": "MBC 보도에 따르면 조희대 대법원장의 거취와 주요 대법원 판결을 둘러싸고 정치권의 시각이 크게 엇갈렸습니다. 범여권 측에서는 대법원 판단의 공정성에 의문을 제기하며 조희대 대법원장에 대한 탄핵 추진 필요성을 거론했습니다. 사법부 판결이 사회적 기준에 부합하지 않는다는 점을 지적하며 사법부 수장을 강하게 압박하는 분위기입니다.\n\n국민의힘은 법치주의와 사법 독립을 앞세워 대법원 판결을 존중해야 한다는 입장을 내놓았습니다. 사법부의 판단을 정치적으로 훼손해서는 안 되며, 판결 결과를 이유로 대법원장 탄핵을 거론하는 행위는 헌정 질서를 어지럽히는 처사라고 비판했습니다. 양측의 입장이 팽팽히 맞서면서 사법부 판단을 둘러싼 정쟁이 한층 격화되고 있습니다."
+        "overview": "전국 대부분 지역에 강추위가 몰려오면서 아침 기온이 영하권으로 떨어졌습니다. 계절이 겨울로 접어들며 당분간 평년보다 낮은 기온이 이어질 전망입니다.\n\n차가운 대륙고기압의 영향으로 바람도 강하게 불어 체감온도는 더욱 낮아지겠습니다. 면역력이 약한 노약자는 야외 활동 시 체온 유지에 각별히 유의해야 합니다.\n\n충남과 호남, 제주도 등 일부 지역에는 눈이나 비가 내릴 것으로 보입니다. 내린 눈이나 비가 얼어붙어 도로가 미끄러울 수 있으니 시설물 관리와 교통안전에 철저히 대비하시기 바랍니다."
       },
       "publishers": [
         {
           "name": "MBC 뉴스",
-          "title": "범여권 \"조희대 탄핵\"‥국힘 \"대법 판결 존중\"",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtSTlNUEg1and5WWpIUmUyaDcxVzF0V2lCODE1NVpEdDNtSTQ4SFgxVVRBWUJUdHZHand5TnBpTU9ZQnZJTXYtWm9wVmJscmw3WVlGdUdSY0RjYVFKOWhKSS12OHhDWXEwUzE0THZMOGk1Q0d4UUVHTtIBeEFVX3lxTE1YMnpoSS04WnZEbkdCSG5xSEZVSDhGSUlndDFpcElXT3dPUjVTV0N2Q1JZeURJSzNycFg1TDN5SzZqWGI5MTJKeW1NeV83M09ydGRadmNuRTlzbUhhLWlBbDUwN0YzcDFPclItRU15UGpTWU02WC1waw?oc=5"
+          "title": "전국 영하권 추위‥충남·호남·제주 눈·비",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Eb19KLU5XWDBLLUoyRnlQaVNraDQ0dVQ1emVheTNlSEsyUkhwZ1NTdFh5a01WZDRHcE00Z1I3dmRTdC1NYzMzM0xGdE5rVU5XZkRRSFhuS0UwX1o0RTlVQ2lBS2VOdmhyZm9DX2h1UmYzaUVXY29qX9IBeEFVX3lxTE5zWVlmYTh3Q0JIT0V0bVdvMU1lOHlNZDdCTDd0UWV4c3RUalBnSTRYVEZCZkJRaDhvMjVwREJMLVoxTzlJZHVwbk1qcHFsQldaMHFSTkpoamo5LWhKeWlDdTJId21XMmRQNk1wZVMxMENRM1ZRMTRmTg?oc=5"
         }
       ],
       "keywords": [
-        "조희대",
-        "대법원",
-        "탄핵",
-        "국민의힘",
-        "사법부"
+        "영하권 추위",
+        "강추위",
+        "충남 호남 눈",
+        "제주 비",
+        "체감온도"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261120-018/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261121-011/600/400"
     },
     {
-      "id": "news-20261120-019",
-      "headline": "초소형 카메라부터 AI 안경까지, 첨단 IT 기기 단속과 반입 논란",
-      "category": "IT/과학",
+      "id": "news-20261121-012",
+      "headline": "김정관 \"반도체 단독으로 1조 달러 못 이뤄...국민 체감 성과 만들 것\"",
+      "category": "경제",
       "categories": [
         "경제",
         "IT/과학"
       ],
       "summary": {
-        "overview": "초소형 카메라와 인공지능(AI) 안경, 무선 이어폰 등 첨단 정보통신 기기가 일상에 빠르게 보급되면서 시험장과 보안 구역 내 부정 반입 및 활용 문제가 수면 위로 떠올랐습니다.\n\n외관상 일반 안경이나 소지품과 구분하기 어려운 스마트 기기들이 늘어나 현장 관리와 단속 과정에서 혼선이 빚어지고 있습니다. 검사 과정에서 이용자가 갑작스럽게 호출되거나 소지품을 정밀 검사받는 사례가 잇따르고 있습니다.\n\n기존 보안 지침으로는 식별이 어려운 신종 웨어러블 장비가 잇달아 등장함에 따라 관리 체계 개선과 명확한 가이드라인 마련이 요구됩니다. 첨단 전자기기의 발전 속도에 맞추어 현장 혼란을 줄이고 악용을 막을 수 있는 세부 점검 기준을 신속히 정비해야 합니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "\"갑자기 불려나갔어요\"‥카메라·AI안경·이어폰도",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96ejlxV3JxS3hNRnZsdVBxRWEyaU9VUEhxYi1OQjdBaWVGeENJME9DYWFHVjRCa3gyQ2I2T3d4dmJ0c0s2dVlRVk5VTGhaVENfRkIwcnBFUF9DUkdEQndOaDBKbzlYNV9XS25rT3FfRHVnckI0a0Q0N9IBeEFVX3lxTE5BSGd5S3BHQl9HdDFhX1dTd1hkVlhrZmd1TFVJTHhlQzNwSk0tWHRpdDBMZ3FHLWhTRG1DSDhfLWJNa0ZSQUJUNV9IYTZKeE9oeS1uc2NzMnFlcWhpbmlGOWVtaGR1TU5qbkpCenZKMWxNdG5fcktVSA?oc=5"
-        }
-      ],
-      "keywords": [
-        "AI안경",
-        "초소형카메라",
-        "무선이어폰",
-        "첨단기기",
-        "보안단속"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261120-019/600/400"
-    },
-    {
-      "id": "news-20261120-020",
-      "headline": "11월 20일 국내외 주요 경제 일정 및 지표 발표 점검",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "11월 20일 금요일을 맞아 국내외 시장의 흐름을 가늠할 주요 경제 일정이 진행됩니다.\n\n각국 금융당국의 정책 발표를 비롯해 시장 참여자들이 주시하는 거시경제 지표들이 차례로 공개를 앞두고 있습니다.\n\n주요 기업들의 실적 공개와 산업계 동향 보고서 역시 순차적으로 시장에 전달될 예정입니다.\n\n시장 전문가들은 발표되는 경기 지표와 산업 일정에 따라 금융시장의 변동성이 나타날 수 있다고 봅니다.\n\n투자자들은 당일 공개되는 세부 지표의 추이를 면밀히 살피며 대응 전략을 점검하고 있습니다."
+        "overview": "김정관이 반도체 산업 단독으로는 수출 1조 달러 목표를 달성하기 어렵다는 점을 분명히 밝혔습니다. 특정 첨단 산업 분야에만 의지하기보다 다양한 산업 생태계가 함께 성장해야 국가 경제 목표를 이룰 수 있다고 강조했습니다.\n\n정부는 정책적 노력이 현장에서 실질적인 결실로 이어지도록 다각도의 지원 체계를 가동할 방침입니다. 국민과 기업이 경제 성과를 직접 피부로 느낄 수 있는 체감형 정책을 차질 없이 추진해 나갈 계획입니다."
       },
       "publishers": [
         {
           "name": "YTN",
-          "title": "■ 11월 20일 (금) 경제 캘린더",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92OWhiOWJaR3NyeG1Kckc5RTlKVWdnYzhMaWpYMFpwc0VkQ0xIYTNNZXZuRzVDOHV3ZVgtUWc3X1Fqd29XRXo0dzN4c3VUQWxQUXAxdGE0LW40SWEtQnc?oc=5"
+          "title": "김정관 \"반도체 혼자 1조 달러 못 이뤄...성과 체감되게 할 것\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VOHZNWWdaWWpfWkxZUkxSSGtKSmVjREQyN0Y0U0ZVSzNEby02QkZ6bGY5dlppRjUxMXBCaFZEV2NPejVyUXI3Mmx5TXpXNFhwdEhMSEl3Sm1ITmhYZXc?oc=5"
         }
       ],
       "keywords": [
-        "경제 캘린더",
-        "경제 일정",
-        "경기 지표",
-        "금융시장"
+        "김정관",
+        "반도체",
+        "수출 1조 달러",
+        "산업 생태계",
+        "체감 성과"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261120-020/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261121-012/600/400"
+    },
+    {
+      "id": "news-20261121-013",
+      "headline": "트럼프, 높은 금리 원인으로 '정치적인 연준' 지목",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 전 미국 대통령이 현재 높은 수준을 보이는 시중 금리의 원인으로 미국 연방준비제도를 지목했습니다.\n\n트럼프 전 대통령은 연준이 정치적인 이유로 금리를 지나치게 높게 유지하고 있다며 공개적으로 불만을 표시했습니다. 연준의 통화정책 결정이 경제적 요인보다는 정치적 이해관계에 좌우되고 있다는 주장입니다.\n\n이 같은 발언은 고금리로 인한 경제적 부담의 화살을 연준으로 돌리려는 의도가 담긴 것으로 해석됩니다. 향후 연준의 금리 인하 시점과 통화정책 방향을 둘러싼 정치적 공방이 더욱 심화할 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "트럼프 \"금리가 너무 높은 건 정치적인 연준 탓\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qSmttUF9XZmM1Y21lWC1NWTZsVjJ0NVNPbTdUTHRxRVlTd1lyVnBqeV8zalE3TVNBSGRVX0gzNmdlQThtQ2JjNU8zQlFrNzFJSm8wSWtEVml2czBaRlE?oc=5"
+        }
+      ],
+      "keywords": [
+        "트럼프",
+        "연방준비제도",
+        "기준금리",
+        "통화정책"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261121-013/600/400"
+    },
+    {
+      "id": "news-20261121-014",
+      "headline": "화석연료 퇴출 문구 대립으로 파행 겪는 COP31 기후총회, 시한 넘겨 주말 막판 협상",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "튀르키예 안탈리아에서 열린 제31차 유엔기후변화협약 당사국총회(COP31)가 공식 폐막일인 20일을 넘기고 주말 연장 협상에 들어갔습니다. 이번 총회는 화석연료 관련 문구 명시와 개발도상국 기후재원 지원 규모를 둘러싼 국가 간 이견으로 최종 합의문 도출에 난항을 겪고 있습니다.\n\n당초 제출된 최초 초안에는 화석연료의 단계적 퇴출과 개도국 지원 재원을 1천200억 달러로 늘리는 방안이 담겼습니다. 하지만 중국과 인도, 아랍 그룹, 러시아 등 개도국 협상그룹은 물론 유럽연합(EU)까지 저마다의 이해관계를 이유로 반대 입장을 냈습니다. 이 과정에서 수정된 2차 초안에 화석연료 퇴출 약속과 재원 증액 목표가 삭제되자 협상은 다시 혼란에 빠졌습니다.\n\n파나마와 프랑스를 비롯한 12개 국가들은 결의안에 명확한 화석연료 전환 내용이 포함되지 않을 경우 공식적으로 안안 채택을 거부하겠다고 강하게 경고했습니다. 유엔기후협약 결정이 전원 동의 방식으로 이뤄지는 만큼 총회 무산 우려도 나오는 가운데, 호주와 튀르키예 공동 의장단은 3차 초안을 제시하며 막판 타결 시도를 이어갈 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "기후총회, 화석연료 문구 놓고 막판 진통…시한 넘겨 주말 담판",
+          "url": "https://www.yna.co.kr/view/AKR20261121007000099"
+        }
+      ],
+      "keywords": [
+        "COP31",
+        "기후변화당사국총회",
+        "화석연료 퇴출",
+        "기후재원",
+        "협상 난항"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/21/PRU20261121063701009_P2.jpg"
+    },
+    {
+      "id": "news-20261121-015",
+      "headline": "비건 전 대북대표 \"전작권 전환, 시한 아닌 역량 중심 판단해야\"…한미 FTA 복원도 촉구",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "전시작전통제권(전작권) 전환을 정해진 일정이나 시한에 맞추기보다 한국군의 실질적 연합방위 역량 평가에 맞춰 신중하게 진행해야 한다는 미 전직 당국자 및 전문가들의 제언이 나왔습니다. 스티븐 비건 전 미 국무부 대북특별대표는 정치적 시한에 쫓긴 결정이 한미동맹의 안보 토대를 약화할 수 있다고 지적하며, 미군이 타국 지휘관의 통제를 받는 이례적 상황인 만큼 철저한 안보 역량 검증이 전제되어야 한다고 강조했습니다.\n\n박진 전 외교부 장관 역시 한국군의 지휘권 확보 과정에서 정찰·감시, 전자전, 공중·미사일 방어 등 핵심 전력 체계가 명확히 입증되어야 한다고 지적했습니다. 북한이 우크라이나 전쟁 참가를 통해 드론과 전자전 등 새로운 전투 수행 역량을 확보한 지정학적 상황을 엄중히 고려해야 한다는 설명입니다.\n\n안보 현안 외에도 참석자들은 한미 간 경제·통상 협력의 정상화를 한목소리로 주문했습니다. 트럼프 행정부 시기 과도하게 활용된 관세 압박을 지양하고, 관세 인하 의무를 담은 한미 자유무역협정(FTA)을 조속히 이전 수준으로 복원해야 한다는 데 뜻을 모았습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "비건 前대북대표 \"전작권전환, 역량 아닌 일정에 기초해선 안돼\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121005300071"
+        }
+      ],
+      "keywords": [
+        "전작권 전환",
+        "한미동맹",
+        "스티븐 비건",
+        "한미 FTA",
+        "연합방위태세"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/10/27/PYH2026102723790001300_P2.jpg"
+    },
+    {
+      "id": "news-20261121-016",
+      "headline": "美 LA 도심 인근서 규모 4.2 지진 발생…주민들 밤사이 진동에 놀라",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 로스앤젤레스(LA) 도심과 가까운 지역에서 심야 시간에 규모 4.2의 지진이 발생했습니다. 미국 지질조사국(USGS) 발표에 따르면 이번 지진은 LA 다운타운에서 불과 11km 떨어진 카운티 커머스 인근 지점에서 감지됐으며, 진원의 깊이는 15.4km였습니다.\n\n지진으로 인한 인명이나 재산 피해는 아직 보고되지 않았지만, 코리아타운을 비롯한 LA 시내 주요 거주지와 외곽 지역 주민 다수가 강한 진동을 느끼고 잠에서 깼습니다. 소방 당국과 시 정부는 106개 지역 소방서를 동원해 주요 기반 시설 안전 점검에 나섰으며, 공항 운항을 포함한 시내 주요 기능은 차질 없이 정상 작동 중입니다.\n\n이번 지진에 앞서 전날 밤에도 캘리포니아 피너클스 인근에서 규모 5.0 지진이 발생하는 등 미 서부 지역의 지진 활동이 이어지고 있습니다. 전문가들은 LA 일대가 대형 단층인 푸엔테 힐스 위에 위치한 데다 내진 보강이 되지 않은 노후 건물이 많아 대형 지진 발생 시 중대한 피해로 이어질 수 있다고 경고해 왔습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "美 LA 도심 가까이서 규모 4.2 지진…\"진동 때문에 잠에서 깨\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121005400075"
+        }
+      ],
+      "keywords": [
+        "LA 지진",
+        "규모 4.2",
+        "미국 지질조사국",
+        "푸엔테 힐스 단층"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121005400075_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261121-017",
+      "headline": "비트코인 6만 달러 밑으로 추락…2022년 이후 최장기간 약세 이어져",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "가상화폐 시가총액 1위인 비트코인 가격이 4개월 만에 6만 달러 선 아래로 떨어지며 7주 연속 하락세를 나타냈습니다. 이는 2022년 테라·루나 사태 이후 가장 오랜 기간 이어진 약세 기록입니다. 이더리움 등 다른 주요 가상화폐도 동반 급락하며 시장 전반의 변동성이 커지고 있습니다.\n\n표면적인 하락 원인으로는 비트코인 현물 ETF를 중심으로 한 기관 자금의 대규모 유출이 꼽힙니다. 미 연방준비제도의 매파적 통화정책 기조로 위험자산 선호 심리가 약화된 가운데, 앤트로픽의 대규모 공모주 청약으로 인한 자금 이동이 하락 압력을 가했습니다. 아울러 바이낸스 해킹 사태와 미 상원의 가상자산 규제 법안 처리 무산 등이 불확실성을 더했습니다.\n\n시장 전문가들은 비트코인과 기술주 중심 나스닥 지수의 상관관계가 높아진 점에 주목하며, 가상화폐가 안전자산이 아닌 위험자산으로 작동하고 있다고 평가했습니다. 기관 매수세 유입이 지연되는 상황에서 당분간 시장의 약세 흐름은 지속될 가능성이 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "비트코인 4달만에 도로 6만달러 아래로…2022년 이후 최장 약세",
+          "url": "https://www.yna.co.kr/view/AKR20261121005500091"
+        }
+      ],
+      "keywords": [
+        "비트코인",
+        "가상화폐",
+        "ETF 유출",
+        "연준 금리인상",
+        "위험자산"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/etc/epa/2026/10/28/PEP20261028165501009_P2.jpg"
+    },
+    {
+      "id": "news-20261121-018",
+      "headline": "우크라 본토 공격 비판한 미 당국자에 '어리석다' 해 논란 빚은 독일 국방장관, 결국 사과",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "보리스 피스토리우스 독일 국방장관이 우크라이나의 러시아 본토 공격을 비판한 미국 고위 당국자를 향해 \"어리석다\"고 언급했다가 수습에 나섰습니다. 피스토리우스 장관은 최근 언론 인터뷰를 통해 엘브리지 콜비 미국 국방부 정책차관에게 직접 통화해 어휘 선택이 부적절했음을 인정하고 사과했다고 밝혔습니다.\n\n양측의 설전은 최근 열린 북대서양조약기구(NATO) 회의에서 비롯됐습니다. 당시 콜비 미국 차관은 우크라이나의 러시아 민간 기반시설 공격이 오히려 러시아 내부의 결의를 다지게 만든다며 비판적 시각을 드러냈습니다. 이에 대해 피스토리우스 독일 장관과 웨스 스트리팅 영국 장관은 우크라이나의 대응이 러시아의 전쟁 기계를 약화하는 조치라며 미국 측 주장을 정면으로 반박했습니다.\n\n이 과정에서 나온 피스토리우스 장관의 직설적 표현은 우크라이나 지원 방식을 둘러싼 미국과 유럽 사이의 시각차를 명확히 보여줬다는 평가를 받습니다. 피스토리우스 장관은 사과와 별개로 동맹 사이라도 모든 사안에 동의할 수는 없다며 양국 관계에 큰 긴장이 초래되지는 않을 것이라며 선을 그었습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "우크라 비판한 미국에 \"어리석다\"…독일 국방장관 발언 사과",
+          "url": "https://www.yna.co.kr/view/AKR20261121004800082"
+        }
+      ],
+      "keywords": [
+        "독일",
+        "미국",
+        "우크라이나",
+        "나토",
+        "국방장관"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/etc/af/2026/11/18/PAF20261118030901009_P2.jpg"
+    },
+    {
+      "id": "news-20261121-019",
+      "headline": "트럼프, 미·중·러 3자 평화 선언 합의 발표…선거 패배엔 \"공화당 입법 실패 탓\"",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 미국 대통령이 아시아 순방 후 백악관 기자회견을 열고 블라디미르 푸틴 러시아 대통령, 시진핑 중국 국가주석과의 정상 회담 성과를 발표했습니다. 트럼프 대통령은 전 세계 핵 전력의 92%를 차지하는 3국 정상이 사상 최초로 핵 위험 감축을 위한 3자 논의와 평화 선언에 합의했다고 강조했습니다. 강대국 지도자들과의 친분이 미국에 오히려 이득이 된다고 밝히며 푸틴 대통령 역시 우크라이나 전쟁 종식을 원하고 있다고 주장했습니다.\n\n중국과의 무역 관계에 대해서는 고율 관세를 부과해 무역 불균형을 관리 가능한 수준으로 조율했다고 평가했습니다. 이 과정에서 반도체 수출 규제 논란에 휩싸인 하워드 러트닉 상무장관과 젠슨 황 전 엔비디아 최고경영자를 두둔하며 핵심 인재를 보호해야 한다는 입장을 밝혔습니다.\n\n한편 중간선거 패배 책임에 대해서는 자신이 아닌 공화당의 입법 실패로 화살을 돌렸습니다. 트럼프 대통령은 자신의 주요 법안을 통과시키지 못한 공화당에 유권자들이 실망한 결과라며, 남은 임기 동안 거부권을 행사하는 대신 의료보험 개혁 등 일부 사안에서는 민주당과 협력할 수 있음을 내비쳤습니다."
+      },
+      "publishers": [
+        {
+          "name": "경향신문",
+          "title": "트럼프 “푸틴·시진핑과 잘 지내는 내가 대통령인 건 행운···선거 패배는 공화당이 내 법안 통과 못 시켜서”",
+          "url": "https://www.khan.co.kr/article/202611210521001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        }
+      ],
+      "keywords": [
+        "도널드 트럼프",
+        "미중러 정상회의",
+        "핵위험 감축",
+        "중간선거",
+        "공화당"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261121-019/600/400"
+    },
+    {
+      "id": "news-20261121-020",
+      "headline": "도널드 트럼프, 우크라이나 전쟁 종전협상 내년 1월 초 타결 추진",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "도널드 트럼프 전 미국 대통령 측이 우크라이나 전쟁을 조기 종식하기 위한 종전협상 타결 시점을 내년 1월 초로 설정하고 추진 중이라는 소식이 전해졌습니다. 트럼프는 차기 행정부 출범 시점에 맞춰 러시아와 우크라이나 간의 전쟁을 신속히 종결짓겠다는 강한 의지를 보이고 있습니다.\n\n이러한 움직임은 미 행정부 교체와 맞물려 글로벌 안보 지형에 급격한 변화를 가져올 변수로 꼽힙니다. 다만 영토 할양과 안보 보장 등 종전 조건을 둘러싼 당사국 간 이해관계가 복잡하게 얽혀 있어 실제 협상 과정에서는 상당한 진통이 다가올 수 있습니다.\n\n미국의 대외 정책 기조가 변화할 가능성이 커짐에 따라 유럽연합과 나토 회원국들 역시 향후 안보 전략과 우크라이나 지원책을 다각도로 재검토하고 있습니다. 향후 협상 구도가 구체화되면서 국제 사회의 외교적 셈법도 한층 분주해질 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "“트럼프, 우크라 종전협상 내년 1월 초까지 타결 원해”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PTFpTRGZnUkthQ0x3cGlyaENMLW9qOUVIMkdVUEhBaGVQcl9KTUFRYTNQNlhDbUtJeGl3b012aUtJNC1XeVdWM1hYdXJtQzZtS08yMG1PUUd0QkU?oc=5"
+        }
+      ],
+      "keywords": [
+        "도널드 트럼프",
+        "우크라이나 전쟁",
+        "종전협상",
+        "글로벌 안보",
+        "미국 대선"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261121-020/600/400"
     }
   ]
 }
