@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T10:00:25.049836+09:00",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T08:03:22.081094+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261124-001",
-      "headline": "젠슨 황 엔비디아 CEO 복귀 소식에 코스피 5∼6%대 급등…5,000선 탈환 시도",
-      "category": "경제",
+      "id": "news-20261125-001",
+      "headline": "엔비디아 젠슨 황 수출통제 위반 논란…미 여야 초당적 조준",
+      "category": "글로벌",
       "categories": [
         "경제",
         "글로벌",
@@ -14,674 +14,665 @@
         "IT/과학"
       ],
       "summary": {
-        "overview": "젠슨 황 엔비디아 최고경영자(CEO)의 복귀 소식에 국내 증시가 강하게 반등하며 코스피 5,000선 탈환을 시도하고 있다. 24일 장 초반 코스피 지수는 전장 대비 5∼6%대 오른 4,980선 안팎에서 거래되고 있으며, 개장 직후 한때 5,000선을 뛰어넘기도 했다.\n\n지수가 급속도로 치솟자 개장 6분 만에 코스피 매수 사이드카가 발동됐으며, 이어 코스닥 시장에서도 매수 사이드카가 발동됐다. 유가증권시장에서 외국인은 8개월 만에 순매수로 전환해 지수 상승을 이끌고 있다.\n\n간밤 엔비디아 이사회가 황 CEO의 복귀 안건을 만장일치로 의결하면서 글로벌 인공지능(AI) 투자심리가 빠르게 회복됐다. 뉴욕증시에서 엔비디아가 31.5% 폭등하고 나스닥 지수가 6.51% 급등하는 등 기술주 중심의 강력한 반등세가 펼쳐졌다.\n\n국내 시장 역시 삼성전자와 SK하이닉스가 7~8%대 상승하며 지수 반등을 이끌고 있다. 아울러 반도체 소재·부품·장비 종목과 로봇 관련주 등 기술주 전반으로 온기가 확산하는 흐름이다."
+        "overview": "엔비디아 젠슨 황 최고경영자(CEO)의 복귀를 도널드 트럼프 미국 대통령이 주도한 정황이 드러나면서 미 정치권의 반발이 거세지고 있습니다. 민주당은 황 CEO가 미국의 수출통제 법안을 위반해 중국에 첨단 AI 칩을 유출했다고 지적하며 의회 차원의 고강도 조사를 예고했습니다.\n\n공화당 내부의 대중국 강경파 의원들 역시 트럼프 대통령을 향해 공세 수위를 높이고 있습니다. 미 상원 은행위원회는 황 CEO를 소환해 AI 기술 우위 수호를 주제로 생중계 공개 청문회를 개최할 계획입니다.\n\n청문회에서는 싱가포르 기업 메가스피드를 통한 첨단 칩 밀반입 여부와 미국 정부의 통제 지연 과정, 트럼프 대통령 및 상무장관의 부패 관여 의혹을 집중 조사합니다. 대중 견제를 고리로 미 여야가 한목소리를 내면서 황 CEO 스캔들을 둘러싼 파장이 정치권 전반으로 확산하는 모양새입니다."
       },
       "publishers": [
         {
+          "name": "KBS 뉴스",
+          "title": "‘젠슨황 복귀’ 트럼프 개입에 비판 고조…공화 강경파도 반발",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50Q0ZoMDVJR3RGdjRjU3F0U2R6bFg4Zm93STBpLUQ4b1BBNWlOZExCQ0dKalc2bEktX0l3ejljNTYyelFab0VQOTBDNVY5bEduVVBMdjVSUzFsLWZQNDU0ZW5Bc0hPcTdlN2RSdjJB?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "\"젠슨 황 복귀 내가 설득\"‥트럼프 '자축'",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EWmR6LTRTVzA2VWEyTnVoOHFTQ1hVQm9LOXZHeGdSbDM0aWQyaVAyNEpqT0gzaEc3M09ocF9VNlQ0c1lLcWl5U2Q4U1Jua2Z6M2ZHYXFQX3lsR3JtNy1NcGoya2E0OTZfVlhKcjhNUG8tdl93dVl5cUhn0gF6QVVfeXFMT3BfaXU1eWloUjJRVEhTc2NNT1Vtdm5VbGR2ZGlXVDY0dy1xRGtHTEU0OHVZclcyTVl3MXFZM0ZTYWxnbWtBUXBTOFZUOTJUNENVNHJ6RURfM1BNcmtmd0xLVlZxVWw4aVRNRWZTdGx6cXAxRlhfREg1b2c?oc=5"
+        },
+        {
           "name": "연합뉴스",
-          "title": "코스피, '젠슨황 복귀'에 5∼6%대 급등…'5천피' 탈환 시도(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261124037651008"
+          "title": "민주 \"젠슨황 수출통제 위반\" 공세…공화 대중 강경파도 가세(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261125002551071"
         },
         {
-          "name": "KBS 뉴스",
-          "title": "코스피 장초반 급등…매수 사이드카 발동",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fMzhXa0VYVkJ5ckM0QXg0Szd2ZDZ6NmF0UWl2cUVIVURmdzhwRkFSczBCZmdrQ0liSnBuV3laQlpGcVlOOFFxY05NQ1V5cHprT3ZJUjg0aGVyb0k?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "젠슨 황 복귀에 뉴욕증시 일제히 상승",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVdDBXOU9wX2JvOEVNV25ScWVvbFpQWmpER0dFaUk4dHJncFBvcTl3QW9Xd1RxVE45TE43WE9ySTduTm5oVDRlUG56cUxYOWJRYVV1TGZNVVNPRG5OS0JLQXhMU25RV1dtSDRIQXVpa21Fb2ZMbTN3Wm130gF6QVVfeXFMUGZ1a2hJMGYtUHh3RXJGSkJham91VktTZjVJWTFoblZRbmY1OW1sUkM2ckRzT1FodlZiU2pJQVlCZmxXZmd4OVM3SXZlSWdBN0xCWjhjalRkWkF6X2s2R1FGZHdxR0FFa1U2d1JqZ2FIR2xMaXR0dGg5Y0E?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "젠슨 황, 엔비디아 CEO 복귀‥이사회 만장일치",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRVkNnTVNjdFNEQ3llWW1kZ0laaURwclFuNHFRZGwzbFdpSFhPUE8za3g4QWE3SWl0NE1wWXBqaVI2eElfWEVXN3pDd0tqQXM5TUlPaDRsUE5fN2NBZ09oa21vWXlwcTFuTHQ3Tzc3WmZrazFuOHFscdIBeEFVX3lxTFA3a2E1X3RSVm9sb3g2ZXdGZDVqc1drY2JFUlpzRUJERWN4eFh2QnR5d2RHcUQxLVg5R1hjbVFWZU9EVDhXdjAwelZkMEZMazFRbEZFVFlVVXREWDdFT2w4cmlVVUc5UjRxWlpDdG9OOVdLUXY4enBFRg?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "젠슨 황, 11일 만에 복귀...\"더 나은 CEO 될 것\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XRXNJcTRBYU1FU3NrM3lIXzFveDdkeWFEYkYyQWpkQy1Qdkc4a3ZvcjU1M2RZeFplUGJ2LURYWmZtdmttbUU0VWxnbl9QWGk2eWdGdHRVTmltaU5ya3c?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "엔비디아 복귀한 젠슨 황...韓 반도체주 청신호? [Y녹취록]",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPbkM3QVVaQ1NmNW8yY25nV0hJQWhCaTFOLVE2ajVOSXREWnoyQVNlRDUxcUozakRCNHh6NnlFY3RZcGRPdFlsUmt4M21MOFdlSDVUTUNobTVHQ1VoR3c?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "젠슨황, 사임 11일 만에 CEO 복귀...트럼프 \"내가 설득, 안보 위험 아냐\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TSFVId0hNWUxncFNvaF9hSi1Kc3Raa0FOclpidDZ4WjZKeThyS1pjUzV4aEo5RlFPbGF1Rk5uZm5TLXktNGFrejRITmpCbGVnWEdZek13bUpOTUF3ZXc?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "트럼프 “젠슨 황 복귀, 내가 이사회 설득해 성사”",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84ajhkdHJJa0hjalZvcGlBeFZibDNIanJ5b2VwQ09ILXd2VzJZYWgwemRzNVNidkdUWFNWQ3R2Nk8zak0tUXBaSU9SeUJIZFRLOW0ydmFDdERsRHZ0TWFVb1hxM3RkSzF1MnUw?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "‘젠슨 황 귀환’에 나스닥 6.5% 급등…지난해 4월 이후 최대 상승",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wQkNlM1hwUzV4aDR3WkJIdDd4LVA3THJvRXFQZjNFSUFRYVNOTnROSHhDSVBDdmFjVGY1YWxSZTl0WW8tWHYzRXZ6OFBvSnRNclFhQWhKT0NWQVU?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "트럼프 정부, 젠슨황 복귀 당일 중국 첩자 의혹 내연녀 회사 제재",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtMHgtbTdrZWxFRktBMm5fd2daZzRocGpJU0lGbU1OME1Rbk54Q1hZOURHMFdLVW94Y2ZvWWtsR1Q4U1Jfd29XMWY3aDFrdkhMU3ZCRlFsOFhFSExlZ2t0aEJiUm5FdkYwdVkwN3BraGg0WDR50gF0QVVfeXFMTnRjQ01pQldyRUk1cXpzM3RBRGlmY0ZScTVZQ3RWNW9UVGtuRmlXS3JDbm5rcE9HMzJ1THBESlFRS2x3aGlJTUthOFpYN3R1d1M0eS1TUG1FUFVFcXVlRWVKOVI4enU0elVnTU1XcThrOHlaQjE?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "돌아온 젠슨 황...복귀에 힘 실은 트럼프, 왜? [뉴스UP]",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PNTRkeXFxa0FraFJKU0sybHIza2c4Vi1NNkQtazNuUWxfZDBaWkhraXB4Z1NVRkZtZkhYTmZJTS1xMU1VLWlsdlFKLUs4SVBxdldNc1hPc19SSDNMWUhGSVRfSUhMRFJUMGxQS3kxeVpya2YwVmc?oc=5"
-        },
-        {
-          "name": "매일경제",
-          "title": "젠슨 황 복귀에 반도체 관련주 줄줄이 급등…삼전·닉스, 7~8% ‘쑥’",
-          "url": "https://www.mk.co.kr/news/stock/12216794"
-        },
-        {
-          "name": "매일경제",
-          "title": "[속보] 코스피 장초반 5∼6% 급등…매수 사이드카 발동",
-          "url": "https://www.mk.co.kr/news/stock/12216778"
-        },
-        {
-          "name": "매일경제",
-          "title": "[속보] 젠슨 황 컴백에 삼전닉스 나란히 급등…코스피 상승에 매수 사이드카도",
-          "url": "https://www.mk.co.kr/news/stock/12216774"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "젠슨 황 복귀, 엔비디아 주가 급등…트럼프가 직접 나서",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EUUVjdHBVWVVZR1dBQmloS0o2Snhybjg4TVU2QlZfb0U4dW1YaEQwNDc2STNnSlZWWDBjblN5ZGM1ZFJTaVE1akJuY0lJaENGdWYxM1U1UTFxWFk?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "[속보] 코스피, 장 초반 6% 급등하며 5천 선 회복‥매수 사이드카도",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12bVNXWjNVVmxPTWM5eDhVYkJ3aE9NbVRuZTF5a0lnZHgzNEtpR1JCV1JJd0lQdzVCNEROUGdGQWltZHp6eVJJZXF3cXlWVHVpX08zeUs4Zkp1OUFWbTFBcUJNT0RtUmI5NV9uSnlxa2taRGVv0gF0QVVfeXFMTlZURTBBRTBhYmxPVkdERUI5OTM2dHhESWhwNVpscXpodV9ZVE5WcjY2Z3RBRTdNZ2lpeko4eUdHdVRKRkJfUEZWZkRMNTBWRHhiUDZnUG1zQ3JtQkF0VVo3NndYdzVIb1ZGdHVpS0ZyeUdxS0Y?oc=5"
+          "name": "동아일보",
+          "title": "트럼프, 밴스 통해 “젠슨 황 안보위협 안해” 전달… 이사회 논의 개입",
+          "url": "https://www.donga.com/news/Inter/article/all/20261125/135084710/2"
         }
       ],
       "keywords": [
-        "코스피",
-        "젠슨 황",
         "엔비디아",
-        "매수 사이드카",
-        "반도체"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/24/PYH2026112402060001300_P2.jpg"
-    },
-    {
-      "id": "news-20261124-002",
-      "headline": "국회 원내대책회의서 발언하는 더불어민주당 한병도 원내대표",
-      "category": "경제",
-      "categories": [
-        "경제"
-      ],
-      "summary": {
-        "overview": "더불어민주당 한병도 원내대표가 서울 여의도 국회에서 열린 원내대책회의에 참석해 발언을 진행했습니다.\n\n이번 회의는 당내 원내 지도부가 모여 정국 현안과 주요 입법 과제를 점검하고 대응 방안을 논의하기 위해 마련되었습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "더불어민주당 원내대책회의 발언하는 한병도 원내대표",
-          "url": "https://www.mk.co.kr/news/politics/12216823"
-        },
-        {
-          "name": "매일경제",
-          "title": "더불어민주당 원내대책회의 발언하는 한병도 원내대표",
-          "url": "https://www.mk.co.kr/news/politics/12216822"
-        },
-        {
-          "name": "매일경제",
-          "title": "국민의힘 원내대책회의 입장하는 정점식 원내대표",
-          "url": "https://www.mk.co.kr/news/politics/12216799"
-        },
-        {
-          "name": "매일경제",
-          "title": "국민의힘 원내대책회의 입장하는 정점식 원내대표",
-          "url": "https://www.mk.co.kr/news/politics/12216798"
-        }
-      ],
-      "keywords": [
-        "더불어민주당",
-        "한병도",
-        "원내대책회의",
-        "국회"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.76f5583f445343e99c0b5bdf41d957ad_R.jpg"
-    },
-    {
-      "id": "news-20261124-003",
-      "headline": "삼성전자 임원 인사 19% 축소…반도체·신기술 인재 대거 승진",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "삼성전자가 총 131명 규모의 2027년 정기 임원 인사를 단행했습니다. 스마트폰과 가전을 담당하는 디바이스경험(DX) 부문의 실적 부담 여파로 전체 승진 인원은 지난해보다 19%가량 줄어들었습니다.\n\n반면 역대 최대 실적을 달성한 반도체(DS) 부문에서는 전체 승진자의 절반이 넘는 70명이 배출됐습니다. 6세대 고대역폭 메모리(HBM4) 개발과 고객 맞춤형 HBM, 수율 개선을 주도한 핵심 기술 전문가들이 대거 부사장으로 올랐습니다.\n\n미래 성장동력을 확보하려는 포석으로 파운드리와 로봇, 인공지능(AI) 분야 인재 발탁도 두드러졌습니다. 휴머노이드 제어 기술을 이끈 전문가들이 상무로 승진했으며, 여성 신규 임원 승진자는 11명으로 역대 최대 규모를 기록했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "삼성전자, 임원 승진 19% 줄였지만 반도체선 70명 대거 발탁",
-          "url": "https://www.yna.co.kr/view/AKR20261124044600003"
-        },
-        {
-          "name": "연합인포맥스",
-          "title": "삼성전자, 2027년 정기임원 인사…부사장 39명 등 총 131명 승진",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoSkRDTC1VVHRpZE1aQXVxQ1dJMHczVU05YmVNenE3MTlPSjI1UDJESHJEem9BZkw2ZnRtVEhhUXlnSmtQUW5qZEpvX3dja1R0N2lJSkN4NTA5bUVSMTFWOEtDcjIyYWtscFJJYm1nSHU?oc=5"
-        }
-      ],
-      "keywords": [
-        "삼성전자",
-        "임원인사",
-        "반도체",
-        "HBM",
-        "성과주의"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073007960001300_P2.jpg"
-    },
-    {
-      "id": "news-20261124-004",
-      "headline": "소비자심리지수 연속 하락…증시 조정과 금리 상승에 비관적 전망 확산",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "증시 조정과 금리 상승의 영향으로 소비자심리지수가 다시 하락했습니다. 가계가 체감하는 경기 전망이 점차 비관적으로 돌아서고 있는 상황입니다.\n\n주식 시장의 불안정성과 금리 인상에 따른 이자 부담 증가가 소비 심리를 크게 위축시키고 있습니다. 금융 시장의 불확실성이 지속되면서 당분간 소비 회복을 기대하기 어렵다는 분석이 우세합니다. 자산 가격 하락과 실질 소득 감소 우려가 복합적으로 작용하여 경제 전반의 활력을 떨어뜨리고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "소비자심리지수 또 하락‥\"증시조정·금리상승에 비관적 전망\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zR1BiM3gtSmZ6NmdpTWVBTldncDJIODBieGQtWFU5NHdkdF8xRktFdTVyZXIxbWxtSzBCLTFFZVA3YjlwT2hwbUp6YkxjZTBnMDBOLUpwUk5TRVF4T3hKbm0yV3RrQmJrcllnUl9lREhDVy150gF0QVVfeXFMTlZNdUVRN3lFNWI1T2VMNEEzbDZDVDUtaFZaWXdwRWZ6YXMyaDJRaVBVMHc4VzlqMzhodWNDY29Wb0JNUkJ6eE0wQ3hzSlV3djFXaDV3U2RrdHh2U1VPNDBZbVFhdEJ2b01iOEdQQVFTbGZBSVg?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "\"증시 조정 지속 등에 소비자심리 두 달 연속 악화\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wanQ4VGxDSERpSVc2S1dSTEZsTmFwSFNROHdUWXVuakxEZTJrVk15R3dPa0Z4S3R4S01jVHRjeXFrQ0FhMkVkQk1CcDQ1SjB6ZlQ0UXp2M0gyck9sVXc?oc=5"
-        }
-      ],
-      "keywords": [
-        "소비자심리지수",
-        "증시조정",
-        "금리상승",
-        "경기전망",
-        "소비심리"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261124-004/600/400"
-    },
-    {
-      "id": "news-20261124-005",
-      "headline": "안철수, 강금실 국정원장 지명 가능성에 \"한미동맹 파탄 초래\" 강력 반대",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "안철수 국민의힘 의원이 강금실 전 법무부 장관의 국가정보원장 지명 가능성을 두고 한미동맹에 심각한 균열을 일으킬 수 있다며 강하게 비판했습니다.\n\n안 의원은 강 전 장관이 과거 중국 연변주정부와 치치하얼시 인민정부의 특별고문을 맡았던 이력을 지적했습니다. 국가 안보의 핵심 기관을 이끌 인물로서 친중적 이력과 성향이 부적절하다는 판단입니다.\n\n과거 강 전 장관이 파리협정과 관련해 시진핑 중국 국가주석의 리더십을 긍정 평가하고 사드(THAAD) 배치를 무모한 결정이라며 강력히 반대한 발언도 문제로 꼽았습니다. 안 의원은 이러한 안보관을 가진 인사가 국정원장에 오를 경우 한미 간 정보 공유와 안보 공조 체계가 크게 흔들릴 수 있다고 주장했습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "안철수 “강금실 국정원장 지명은 한미동맹 파탄 초래”",
-          "url": "https://www.mk.co.kr/news/politics/12216760"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "한미동맹·대북정책 기조 바뀌나‥인사 배경은",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KbW0ydzJuUHhuenE4OUZXUVF2SkZ4bjMtNXV6bG5MVmFSbWpHbV9HMFlXQlNBMF9iLTZuS0RjWUkwa1UzWWFtSU45dWdJUi12eVZLN2hUX3pmWWZ1NUFfZTIwMkJGR0t1Nng3eklrWG9DcEFRX2w1aNIBeEFVX3lxTE40dXJiZkdkWEZjejcwWVhMQTdpbUpYdFlFa2Z6QVN4VnllQWFfdE1BNE9sTEppbjJGTnBrZWVfZEd5WWVoc1o4ZlNMT3BQNVpzMEVLOTNuTEdRc0g1MFFLajJGVGt1VVBXbE9pOHp6T0RORDVTVVFwbA?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "한미동맹·대북정책 기조 바뀌나‥인사 배경은?",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QQ0ltVXNvUFNjRWdXdWJ1aWVab2pqRlQzc3ZRcUx3TWcyem9uaVdaWUp1akpYMWNQWkJ1LWFpSWUtYlNWd2NUYnRZU3d5QjczRzkzVFFPX0lDVTNrbFNMSVQwbnYxd2VyTkFhTXU0UklxbVBFc3dfLTlB0gF6QVVfeXFMTWVpaWJDeDhWNHY5aUo3YUt0bUJNYkQyUWNudVdPQ21NWjd6S3hvejNnaTF3emk0SEdTcVVJVXdJRG5tdjFjdXJxQ29pNEhqQUFfTnRub2tRejNGS1NrQjNub3ZmeThvUnNXQ29xWnhXUGhRYjVsTjhjcVE?oc=5"
-        }
-      ],
-      "keywords": [
-        "안철수",
-        "강금실",
-        "국정원장",
-        "한미동맹",
-        "대중관계"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.76fbc9ed1ca84f3cae74e71fd56f8fc6_R.png"
-    },
-    {
-      "id": "news-20261124-006",
-      "headline": "네이버페이 '페이스사인' 단국대 도입…IT·플랫폼 서비스 확대",
-      "category": "IT/과학",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "네이버페이가 단국대학교 죽전 및 천안캠퍼스 도서관 게이트에 안면인식 출입인증 서비스인 '페이스사인'을 적용했습니다. 외부 시설 상시 출입 수단으로 페이스사인을 도입한 첫 사례로, 학생과 교직원은 앱에 얼굴 정보를 등록한 뒤 실물 학생증 없이 도서관을 출입할 수 있습니다. 네이버페이는 향후 우리은행과 협력해 캠퍼스 내 식당 등 복지시설 결제까지 해당 서비스를 확대할 계획입니다.\n\n플랫폼 업계의 맞춤형 서비스 강화 움직임도 이어지고 있습니다. 중고나라는 시계 카테고리에 지도 기반 탐색 기능을 도입하여 지역별 등록 상품 수와 주변 명품시계 감정원 위치를 한눈에 확인하도록 돕습니다. 당근은 붕어빵 검색량이 직전 대비 61% 증가하는 등 수요가 늘자 호떡과 다코야키 등을 포함한 겨울간식 테마 지도를 확대 운영 중입니다.\n\n한편 토스의 금융경영연구소 토스인사이트는 첫 '미래금융포럼'을 개최하고 인공지능(AI)과 블록체인 등 신기술 도입에 따른 금융산업 변화 및 지급결제 전환 대응 과제를 논의합니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "[테크스냅] 네이버페이 '페이스사인'으로 단국대도서관 출입인증",
-          "url": "https://www.yna.co.kr/view/AKR20261124041800017"
-        }
-      ],
-      "keywords": [
-        "네이버페이",
-        "페이스사인",
-        "중고나라",
-        "당근",
-        "토스인사이트"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124041800017_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261124-007",
-      "headline": "코스닥 상장 첫날 엠비디, 장 초반 공모가 아래로 떨어지며 15% 넘게 급락",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "의료용 기기 제조업체 엠비디가 코스닥 시장에 입성한 첫날 장 초반부터 큰 폭의 하락세를 보였습니다.\n\n24일 개장 직후 엠비디는 공모가인 7,000원보다 17% 내린 5,810원 안팎에 거래됐습니다. 주가는 5,930원으로 하락 출발한 뒤 거래 형성 과정에서 한때 5,510원까지 저점을 낮추기도 했습니다.\n\n2015년에 설립된 엠비디는 3차원(3D) 세포배양 플랫폼과 관련 서비스를 주요 사업으로 영위하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "[특징주] 엠비디, 코스닥 입성 첫날 장초반 15% 이상 급락",
-          "url": "https://www.yna.co.kr/view/AKR20261124049500008"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "[특징주] 삼전닉스 장 초반 7∼8% 급등…3거래일만에 반등",
-          "url": "https://www.yna.co.kr/view/AKR20261124045800008"
-        }
-      ],
-      "keywords": [
-        "엠비디",
-        "코스닥 상장",
-        "공모가 하회",
-        "특징주",
-        "의료기기"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124049500008_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261124-008",
-      "headline": "에스피지, 로봇용 정밀 감속기 기술력 부각에 주가 강세",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "로봇용 정밀 감속기 생산 기술을 보유한 에스피지의 주가가 상승 흐름을 이어가고 있습니다. 11월 24일 장 초반 에스피지 주가는 전 거래일 대비 오르며 8만 3,700원선에서 거래를 형성했습니다.\n\n이번 강세는 산업용 및 서비스 로봇의 핵심 부품인 정밀 감속기 제조 역량이 시장에서 긍정적인 평가를 받은 영향으로 풀이됩니다. 최근 로봇 산업 전반의 성장세와 맞물려 핵심 기술을 확보한 제조사로서 투자자들의 매수세가 이어진 모습입니다.\n\n인공지능 주식 정보 서비스 MK시그널이 종목 추천을 낸 이후 23%가 넘는 높은 수익률을 기록하며 시장의 관심을 받고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "매일경제",
-          "title": "[MK시그널] 에스피지, 로봇용 정밀 감속기 생산 기술력 부각에 주가 상승세... MK시그널 추천 후 상승률 23.27% 기록",
-          "url": "https://www.mk.co.kr/news/stock/12216802"
-        }
-      ],
-      "keywords": [
-        "에스피지",
-        "로봇 감속기",
-        "주가 상승",
-        "MK시그널"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.0878f15ad257481bb80b4d8713f493fb_R.png"
-    },
-    {
-      "id": "news-20261124-009",
-      "headline": "러시아 군용기 여러 대 동해 KADIZ 진입…영공 침범은 없어",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "러시아 군용기 여러 대가 동해 한국방위식별구역(KADIZ)에 진입한 사실이 확인되었습니다.\n\n우리 군 당국은 러시아 군용기의 동해 KADIZ 진입을 포착하고 즉각 전술 조치에 나섰습니다. 군 관계자에 따르면 이번 진입 과정에서 대한민국 영공 침범은 발생하지 않았습니다.\n\n우리 군은 KADIZ 진입 직후 공군 전력을 투입해 감시 및 우발 상황에 대비한 대응 태세를 유지했습니다. 군은 해당 군용기들의 이동 궤적을 면밀히 추적하며 추가 상황 발생 여부를 주시하고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "[속보] 군 “러시아 군용기 여러 대, 동해 카디즈 진입…영공 침범은 없어”",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vMUlPNHBNdVRuSndwOE5BVV9yZW9SdjduQnpLMy1RakRNRnlES1RCNU5MUHNveEVuYmZNVE1zQlBWZ0F6UEs0Mnp5WjJlZlotR1pfTW1rSUVDZGZhT3F4QXQ2WjRnQQ?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "행안부 \"러시아 군용기, 영공 침범\"‥울릉도에 경계경보",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OOXFjVjRFMUg0bW4yNTRFZFdPWHlGWWJobHREZ1dVUUw1Tm92NkpUTEE5QkdDTnBwT3FPMEkzSW1OYTExaGVjRDFTZkYwS0k2cUVyYlVPeU0yZlZzUkl1aFluN3Jwb2dTSFhrRjlManJoaVUz0gF0QVVfeXFMUFh0YWNDNlItOFc3M0c4c2NiaTROTzYwUEpRSl9qNjY2WjNTT2ZSakxyQzBqQjlDNVJtb0xNSndMcE9PMmQ1dFBGT2laRVJFNUZWaDFjUXQwa2U5WXR1TFJoY0FHcUZmLW1LaE5LNV9tS2o4amM?oc=5"
-        }
-      ],
-      "keywords": [
-        "러시아 군용기",
-        "동해",
-        "KADIZ",
-        "카디즈",
-        "영공 침범"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261124-009/600/400"
-    },
-    {
-      "id": "news-20261124-010",
-      "headline": "정부, 헌정사상 첫 여성 국정원장 발탁하며 석 달 만에 중폭 개각 단행",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "정부가 출범 석 달 만에 중폭 규모의 개각을 전격 실시했습니다. 국가정보원 창설 이래 처음으로 여성 국정원장을 발탁하며 안보 라인의 변화를 알렸습니다. 이번 인사는 취임 초반 인적 쇄신을 통해 국정 운영 동력을 확보하려는 의도로 풀이됩니다. 주요 직위 교체를 통해 조직 분위기를 전환하고 국정 과제 이행에 속도를 낼 계획입니다.\n\n최초의 여성 국정원장 발탁은 국가 정보기관의 패러다임 변화를 시사합니다. 정부는 조직 쇄신과 정보 역량 강화를 동시에 추진하겠다는 방침을 정했습니다. 개각에 따른 후속 인사와 국정 과제 이행 작업도 조속히 이어질 예정입니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "첫 여성 국정원장 발탁‥석 달 만에 중폭 개각",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3RDNaS1VXSUllN2R2anY2azY3LTBNbTk3RTB5aGVHcXpMMGhLNFN5SHJENmNDVTJMN0dhZFoxLXRIVjV3Mi1tVW1DOXl1RF93dk1QR0JHWlVhc0ZWWW1VaHRLdUc1X2JyaGI1TlFIRXMwUXd5WTZrX9IBeEFVX3lxTE9JNEJaZ3dFZWxxQlFxZk14WmVKSS0wVTBkVXV6S0FvTDRtYTlUbGo0U0h4cDdGbGI1VWp2Q0pSRGtwZ1lOVW5EQUx4ekhTMzlZcHBBTGdsWXdIWnhZRFYxeTlMaHdfUlE1SFVGY0dieUk2OTN2bFVBbg?oc=5"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "국정원장 후보자에 강금실 전 장관…외교·행안 등 중폭 개각",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yU3NXTWtIQWo0bGdZbFBqdENKTklpMXdaUEZrdjVLSDM4Szl5QWpmVnR2LTZELUZQenNZUGFfSUt0MnZGaDQ2aDMybjVnUVlPNUQ5TDh4MDRuMFE?oc=5"
-        }
-      ],
-      "keywords": [
-        "개각",
-        "국정원장",
-        "여성 국정원장",
-        "인사 쇄신",
-        "정부"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261124-010/600/400"
-    },
-    {
-      "id": "news-20261124-011",
-      "headline": "트럼프 '막후 작전'으로 젠슨 황 엔비디아 CEO 전격 복귀…주가 폭등 속 지배구조 논란 거세",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "젠슨 황이 사임한 지 11일 만에 엔비디아 최고경영자(CEO) 자리에 전격 복귀했습니다. 이번 복귀는 도널드 트럼프 미국 대통령이 J D 밴스 부통령을 투입해 엔비디아 이사회에 국가안보 우려가 없다는 메시지를 전달하는 등 막후에서 직접 주도한 것으로 확인됐습니다. 복귀 발표 직후 엔비디아 주가는 30% 이상 폭등했고 나스닥 지수도 큰 폭으로 상승했습니다.\n\n하지만 정치권과 학계에서는 이사회의 결정복복에 대한 거센 비판이 쏟아지고 있습니다. 지배구조 전문가들은 외부 정치 압력에 밀려 짧은 시간 안에 사임 수용 결정을 뒤집은 이사회를 향해 장기적인 가치를 훼손한 경영 실패라고 평가했습니다.\n\n민주당 역시 엔비디아와 중국의 관계를 둘러싼 청문회를 예고하며 강도 높은 조사를 진행하겠다는 입장입니다. 이에 따라 젠슨 황의 복귀가 주주 소송과 의회 조사라는 또 다른 리스크를 불러올 수 있다는 우려가 커지고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "YTN",
-          "title": "[스타트 경제] 트럼프가 되돌린 젠슨 황, 진짜 호재일까...우리 증시 미칠 파장은?",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YNjQ4YVpXQWJpSjB0dzkzODBUNVJ5X2ppZnZ1d0pwNHhkUjF4RnFPZjA0clVoYVh5VndJUFhwV0tJM1RHQ0pwV002VlRzd1JxeTB6cEhVeEREanJ0cFE?oc=5"
-        },
-        {
-          "name": "경향신문",
-          "title": "트럼프 ‘비밀 작전’에 11일 만에 돌아온 젠슨 황···주가 폭등했지만 “사실상 도박” “이사회 사퇴해야” 후폭풍 예고",
-          "url": "https://www.khan.co.kr/article/202611240610001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        }
-      ],
-      "keywords": [
-        "젠슨 황",
-        "엔비디아",
-        "트럼프",
-        "J D 밴스",
-        "기업 지배구조"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261124-011/600/400"
-    },
-    {
-      "id": "news-20261124-012",
-      "headline": "트럼프, 아동살해·흉악범 사형구형 지시…사형제 강화 행정지침 서명",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "도널드 트럼프 미국 대통령이 아동을 대상으로 한 살인, 성폭행, 인신매매 등 극악무도한 범죄를 저지른 사형수에게 사형을 구형하도록 하는 대통령 지침에 서명했습니다. 이번 지침은 사형 집행 절차를 촉진하고 흉악범을 공공주택에서 신속히 퇴거시키는 내용을 담았습니다. 공화당 브랜던 길 하원의원은 경찰관 등 법 집행관을 살해하거나 살인을 저지른 미등록 이주민에게도 사형을 구형하도록 하는 ‘살인에 대한 정당한 처벌법’을 발의해 법제화에 나섰습니다.\n\n이번 조치는 최근 텍사스주 등에서 사형 집행 시 약물 투여 과정 중 사형수가 장시간 고통을 호소하는 등 인권침해 및 고문 논란이 거세진 상황에서 단행되었습니다. 트럼프 대통령은 사형수 감형을 추진 중인 개빈 뉴섬 캘리포니아 주지사를 겨냥해 \"급진 좌파가 무고한 피해자가 아닌 괴물들에게 동정심을 보내고 있다\"고 강력히 비판하며 사형제 추진 강행 의지를 드러냈습니다."
-      },
-      "publishers": [
-        {
-          "name": "경향신문",
-          "title": "트럼프, 흉악범 사형구형 지시···“급진 좌파는 아동살해 괴물에 동정심 보내”",
-          "url": "https://www.khan.co.kr/article/202611240905001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "트럼프, 피해자 살해 ‘강간·인신매매범’ 사형 구형 지시",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VcnFaN2NsVTgwVU9QNFMwdzlaSlBwWjkyNHplTHlKMjhybHRsN29jcEs4Qml5R3p6bHhBZDBxS0lHQkZYQm9nMWpJbVN6UVJOekV6U2o4bHFCR00?oc=5"
-        }
-      ],
-      "keywords": [
-        "트럼프",
-        "사형제 강화",
-        "아동살해범",
-        "행정지침",
-        "인권 논란"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261124-012/600/400"
-    },
-    {
-      "id": "news-20261124-013",
-      "headline": "미국, '중국 간첩 의혹' 젠슨 황 불륜 관련 기업 수출통제 블랙리스트 추가 추진",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "미국 정부가 중국 간첩 의혹이 제기된 기업을 수출통제 블랙리스트 명단에 조만간 추가할 방침입니다.\n\n해당 기업은 엔비디아 최고경영자(CEO) 젠슨 황과 불륜 관계에 있던 인물이 연루된 곳으로 전해졌습니다. 미국 정부는 첨단 기술 유출을 막고 국가 안보를 강화하기 위해 대중국 기술 제재 수위를 한층 끌어올리고 있습니다.\n\n수출통제 명단에 포함되면 미국의 기술이나 부품을 도입할 때 정부의 사전 승인을 받아야 해 사실상 거래가 전면 제한됩니다. 미 안보 당국은 기술 유출 가능성을 철저히 차단하겠다는 강한 의지를 드러내고 있습니다.\n\n제재 대상 기업에 대한 구체적인 조치 시기와 세부 명단은 미국 상무부를 통해 조만간 공식 발표될 예정입니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "\"미국, '중국 간첩 의혹' 젠슨 황 불륜상대 회사 곧 수출통제 명단에\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DNUVEWnl2QU5RUFFQazJpeHo1ODc5SjkzR3dOV09PaUhUN1NVa1BCZzd1R3I5elo5c3J1TGVLa1hzUDdPZzFVS1ExMWhtLV9VN01hbVROUl9meDhRSVJPa3huSFhSNGhSVkNQZ2pGVmYwVXNQ0gF0QVVfeXFMUEhYOEdha1JkTjYxdUtLYnZJREtRT3g4MkZKQmo1MjZoaTJLQjZsUUJ5eGdaSWludjBWdkJnaVJ0UzR4TGp0emRCcXoxRWhOaEFabFFOQWNnS1ZZZ2xGOWxkUVJON0R1LXZaMWIxLUpvS2kxc0c?oc=5"
-        },
-        {
-          "name": "연합뉴스",
-          "title": "\"美, '中간첩 의혹' 젠슨황 불륜상대 회사 곧 수출통제 명단에\"",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aUEFLYy14bXpuYWNvWXctNEtZb0t4Q001RGh4U0w2M0tfOHlSUm41Z29ER2xKdEVId054blJPQWVSc3FHdFhPekZmQmJfTVhzWWZrdUxmei1JOWvSAWBBVV95cUxPNjN6VU02ZzJ2cXdGUm4wd1FQZmdfV2tjekd2N1Q1OC1zcHFCSGVlVHdVbEc0LUNldDg5UGdKUlVoanpaOEZOU2p5UXZkck12LWQ1UEdxcGZfV3hjUlppOE8?oc=5"
-        }
-      ],
-      "keywords": [
-        "미국",
         "젠슨 황",
         "수출통제",
-        "중국 간첩 의혹",
-        "기술 제재"
+        "트럼프",
+        "미국 의회"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261124-013/600/400"
+      "image_url": "https://img.yna.co.kr/photo/etc/gt/2026/11/24/PGT20261124056801009_P2.jpg"
     },
     {
-      "id": "news-20261124-014",
-      "headline": "금감원장, 부산 해양금융 저변 확대 위해 민간금융 역할 강조",
-      "category": "경제",
+      "id": "news-20261125-002",
+      "headline": "미국 정부, 김주애 스키복 착용에 대북 제재 위반 사치품 해당 입장 발표",
+      "category": "글로벌",
       "categories": [
         "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "이찬진 금융감독원장이 부산 해양금융의 저변을 넓히기 위해 민간금융의 참여와 역할을 확대해야 한다고 밝혔습니다.\n\n이 원장은 24일 시그니엘 부산에서 열린 '2026 부산 해양금융위크' 개막식 환영사를 통해 국내 해양산업을 뒷받침해 온 정책금융과 함께 민간금융이 더 큰 몫을 맡아야 한다고 짚었습니다. 아울러 지자체 및 유관기관과 긴밀히 협력해 부산이 글로벌 해양금융 중심지로 안착하도록 지원을 아끼지 않겠다고 약속했습니다.\n\n금융감독원과 부산시 등이 공동 주최하는 이번 행사는 25일까지 이틀간 이어집니다. 첫날 개막식에는 금융당국과 부산시, 해양진흥공사 등 주요 관계자 350여 명이 자리했습니다.\n\n행사 둘째 날인 25일에는 해양금융컨벤션이 열려 급변하는 해양산업 환경 속 금융의 새로운 대응 전략과 산업 간 연계 강화 방안을 다각도로 논의합니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "금감원장 \"부산 해양금융 저변 확대, 민간금융 역할 키워야\"",
-          "url": "https://www.yna.co.kr/view/AKR20261124039600002"
-        }
-      ],
-      "keywords": [
-        "금융감독원",
-        "해양금융",
-        "민간금융",
-        "부산시",
-        "해양산업"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/17/PYH2026111717050001300_P2.jpg"
-    },
-    {
-      "id": "news-20261124-015",
-      "headline": "케이뱅크, 최고 연 3.89% 확정급여형 퇴직연금 정기예금 출시",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "케이뱅크가 확정급여형(DB) 퇴직연금 전용 정기예금 상품을 선보였습니다. 이번 상품은 기업이 근로자에게 퇴직급여를 지급하기 위해 적립한 자금을 안정적으로 굴릴 수 있도록 돕는 예금입니다.\n\n가입 기간에 따라 연 3.80%에서 최고 3.89% 수준의 금리를 적용합니다. 가입 대상은 '근로자퇴직급여 보장법'을 따르는 은행과 증권사, 보험사 등 퇴직연금 사업자입니다.\n\n가입 금액은 최소 1원부터 제한 없이 설정할 수 있습니다. 가입 기간은 1년, 2년, 3년 가운데 선택 가능합니다.\n\n이자는 만기 시점에 지급하며, 만기가 도래하면 원금과 이자를 합산해 자동으로 다시 예치합니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "케이뱅크, DB형 퇴직연금 정기예금 출시…최고 연 3.89%",
-          "url": "https://www.yna.co.kr/view/AKR20261124047200002"
-        }
-      ],
-      "keywords": [
-        "케이뱅크",
-        "퇴직연금",
-        "확정급여형",
-        "정기예금",
-        "퇴직급여"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124047200002_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261124-016",
-      "headline": "팀홀튼, 서울 동부권 공략 본격화…11월 한 달간 신규 매장 5곳 개점",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "캐나다 커피 브랜드 팀홀튼이 성수와 잠실 등 서울 동부권을 중심으로 매장 확대에 나섰습니다. 이달 3일 성수 플래그십 매장을 시작으로 24일 성수낙낙점을 열었으며, 26일 잠실롯데캐슬플라자점, 27일 광나루역대한제지점, 30일 강남대로신사점까지 순차적으로 개점할 예정입니다.\n\n기존 팀홀튼은 강남, 여의도, 종로 등 핵심 업무지구를 기반으로 직장인 고객을 집중 공략해왔습니다. 이번 출점은 업무지구 중심 운영에서 벗어나 본격적으로 주거 및 쇼핑 상권으로 영역을 넓히겠다는 전략으로 풀이됩니다.\n\n팀홀튼은 현재 연내 매장 50개, 2028년까지 160개 매장 확보를 목표로 공격적인 확장 전략을 펼치고 있습니다. 앞으로도 서울 동부권을 시작으로 더 다양한 생활권역으로 출점 범위를 넓혀갈 계획입니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "팀홀튼, 성수·잠실 등 서울 동부권 출점 확대…이달만 5곳 열어",
-          "url": "https://www.yna.co.kr/view/AKR20261124035300030"
-        }
-      ],
-      "keywords": [
-        "팀홀튼",
-        "커피 프랜차이즈",
-        "상권 확장",
-        "신규 출점"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124035300030_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261124-017",
-      "headline": "파리 미식 행사 찾은 K호텔, 전통 한식과 파인다이닝으로 세계 입맛 공략",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
         "글로벌"
       ],
       "summary": {
-        "overview": "프랑스 파리에서 열린 글로벌 미식 행사에 국내 특급 호텔들이 잇달아 참가해 다채로운 K푸드를 선보였습니다. 현지 미식가와 업계 관계자들을 대상으로 한국 식문화의 고유한 멋과 맛을 적극적으로 알렸습니다.\n\n서울 신라호텔은 전통 한식의 깊은 풍미와 품격을 정갈하게 구현해 현지 참가자들의 호평을 받았습니다. 친숙한 한국 길거리 음식에 현대적인 파인다이닝 조리법을 접목한 메뉴 구성도 신선한 반응을 이끌어냈습니다.\n\n국내 호텔업계는 이번 행사를 발판 삼아 한식의 외연을 넓히고 세계 시장을 향한 식음 경쟁력을 구체화했습니다. 고급 미식 문화로서 한식이 지닌 잠재력을 세계 무대에서 확인한 계기가 되었습니다."
+        "overview": "김정은 북한 국무위원장의 딸 김주애가 유럽산 고가 스키 장비를 착용한 모습이 공개되면서 논란이 일고 있습니다.\n\n미국 국무부는 해당 물품이 유엔 안전보장이사회 결의에 따라 북한으로의 반입이 금지된 사치품에 해당한다고 공식 입장을 밝혔습니다.\n\n이번 미국 정부의 발표는 북한 지도부 일가의 사치품 소비가 명백한 대북 제재 위반임을 지적한 것으로 풀이됩니다.\n\n국제사회의 촘촘한 제재망 속에서도 고가의 외국산 물품이 북한 내부로 유입되는 경로에 대해 우려의 목소리가 커지고 있습니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "한국인들만 이렇게 맛있는 걸 먹었다니…파리서 ‘K푸드’ 위상 높인 K호텔",
-          "url": "https://www.mk.co.kr/news/business/12216818"
+          "title": "“명품이라는 김주애 스키복 사실은”…미국이 내놓은 뜻밖의 입장",
+          "url": "https://www.mk.co.kr/news/world/12217704"
+        },
+        {
+          "name": "KBS 뉴스",
+          "title": "미 국무부, 김주애 스키 장비에 “대북 반입 금지 사치품”",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wWU5WYnlYeFQ2Z2NOaWJ6WU4zeFhRdzJVTU91dlpzNlVKSGxtdnBqWjRaenNNRDJLNlVHMkxmZy1RdzVoQWxoOUw4V3QybXJSVDlqaUh2d3gxeHpjaEE3NkhoVEFfUQ?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "美국무부, 김주애 스키 장비에 \"대북 반입 금지 사치품\"",
+          "url": "https://www.yna.co.kr/view/AKR20261125014600071"
+        },
+        {
+          "name": "경향신문",
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품”",
+          "url": "https://www.khan.co.kr/article/202611250722001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
         }
       ],
       "keywords": [
-        "K푸드",
-        "신라호텔",
-        "파리 미식 행사",
-        "파인다이닝",
-        "호텔업계"
+        "김주애",
+        "대북제재",
+        "미국 국무부",
+        "사치품 반입",
+        "유엔 안보리"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.a7336fb022bd41a5b45bcbd3874f3f3f_R.png"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.620715706b0b47238dfda7d9883427cd_R.jpeg"
     },
     {
-      "id": "news-20261124-018",
-      "headline": "BTS 뷔, 예비군 훈련서 모의전투 5킬 달성하며 1등 퇴소",
+      "id": "news-20261125-003",
+      "headline": "고개 숙인 젠슨 황 엔비디아 CEO, 행동강령 위반 인정하고 다면평가 도입",
       "category": "비즈니스",
       "categories": [
         "경제",
+        "글로벌",
         "비즈니스"
       ],
       "summary": {
-        "overview": "그룹 방탄소년단 멤버 뷔가 군 복무 중 예비군 훈련에 참석한 모습이 공개되어 화제를 모으고 있습니다. 온라인 커뮤니티와 사회관계망서비스를 중심으로 뷔가 예비군 훈련장에서 성실하게 임했다는 목격담이 잇따랐습니다.\n\n특히 뷔는 모의 전투 훈련에서 뛰어난 실력을 발휘하며 5킬을 기록하는 성과를 냈습니다. 훈련 과정에서 적극적인 태도를 보인 덕분에 당일 가장 먼저 퇴소하는 주인공이 되었습니다.\n\n바쁜 연예계 활동을 떠나 국방의 의무를 다하는 뷔의 근황에 팬들은 큰 관심을 보내고 있습니다. 훈련 중에도 동료들과 어우러져 평범한 예비군으로서의 일상을 보내는 모습이 대중에게 친근하게 다가갔습니다."
+        "overview": "젠슨 황 엔비디아 최고경영자(CEO)가 복귀 직후 전 직원 회의를 열어 자신의 사내 행동강령 위반과 과도한 업무 압박 행위에 대해 인정하고 공식 사과했습니다. 황 CEO는 재발 방지를 위해 매일 90분씩 심리치료를 받고 있으며, 인사부서가 자신과 일하는 직원들의 평가를 수집해 매달 이사회에 전달하는 360도 다면평가 제도를 도입하기로 했습니다.\n\n외압 논란에 대해서는 도널드 트럼프 미국 대통령의 압박으로 복귀했다는 주장을 강력히 부인했습니다. 이사회의 내부 검토와 미 행정부로부터 국가안보에 위협이 되지 않는다는 확인을 얻어 복귀한 것이라고 설명했습니다.\n\n아울러 60명이 넘는 임원이 자신에게 직접 보고하는 기존 경영체제와 별도의 후계자를 정하지 않는 조직 운영 방식을 지속적인 혁신을 위한 구조라며 적극 옹호했습니다. 그러나 이번 회의에서 직원들의 질의응답을 받지 않은 데다 행동강령 적용의 형평성에 대한 내부 의구심도 이어지고 있어 리더십 회복 여부는 더 지켜봐야 하는 상황입니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "“다들 휴대전화만 보는데”…BTS 뷔, 예비군 훈련서 5킬하고 ‘1등 퇴소’",
-          "url": "https://www.mk.co.kr/news/culture/12216809"
+          "title": "고개 숙인 젠슨 황 “매일 90분 심리치료”…직원들에 다면평가 받는다",
+          "url": "https://www.mk.co.kr/news/it/12217703"
+        },
+        {
+          "name": "매일경제",
+          "title": "“매일 치료 받고 있다”…젠슨 황, 엔비디아 전직원에게 사과",
+          "url": "https://www.mk.co.kr/news/world/12217701"
+        },
+        {
+          "name": "경향신문",
+          "title": "전 직원에 사과한 젠슨 황 “매우 심각한 실수···매일 심리 상담받아”",
+          "url": "https://www.khan.co.kr/article/202611250748001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "젠슨 황, 엔비디아 전사회의 열고 사과‥\"심리치료 받고 있다\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdWVicnd1VERGZjNUYnh5YVV1VG9TeW9YQVgtTF9LX2F6SHdJWHdfczN5NHpqcEZELS14U1NOUVUwMlE1QmE3Q3gxZDdTMFNESmMyMTV2eVpCVkxiMktOMEJPQ0VWWFQ4QkVFZkUya1B3Tm920gF0QVVfeXFMTnhLaFNmcHNXWEszSlpzWTRaN2phQWNWdHRwVFg1bDV6OXl1cUU4ck96TVdIeVBDWUhaQ3A2aVg0clpZU2NzWklqT1NqbVBfSVZkdk9LOHBKTUxYa2NOV0Z2VDZRVUtIY3V2bnpvZmdaNDl5alc?oc=5"
+        },
+        {
+          "name": "동아일보",
+          "title": "젠슨 황, 직원회의서 사과…“매일 심리치료, 승계계획 필요없다”",
+          "url": "https://www.donga.com/news/Inter/article/all/20261125/135084968/1"
         }
       ],
       "keywords": [
-        "BTS",
-        "뷔",
-        "예비군",
-        "군 복무"
+        "젠슨 황",
+        "엔비디아",
+        "행동강령 위반",
+        "360도 다면평가",
+        "기업문화"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.dc7ce5fc8568409db0c66982d06c4346_R.jpg"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.794048fb62dc431c9e1379601d2e8a11_R.png"
     },
     {
-      "id": "news-20261124-019",
-      "headline": "경찰, 100억대 불법 정치자금 수수 혐의 전광훈 목사 구속영장 신청",
-      "category": "경제",
+      "id": "news-20261125-004",
+      "headline": "'젠슨 황 효과' 의문 속에 미 증시 AI 반도체주 급락…필라델피아 지수 7.9% 폭락",
+      "category": "글로벌",
       "categories": [
-        "경제"
+        "경제",
+        "글로벌",
+        "비즈니스",
+        "IT/과학"
       ],
       "summary": {
-        "overview": "경찰이 자유통일당의 불법 정치자금 수수 의혹을 수사하며 전광훈 사랑제일교회 원로목사에 대한 구속영장을 신청했습니다. 서울경찰청 반부패수사대는 약 100억 원대에 달하는 자금이 불법적인 경로로 유입된 것으로 보고 수사를 진행해 왔습니다.\n\n이번 조치는 중앙선거관리위원회가 자유통일당을 고발한 지 1년 만에 이뤄진 결정입니다. 경찰은 전 목사가 당의 자금 운영에 깊숙이 관여했다고 판단하여 신병 확보가 필요하다고 보았습니다.\n\n당국은 전 목사 외에도 관련 인물들에 대한 수사를 이어가며 자금의 흐름과 출처를 명확히 규명할 방침입니다. 법원이 영장을 발부할 경우 전 목사에 대한 강제 수사와 조사가 본격화될 것으로 보입니다."
+        "overview": "젠슨 황 엔비디아 최고경영자(CEO) 복귀 효과의 지속 가능성에 의문이 제기되면서 전날 폭등했던 미국 증시의 인공지능(AI) 반도체 종목들이 하루 만에 일제히 하락 전환했습니다. 엔비디아는 5.9% 내린 155.38달러에 거래를 마감하며 시가총액이 하루 사이에 약 2천330억 달러(약 314조 원) 감소했습니다. 시장에서는 단기 폭등에 따른 차익 실현 매물 출하와 관세 인상 우려, 황 CEO 관련 이사회 조사 및 상원 청문회 출석 일정 등이 투자심리를 압박했다고 분석합니다.\n\n주가 하락 충격은 메모리 및 주요 반도체 종목에 집중됐습니다. 마이크론이 11.0% 폭락한 것을 비롯해 텍사스 인스트루먼트, 샌디스크, Arm 등이 대거 하락했으며, SK하이닉스 미국예탁증서(ADR)도 9.9% 내리며 전날 급등분의 상당 부분을 반납했습니다. 이에 따라 시가총액 상위 30개 반도체 기업으로 구성된 필라델피아 반도체지수(SOX)는 7.9% 폭락하며 마감했습니다.\n\n엔비디아 칩 수요에 기대온 코어위브, 네비우스 등 AI 연산용 클라우드 기업들도 10%대 급락세를 기록했습니다. 전문가들은 전날 상승 폭이 컸던 종목을 중심으로 낙폭이 확대된 점을 들어, 이번 주가 하락이 기업 펀더멘털의 훼손보다는 시장 과열에 따른 되돌림 성격이 강하다고 평가하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "[스타트 경제] 젠슨 황 돌아오긴 했는데...'전격 복귀 효과' 하루 만에 끝?",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVNVNNSk5zLTA1NTJheWw0anNFeUE3eTgxUy1Xd2xCZzFZWHhOVFRPNEhCMUdtdGkwalBwd2ZqamZPNVZsSVhRQ21jZ3lUcjdmajE1NU0zUzdiMmxmOUE?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "'젠슨황 효과' 의문에 美증시 반도체지수 8% 급반락",
+          "url": "https://www.yna.co.kr/view/AKR20261125012700009"
+        },
+        {
+          "name": "경향신문",
+          "title": "젠슨 황 한 사람에 흔들리는 미국 경제···AI붐이 드러낸 위험한 의존",
+          "url": "https://www.khan.co.kr/article/202611250600071/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        },
+        {
+          "name": "중앙일보",
+          "title": "복귀 하루 만에 전 직원 회의 연 젠슨 황…엔비디아 주가는 7% 넘게 하락｜Global Money Club",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15clRoRWZTRl9Jd05sMGhSM2ZKajBOUlpKMTZJTmRnSGlNY1pDbmxsQk1XNml3WkVLaVE3dEp2Yk4wVkZrOHFBN2hjZjQ0ZXJ2dXU1VHE4UE1HR2c?oc=5"
+        }
+      ],
+      "keywords": [
+        "엔비디아",
+        "젠슨 황",
+        "필라델피아 반도체지수",
+        "AI 반도체",
+        "마이크론"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/24/PRU20261124223901009_P2.jpg"
+    },
+    {
+      "id": "news-20261125-005",
+      "headline": "AI·기술주 차익실현 매물에 뉴욕증시 혼조…엔비디아 5.9% 하락",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "미국 뉴욕증시가 인공지능(AI) 관련 기술주를 중심으로 차익실현 매물이 쏟아지며 혼조세로 거래를 마쳤습니다. 다우존스지수는 상승세를 유지했으나, 기술주 비중이 높은 나스닥 지수와 S&P500 지수는 하락세를 보였습니다.\n\n전날 젠슨 황 최고경영자(CEO)의 복귀 소식으로 반등했던 AI 및 반도체 종목들은 하루 만에 급락했습니다. 엔비디아가 5.86% 하락한 것을 비롯해 AMD, 마이크론 등 주요 반도체주가 크게 떨어졌으며, 최근 상장한 AI 기업 앤트로픽도 공모가를 하회했습니다. 대규모 인프라 투자에 대한 수익성 우려가 완전히 해소되지 않은 점이 주가 변동성을 키웠습니다.\n\n트럼프 행정부의 추가 관세 부과 움직임 역시 시장에 부담을 더했습니다. 관세 정책에 따른 인플레이션 우려가 연방준비제도(Fed)의 금리 정책에 영향을 미칠 수 있다는 불확실성이 투자 심리를 짓눌렀습니다.\n\n한편 국제유가는 장 초반 공급 과잉 우려로 하락했으나, 중동 호르무즈 해협 인근의 지정학적 긴장이 고조되면서 하루 만에 반등했습니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "엔비디아 차익 실현에 뉴욕 증시 혼조 마감...엔비디아 7% 넘게 하락",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rM2VRMUlMSEo0YnZiY0hEZmtRX25aczhONHB3Q1pQVlFLbEtSb2FIWDJwRXhuWms0czgxQ2dhaWY3NWE0c25rejVlN2ZrbWRGNW5SYUc2V1RJUDRXYnc?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "[YTN 실시간뉴스] 엔비디아 주가 하루만에 ↓...뉴욕증시 하락",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZSVB3a2FEejVLcnlBWUNfNnoxZGY4NTRPWVNHQ1dYZ1M1cXFvcDRzX1Bham05RGtBUFZpWUdMeXQyN0E1STQxUkE0RjgtUVFLTTdxd3loRnZ2ank0cGc?oc=5"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "뉴욕증시, AI·기술주 반락 속 혼조…엔비디아 5.9%↓(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261125011251072"
+        },
+        {
+          "name": "YTN",
+          "title": "뉴욕 증시, 기술주 차익 실현 속 하락 출발...엔비디아 6% 넘게 하락",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XcC1sMGFkTDhrZkFUTDBfakpHaWFKYjF5STVkbjVVZzlZWWJZcG1Wbk1nUFg1RXA0OURsWGp3QnFpUng2bkl3OG8weW9ubEU2RWZMU1FjT1ZzZEp5OUE?oc=5"
+        }
+      ],
+      "keywords": [
+        "뉴욕증시",
+        "엔비디아",
+        "AI기술주",
+        "관세정책",
+        "국제유가"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/25/PRU20261125022801009_P2.jpg"
+    },
+    {
+      "id": "news-20261125-006",
+      "headline": "미국 11월 소비자신뢰지수 2개월 연속 상승…1년 10개월 만에 최고치",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "미국 소비자의 경제 심리를 나타내는 11월 소비자신뢰지수가 두 달 연속 상승세를 이어갔습니다. 이번 반등에 힘입어 해당 지수는 1년 10개월 만에 가장 높은 수준을 기록했습니다.\n\n물가 상승세 둔화와 안정적인 고용 시장 분위기가 소비자들의 경제 전망을 개선하는 데 긍정적인 영향을 미친 것으로 풀이됩니다. 연말 대목을 앞두고 소비 심리가 살아나면서 미국 경기의 연착륙 가능성도 한층 높아졌습니다.\n\n이번 지표 개선은 미국 경제의 큰 축을 차지하는 민간 소비가 견조한 흐름을 유지하고 있음을 보여줍니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "美 11월 소비자신뢰지수 두달 연속 반등‥1년10개월 만에 최고",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KQlVlYXU4YTVZakJodHhRN25mTl9Cc2VQTlFyWk9WV1dUdDQwY2xZWVBpUXo4cnhnbHhRdGxZV2Q4YjVSaVBNczk3ejhzMS02d0ZERGp4TXVJc2RNcTliYmNiekp2amVIZWR3YlNhVEpMRlNi?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "미국 11월 소비자 신뢰 지수, 22개월 만에 최고 수준",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QWHVVVEcwZ19ham1KNXBjcWJxaXlCbHpNTURKUDhLMXdoRm5PWkxHTjItd1JPSGpnZENlQUR0VXNjSTUwcFVseEFQdHdwY1pkZ2NWanhqUTg4TkVTV2c?oc=5"
+        }
+      ],
+      "keywords": [
+        "소비자신뢰지수",
+        "미국 경제",
+        "소비 심리",
+        "경기 전망",
+        "글로벌 경제"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261125-006/600/400"
+    },
+    {
+      "id": "news-20261125-007",
+      "headline": "고용노동부, 삼성물산·SK에코플랜트와 반도체팹 숙련인력 확보·안전 관리 대책 논의",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "정부가 반도체 생산공장(팹) 건설 현장에 필요한 전문 숙련인력을 안정적으로 공급하기 위해 직업훈련 지원을 확대하는 등 민관 협력을 강화합니다. 김영훈 고용노동부 장관은 25일 삼성물산, SK에코플랜트 등 건설사 관계자들과 간담회를 열고 반도체팹 인력 수급 문제 해소와 현장 안전 확보 방안을 논의했습니다.\n\n반도체팹은 일반 건축물과 달리 클린룸과 특수배관 등 초정밀 설비 구축이 필수적이어서 설비·전기·배관 분야의 전문 기능인력이 대규모로 필요하지만, 현재 현장에서는 인력 부족 현상을 겪고 있습니다. 노동부는 이러한 현장의 애로사항을 해소하고자 건설 분야 직업훈련 지원 규모를 획기적으로 늘리고 인력 양성 체계를 신속히 가동할 계획입니다.\n\n간담회 참석자들은 전문 인력이 적기에 투입되는 선순환 구조를 만들려면 정부와 기업 간의 지속적인 소통이 필수적이라는 점에 뜻을 모았습니다. 이와 함께 노동부는 공사 기간이 빠듯한 현장 특성상 안전사고 위험이 커질 수 있는 만큼 설계 단계부터 철저한 안전 관리 체계를 마련해 달라고 당부했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "노동장관, 삼성물산 등과 반도체팹 건설 논의…인력 확보 총력",
+          "url": "https://www.yna.co.kr/view/AKR20261124166100530"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "해수부 장관·부울경 단체장, KBS 부산서 '해양수도권' 논의",
+          "url": "https://www.yna.co.kr/view/AKR20261123121100051"
+        }
+      ],
+      "keywords": [
+        "반도체팹",
+        "고용노동부",
+        "삼성물산",
+        "SK에코플랜트",
+        "기능인력"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/08/11/PYH2026081118880001300_P2.jpg"
+    },
+    {
+      "id": "news-20261125-008",
+      "headline": "예멘 공습으로 26명 사망…사우디 고층 건물 또다시 피격",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "예멘 지역에서 발생한 공습으로 최소 26명이 목숨을 잃는 참사가 발생했습니다. 현지 인명 피해가 급증하면서 해당 지역의 긴장감이 극에 달하고 있습니다.\n\n이와 동시에 사우디아라비아의 고층 건물 역시 또다시 공격을 받아 피격되는 사건이 이어졌습니다. 교전 지역을 넘어 주요 도심 시설까지 위협을 받으면서 안보 불안이 더욱 가중되는 양상입니다.\n\n연이은 무력 충돌로 중동 지역 내 정세가 극도로 악화하고 있습니다. 추가적인 공습과 반격 가능성이 제기되면서 국제사회의 우려도 한층 커지고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "예멘서 공습에 26명 사망…사우디 고층 건물 또 피격",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LYkJBS3ZJa3I0dWpXLVZGN1hsbVA4dnFpZEhZRVBEREkwMVFldnNMSFdxZV9QMHlqeUFjTmp1R2JySXJ2ZndPT19uejkzS0dxcWkwTUJsTUkxSnRFd0t4QjlaeVFwdw?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "사우디 수도 최고층 빌딩 또 피격...11명 부상",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SOXJLVEtYV2ZrYW4zdUJWZmdUVFI3NlBSdWZ6Y3ZPTVRwaGF1MDNOMzJHc0Q0M2pMMkdvbk9HMVBLcGRYbDF1M1J3T045bmhMekJrZDctR0t3cVoxa1E?oc=5"
+        }
+      ],
+      "keywords": [
+        "예멘",
+        "공습",
+        "사우디아라비아",
+        "피격",
+        "중동 정세"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261125-008/600/400"
+    },
+    {
+      "id": "news-20261125-009",
+      "headline": "미국 '과잉생산 관세' 발표 임박…한국 '15% 관세 상한선' 유지 여부 불확실",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 트럼프 행정부가 무역법 301조에 기반한 '과잉생산 관세' 조사 결과를 조만간 발표할 예정입니다. 미국 무역대표부(USTR)는 한국, 일본, 중국, EU 등 16개 경제 주체를 대상으로 자국 제조업 확대를 가로막는 무역 관행 조사를 진행해 왔습니다. 앞서 강제노동 조사 결과로 한국 제품에 12.5%의 관세가 부과된 데 이어, 이번 결과에 따라 추가 관세가 중첩 적용될 수 있습니다.\n\n주요 관건은 한국이 기존 합의를 통해 확보한 '15% 관세 상한선'을 지켜낼지 여부입니다. 한국은 지난해 대미 투자 3,500억 달러를 약속하고 관세를 15%로 낮추는 데 합의했습니다. 주요 외신들은 미 행정부가 무역 합의를 준수하여 한국과 일본, EU 등에는 최종 15% 이하의 관세를 적용할 가능성이 높은 것으로 판단하고 있습니다.\n\n하지만 미 무역대표부가 한국과 EU 등의 디지털 규제를 겨냥해 무역법 301조 조사를 추가 검토하는 점이 변수로 꼽힙니다. 새로운 조사가 개시되고 추가 제재 조치로 연결된다면 기존 15% 상한선 유지가 어려워질 수 있다는 우려도 제기됩니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "美 '과잉생산 관세' 이르면 오늘 발표‥외신 \"韓 15% 유지 예상\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVYzFMZEdXRW9XcUdEbklSblNIY1hPZ0pXZzhDaFQ1S0I4eExmdnVoTjlMT1kwUl80aUNPb0RwRnhiT3lYVXVSX2s0VXAtWkVLemt1Z1B1X2htUjg3bjlpTThvU1ppTS1TNTVTTWJSU0JrZ25Q0gF0QVVfeXFMT1ZFaDNQVEJSbjdIZnZnaWl2c2hlSjVfOW82QWRoeDJSWF9uNVlYZGxZSldCR3BzckdiZHhXbUlOUlZsWm8zRWg2Z2VoNnp3WkFmWXdhenBaY251SnVpM0NadHhTMFhqVGVpU3lhR2hiZ1ZiNTM?oc=5"
+        },
+        {
+          "name": "경향신문",
+          "title": "“트럼프 행정부, 이르면 오늘 밤 과잉생산 관세 발표”···외신, 한국 ‘15% 상한선’ 유지 예상",
+          "url": "https://www.khan.co.kr/article/202611250659001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        }
+      ],
+      "keywords": [
+        "트럼프 행정부",
+        "무역법 301조",
+        "과잉생산 관세",
+        "미국 무역대표부",
+        "관세 상한선"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261125-009/600/400"
+    },
+    {
+      "id": "news-20261125-010",
+      "headline": "러시아 군용기 영공 초근접 비행…러시아 \"사전 계획된 비행\" 주장",
+      "category": "글로벌",
+      "categories": [
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "러시아 군용기가 타국 영공 턱밑까지 다가서는 초근접 비행을 감행해 군사적 긴장이 고조되고 있습니다.\n\n러시아 측은 이번 비행에 대해 국제법 기준을 엄격히 준수한 사전 계획된 정례 비행이라는 입장을 밝혔습니다.\n\n하지만 영공 경계선에 극도로 접근하는 무력 시위성 비행은 우발적 충돌 위험을 높일 수 있다는 지적이 잇따르고 있습니다. 전문가들은 이를 주변국의 공중 대응 태세를 탐색하기 위한 의도적 행동으로 보고 있으며, 관련 국가들은 경계 태세를 끌어올리고 상황을 면밀히 감시하고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "영공 코앞까지 초근접‥러시아 \"계획된 비행\"",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UaTVXLUtaY2t5Y3NoTnVvblRZejEwODZHWGNPNlphNUl2bnJfeDJFLThLSzEzX2hsSncyM0FaOE9WSlRkVzk2cDhiVzNqNzVPUDM5OG9jaW1GRTFLcXNwRVM4MzVQVU1nYmpqLU5rNW8wLU9adkp4eGln0gF6QVVfeXFMTl9VLVVOVGppTnhndHQyVTVxeldSVWh5ZTFUNWdhLUM4QmtPNEhSZ0hTZFE0N2dNM19vTlBFaEpqMW82Mjk1UHV2eHg4bHJXTGJWLU9PbUtNbmphTTJqMGtPcmFIZFN0amdlTzZnSWdiYWNfRldLd1FUbHc?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "울릉도 영공 코앞까지 초근접‥일주일 새 3번째",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5ZXJGV3dYTE1ncEI5aGJiT3YxT0J4THlsRlFCa2l3VDM3a2FRT09uY1h1Yzh6OWV3OHZ4NGZWNkN4YjA2WFVINWZPZGtKcHpaNVFFcmFqaERjOFd2blY0MWlXRkJsbEtSaHpEZV95di1NcEJEQWVfcNIBeEFVX3lxTE51aGZKc1pSdTVzSW1ZSHdxSXIwOHVROTcwZkNvTW9lTzhKOU5qM3VEeFlZTnZURzlwSjF5MXp2VVcwYm5neG1JOGR1UnktVHRzUjVNUWduVFJhNGZXSWVfbWpNX2g0Um5aVnVSVUZFalVvZGdRMWJHSQ?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "러 국방부 \"Tu-160 전략폭격기, 동해 상공서 계획된 비행\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVelJITnJ5bkFNU3kwcTQ1ZW1DblJtM1Z3UTJheEZlempCdFBqZW5hMUpmT2JVTUVOT0VqMnB6c2QyUVRJUnFWdi16LTQ3VHUwbkZTT3l2MXo2OUFaS3c?oc=5"
+        }
+      ],
+      "keywords": [
+        "러시아",
+        "영공 초근접",
+        "군사적 긴장",
+        "정례 비행",
+        "무력 시위"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261125-010/600/400"
+    },
+    {
+      "id": "news-20261125-011",
+      "headline": "경주·포항 강진 겪었지만 민간 건물 10곳 중 8곳 내진 성능 미달",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "경주와 포항 강진 발생 이후 10년 가까운 시간이 흘렀으나 민간 건축물의 지진 대비는 극히 저조한 수준에 머물러 있습니다. 공공건축물이 지속적인 보강 공사를 거쳐 전국 평균 74.2%의 내진율을 기록한 반면, 전국 민간 건축물의 내진율은 18.1%에 불과합니다. 심지어 지진 피해를 직접 겪었던 포항과 경주 지역조차 민간 건물 내진율이 각각 18%, 17% 수준에 그치고 있습니다.\n\n이처럼 민간 건물 내진율이 저조한 주요 원인으로는 막대한 공사 비용과 공사 기간 머물 임시 거처 문제 등이 꼽힙니다. 행정안전부가 시행했던 민간 건축물 내진 보강 비용 지원 사업도 주민 참여율이 낮아 3년 만에 폐지되었습니다. 법적 강제성이 없는 노후 주택과 상가가 여전히 안전 사각지대에 놓여 있는 만큼, 실효성 있는 실태 파악과 현실적인 지원책이 마련되어야 합니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "[경주지진 10년, 안전을 묻다] ② 강진 겪었지만 민간건물 10곳 중 8곳 지진 취약",
+          "url": "https://www.yna.co.kr/view/AKR20261124112500053"
+        }
+      ],
+      "keywords": [
+        "지진",
+        "민간건축물",
+        "내진율",
+        "내진보강",
+        "안전사각지대"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124112500053_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261125-012",
+      "headline": "한국 수출 60년간 세계 평균 2배 속도 성장…경제 성장에 27% 기여",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "대한상공회의소가 발표한 보고서에 따르면 한국 수출은 1960년대 이후 연평균 16.6% 늘어나며 같은 기간 세계 평균 증가율인 8.6%를 두 배 가까이 앞질렀습니다. 한국이 세계 수출 시장에서 차지하는 비중도 1964년 0.07%에서 지난해 2.69%로 크게 상승했습니다.\n\n수입을 제외하고 순수 국내 창출 부가가치만 반영한 수입조정법 분석 결과, 1961년부터 2024년까지 수출의 경제성장 기여도는 27.1%로 나타났습니다. 특히 2021년부터 2024년 사이에는 인공지능과 반도체 수요가 늘어나면서 수출이 성장의 절반 이상인 51.7%를 이끌었습니다.\n\n대한상의는 사상 첫 연간 1조 달러 달성 이후에도 성장을 이어가기 위해 반도체를 이을 차세대 주력 품목 육성과 제조업 혁신이 필요하다고 강조했습니다. 아울러 미·중 의존도를 낮추기 위해 시장을 다변화하고 소부장 경쟁력을 높여 수출 온기가 국내 일자리와 내수 활성화로 연결되는 구조를 만들어야 한다고 제시했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "1조 달러 한국 수출, 세계 속도 2배로 성장…경제 기여 27%",
+          "url": "https://www.yna.co.kr/view/AKR20261124149700003"
+        }
+      ],
+      "keywords": [
+        "수출 1조달러",
+        "대한상공회의소",
+        "경제성장 기여도",
+        "반도체",
+        "통상리스크"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111919020001300_P2.jpg"
+    },
+    {
+      "id": "news-20261125-013",
+      "headline": "하나증권, CJ제일제당 목표주가 37만원 유지…내년 식품·바이오 실적 개선 전망",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "하나증권이 CJ제일제당의 목표주가를 기존 37만 원으로 유지하고 투자의견 '매수'를 제시했습니다. 최근의 실적 부진에 대한 우려가 주가에 이미 선반영되어 있어 추가적인 하락 위험은 제한적이라는 분석입니다.\n\n증권가는 내년부터 해외 식품 사업의 견조한 매출 성장과 바이오 부문의 업황 회복이 함께 이루어질 것으로 내다보고 있습니다. 주가 하락 폭이 커서 가격 부담이 낮은 만큼, 내년도 실적 개선 흐름에 맞춰 점진적인 주가 회복을 기대할 수 있습니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "선관위 고발 1년 만에…경찰, ‘자유통일당 불법 기부 혐의’ 전광훈 구속영장 신청",
-          "url": "https://www.mk.co.kr/news/society/12216800"
+          "title": "“CJ제일제당, 잃을 것 없는 주가…내년 식품·바이오 실적 개선 기대”",
+          "url": "https://www.mk.co.kr/news/stock/12217698"
         }
       ],
       "keywords": [
-        "전광훈",
-        "자유통일당",
-        "불법정치자금",
-        "구속영장",
-        "사랑제일교회"
+        "CJ제일제당",
+        "하나증권",
+        "목표주가",
+        "식품",
+        "바이오"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.02682ba814d3484bbb92d039d04f3413_R.png"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.a2fb20b47cb24b1cb448ecb35c268729_R.jpg"
     },
     {
-      "id": "news-20261124-020",
-      "headline": "스트레이 키즈 필릭스, 전통과 현대 잇는 ‘한복 웨이브’ 화보 공개",
+      "id": "news-20261125-014",
+      "headline": "미군, 이란 수뇌부 겨냥 '참수 작전' 검토…협상 결렬 우려 속 내부 반대 직면",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 군 당국이 이란의 최고 지도부를 겨냥한 이른바 '참수 작전'을 검토 중인 것으로 알려졌습니다. 중동 지역 내 군사적 위협이 커지자 이란의 핵심 정치·군사 지도부를 직접 타격해 정국을 흔들려는 강경책을 논의하는 모양새입니다.\n\n그러나 미 정부 내부와 안보 전문가들 사이에서는 이러한 작전에 대한 반대 목소리가 팽배합니다. 지도부를 직접 겨냥한 군사 행동이 강행될 경우 이란과의 외교적 협상이 완전히 무산되고 중동 전역으로 전쟁이 확산할 가능성이 높기 때문입니다.\n\n미국은 군사적 압박을 강화하면서도 협상의 여지를 남겨두려 하지만, 작전 실행을 둘러싼 군 내부의 의견 대립과 협상 난항으로 인해 향후 대중동 정책 결정 과정에서 심각한 진통을 겪을 전망입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "“미군, 이란 수뇌부 ‘참수 작전’ 검토…‘협상 난항’ 반대도”",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OelJJY19oSjlSQ0RmSVJCUnExR3Zidjk3SjYyVUphVTAyZlNQVXY5ZkhGWmhfa1lROFdSNnZnYlBVYWIyYmNXenpTcl9VWHRXNnFGVjVVMFlMUVVUQVFTMV9hNHc3UQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "미군",
+        "이란",
+        "참수 작전",
+        "중동 긴장",
+        "외교 협상"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261125-014/600/400"
+    },
+    {
+      "id": "news-20261125-015",
+      "headline": "아이돌 출국길 과잉 경호 논란, 결국 경찰 수사로 확대",
+      "category": "비즈니스",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "인기 아이돌 그룹의 공항 출국 과정에서 발생한 과잉 경호 논란이 결국 경찰 수사로 확대되었습니다. 경호원들이 일반 탑승객을 향해 플래시를 쏘거나 동선을 무리하게 막아서는 등 과도한 통제를 가하면서 논란이 불거졌습니다.\n\n공공장소인 공항에서 사설 경호업체가 과도한 위력을 행사하는 행위에 대해 시민들의 불만이 이어지고 있습니다. 이에 따라 경찰은 해당 경호원들의 위법 행위 여부를 다각도로 조사하고 있습니다.\n\n엔터테인먼트 업계와 경호업계 내부에서도 아티스트 안전 확보와 일반 시민의 불편 최소화를 함께 고려한 경호 가이드라인이 필요하다는 지적이 나옵니다. 경찰은 현장 정황을 바탕으로 사설 경호원의 과잉 대응 행위에 법적 책임을 물을 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "[잇슈 컬처] 아이돌 출국길 ‘과잉 경호’ 논란…경찰 수사로",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lS0NuZk13RHFzTTdRSDlrWGRiZnc3ME9MWXJpQ0VvdmhjdlZGMldTOUR2VWZFLWs1YVZvUGJXekk2djRFOWRXWmdNSlNscThuOXVIOVR6R0NxeTEtaGhsaUM2ZjNiUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        "과잉경호",
+        "아이돌출국",
+        "경찰수사",
+        "사설경호",
+        "공항통제"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261125-015/600/400"
+    },
+    {
+      "id": "news-20261125-016",
+      "headline": "미국, 한국 외교안보라인 교체에 한미 긴밀 협력 지속 의지 표명",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 정부가 한국의 외교안보 라인 개편 소식과 관련해 한미 간 긴밀한 협력의 중요성을 다시 한번 강조했습니다.\n\n미 당국은 한국의 주요 외교안보 수장 교체에 관한 입장을 내고, 그동안 양국이 쌓아온 공조 체계의 가치를 높이 평가한다고 밝혔습니다.\n\n이번 메시지는 한국 정부의 인적 쇄신 속에서도 한미 동맹의 연속성을 유지하고 흔들림 없는 협력을 이어가겠다는 의지를 담고 있습니다.\n\n미국 측은 글로벌 현안과 지역 안보 과제에 효과적으로 대응하기 위해 한국과의 끊임없는 소통을 계속해 나갈 방침입니다.\n\n양국은 새롭게 구성될 한국의 외교안보 팀과 조속히 접촉하여 대북 정책을 비롯한 핵심 안보 공조 방안을 논의할 계획입니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "미국, 한국 외교안보라인 교체에 “긴밀한 협력 중요성 높이 평가”",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82SFZ0TzNkNXZ6cl9OanlGNWhfUVB5dGJKczNWek1VemRhMFFhRFY5MmlPRTFhUEk1MW9YcUJVUi1QNUV4emRiemtZRUZ1UVpyZ1hQTWx1OWlqSFVjdjE2cEE3Z3FCZw?oc=5"
+        }
+      ],
+      "keywords": [
+        "외교안보라인",
+        "한미협력",
+        "미국 정부",
+        "한미동맹"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261125-016/600/400"
+    },
+    {
+      "id": "news-20261125-017",
+      "headline": "베네수엘라 정부, 320조 원 규모 국가 채무 구조조정 착수",
       "category": "경제",
       "categories": [
         "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "그룹 스트레이 키즈 멤버 필릭스가 참여한 '한복 웨이브' 프로젝트 화보가 공개됐다. 문화체육관광부와 한국공예·디자인문화진흥원이 추진하는 이번 사업은 한복 디자이너들과 한류 예술인의 협업을 바탕으로 전통 의상의 매력을 해외에 알리는 기획이다.\n\n화보 속 필릭스는 현대적인 감각으로 재해석한 다채로운 한복을 입고 특유의 개성을 드러냈다. 전통 복식의 선과 질감을 살리면서도 세련된 스타일링을 더해 대중문화와 전통 요소의 감각적인 조화를 담아냈다. 이번 화보는 패션 매거진과 옥외 전광판 등 온·오프라인 매체를 통해 전 세계에 순차적으로 전개된다."
+        "overview": "베네수엘라 정부가 약 320조 원에 달하는 막대한 국가 채무를 해결하기 위해 본격적인 채무 구조조정에 나섭니다.\n\n장기간 누적된 경제 난국 속에서 정부 부채가 급증함에 따라, 재정 부담을 줄이고 디폴트 위험을 해소하기 위한 본격적인 절차에 들어갔습니다.\n\n정부는 채권단과의 협업을 통해 채무 상환 기한을 연장하거나 이자율을 조정하는 등 다각도의 부채 경감 대책을 추진할 예정입니다.\n\n이번 구조조정은 베네수엘라 국가 재정의 안정성을 확보하고 국제 금융 시장과의 관계를 정상화하려는 목적을 지니고 있습니다.\n\n천문학적인 수준의 빚을 떠안고 있는 상황에서 진행되는 만큼, 이번 개혁 작업이 베네수엘라 경제 회복의 발판이 될지 시장의 시선이 집중되고 있습니다."
       },
       "publishers": [
         {
-          "name": "KBS 뉴스",
-          "title": "[잇슈 컬처] 스트레이 키즈 필릭스 ‘한복 웨이브’ 화보 공개",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55cHNwNkNDQ1dOemFXc1JyNm1BanpyQXYxcVlKVVJ2Q003emhfQzVMUTRvSDNUSEdTY1p5a2dBUDhNTXRzRmNpSFhuakpxZjNaeTNadUtJU01sclJmLVNRZlMzc1o5UQ?oc=5"
+          "name": "YTN",
+          "title": "베네수엘라 정부 빚 320조 원...채무 구조조정 시동",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfMUJqdWpZc2lxWlQzQUU2TG9WSndCZ0duR3JwTGFCQzlienR5NENIWHA4VE5DRW54SDFHMW5uOTJ3cC1sbDhvdnJublo5cTRwRVdHdkZpQk9JWkIyQWc?oc=5"
         }
       ],
       "keywords": [
-        "스트레이 키즈",
-        "필릭스",
-        "한복 웨이브",
-        "K컬처",
-        "한복 화보"
+        "베네수엘라",
+        "채무 구조조정",
+        "정부 부채",
+        "국가 디폴트",
+        "남미 경제"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261124-020/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261125-017/600/400"
+    },
+    {
+      "id": "news-20261125-018",
+      "headline": "미 민주당, 트럼프 장남 투자사 '1789 캐피털' 정조준…시장 조작 및 특혜 의혹 조사",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "미국 민주당이 도널드 트럼프 대통령의 장남 트럼프 주니어가 선임 파트너로 있는 벤처투자사 '1789 캐피털'과 관련 기업들에 대한 정밀 조사에 나섰습니다. 미 연방하원 차기 법사위원장에 내정된 제이미 래스킨 의원은 1789 캐피털이 투자했거나 연관된 기업들에 서한을 보내 관련 통신 기록을 보존하고 제출할 것을 요구했습니다.\n\n민주당은 2024년 11월 대선 직후 트럼프 주니어가 이 투자사에 합류한 뒤 연관 기업들이 정부 계약 수주나 규제 완화 등 혜택을 입었다고 지적했습니다. 투자 직후 방산기업 해드리언은 10억 달러 규모의 정부 계약을 맺었으며, 쥴 랩스의 판매 규제 완화와 폴리마켓에 대한 당국 조사 종결 등 잇따라 특혜성 조치가 이뤄진 정황이 포착됐습니다.\n\n래스킨 의원은 트럼프 행정부의 기구를 이용해 공공정책과 시장을 조작하고 사익을 추구했을 가능성을 강조했습니다. 이에 대해 백악관과 1789 캐피털 측은 정치적 동기에 따른 근거 없는 비난이라며 인신공격에 굴복하지 않겠다고 강력히 반박했습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "美민주, 트럼프 장남 투자사 '1789 캐피털' 정조준…\"시장 조작\"",
+          "url": "https://www.yna.co.kr/view/AKR20261125016200071"
+        },
+        {
+          "name": "경향신문",
+          "title": "국가안보도 도덕성도 시장·이윤 앞에선 ‘뒷전’···선 넘는 트럼프 ‘황금만능주의’",
+          "url": "https://www.khan.co.kr/article/202611250600131/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+        }
+      ],
+      "keywords": [
+        "트럼프 주니어",
+        "1789 캐피털",
+        "제이미 래스킨",
+        "시장 조작 의혹",
+        "미국 민주당"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/ap/2026/11/24/PAP20261124160901009_P2.jpg"
+    },
+    {
+      "id": "news-20261125-019",
+      "headline": "앤트로픽 주가 상장 나흘 만에 공모가 하회… 수급 부담과 지수 편입 호재 교차",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스",
+        "경제",
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "인공지능 기업 앤트로픽의 주가가 뉴욕증시 상장 4거래일 만에 공모가 아래로 떨어졌습니다. 앤트로픽은 전 거래일 대비 6.5% 하락한 81.91달러로 거래를 마감하며 공모가 83달러를 밑돌았습니다. 상장 첫날 형성된 시초가 111.50달러와 비교하면 하락 폭이 26%를 넘어섰습니다.\n\n최근 주요 AI 종목들이 랠리를 펼치는 상황에서도 앤트로픽 주가는 역행하는 흐름을 보였습니다. 다만 전문가들은 과거 스페이스X나 페이스북, 우버 등 초대형 기업들도 상장 초기 공모가를 일시적으로 하회했던 사례가 많았다는 점에 주목하고 있습니다.\n\n향후 주가 향방은 수급 변화에 크게 좌우될 전망입니다. 일부 내부자 매도 물량이 시장에 단계적으로 풀리는 점은 부담이지만, 11월 30일 MSCI 글로벌 스탠더드 지수 편입에 따른 패시브 펀드 자금 유입은 상승 요인으로 꼽힙니다. 시장에서는 데이터센터 건설 속도와 향후 매출 성과가 기업가치 유지의 핵심 변수가 될 것으로 보고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "앤트로픽 상장 나흘 만에 공모가 밑으로",
+          "url": "https://www.yna.co.kr/view/AKR20261125017300009"
+        },
+        {
+          "name": "연합인포맥스",
+          "title": "앤트로픽 공모가 하회…\"AI 성장성보다 수익성 입증이 관건\"",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHU19kQmZNQjFmeEgtX0VsRVY5ZzlCWEJxdldJXzYyNWZ4QkVNS29yTmo3ZnVsaElXOTktUVRaUkZzMk11UXkyUXZUR2c1Wmt3Vjl3T1FuZnE4Q2FYM0Z1S0NESlM4aVl5aW5qcVJ6Y1E?oc=5"
+        }
+      ],
+      "keywords": [
+        "앤트로픽",
+        "공모가 하회",
+        "뉴욕증시",
+        "MSCI지수",
+        "AI주가"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/24/PRU20261124202901009_P2.jpg"
+    },
+    {
+      "id": "news-20261125-020",
+      "headline": "서울지하철 파업 철회와 미 관세 발표 임박 등 11월 25일 주요 뉴스의 핵심 요약",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "서울 지하철 1∼8호선을 운영하는 서울교통공사 노사 간 임금·단체협약 협상이 파업 직전 극적으로 타결되었습니다. 노사 양측이 최종 합의안을 도출함에 따라 예고되었던 첫차 파업 계획이 철회되어 시민들의 출근길 대란을 피했습니다.\n\n해외 분야에서는 젠슨 황 엔비디아 CEO의 전격 복귀 과정에 도널드 트럼프 미국 대통령이 개입한 점을 두고 국가자본주의라는 외신의 비판이 쏟아졌습니다. 아울러 미국 무역대표부(USTR)가 한국 등 16개 경제주체를 상대로 한 과잉생산 관세 조사 결과를 조만간 발표할 예정인 가운데, 한국에 적용되는 관세 상한은 15% 수준을 유지할 것으로 예상됩니다.\n\n국정 소식으로는 이재명 대통령이 5·18 민주화운동 진압 관계자들의 정부 포상 취소 결정에 대해 역사 교정의 일환으로서 당연한 조치라는 입장을 표명했습니다. 한편 한국은행 발표 결과 11월 전산업 기업심리지수가 하락하며 전체 체감경기는 한 달 만에 악화했으나, 내수기업의 체감경기는 반도체와 자동차 산업 호조로 4년 6개월 만에 가장 높은 수치를 기록했습니다. 뉴욕증시는 엔비디아 급등 이후 차익실현 매물과 트럼프 행정부의 추가 관세 우려가 맞물려 혼조세로 마감했습니다."
+      },
+      "publishers": [
+        {
+          "name": "07:30",
+          "title": "[연합뉴스 이 시각 헤드라인]",
+          "url": "https://www.yna.co.kr/view/AKR20261125016300011"
+        }
+      ],
+      "keywords": [
+        "서울지하철",
+        "엔비디아",
+        "과잉생산관세",
+        "기업심리지수",
+        "뉴욕증시"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/24/PYH2026112406600001300_P2.jpg"
     }
   ]
 }
