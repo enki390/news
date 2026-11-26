@@ -1,668 +1,618 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T07:35:09.561938+09:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T08:14:28.858226+09:00",
   "total_count": 20,
   "news_items": [
     {
-      "id": "news-20261126-001",
-      "headline": "미국, 한국 첨단산업 육성책을 불공정 무역 근거 제시하며 과잉생산 관세 최대 25% 인상 압박",
+      "id": "news-20261127-001",
+      "headline": "트럼프, \"미 3분기 성장률 발표 조작됐다\"…즉각 조사 요구",
       "category": "글로벌",
       "categories": [
         "경제",
-        "글로벌",
-        "비즈니스"
+        "글로벌"
       ],
       "summary": {
-        "overview": "미국 무역대표부(USTR)가 한국을 포함한 14개 경제 주체를 대상으로 무역법 301조에 기반한 '과잉생산 관세' 부과 방침을 예고했습니다. 미 정부는 한국의 제조업 및 수출 중심 성장 모델과 함께 정부 차원의 반도체·자동차·인공지능(AI) 등 전략산업 육성 정책 전반을 불공정 무역 관행의 근거로 지목했습니다.\n\nUSTR은 보고서를 통해 K-반도체 전략, 미래자동차 발전전략, 첨단산업 3대 메가 프로젝트 등 한국 정부의 정교한 지원책이 실제 수요와 무관하게 해외 공급을 인위적으로 늘렸다고 판단했습니다. 아울러 한국이 중국산 저가 중간재를 수입해 수출 경쟁력을 확보하고, 중국산 과잉생산 품목의 우회 수출 경로를 제공하고 있다고 주장했습니다.\n\n이에 따라 미 트럼프 행정부는 한국산 상품에 기존 합의에 따른 15% 상한 내 관세를 우선 부과할 예정이지만, 향후 협의 이행 결과가 만족스럽지 않을 경우 관세율을 최대 25%까지 끌어올릴 수 있다며 압박 수위를 높였습니다."
+        "overview": "도널드 트럼프 미국 대통령이 중간선거 전에 발표된 올해 3분기 경제성장률 수치가 의도적으로 조작됐다며 즉각적인 조사를 요구했습니다. 미 상무부 경제분석국이 3분기 국내총생산(GDP) 성장률 잠정치를 기존 3.4%에서 4.3%로 상향 조정하자, 선거 전 속보치를 의도적으로 낮게 발표해 자신과 공화당에 타격을 주려 했다는 음모론성 주장을 제기한 것입니다.\n\n트럼프 대통령은 추수감사절을 맞아 올린 메시지를 통해 별다른 근거를 제시하지 않은 채 해당 정정이 중대하고 의도적인 오류라고 비판했습니다. 그러나 현지 주요 언론들은 GDP 통계가 추가 데이터 반영에 따라 단계적으로 정정 발표되며, 이는 정치 일정과 관계없이 정해진 절차에 따라 진행된다고 지적했습니다.\n\n트럼프 대통령이 자신에게 불리하게 작동했다고 판단한 경제 지표를 공격한 것은 이번이 처음이 아닙니다. 지난해에도 고용 통계 조작을 주장하며 노동통계국 수장을 해임한 바 있습니다. 명절 대국민 메시지에서도 화합보다는 진보 세력과 이민자, 언론을 겨냥한 강도 높은 비난을 이어갔습니다."
       },
       "publishers": [
         {
           "name": "KBS 뉴스",
-          "title": "미, ‘과잉생산 관세’예고…“한국 15%, 약속 안 지키면 25%”",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4dFVuTF9rU09oZGF4b1dGanNOdzV2cW5iWWFNWVROQy1fREdCVzUwYy1OWUVDWHB0N2ptVWRSWEFTb24wcGhPSHhMQ29QN2ZnTGdSdEpBNEdEaEFSM0hXdFVIdUxnUQ?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "미, 14개 경제주체에 과잉생산 관세…한국, 15% 상한 유지",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YbndnRl81b2RCNV9UbHozRmNRTFAzZ0JXN3M1YmhuMUh0WFlOQTRIb1ZNVDJqbVNNYXVnV2hUcTBIU0JCYlE1YTQ5Sk84QWc1NnpEMGdZbjE4em9qMThod1NNOHJlOWxiYXQxZ3JxaWRUV1Zv0gF0QVVfeXFMUG5ra09EMEY4TW9qMlFxWXdfWlhPanFVV0VxdGRHMWxKVVgyODNocGc1a0t2QXdwYjRHam1TdlB5WnJwQ3pPUUhNcjRBMHpkLXlwb1lkdFpaOWt2SlFUMW5ka3RmaUtJN3pjaTRvTTZ0SmZ4STE?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "미, 14개국에 '과잉생산' 관세‥한국 '15% 상한' 유지",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05U09Ld29mN3JiZ0FnakdmUGo4U015VTJINTFLM1NxSlNBOWZwblpZb1NLQ29tb2dGdGRDWm9jMkZramI1dkZYNDJfeXNXZHZUV2dLbkNzeEpWMS1xWHhoRTBYMnl4SFFsbUpQVnRaZVBlSjlXZ1lfZHVB0gF6QVVfeXFMUHRkVHZRV203OFZaY0FVVGlGNGhDV29ocHBhNUt6UEJpRXR6R3IzTVR4eGduX1A3a3V3aGNrazM0b0VXZ0hrZGFNVVJtenJvZzNTTTFuZ2pNUEJvb0pXdnFSRVBkODVXVTVpNGFPZWlrWjNFQ3ZNYWs5Tnc?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "EU, 새 미 관세에 \"유럽, 과잉생산 원천 아냐‥15% 상한 준수돼야\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdUtVZVphREgxcWViSExydkdINmhKRkZ2VDNQeWlhNC1WY1FDeF9fdnl2WHJac1lWQ21xZmsyeXczRFB3QXdKNnFDRGNjaUNwY2tSREtnclFpQnR1UnJWWE02MkxfN0lLYXI5dHZFdm01NnRj0gF0QVVfeXFMUFBIUnlWVTU2S3QtV2luVjFFdjktWVhQd3FQQTRWQ05yMWtWdGp0QVFmS3B4N3psWEVfXzhnYnlJdTZmeW5yMHNIbXZIZ0FJcnN1d3gtX1RrMjk4MjN5M2pHZFpvRWFfbldQYlg0SWE1MWI4TDc?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "美, 한국 등에 '과잉생산' 관세‥상한 15%는 유지",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lcXRyU1k5cmFKT3hITXJVZ1ktem5NNW5VMWVLZ01mT0NSR3BITS1nYTF1eTJCQTNmVVllV1E2Rm9yVXFwNE1WMm9Hc2tzNW5IMWRDZWo2UGlJejhtMk5FMUtYQ2dkd05UVmUwUXlVdGhKc2N1NEtob9IBeEFVX3lxTE1ZbFMtakNTNmIxQm82RG1yQ0VWNWpra1JDNy0xQXVwOTJnUk5rMjN0SGxNUEJYV2g4N2tFd0tEeTl1cllVeER0UzhtOW1HSmZHSHR4T2FkcmZrazU2UUgxa1FHWVFZdkRueHQxVnAwYzVkTVVGci1rbg?oc=5"
+          "title": "선거 지고 경제통계 탓?…트럼프 “3분기 성장률 조작” 조사 요구",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Tc01FMnBndFpveUxveVZnNm5zRW9ZOVhyZm93c3p5YkE0ajY2ZzNZdXNIbEczaHVVeS1WWldzeTN5UlVlT0R3WWIxVi1uRFNiZGJOWFRkaDdBU3dxbG5PaEF6RzlQdw?oc=5"
         },
         {
           "name": "YTN",
-          "title": "미, 한국 등 14곳에 '과잉생산' 관세...'많이 만든다'고 관세? 의미와 파장은 [스타트 경제]",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zcTZpaDloMUM5dUVPX2h2NVd5bUFfQ0xVTWVjeWIyWmozZzRpbG1JNXVKbk9NYzFpWTBvakVkSmhFb1ZKcVlfMS1oSGw3a0R5RG5DOTN4aVBYZ3h6TVE?oc=5"
+          "title": "미국 주요 언론들 \"물가 뛰는데 트럼프 관세 인상은 경제적 자해\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QNXhKTnNpRHN3ZWZsaVBZVVBLczEwbWJnMF9rcExocHFoU2ZNSDFCdjQ4aUJiQXlLM09ua053NnNqU1dPU3FxYVE0SHJreGZqVkllWHBpWlgwUGNiLUE?oc=5"
         },
         {
           "name": "YTN",
-          "title": "미국, 과잉 생산 관세 한국 15% 유지...25% 인상 여지 남겨",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2eUwyems0YVBCZC11S0ptOFN0bWlUd1VZcG0wbE5CYnROZ3NTNzdFQTVsMTRmNmhocFFMVmZqc0JLT21TdTMzSWdRNkZvNnNEeUZUcno0MmtqaFotVGc?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "USTR \"한국과 협의 불만족스러울 경우 25%로 관세 인상\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xQXZOelZ6MC1sVTBYT1NOVGVZWlo4ZWNhd1BhbXl2em9jcm1WbWtLLVNEYjZaQW44QjhrMUQ5RmVTb1pFbTBWN0VFZGFvUW82OHVrUWNFOFVza2xKQlE?oc=5"
-        },
-        {
-          "name": "경향신문",
-          "title": "‘과잉생산 관세’ 예고한 미국, 반도체·AI 육성책도 불공정 무역 근거로···최대 25% 인상 여지 으름장",
-          "url": "https://www.khan.co.kr/article/202611260651001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "YTN",
-          "title": "USTR \"한국과의 협의 불만족 시 25%로 관세 인상\"",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LdE5raXNFMFBhdjROVnZYNVVadFRhQXRMdWtaMWV0Z2V4MUtGQVh6YkFvYlAzTGlTVVJyWURKRUNiZ0lteG9oUUJMN2FUVE5rTUJ4QzNTQXFtNWxObXc?oc=5"
-        },
-        {
-          "name": "동아일보",
-          "title": "美, 한국 관세 ‘15% 상한’ 일단 유지… “25%까지 높일수도” 압박",
-          "url": "https://www.donga.com/news/Inter/article/all/20261126/135092297/2"
-        }
-      ],
-      "keywords": [
-        "무역법 301조",
-        "과잉생산 관세",
-        "USTR",
-        "트럼프 행정부",
-        "첨단산업 지원책"
-      ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/26/135092450.1.jpg"
-    },
-    {
-      "id": "news-20261126-002",
-      "headline": "뉴욕증시, AI 투자 불안과 물가 압력에 장중 급락 후 혼조 마감",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "미국 뉴욕증시가 인공지능(AI) 투자 관련 불확실성과 물가 상승 압력이 맞물리며 장중 크게 출렁인 끝에 혼조세로 마감했습니다. 25일(현지시간) 다우존스30산업평균지수는 장중 1,100포인트 넘게 폭락했다가 상승 전환에 성공했으나, 나스닥지수와 S&P500지수는 낙폭을 만회하는 데 그치며 하락 마감했습니다.\n\n막대한 차입에 의존하는 AI 인프라 투자와 자금 조달 비용 증가 우려가 부각되면서 대형 기술주들이 하락세를 끌어내렸습니다. 엔비디아가 장중 9% 넘게 급락한 끝에 3.91% 하락 마감했고, 마이크론과 오라클 등 주요 반도체·데이터센터 관련주도 일제히 내렸습니다. 반면 소재, 에너지, 부동산 등 비기술 업종으로 자금이 이동하는 순환매 장세가 나타났습니다.\n\n거시경제 지표와 통화정책 불확실성도 증시 하방 압력을 더했습니다. 연방준비제도가 중시하는 10월 개인소비지출(PCE) 가격지수가 전년 동월 대비 3.8% 올라 상승 폭을 키우면서 추가 금리 인상 전망이 강화되었습니다. 미 행정부가 한국을 포함한 14개 경제주체에 신규 관세 부과를 예고한 점 역시 기업 비용 부담과 인플레이션 우려를 키웠습니다.\n\n시장 변동성이 급증하자 안전자산인 미 국채로 자금이 쏠리면서 10년 만기 국채 수익률은 장중 4.80%까지 떨어져 약 두 달 만에 최저치를 기록했습니다. 뉴욕증시는 26일 추수감사절 휴장에 이어 27일에는 오후 1시에 조기 폐장합니다."
-      },
-      "publishers": [
-        {
-          "name": "YTN",
-          "title": "뉴욕 증시 기술주 중심 하락...엔비디아 4% 이상↓",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03QkJncHllaTFocktnNTNrUlIxblhsRzFiXzhYQTE1V2VkaTBka0hXaFp0Y0Z3YlJtaW93enlNZlJqLXVJNkJFUnVCTEF2S284TGkwZlpQNERFbHlyc1E?oc=5"
+          "title": "트럼프 \"중간선거 전 발표된 3분기 성장률은 가짜\"...추수감사절에도 음모론 제기",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDUURJN3Vya1IwY3dQTVVNZ2RZWlNsbWlFN2tVRHg2Q3BBc1Z0RWR1WjZMcXVCTURpVlJNRTZoRzExVWVYMUJ3QURMMjVheE82ZVVpdV9FMEJKQ21hQ0E?oc=5"
         },
         {
           "name": "연합뉴스",
-          "title": "뉴욕증시, AI 투자 불안에 또 롤러코스터…나스닥 0.6%↓(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261126009851072"
-        },
-        {
-          "name": "KBS 뉴스",
-          "title": "뉴욕증시, AI주 매도 우려에 급락…나스닥 장 초반 4%대↓",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53YkNjUXNJRDV4TWhEc2xOZ0VDTUkzN0NCa2NGeGdpWkZlVE5jeVhsM2tTWkxMMXdpaFFVUEhGUHJsNERxNllYdVdGazAtbkZJTUpPd2hLcGlXUVU?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "뉴욕증시, AI 투자 불안에 연일 롤러코스터‥나스닥 0.6%↓",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iaUNJLUFDNnpfREF5b3dsNDU5S1JOMndkRklqdkZWTWdNMWJJTXg4elRwVFJEcGpXUFZmUkh6Vk9zN2ZmbklGYURSdURkbGxkS2cxd2VVc1YyU3dacG1SVDFCWmNpQzRvTnVjWDVkNjQwc2VK0gF0QVVfeXFMTno0OGliTWNhaTYtUGNTNWZ6ejFRYlpHYjI1OW5GSFRPd2lXSm04ZlgwdFNPUGZRUm9kSmJ3c2Y1by14U3dkMWFraHBWWktnWEg3N2lPMmlld1F1aVpmLWtKUzFpc0tQNG44emtvU3hYb2R4Qm4?oc=5"
-        },
-        {
-          "name": "한국경제",
-          "title": "AI 투자 불안에 극심한 변동장…나스닥 0.6% 하락 [뉴욕증시 브리핑]",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50S1JCaEppTUNGa2FhUW5HZk9EZjVuV0Y0dWJGYnRoSVI4c1hzNlVzMVVycWZEcFBnMVgtdHk5aUk2MkVjZ0F3RmlyNUVqdGZENkNKYi1yY25QZw?oc=5"
+          "title": "트럼프 \"중간선거 전 발표된 3분기 성장률 가짜…즉각 조사를\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261127003351071"
         }
       ],
       "keywords": [
-        "뉴욕증시",
-        "AI투자",
-        "기술주",
-        "개인소비지출",
-        "관세부과"
+        "트럼프",
+        "미국 GDP",
+        "경제성장률",
+        "중간선거",
+        "통계 조작 의혹"
       ],
-      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/26/PRU20261126032101009_P2.jpg"
+      "image_url": "https://img.yna.co.kr/photo/ap/2026/11/24/PAP20261124053601009_P2.jpg"
     },
     {
-      "id": "news-20261126-003",
-      "headline": "S&P, 엔비디아 신용등급 하향 검토…경영·지배구조 리스크 부각",
-      "category": "경제",
+      "id": "news-20261127-002",
+      "headline": "미 동부 강타한 강풍·폭우…항공편 400편 결항 및 55만 가구 정전",
+      "category": "글로벌",
       "categories": [
         "경제",
-        "글로벌",
-        "비즈니스"
+        "글로벌"
       ],
       "summary": {
-        "overview": "국제 신용평가사 스탠더드앤드푸어스(S&P)가 인공지능(AI) 반도체 기업 엔비디아의 신용등급 하향 조정을 검토하고 있다고 경고했다. S&P는 이번 조치의 핵심 배경으로 경영 및 지배구조 평가 항목의 악화를 꼽았다.\n\n이번 경고는 젠슨 황 최고경영자(CEO)의 사임과 복귀 과정에서 노출된 리더십 불확실성에 직접적인 원인이 있다. S&P는 이사회 감독 기능과 승계 절차의 실효성 문제를 중점적으로 지적하며 지배구조 위험도를 높게 평가했다.\n\nAI 붐에 힘입어 실적 호조를 이어가던 엔비디아가 내부 지배구조 리스크라는 악재를 맞닥뜨리면서 자금 조달 비용 증가 우려도 나온다. 시장에서는 엔비디아가 경영 투명성을 빠르게 확보하고 리더십 체계를 정비해야 신용등급 강등을 피할 수 있을 것으로 본다."
+        "overview": "미국 최대 명절인 추수감사절 연휴 기간 미 동부 지역에 폭우와 강풍을 동반한 강력한 폭풍이 몰아쳤습니다. 이번 악천후로 인해 대규모 정전 사태가 발생하고 항공편이 무더기 결항하는 등 현지 피해와 시민 불편이 속출했습니다.\n\n현지 언론에 따르면 폭풍의 여파로 미 동부 일대 55만 곳 이상에서 전력 공급이 중단되었으며, 400편이 넘는 항공편이 결항하거나 지연 운항했습니다. 연휴를 맞아 이동하려던 대규모 귀성객과 여행객의 발이 묶이면서 현지 교통망이 큰 혼잡을 겪었습니다.\n\n기상 당국은 강한 바람과 폭우가 당분간 이어질 수 있다며 안전사고 예방을 강조했습니다. 현지 당국과 전력 회사들은 긴급 비상 대응 체계를 가동하고 전력망 복구 작업에 총력을 기울이고 있습니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "엔비디아 신용등급 강등 검토하는 S&P…“경영·지배구조 평가 악화”",
-          "url": "https://www.mk.co.kr/news/world/12218865"
+          "title": "미 동부 지역 강타한 폭풍…항공편 400편 결항·55만곳 정전",
+          "url": "https://www.mk.co.kr/news/world/12219816"
         },
         {
-          "name": "경향신문",
-          "title": "S&amp;P, ‘젠슨 황 사태’ 콕 집어 엔비디아 신용등급 강등 검토 착수 “이사회 구조 취약성 드러나”",
-          "url": "https://www.khan.co.kr/article/202611260640001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+          "name": "연합뉴스",
+          "title": "美 추수감사절 덮친 폭풍에 55만곳 정전…항공편 수백편 결항(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261127001051072"
         },
-        {
-          "name": "KBS 뉴스",
-          "title": "S&P, 엔비디아 신용등급 강등 경고",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wVmxnV1hFSmlPYWswYkNXNnpGMDF4S0dSNWVIMlhjVlh2dmNEeHdDSHVPMlc1RWRuTmw4akJWREctdGRVa3k5d25waGVpUWRXRVd0RFlpU0xMZms?oc=5"
-        }
-      ],
-      "keywords": [
-        "엔비디아",
-        "S&P",
-        "신용등급 강등",
-        "젠슨 황",
-        "지배구조"
-      ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.13b3ccc376304480ae154abe10e0838d_R.jpg"
-    },
-    {
-      "id": "news-20261126-004",
-      "headline": "미 무역대표 \"트럼프 정부, 젠슨 황 복귀 맞춰 경제와 안보 균형 모색\"",
-      "category": "글로벌",
-      "categories": [
-        "경제",
-        "글로벌",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "미국 무역대표부(USTR)가 젠슨 황 엔비디아 최고경영자(CEO)의 주요 활동 복귀를 두고 도널드 트럼프 정부의 경제 및 안보 균형 정책을 평가했습니다.\n\n이번 발언은 첨단 기술 기업을 둘러싼 대중국 수출 규제와 글로벌 공급망 안정이라는 두 목표를 동시에 다루려는 미국 정부의 정책 기조를 보여줍니다. 트럼프 행정부는 반도체 등 핵심 전략 기술 분야에서 국가 안보를 우선하면서도 미국 기업의 글로벌 경쟁력을 다지는 접근법을 취해왔습니다.\n\n미 무역 당국은 젠슨 황 CEO의 활동이 미국 첨단 산업의 기술 주도권을 지키는 데 힘을 실어준다고 판단했습니다. 앞으로도 미국 정부는 기술 안보를 철저히 관리하면서 기업들의 경제적 실익을 확보하는 정책적 조정을 이어갈 전망입니다."
-      },
-      "publishers": [
         {
           "name": "MBC 뉴스",
-          "title": "미 무역대표, 젠슨 황 복귀에 \"트럼프, 경제·안보 균형 맞춰\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IdW1QWjBSaWJYNFJ5VHVRRnNFaTVueGE3b2VHSDRIanBPQS1tZ3VKS0tobjVyWE1CZnZ4bTZLWmE2VlVmamc0Wi12R2RCQ054UzVFY09PZk5lZjRQcDNwUHI0b0w5TnNsUHRmcXJ3bHhsM3Vz0gF0QVVfeXFMTndWXzlVakw3SXkyNmM0TGxGTC1ObHhfMkVoR3JSOXRObWVHd0lqTzl1cF9CTXBmT01rRVFQRE84T051TW5yekJzVU9aa0lJRy1Rbjc2OVhTMHpBQV9WQmp6YTJFNkxnNVRpSnFySlR5YlBVZEE?oc=5"
+          "title": "미 추수감사절 덮친 폭풍에 30만곳 정전‥항공편 수백편 결항",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zcWs4U0E4SU41UVUtNEExb0VGZ3hSdFRSUU96QzB3d3ViMjl0b01CRmd4S3JialNGdjA5Q0xtaF9yMTZmSjd3eV80b0tYRTh2aktGVFRqOUMxeWo3NWRROUludWtUT1FSM3JSdlEtYnhKc2JH0gF0QVVfeXFMUGUyMDBueExMWmRJeFYxM2RPZTBJaXZueWVpSEJpdnZIelE1cm43dXMyMjZqUlFBYmxNS3JvalBtYzI1LXY4UThYZkxVWl8xcnhUUmhLNUNqYnJRWlMzOF9ISWljQ2RBM25hNEdKdXI3WXFiWXI?oc=5"
         },
         {
-          "name": "YTN",
-          "title": "미국 무역 대표, 젠슨 황 복귀에 \"트럼프, 경제·안보 균형 맞춰\"",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OVTRJdUFPMlFEN0tFMHBTSEx0bkRVaGxseWlIOTY2Ui1mc0VGRmVVZ1NHVDUzempyd2liUDEzVFFTU1pSb0h0bUVOUElEV2dmYkdWZFc2NTF6VEswRXltZFZwU05tT1h0M3RXY01RZHJGanp6Q0E?oc=5"
+          "name": "MBC 뉴스",
+          "title": "미 추수감사절 폭풍‥30만곳 정전·수백편 결항",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYUTFSTl9CaFJHZW85WmtZcHJBTGczVzFYOVppMVRXZFItdUZwU3lfN2ZvRnlLVVRjUFJUZlZCQ090REdCTmxnTW5sTGp0VUwwUm8zQzgyeW0wZWl5Y2RfXy04WDVxRGlsOHg1N3VQd3hfNUNxWFAwVmpR0gF6QVVfeXFMT1RuS2IxYTdDYXRTakVXUF9mUDMwbk15YVJrYl9vandibUpSRGZtQnhzNEhNdE85aTNaTVFxWkp3OWZxTFo3VTE3X1BiZzlxTU1sangycTRkZi1NMmxGNGRHVlQwY1J5aFdZdy1oQ0pYU1RZeXBldnlFM1E?oc=5"
         }
       ],
       "keywords": [
-        "미 무역대표부",
-        "젠슨 황",
-        "도널드 트럼프",
-        "경제 안보",
-        "반도체 정책"
+        "미국 폭풍",
+        "추수감사절",
+        "항공편 결항",
+        "대규모 정전",
+        "미 동부 악천후"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261126-004/600/400"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/27/news-p.v1.20261127.aa7cc8353c9d424b8a3885c7df800fbe_R.png"
     },
     {
-      "id": "news-20261126-005",
-      "headline": "미국 3분기 GDP 성장률 잠정치 4.3% 기록…3년 만에 최고치",
+      "id": "news-20261127-003",
+      "headline": "미국 새 관세 시행 시 평균관세율 13.9% 기록…상호관세 무효화 전 수준 회귀",
       "category": "경제",
       "categories": [
         "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "미국의 올해 3분기 실질 국내총생산(GDP) 성장률 잠정치가 연율 4.3%로 집계되었습니다. 이는 최근 3년 만에 기록한 가장 높은 성적표로, 미국 경제가 견고한 성장세를 지속하고 있음을 보여줍니다. 시장 예상을 상회하는 이번 수치는 견조한 개인 소비 지출과 민간 부문의 투자가 성장을 이끈 결과로 풀이됩니다.\n\n고금리 환경과 물가 상승 압박 속에서도 미국 거시 경제가 뚜렷한 회복력을 증명하면서 경제 연착륙에 대한 기대가 커지고 있습니다. 다른 주요국들의 경기 둔화 흐름과 대비되는 강력한 성장세는 글로벌 금융시장에서 눈길을 끌고 있습니다. 이에 따라 향후 미 연방준비제도(Fed)의 기준금리 향방과 통화정책 행보에 어떤 변화가 생길지 시장의 관심이 집중되고 있습니다."
+        "overview": "미국이 새로운 관세 정책을 시행할 경우 평균관세율이 13.9%까지 치솟을 것이라는 전망이 나왔습니다.\n\n이는 과거 상호관세 조치가 무효화되기 이전의 높은 수준으로 다시 돌아가는 셈입니다.\n\n미국 정부가 수입 품목 전반에 걸쳐 관세 장벽을 대폭 올리는 방안을 추진하면서 글로벌 교역 환경의 불확실성이 극대화되고 있습니다.\n\n새로운 관세율이 실제 적용되면 미 국경을 넘는 주요 수입품 가격이 대폭 올라 공급망 전반에 큰 파장을 불러올 수 있습니다.\n\n한국을 비롯한 주요 수출국들은 미국의 관세 인상 여파에 따른 무역 차질과 시장 변동성 확대에 선제 대응해야 하는 과제를 안게 됐습니다."
       },
       "publishers": [
         {
-          "name": "YTN",
-          "title": "미국 3분기 성장률 잠정치 4.3%...3년 만에 최고치",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TWnNEUTZBZUJIX2ZpRVJ3dVlNT0dvZk5Fc3VLZkRQTWdVUFNfSnZMOXZreVlSSVZLREZXbmYzZXNwaDd3WTBlUlo0eXU3Z2h6WTlKaXlWbzl3R1BNUE5iaG15S1lDSldoMURQOHhIT3VvQ0lZRFE?oc=5"
+          "name": "KBS 뉴스",
+          "title": "미국 새 관세 시행땐 평균관세율 13.9%…상호관세 무효화 전으로",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZEF6TGNlbGpYVHRSV3dkM0V6U3dZQVhKc01nRjF5MGlEWDNQN2trV2hyMjIxMERCWjh1R21mNUVob183TUhORExIc0pjMU9vMVFQamtRX2dvYkU?oc=5"
         },
         {
-          "name": "YTN",
-          "title": "미국 3분기 성장률 잠정치 4.3%...\"투자·지출 탄탄\"",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yeFI3Umd0cEdXS2dlc2xUc21CUlJpS2NlVEpkT0RIb1d4d3RYY0RwaWFKb2ZMVFQ3OWxyYnVZaV9OVUNMMmd0eXhMVExyb2pBakE5YXVmNDN2T2VNSzhRNzFUZE9qWk1naTk0b0owSl9XaXV4eFE?oc=5"
+          "name": "KBS 뉴스",
+          "title": "미국 과잉생산 관세에 중국 반발…미중 무역휴전 다시 ‘시험대’",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySXpDUWcyNUhpbk9VWG15TVE4LWR4MEhJY2pYdEtZcHRvYkNoVjF2RkZ5dEdaRG53YUlMaUFWYmF1cldBSjcxbnRDQ2RoczdzWVpqTXYyaHczZk0?oc=5"
         }
       ],
       "keywords": [
-        "미국 경제",
-        "GDP 성장률",
-        "3분기 잠정치",
-        "최고치",
-        "연방준비제도"
+        "미국 관세",
+        "평균관세율",
+        "상호관세",
+        "글로벌 무역",
+        "수입 관세"
       ],
-      "image_url": "https://picsum.photos/seed/news-20261126-005/600/400"
+      "image_url": "https://picsum.photos/seed/news-20261127-003/600/400"
     },
     {
-      "id": "news-20261126-006",
-      "headline": "홍해 해상 물류 불안 속 에티오피아와 에리트레아의 지정학적 갈등 재조명",
+      "id": "news-20261127-004",
+      "headline": "엔비디아 판매상, 중국에 AI 칩 1%라도 임대 시 공급 중단 강경 조치",
+      "category": "IT/과학",
+      "categories": [
+        "경제",
+        "글로벌",
+        "IT/과학",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "엔비디아 제품을 유통하는 판매상들이 중국에 대한 AI 반도체 유출을 막기 위해 강경한 제재 방안을 마련했습니다. 중국 기업이나 관련 주체에 반도체 자원의 1%라도 임대하거나 대여한 정황이 포착되면 해당 업체에 칩 공급을 즉각 중단하겠다는 방침입니다.\n\n이번 결정은 미국 정부의 대중국 반도체 수출 통제를 회피하려는 편법을 차단하기 위한 조치로 풀이됩니다. 그동안 직접 구매가 막힌 중국 기업들이 제3국 클라우드 서비스나 대여 방식을 활용해 첨단 AI 칩에 접근하려는 시도가 지속되어 왔습니다.\n\n유통망 차원에서 우회 임대 경로까지 전면 통제함에 따라 첨단 반도체를 둘러싼 대중국 봉쇄망은 한층 더 강화될 것으로 보입니다. 이번 강경 방침은 글로벌 클라우드 서비스 제공업체와 반도체 유통 시장 전반에 직간접적인 영향을 미치고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "“중국에 1%라도 임대하면 칩 못팔아”…엔비디아 판매상 강경방침",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04LU5yQW42Q0JIQzZ2RVhLb2lUTXJmY0FZODcwWUppRGdhUDY2TXlFMndqdmw4QUFyNEplWnN2RkpSSWFfNnRabEFTcDFEOWlnYVhUSW5KYjZ4SVE?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "엔비디아 \"중국에 1%라도 임대하면 칩 공급 안 해\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81cWk0MEtvakdxN29tbUxpbkNiRVgzUHNjeWRpSDByV1BubTMyd2dmX0NFdXA0YTZWdXdycEpZcmJLNGxKaEVPa2VCNFRUb3JURHV1RjIybVBmQU56SGc?oc=5"
+        }
+      ],
+      "keywords": [
+        "엔비디아",
+        "AI 반도체",
+        "중국 수출 규제",
+        "칩 임대 금지",
+        "반도체 유통망"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261127-004/600/400"
+    },
+    {
+      "id": "news-20261127-005",
+      "headline": "쿠웨이트 드론 공격으로 2명 사망…조현, 이란 외무와 긴급 통화",
       "category": "글로벌",
       "categories": [
         "경제",
         "글로벌"
       ],
       "summary": {
-        "overview": "홍해는 유럽과 아시아를 연결하며 전 세계 해상 물동량의 약 15%를 처리하는 핵심 해상 항로입니다. 최근 예멘 후티 반군의 드론 및 미사일 공격으로 아라비아 반도의 안보 불안이 커지면서 이 해역의 긴장이 극에 달하고 있습니다.\n\n이러한 상황에서 홍해 맞은편 아프리카의 뿔 지역에 위치한 에티오피아와 에리트레아 간의 역사적 갈등도 해상 안보의 또 다른 불안 요소로 떠올랐습니다. 에리트레아가 1993년 독립하면서 해안선과 항구를 확보한 반면, 에티오피아는 아프리카 최대 내륙국으로 전락해 이웃국 지부티 항구에 무역을 의존해 왔습니다.\n\n양국은 과거 7만 명 이상의 사망자를 낸 국경 전쟁 이후 장기간 교착 상태를 유지했습니다. 2018년 에티오피아 아비 아머드 총리가 집권하면서 에리트레아와의 관계 개선을 시도하고 항구 접근권을 모색하는 등 지역 안보 지형에 변화의 바람이 불고 있습니다."
+        "overview": "쿠웨이트에서 드론을 이용한 공격이 발생해 2명이 목숨을 잃었습니다. 중동 지역 내 군사적 긴장이 다시금 고조되면서 현지 안보 상황에 대한 우려가 커지고 있습니다.\n\n사태의 엄중함을 인식한 조현 외교 당국자는 이란 외무 당국과 긴급 전화 통화를 진행했습니다. 양측은 이번 드론 공격에 대한 정세 평가와 함께 중동 지역의 안정 회복 방안을 논의했습니다.\n\n외교부는 현지 체류 중인 우리 국민의 안전 상태를 점검하며 신속한 대응 체계를 유지하고 있습니다. 중동 정세의 확전을 막기 위한 외교적 노력도 이어질 것으로 보입니다."
       },
       "publishers": [
         {
-          "name": "연합뉴스",
-          "title": "[우분투칼럼] 에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
-          "url": "https://www.yna.co.kr/view/AKR20261124123800898"
+          "name": "KBS 뉴스",
+          "title": "쿠웨이트서 드론 공격에 2명 사망…조현, 이란 외무와 통화",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Td0hRRlFwd0xyalkxcFZMRWdHYWxBOW1UR2IyOC1jYjRRN2lNUnJEcUdzT1lkazVXR0JTX1lERnBPT2theldMZjl2SThJX3U1RU11RFlYYVNWVXoxX1k4cXlFS0pNdw?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "\"쿠웨이트서 이란 드론 공격에 이탈리아인 2명 사망\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14Ym92bWZycWFxMHUxdmh1bFdTYWpQajgzRTNVVHN3RF9DS3ZqeW1TNFY5UFdUYWJBcEZuUHVDNjFEV2tjZC1IWXl0SFc0REd4eXFJU2dvbVpYX25HZ093c1QtUnJPSTAtUDdEQlR6QnVnTTRr0gF0QVVfeXFMT0RyME1US29XQVpwVG45NmJZenpXNUhkdnJNYm8zNUVVd2trNUtvY1ZOVjZ3dUx0aVVyUHBMLVV2RnZvcEZKY3doU013V084a3hzMzlwdjREMmFyZEVvelN6UGNTcUVaUUI0cEYxWTVjcGJMdm8?oc=5"
+        },
+        {
+          "name": "MBC 뉴스",
+          "title": "이란 외무, 조현과 통화서 \"외국군 주둔은 분쟁 범위 확대\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TVEhXWWZiSW5DSHlOVE00SFdzbG9qelEtdGNjOVZkOHotUTV2dTJzQ1VUbHpQbDUwd29BUF9malJCMUNWUGNUTEZaeEdnNlFRNlI2eUFkUndSQjB1dTJrQmVzUkN5VXAwMlUtWmxKVkJqT2gw0gF0QVVfeXFMUDFPRm1oRG9yYlI3SWdrRzRkTXVhNWhQR3FISFBQT0dWd2x0NGxOcy1BU2FNMjZRUTE0dGR2cU5RQzlwTmx0c19VQTJHSUc1eHdqN1o1SURxZ3N3aHBSaHhnWHpDZEhRSkljVjB4Q2c2MWdTMTU?oc=5"
         }
       ],
       "keywords": [
-        "홍해",
-        "에티오피아",
-        "에리트레아",
-        "해상 물류",
-        "아프리카의 뿔"
+        "쿠웨이트",
+        "드론 공격",
+        "이란 외무",
+        "조현",
+        "중동 정세"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124123800898_01_i_P2.jpg"
+      "image_url": "https://picsum.photos/seed/news-20261127-005/600/400"
     },
     {
-      "id": "news-20261126-007",
-      "headline": "빗썸 3분기 가상자산 처분손실 690억원…매출액 웃돌며 작년의 86배",
+      "id": "news-20261127-006",
+      "headline": "한국은행, 내년 성장률 전망 4.1%로 대폭 상향… 기준금리 3.25%로 인상",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "한국은행이 반도체 수출 호조를 반영해 내년 한국 경제 성장률 전망치를 기존 2.9%에서 4.1%로 1.2%포인트 대폭 상향 조정했습니다. 이번 전망이 실현된다면 2021년 이후 6년 만에 가장 높은 성장률을 기록하게 됩니다. 올해 성장률 전망치 또한 기존 3.3%에서 3.9%로 함께 올렸습니다.\n\n성장률 전망 상향과 함께 한은은 반도체 기업의 실적 개선이 성과급과 배당 확대로 이어져 시중 물가를 자극할 위험에 주목했습니다. 이에 따라 금융통화위원회는 올해 마지막 회의에서 기준금리를 연 3.0%에서 3.25%로 0.25%포인트 인상하기로 결정했습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "한은 기준금리 인상‥성장률 전망 대폭 상향",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1odHM5Y0V4TzdLLS1qUUkzVzBqSm1heF9XNkhWandBZ0VFelVCXy1QQ0dtcExZeGEwVjVWM3dTZ19FcjJTbTVGUWstaW9RNzhJd3J0bzRjbGo2c2E1S3g5MVVWcFVqLVFRX1ZGc0R1Slowb1pFQnZEYWpB0gF6QVVfeXFMTXF4VWZVSFhNVEJKQzR0MjBxLUxsSFhpVGtaUDRBekwwcGhrazdtYkRfV3BoNzkwWFZaQWJFUm1kT19Pd01FRDlLQzlpRk1ZZW1OSDRpRXFOd0lXajNIdERGVTBoMGRhSmlEUDRhTDRDVU1vS3VkTmUwVFE?oc=5"
+        },
+        {
+          "name": "동아일보",
+          "title": "“내년 성장률 2.9→4.1%” 한은, 전망치 대폭 올려",
+          "url": "https://www.donga.com/news/Economy/article/all/20261127/135099715/2"
+        }
+      ],
+      "keywords": [
+        "한국은행",
+        "경제성장률",
+        "기준금리",
+        "반도체 수출"
+      ],
+      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/27/135100111.1.jpg"
+    },
+    {
+      "id": "news-20261127-007",
+      "headline": "차기 유럽중앙은행 총재에 통화완화 선호하는 스페인 데코스 거론",
+      "category": "글로벌",
+      "categories": [
+        "글로벌",
+        "비즈니스",
+        "경제"
+      ],
+      "summary": {
+        "overview": "차기 유럽중앙은행(ECB) 총재 자리에 온건한 통화정책을 선호하는 '비둘기파' 인물인 파블로 에르난데스 데코스 스페인 중앙은행 총재가 이름을 올렸습니다. 데코스 총재는 그동안 유로존 내 경기 침체 우려에 대응해 유연한 금리 정책과 경기 부양의 필요성을 강조해 온 인물입니다.\n\n이번 인선은 유럽 전역의 물가 상승세와 경기 둔화가 동시에 이어지는 상황에서 향후 통화정책 방향을 결정짓는 분수령이 될 것으로 보입니다. 시장에서는 비둘기파 성향의 총재가 선출될 경우 기준금리 인하 시점이 앞당겨지거나 완화적 금융 환경이 지속될 가능성에 무게를 두고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "차기 유럽중앙은행 총재에 '비둘기파' 스페인 데코스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrOUM5M2M1dDB1clpCTUliVEZuUzFfdzl6MFhZTWd0ckU5TmNOT3ZTODZPQ0I5RXdqWm16dWFBOVVZdHJBY3RQeDVGRU92akNpU0FCcFBBbjNzWXFsX3RiTmZYMEdmTUo0OEdRcURtM29fQ2ht0gF0QVVfeXFMUGlySFhQZ0lmemxTWWNabmV0ZmZuYzFCT1Z3aE9iQUpibTJDYTE2TnVhT2VTYUVSNEVucEZ0b0EtZVNEWHFIdmJ4bVo0YndKNDRURGhtclR2QVJFUUdabGUwN056RExTY1p6bVliNE83MEJ1RHA?oc=5"
+        },
+        {
+          "name": "YTN",
+          "title": "차기 ECB 총재에 '비둘기파' 스페인 데코스 내정",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56b1RxdGh0SkNNTGlIWENyNzYzVHMydWQ1NG43OGZVVTJxOUZZVmREY1piMldIX3JQWEtySk5jVGd5WUlKcnJncl9FWXNIOGJweXhIREEtN2dlTnZHeHc?oc=5"
+        }
+      ],
+      "keywords": [
+        "유럽중앙은행",
+        "ECB",
+        "데코스",
+        "비둘기파",
+        "통화정책"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261127-007/600/400"
+    },
+    {
+      "id": "news-20261127-008",
+      "headline": "토익·텝스 대리시험 및 성적표 위조 횡행…시험 당국 보안 감시 대폭 강화",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "가상자산 거래소 빗썸의 올해 3분기 자체 취득 가상자산 처분손실이 690억 원을 기록하며 작년 동기 대비 86배 급증했습니다. 이는 같은 기간 빗썸이 거둔 매출액 594억 원을 넘어서는 규모입니다.\n\n금융감독원 전자공시에 따르면 3분기 빗썸의 자체 취득 가상자산 처분가액은 2조 5천61억 원으로 집계됐습니다. 비트코인, 이더리움, 테더, 솔라나 등의 처분 과정에서 손실이 났으며, 이 중 비트코인 3천666개를 처분해 발생한 손실이 304억 원으로 단일 종목 가운데 가장 컸습니다.\n\n빗썸 측은 이번 손실의 배경으로 가상자산 대여(렌딩) 서비스와 고객 이벤트 지급, 전산망 수수료 등을 꼽았습니다. 렌딩 서비스 이용 과정에서 고객에게 가상자산을 일시 빌려주는 행위가 회계상 처분으로 집계돼 시점별 단가 차이에 따른 장부상 손익이 발생했다고 설명했습니다."
+        "overview": "토익(TOEIC)과 텝스(TEPS) 등 주요 어학 시험에서 대리 시험과 성적표 위조, 스마트 기기를 악용한 부정행위 시도가 이어지고 있습니다. 텔레그램 등 메신저상에서는 400만 원에서 650만 원 상당의 대가를 받고 대리 응시를 진행하거나 가상자산을 받고 성적표를 조작해 주는 불법 업체들이 영업을 이어가고 있습니다.\n\n이들 업체는 대리 응시를 구실로 신분증 사진을 요구하고 있어 개인정보 유출에 따른 2차 범죄 피해 우려도 높습니다. 현장 감독관들 역시 사진과 실물을 대조하는 절차가 형식에 그쳐 비슷한 외모의 대리 응시자를 가려내기 힘들다고 증언합니다.\n\n부정행위 우려가 확산하자 시험 주관 기관들은 방지 대책을 긴급 마련했습니다. 한국TOEIC위원회와 텝스관리위원회는 수험생 안경 전수 검사, 보안 씰 부착, 모자 착용 금지, 금속 및 전파 탐지기 도입, 고사장당 수험생 수 축소 등을 시행하며 감독 체계를 강화했습니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "빗썸, 3분기 가상자산 처분손실 690억원…작년 동기 86배",
-          "url": "https://www.yna.co.kr/view/AKR20261125165200002"
+          "title": "토익점수 은밀한 제안…\"650만원 주면 원하는 점수대로\"",
+          "url": "https://www.yna.co.kr/view/AKR20261126181200004"
         }
       ],
       "keywords": [
-        "빗썸",
-        "가상자산",
-        "처분손실",
-        "렌딩 서비스",
-        "비트코인"
+        "토익 부정행위",
+        "대리시험",
+        "성적표 위조",
+        "스마트 안경",
+        "시험감독 강화"
       ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110514540001300_P2.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126181200004_05_i_P2.jpg"
     },
     {
-      "id": "news-20261126-008",
-      "headline": "반려동물용품도 집 앞 편의점에서…전용 매대 확대에 매출 증가세",
+      "id": "news-20261127-009",
+      "headline": "서울시 120다산콜재단, 해외에 행정민원 노하우 전파…이란 '128콜센터' 설립 결실",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "서울시 120다산콜재단이 그동안 축적한 민원 상담 운영 노하우를 해외 국가에 적극 전파하고 있습니다. 2023년부터 최근까지 몽골, 베트남, 태국, 튀니지 등 다양한 국가의 주요 기관 및 관계자들이 재단을 찾아 선진 행정 상담 체계를 살펴봤습니다.\n\n특히 이란은 다산콜센터의 운영 방식을 벤치마킹해 행정민원 전담 기관인 '128콜센터'를 현지에 설립했습니다. 민원 접수부터 담당 기관의 조치 결과 안내까지 한 번에 이어지는 원스톱 처리 모델을 도입한 사례입니다. 최근 방문한 튀니지 고위 관계자들 역시 상담 데이터를 분석해 실제 정책 개선으로 연결하는 운영 사례를 수집해 갔습니다.\n\n재단은 국내 거주 외국인을 위한 다국어 상담 서비스도 함께 강화하고 있습니다. 기존 5개 언어로 제공하던 행정·생활 정보 안내에 더해 최근에는 영어 문자 상담까지 영역을 넓혔습니다. 서울시는 시민과 외국인 모두가 단 한 번의 연락으로 필요한 행정 지원을 받을 수 있도록 상담 시스템을 계속 고도화할 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "서울 다산콜센터 해외서도 벤치마킹…이란에 '128콜센터' 설립",
+          "url": "https://www.yna.co.kr/view/AKR20261126165300004"
+        }
+      ],
+      "keywords": [
+        "120다산콜재단",
+        "다산콜센터",
+        "이란 128콜센터",
+        "행정민원",
+        "해외 벤치마킹"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126165300004_01_i_P2.jpg"
+    },
+    {
+      "id": "news-20261127-010",
+      "headline": "올해 3분기 누적 국내은행 이자이익 48.4조원…대출 늘어 당기순이익 21.5조원",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "비즈니스"
+      ],
+      "summary": {
+        "overview": "올해 3분기까지 국내 은행의 누적 당기순이익이 대출 확대 영향으로 작년 동기보다 2.1% 증가한 21조 5천억 원을 기록했습니다.\n\n시장금리 상승과 대출채권 등 이자수익자산이 늘어나면서 이자이익은 전년 동기 대비 8.2% 증가한 48조 4천억 원으로 집계됐습니다. 반면 시장금리 상승 여파로 유가증권 평가손실이 커지면서 비이자이익은 5조 9천억 원으로 12.9% 감소했습니다.\n\n판매관리비와 대손비용은 각각 21조 7천억 원과 4조 9천억 원으로 소폭 증가했습니다. 은행 유형별로는 시중은행과 인터넷은행의 순이익이 늘어난 반면, 지방은행과 특수은행은 감소세를 보였습니다.\n\n금융감독원은 연체율 상승과 고금리 기조, 대외 불확실성에 대응해 은행권에 충당금 적립 등 손실흡수능력을 강화하고 서민과 취약계층 지원을 확대하도록 유도할 방침입니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "대출 늘고 금리 오르며…은행 3분기까지 이자이익 48조원 넘어",
+          "url": "https://www.yna.co.kr/view/AKR20261126177900002"
+        },
+        {
+          "name": "연합뉴스",
+          "title": "3분기 보험사 대출잔액 2.1조원 줄어…연체율·부실채권비율↑",
+          "url": "https://www.yna.co.kr/view/AKR20261126188100002"
+        }
+      ],
+      "keywords": [
+        "국내은행",
+        "이자이익",
+        "당기순이익",
+        "금융감독원",
+        "순이자마진"
+      ],
+      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112613790001300_P2.jpg"
+    },
+    {
+      "id": "news-20261127-011",
+      "headline": "65세 정년 연장 추진 본격화…청년 고용 위축 및 세대 갈등 논란 확산",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "정부와 정치권을 중심으로 현행 60세인 법정 정년을 65세로 연장하는 논의가 본격화하면서 사회적 찬반 논쟁이 뜨거워지고 있습니다. 정년 연장은 초고령사회 진입에 맞춰 고령층의 소득 공백을 메우고 노동력 부족 문제를 완화할 수 있다는 점에서 필요성이 제기됩니다.\n\n반면 기업의 인건비 부담이 가중되고 청년층의 신규 채용 문호가 좁아질 수 있다는 우려도 팽팽하게 맞서고 있습니다. 고령층의 정년 연장이 청년 일자리를 감소시키는 '세대 간 일자리 경합'으로 이어질 수 있다는 지적입니다.\n\n전문가들은 단순한 정년 연장에 그치지 않고 임금체계 개편과 청년 고용 지원책을 함께 마련해야 한다고 입을 모읍니다. 노동 시장의 개혁 없는 정년 연장은 세대 갈등을 심화시킬 수 있는 만큼 지속 가능한 고용 체계 구축을 위한 사회적 대타협이 시급합니다."
+      },
+      "publishers": [
+        {
+          "name": "KBS 뉴스",
+          "title": "“아빠는 출근, 아들은 백수?”…‘65세 정년 연장’ 추진 논란 [잇슈 머니]",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04Zm5lOHhhRDN4MW5EaHRDUWdUNkprWjEyT0RsSklSSGV1SWxHRmhYZzROc3A3SmJEWU9UZ1FURGF3MHVZTC1hRWhQc2hHT1o4MDRuS1VVMWpIOGh3bkFHSUtVaF9WZw?oc=5"
+        }
+      ],
+      "keywords": [
+        "정년 연장",
+        "65세 정년",
+        "청년 고용",
+        "노동 시장",
+        "세대 갈등"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261127-011/600/400"
+    },
+    {
+      "id": "news-20261127-012",
+      "headline": "관세 무효화 전 수준 재인상 논란 및 경제지표 신뢰성 의혹 제기",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "관세 조치를 무효화하기 이전 수준으로 다시 인상하려는 움직임이 나타나는 가운데, 주요 경제 통계의 신뢰성을 둘러싼 파장이 확산되고 있습니다.\n\n발표되는 각종 경제지표가 실제 시장 상황을 반영하지 못하고 왜곡되었다는 주장이 나오면서 경제 주체들의 불안감이 커지는 모습입니다.\n\n정책 당국의 통계 발표에 대한 불신과 더불어 관세 정책의 급변 가능성이 맞물려 향후 시장 혼란이 지속될 수 있다는 우려가 나옵니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "\"무효화 전 수준으로 인상\"‥\"경제지표 가짜\"",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GQ000VXlTZ1kyc2Z5MnVNMnJxMGVSTmNCaDhodnRqVFpXZDh0ZllvQnRHNjlPMzJicmNjVjNSWWU2TG9LVE5UakhPdkI2LVd5SGZmUDgySjZlY05WV1liSk43T2NmSV9RSHhldHJPdTZrMVd4ZWFSS2930gF6QVVfeXFMTWVoc2p4b05HU2h2cHpWMU56Sm90SlhDSkY0eDYzNFRIQzdXZlN4TEEwaUhPaFZvX2FpRDdMd0RaMFphXzNWSHpXMm9FcHNvSEVTV0dEd0tqaS1NRmZsUEd3b1NhSzkzcVByZDI5bmVGLW5PZVFZU0IyaHc?oc=5"
+        }
+      ],
+      "keywords": [
+        "관세 인상",
+        "경제지표",
+        "통계 신뢰성",
+        "글로벌 경제"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261127-012/600/400"
+    },
+    {
+      "id": "news-20261127-013",
+      "headline": "유가 하락세 속에 호르무즈 해협 통제 강화하며 주변국 공격 감행",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "국제 유가가 하락세를 보이자 호르무즈 해협을 둘러싼 해상 통제의 고삐를 더욱 죄는 움직임이 나타나고 있습니다.\n\n해당 수송로 일대의 긴장이 고조되는 가운데 주변국을 겨냥한 공격까지 이어지면서 지역 안보 불안이 증폭되는 양상입니다.\n\n원유 수송의 핵심 요충지에서 발생하는 군사적 마찰은 글로벌 에너지 공급망에 직접적인 압박을 가하고 있습니다.\n\n해상 통제 강화와 교전 상황이 맞물리면서 국제 원유 시장의 불확실성 역시 한층 커지고 있습니다.\n\n주요 관련국들의 강경한 대응이 이어짐에 따라 해상 물류 안전과 원유 수송로의 안정성을 확보하는 일이 시급한 과제로 떠올랐습니다."
+      },
+      "publishers": [
+        {
+          "name": "MBC 뉴스",
+          "title": "유가 하락에 호르무즈 통제 고삐‥주변국 공격도",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tSVo3X3I3SFVRWFFod0ZUal9EYnBRcDF2SmExNVVEQUhfa3YxeU1TdzlUUkc5QTFnY2Z5dC0zMFFwb2laTzJ2Ni11Z2FNWDFkaG9ydi1GQVhVeExkVVQ1RDBnSndISU1ZbVBkWUVLZzF0V2JYV3h1UmlB0gF6QVVfeXFMT0pKbmpMN0NXaG9BVUdDWS1JdG1VUjlNM2Z6VVBlYk4wajQ3YWlKUkpOcms0WDVNZW91VGxkVmw5YVh3VGZiQXdsNWJEN1RrbzJQVjRGdGxfRnhyXzR1Mk1lRE51X18ybThEMkl1SXAtdkpacmZSLVFsYUE?oc=5"
+        }
+      ],
+      "keywords": [
+        "유가 하락",
+        "호르무즈 해협",
+        "해상 통제",
+        "중동 정세",
+        "에너지 공급망"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261127-013/600/400"
+    },
+    {
+      "id": "news-20261127-014",
+      "headline": "경제난 직면한 쿠바, 에너지·금융 등 2.7조 원 규모 외국인 투자 전격 승인",
+      "category": "글로벌",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국의 제재 강화와 심각한 물자 부족으로 경제난을 겪는 쿠바 정부가 대규모 외국인 투자 승인 카드를 꺼내 들었습니다.\n\n쿠바 정부는 총 2.7조 원 규모의 외국인 투자 프로젝트를 승인하고, 그동안 국가가 엄격히 통제해 온 에너지와 금융 산업 분야의 문호를 대폭 개방하기로 했습니다.\n\n트럼프 행정부 시절부터 강화된 미국의 경제 제재로 심각한 외화 부족과 에너지 위기를 겪어온 쿠바가 파격적인 시장 개방을 통해 돌파구를 마련하려는 취지입니다.\n\n쿠바는 이번 조치로 자국 내 고질적인 전력난을 해소하는 동시에 금융 분야의 대외 접근성을 넓혀 외화 유입을 다각도로 촉진할 계획입니다.\n\n국가 주도 경제 체제를 고수하던 쿠바가 핵심 기반 산업까지 외부에 개방함에 따라 실제 글로벌 자본 유입과 경제 회복 효과를 거둘 수 있을지 실효성을 둘러싼 평가가 이어지고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "'트럼프 등쌀'에 경제난 직면한 쿠바, 2.7조 원 규모 외국인 투자 승인...에너지·금융 개방",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uelJSRGZkN2tTNUFIMDlkYWJJeE1RQUE2djZTZ3lMbHFSZlBnUFVmdjdNOFNqNlFtMEFObkdyaGF0M1ZaTUNZdGQ1Mk14MkhuV01NRUtNSmczZXNuM2c?oc=5"
+        }
+      ],
+      "keywords": [
+        "쿠바",
+        "외국인 투자",
+        "에너지 개방",
+        "금융 개방",
+        "경제 제재"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261127-014/600/400"
+    },
+    {
+      "id": "news-20261127-015",
+      "headline": "온두라스, 엘니뇨·유가 상승 악재에 물가 6.98% 급등…중미 상승률 1위",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "한국과 자유무역협정(FTA)을 체결한 온두라스의 물가 상승률이 6.98%까지 치솟았습니다.\n\n엘니뇨 현상으로 인한 이상 기후와 국제 유가 상승 등 여러 악재가 동시에 작용하며 물가를 빠르게 끌어올렸습니다. 이번 상승률은 중미 국가들 가운데 가장 높은 수치로, 인근 코스타리카와 비교해 약 12배에 달하는 높은 수준입니다.\n\n기후 변화에 따른 생산 타격과 원자재 비용 상승이 현지 경제 전반을 압박하는 상황입니다. 3중고 악재 속에서 고물가 흐름이 이어져 현지 민생 경제의 부담이 가중되고 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "YTN",
+          "title": "한국과 FTA 체결한 온두라스, 엘니뇨·유가 등 3중고에 물가 6.98% 치솟으며 중미 국가 중 물가 상승률 1위...코스타리카의 12배",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04OVNDcEJrLTVvM0tmZXVYUmR2eHNMam5SRnF5SzRpRFRTTWJjdkdwOWxFQ010eHhCcUh4ZVRkUEpmclB0ZnZfRmszUzZLNXpsSmlYOVAzT2gwSlJwZXc?oc=5"
+        }
+      ],
+      "keywords": [
+        "온두라스",
+        "물가상승률",
+        "엘니뇨",
+        "중미경제",
+        "유가상승"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261127-015/600/400"
+    },
+    {
+      "id": "news-20261127-016",
+      "headline": "RTX 4070과 RTX 2070 Super 결합으로 4K 해상도 5배 무손실 프레임 생성 실현",
+      "category": "IT/과학",
+      "categories": [
+        "IT/과학"
+      ],
+      "summary": {
+        "overview": "RTX 4070과 RTX 2070 Super 그래픽 카드를 동시에 활용해 고해상도 환경에서 작업 효율을 극대화하는 실험 결과가 공개되었습니다. 이번 시도는 듀얼 GPU 구성을 적용해 4K 해상도에서 최대 5배 수준의 무손실 스케일링 프레임을 생성하는 데 성공했습니다.\n\n서로 다른 세대의 그래픽 카드를 조합하여 화질 손실 없이 고성능 그래픽 처리를 구현한 점에서 기술적 의미가 큽니다. 고해상도 스케일링 과정에서 발생하는 성능 저하 문제를 보완하고 4K 해상도에서도 안정적인 프레임 출력을 지원합니다.\n\n고사양 렌더링이나 게임 환경에서 기존 하드웨어를 효율적으로 재활용할 수 있는 방안을 제시합니다. 이러한 듀얼 GPU 기반 프레임 생성 기법이 향후 그래픽 자원 활용 방식을 더욱 다양하게 확장할 것으로 보입니다."
+      },
+      "publishers": [
+        {
+          "name": "GameGPU",
+          "title": "RTX 4070과 RTX 2070 Super를 결합하여 4K 해상도에서 5배 무손실 스케일링 프레임을 생성합니다.",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVFoyZlVFc1pKUVVaYkV5bjJqV0xxcm8wNUpMLXNxVGhfNnZyNWp5cXg4Q2N6Sl9FTW5ma05kLUpHYTdRWHRoTExHMFczTmtCOW5td1lSS09kR0daWTVYM1Q0RTBMcnJRVXN6bnh2ekg1YkUtbEVzVWxfRnFQRnBOZ19kc3JOX242YzRxLW43RVRXWUMwUkxxd1ZlMmZ1d1JvTDlneHZXVVZpV2hPY0t0cXdTWTJfVy1Lb3JJ?oc=5"
+        },
+        {
+          "name": "GameGPU",
+          "title": "AMD Radeon Vega 8은 무손실 스케일링 프레임 생성기를 최대 220 FPS로 작동시킵니다.",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMm15TkY3QWlyelZiazhicVF6RVJZVTJNWjVnUUl6SlN0cmFUNl9sZ2pJcnRHVm9POUdwX0JSd0lJcXFBTk9GaEExYVo4amYxbnQ2VUo1ZGVhWWVoUk9aUklRc3l4MDhwS0RXQVZWZVEwVUdlRmt0UTV2bmNNd1R0VWxEbUhpeXVRR2hhV2pBVmpOdHU5djFjTWFGY2F3eU12eVJVZzkyQ1FUUktTM3J6VWx0NE5aZDlsVFh2V0xpQ3gyRzZabW9B?oc=5"
+        }
+      ],
+      "keywords": [
+        "RTX 4070",
+        "RTX 2070 Super",
+        "4K 해상도",
+        "무손실 스케일링",
+        "프레임 생성"
+      ],
+      "image_url": "https://picsum.photos/seed/news-20261127-016/600/400"
+    },
+    {
+      "id": "news-20261127-017",
+      "headline": "서울 강서구, 2027년 어르신 일자리 참여자 6,163명 모집",
+      "category": "경제",
+      "categories": [
+        "경제"
+      ],
+      "summary": {
+        "overview": "서울 강서구가 내년도 어르신 일자리 및 사회활동 지원사업 참여자 6,163명을 모집합니다. 접수 기간은 이달 30일부터 다음 달 11일까지이며 강서구 거주 어르신들이 대상입니다.\n\n모집 분야는 공익활동형 4,598명을 포함해 역량활용형, 공동체사업단, 취업지원형 등 총 4개 유형으로 구성됩니다. 신청 희망자는 각 수행기관을 방문하거나 '노인일자리여기' 누리집을 통해 온라인으로 지원하면 됩니다.\n\n온라인 신청자도 필수 증빙서류를 제출하기 위해 수행기관을 반드시 방문해야 합니다. 최종 선발자는 소득 수준과 세대 구성, 활동 역량 등을 종합 평가해 결정하며 내년 1월부터 활동을 시작합니다.\n\n진교훈 강서구청장은 어르신들의 경험이 지역사회에 활력을 불어넣을 수 있도록 일자리 기회를 꾸준히 확대하겠다고 밝혔습니다. 자세한 내용은 강서구청 누리집 공고문에서 확인할 수 있습니다."
+      },
+      "publishers": [
+        {
+          "name": "연합뉴스",
+          "title": "서울 강서구, 내년 어르신 일자리 참여자 6천163명 모집",
+          "url": "https://www.yna.co.kr/view/AKR20261127010000004"
+        }
+      ],
+      "keywords": [
+        "서울 강서구",
+        "어르신 일자리",
+        "노인 일자리",
+        "진교훈",
+        "일자리 모집"
+      ],
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127010000004_02_i_P2.jpg"
+    },
+    {
+      "id": "news-20261127-018",
+      "headline": "롯데멤버스, 토스 앱서 세븐일레븐 '엘포인트' 사후적립 서비스 출시",
       "category": "비즈니스",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "반려동물 양육 가구가 늘면서 가까운 편의점에서 사료와 간식을 구매하는 소비자가 늘고 있습니다. 이에 편의점업계는 전용 매대를 설치하고 상품 라인업을 다변화하며 고객 잡기에 나섰습니다.\n\nCU는 펫 전문 브랜드와 손잡고 주거지와 공원 인근 점포에 전용 매대를 도입했습니다. 특화 매장의 반려동물용품 매출이 일반 점포보다 3.6배 높게 나타나는 등 시너지 효과를 거두고 있습니다.\n\n세븐일레븐도 올해 관련 매출이 전년 대비 15% 늘어나자 전용 매대 운영 점포를 1천 곳까지 늘릴 예정입니다. 반려견용 기획 상품을 독점 출시하는 등 차별화된 마케팅을 전개하고 있습니다.\n\nGS25 역시 고양이 간식류를 중심으로 매출 상승세를 이어가고 있습니다. 사료 중심 구색에서 벗어나 사람이 먹을 수 있는 품질의 '휴먼그레이드' 상품군까지 넓히며 프리미엄 수요에 대응할 계획입니다."
+        "overview": "롯데멤버스가 편의점 세븐일레븐, 핀테크 플랫폼 토스와 협력해 토스 앱 내에서 '엘포인트(L.POINT)' 사후적립 서비스를 개시합니다.\n\n이번 서비스는 세븐일레븐 이용 고객이 결제 과정에서 놓친 포인트를 손쉽게 적립할 수 있도록 돕습니다. 서비스를 이용하려면 토스 앱의 '내 멤버십 모아보기' 메뉴에서 엘포인트 계정을 연결하면 됩니다.\n\n계정을 연동하면 시스템이 세븐일레븐 카드 결제 내역을 자동으로 조회하며, 이용자는 대상 건과 적립 가능 포인트를 확인한 후 신청할 수 있습니다. 서비스 신청은 계정 연동 다음 날부터 가능하며, 신청일 기준 14일 전부터 전날까지 발생한 카드 결제 미적립 건이 대상입니다.\n\n롯데멤버스가 외부 앱 채널을 통해 엘포인트 사후적립 기능을 제공하는 것은 이번이 처음입니다. 세 파트너사의 협력을 통해 일상 속 포인트 적립 편의성이 커질 전망입니다."
       },
       "publishers": [
         {
           "name": "연합뉴스",
-          "title": "[반려동물] \"사료·간식도 동네 편의점서\"…전용매대 늘리고 매출도 '쑥'",
-          "url": "https://www.yna.co.kr/view/AKR20261125112300030"
+          "title": "롯데멤버스, 세븐일레븐 결제 엘포인트 토스앱서 사후적립 서비스",
+          "url": "https://www.yna.co.kr/view/AKR20261126176200030"
         }
       ],
       "keywords": [
-        "반려동물",
-        "편의점",
-        "CU",
+        "롯데멤버스",
         "세븐일레븐",
-        "GS25"
+        "토스",
+        "엘포인트",
+        "사후적립"
       ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125112300030_02_i_P2.jpg"
+      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126176200030_01_i_P2.jpg"
     },
     {
-      "id": "news-20261126-009",
-      "headline": "고물가 속 견조한 성장률 지속… 12월 금리 인상 수순 들어가나",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "지속되는 고물가 흐름 속에서 경제 성장률까지 높게 나타나자 오는 12월 금리 인상이 사실상 확정적인 분위기입니다. 인플레이션 압력이 여전한 상황에서 경제 성장세가 뒷받침되면서 통화 당국의 긴축 명분이 한층 강해졌습니다.\n\n금융 시장에서는 기준금리가 추가로 인플레이션을 잡기 위해 상향 조정될 가능성에 무게를 두고 있습니다. 이번 금리 인상 결정은 시중 금리 상승과 가계 및 기업의 이자 부담 증가로 이어질 것으로 보입니다. 전문가들은 주요 경제 지표의 향방에 따라 향후 통화 정책의 속도가 달라질 것으로 내다보고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "고물가에다 높은 성장률까지…“12월 금리인상 기정사실로”",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBORVQzdzBzODVpWnY4TXRtYXdYRnd6YURlQzRXQjlRaVFnMi10NElkdTZUVXdKb3BUNHlFVXo5blZsbFFuOU1RYkRGQlhkZS11TEttemRjMGowQm5CLXAwc0g1UWhqUQ?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "미 10월 개인소비지출 물가 3.8%↑‥12월 금리인상 전망 굳어져",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ES0pSZ1hWcDJhTUkxU3JCUEZONHNHQUMzNUZYRWFMTEo1UjhTR2xwVE02UnppUmgzMEN1QURyVjNhbGdZRHo0STN1NkdBYzY3Z0ZxYzd3ODM5VS1melVoNjZIUjlUMlNQcExZQXMxNVFDODJq0gF0QVVfeXFMTmI1YnpzbkNQMFdlTHNYc0NEaG9ZVG4yMEx2WGdXRmRTY2o2Q05GQ1FjUlFnQjFrX2R3T25fS2pPdnFhNjhZSWFuemhHbjkyZXBtUnQ3cXpwN2tLTVVKa3czeG1yZjJ3ZnRFWU5SRXlJY0JBaHM?oc=5"
-        }
-      ],
-      "keywords": [
-        "금리인상",
-        "고물가",
-        "성장률",
-        "통화정책",
-        "기준금리"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261126-009/600/400"
-    },
-    {
-      "id": "news-20261126-010",
-      "headline": "한국은행 오늘 기준금리 결정…연 3.25% 인상 여부 발표",
+      "id": "news-20261127-019",
+      "headline": "강렬한 디자인과 폭발적 성능 갖춘 고성능 오픈카 '그란카브리오' 겨울 출격",
       "category": "경제",
       "categories": [
         "경제",
         "비즈니스"
       ],
       "summary": {
-        "overview": "한국은행 금융통화위원회가 오늘(26일) 본회의를 열고 기준금리 조정 여부를 결정합니다.\n\n시장에서는 한은이 기준금리를 기존 수준에서 연 3.25%로 인상할지 여부를 두고 다양한 예측을 내놓고 있습니다.\n\n지속되는 고물가 압력을 완화하고 한미 금리 차이를 줄이기 위해 추가 금리 인상이 필요한 상황입니다.\n\n다만 급격한 금리 상승이 가계부채 부담을 늘리고 경기 침체를 가속할 수 있다는 우려도 함께 나옵니다.\n\n이번 금융통화위원회의 결정은 향후 국내 금융시장과 물가 안정의 향방을 가늠할 주요 기준이 될 전망입니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "한은 오늘(26일) 기준 금리 결정…연 3.25%로 올릴까",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRktacjdlNGEwemNLQWE1TXlEcEZqRHBqUDY2TmxlVG9jTF9OUjlUbXZmaXdXdzQ1Wjh4dGdYNHdoaHduaVZDdWhfLUpfb0Z4cmtLYXBmalR0eDg?oc=5"
-        }
-      ],
-      "keywords": [
-        "한국은행",
-        "기준금리",
-        "금융통화위원회",
-        "금리인상"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261126-010/600/400"
-    },
-    {
-      "id": "news-20261126-011",
-      "headline": "젠슨 황 효과 하루 만에 소멸… 코스피·미 기술주 급락에 전날 상승분 반납",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "젠슨 황 엔비디아 최고경영자(CEO)의 복귀 소식으로 급등했던 미국 기술주와 국내 증시가 하루 만에 하락세로 돌아섰습니다. 증시를 일시적으로 끌어올렸던 '젠슨 황 효과'가 단 하루 만에 소멸하면서 시장의 변동성이 다시 확대되었습니다.\n\n인공지능(AI) 투자 위험성과 같은 시장 내 근본적인 불확실성이 해소되지 않자 투자자들의 경계심이 다시 고조되었습니다. 이에 따라 그동안의 상승에 따른 차익 실현 매물이 한꺼번에 쏟아져 나왔습니다.\n\n25일 코스피는 전날 기록했던 상승분을 모두 반납하며 급락했습니다. 투자 심리가 빠르게 위축된 가운데 당분간 기술주를 중심으로 한 변동성 장세가 이어질 전망입니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "하루 만에 식은 '젠슨 황 효과'‥코스피 또 급락",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5reXVZMHpFczNBaDNtUDJLY3BPNkRWZmNPSmEyM3d3V29rLUV4NktuQnpic0dsY1lYOGRsNkJkY3pOTjN6ZkFmSTJXY0tzN0VPak1ST0JpSkl6T1ZnVFpKVXpia3FmX1dTNHZmOHNaV1UzLWItOWFDadIBeEFVX3lxTE93aGI4NlZLM3ZneThudkYyYmtTVkgtRjEwU25kb2lRU1ZvUVdseG5JM24wQnVuRzZNSTB4cDBybFZRa2tZY2lRdjc1RzNmc2lLZkZxVEhMRHFRYjJZWGFRM3gxNnJjSDkzWndwMndnQzZnckhuZHNuSw?oc=5"
-        },
-        {
-          "name": "동아일보",
-          "title": "하루만에 끝난 ‘젠슨 황 효과’, 코스피 전날 상승분 모두 반납",
-          "url": "https://www.donga.com/news/Economy/article/all/20261126/135092002/2"
-        }
-      ],
-      "keywords": [
-        "젠슨 황",
-        "엔비디아",
-        "코스피",
-        "기술주 급락",
-        "차익 실현"
-      ],
-      "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/26/135090086.5.jpg"
-    },
-    {
-      "id": "news-20261126-012",
-      "headline": "스페인 카나리아 제도, 하루 만에 이주민 2100명 도착하며 비상사태 선포",
-      "category": "글로벌",
-      "categories": [
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "스페인 카나리아 제도에 24시간 동안 이주민 2,100여 명이 배를 타고 들어오며 역대 최다 기록을 경신했습니다. 특히 대서양 군도 중 인구 1만 2천 명 규모의 가장 작은 섬인 엘이에로섬에만 1,990여 명이 집중되었습니다. 서아프리카에서 건너오는 위험한 항해 과정에서 1명이 사망하고 배 위에서 신생아가 태어나는 등 인도적 위기 우려가 커지고 있습니다.\n\n카나리아 제도 자치정부는 수용 능력이 한계에 다다랐다며 엘이에로섬에 비상사태를 선포했습니다. 페르난도 클라비호 자치정부 수반은 이주민 유입이 유럽 전체로 향하는 흐름인 만큼 스페인 특정 지역에만 부담을 지우는 것은 불공평하다며 유럽연합(EU) 집행위원회에 긴급 대응 조치를 촉구했습니다.\n\n올해 카나리아 제도에 도착한 이민자는 2만 4천 명을 넘어서며 전년 동기 대비 급증하는 추세입니다. 조기 총선을 앞둔 페드로 산체스 스페인 총리는 세네갈, 감비아 등 서아프리카 국가들과 국경 통제 협력을 강화하는 동시에 국내 노동력 부족을 해소하기 위한 합법적 이민 경로 개방 정책을 병행하겠다는 입장을 밝혔습니다."
-      },
-      "publishers": [
-        {
-          "name": "경향신문",
-          "title": "스페인 카나리아제도 몰려든 역대 최다 이민자…“비상사태”",
-          "url": "https://www.khan.co.kr/article/202611260704001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "스페인 카나리아제도에 하루 새 이민자 2천1백 명‥역대 최다",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zQ2xlb2VRci1CekRtVnBTSFl4dDE2ZEREN1RSalJsN29IdHlYY0dfMldJcFVlekpkOHBnNWhHR0xLWHRTRjkwTDIydThwbC1vb0owSXFESkpIV09ESGo0WHZ1VUJsbTh1YWtfZ2I4ZU51RHR10gF0QVVfeXFMT1BIeDVUaEIzeDg2MDFDU29sUnBjNW9MVnZoWE9aZnNxV1hJTEpZQ2lqcXlxbTRad3oyb0Q3clozTmw3LV9jS2ZheWhzMF9kb2wwUWY4S29sVkdWT1FvTVMyMVJhS0IxdUszRkxQVkI2S1dRYUs?oc=5"
-        }
-      ],
-      "keywords": [
-        "스페인 카나리아 제도",
-        "이주민 유입",
-        "엘이에로섬",
-        "비상사태",
-        "유럽연합"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261126-012/600/400"
-    },
-    {
-      "id": "news-20261126-013",
-      "headline": "이란군 \"호르무즈 해협서 LNG 운반선과 유조선 기뢰 충돌로 화재 발생\"",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "경제"
-      ],
-      "summary": {
-        "overview": "이란군에 따르면 중동의 핵심 해상 에너지 수송로인 호르무즈 해협에서 액화천연가스(LNG) 운반선과 유조선이 기뢰에 충돌하며 화재가 발생했습니다.\n\n호르무즈 해협은 전 세계 원유와 가스 물동량이 집중되는 주요 요충지로, 이번 기뢰 충돌 사고로 인해 해상 물류 이동과 글로벌 에너지 시장의 불안감이 급격히 커지고 있습니다.\n\n이란 군 당국은 사고 수습과 함께 정확한 피해 규모를 파악하는 한편, 사고 해역 인근의 통제를 강화하고 있습니다.\n\n주요 에너지 수송로에서 발생한 이번 사고로 해당 해역의 군사적 긴장이 더욱 고조되고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "KBS 뉴스",
-          "title": "이란군 “호르무즈 해협서 LNG 운반선·유조선 기뢰 충돌로 화재”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kSnFJTG5tdEtiTmR6dXg4aG50N3JKdXd1dkxkNUNwNGMwT1VoVFhxaDljakpTVTN0OE8yZGNnMzl6cGJxS3hBSUVOQ2lVRTRxVTBjd3Q3NXRTMGc?oc=5"
-        },
-        {
-          "name": "MBC 뉴스",
-          "title": "이란군 \"호르무즈서 LNG선·유조선 기뢰 충돌 화재\"",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hdXJKTVQ3SHVLOHJVcjlyNjFmRFptVzd0TnFxOXlOQ2hXSWNXWjcwRXhQRG9rWUNWcXpXZDNpQUhaYWJ0QU9vcXotVVNVUGhfNFl0YUc0bDl5SW4wVHF6enpSRnVQQUJ0OUxTMHJ6UVpGdkFB0gF0QVVfeXFMTm90VXNNcUN2YjFEWkVEZWFIZHFaNXo5Y3dDS0lwZzlYUnlNdU16aDgzcnNHNE5jREpzaWdYSWNLR0wtaElDQkhrN3BzenVRRnpJN0R3UFoyaGpDTnYwZHN2bHc1OG52dDBOSHJxbGtXLU85ZVc?oc=5"
-        }
-      ],
-      "keywords": [
-        "호르무즈 해협",
-        "이란군",
-        "LNG 운반선",
-        "유조선",
-        "기뢰 충돌"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261126-013/600/400"
-    },
-    {
-      "id": "news-20261126-014",
-      "headline": "예멘 후티 반군의 사우디 정유시설 공격으로 국제유가 급등…브렌트유 3.5% 상승",
-      "category": "글로벌",
-      "categories": [
-        "글로벌",
-        "경제"
-      ],
-      "summary": {
-        "overview": "예멘 후티 반군이 사우디아라비아의 주요 정유시설을 공격하면서 국제유가가 급등했습니다.\n\n이번 습격으로 중동 지역의 석유 공급 차질에 대한 우려가 다시 불거졌으며 글로벌 원유 시장이 크게 요동쳤습니다.\n\n특히 글로벌 유가 기준물인 북해산 브렌트유 가격은 전 거래일 대비 3.5% 폭등하며 강세를 보였습니다.\n\n주요 에너지 인프라를 겨냥한 직접적인 군사 공격으로 인해 원유 수급 불안감이 시장 전반에 퍼지고 있습니다."
-      },
-      "publishers": [
-        {
-          "name": "MBC 뉴스",
-          "title": "국제유가, 후티 사우디 정유시설 공격에 급등‥브렌트 3.5%↑",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNaWlTaS1mMHVqb1lPZmNQNEpHOEY4OF83SkZDUHU0V0pkZzAzLWJCbnpzY3JvYmdrQjM5dVplUTltYlJBcWs3d2UzN0Npbm1Lczh6SXJNT2ZYTXhwV2xTMUVJODdsc2hycUtlV0o5Z2t1eUpn0gF0QVVfeXFMTXFVSnM0SDlzaGhRcTFHMDJpQmVCYkNXeGc0VnZMVE5hYU9rX2U1SnNneXA3elhXeUtTeVRLSER1c0RKT3JEaTZWeEs1NlVpY0xFN3Rnb1RxRVBvTFZBdzlueWd4MDg1THN4MFdQWGtQT2Q3cEw?oc=5"
-        },
-        {
-          "name": "YTN",
-          "title": "후티 \"사우디 최대 정유시설 공격\"...국제유가 3%대 급등",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LWmxOSUZZWUx0UTd2UXItYjJqV1JLa3lwMUdidHRDR3A3VUVZSDZ3Vll4NFJTeVRMenlMRlRZaDRpWkstZ2pZOFJPRkNaS24tLVhHaGYzWHpGeFpBS1E?oc=5"
-        }
-      ],
-      "keywords": [
-        "국제유가",
-        "후티 반군",
-        "사우디 정유시설",
-        "브렌트유",
-        "원유 공급"
-      ],
-      "image_url": "https://picsum.photos/seed/news-20261126-014/600/400"
-    },
-    {
-      "id": "news-20261126-015",
-      "headline": "업비트서 바이낸스로 반년간 4천억원 순유출…파생상품 거래 수요와 제도 한계 지적",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "국내 최대 가상자산 거래소 업비트에서 해외 거래소 바이낸스로 최근 반년간 4천억 원이 넘는 자금이 순유출된 것으로 확인됐습니다. 박성훈 국민의힘 의원이 두나무에서 제출받은 자료에 따르면 올해 5월부터 10월까지 업비트에서 바이낸스로 순출고된 가상자산은 총 4천131억 원 규모입니다. 특히 9월 한 달 동안에만 1천223억 원에 달하는 자금이 유출되며 가장 큰 폭을 기록했습니다.\n\n가상자산 업계에서는 국내외 거래소 간의 서비스 차이를 자금 이동의 주된 원인으로 꼽고 있습니다. 해외 거래소는 선물과 레버리지, 마진거래 등 파생상품을 통해 투자자가 위험을 분산하거나 변동성을 활용할 수 있는 반면, 국내 거래소는 개인 대상 현물 거래로 사업 영역이 제한되어 있습니다.\n\n이러한 사업 구조의 한계는 시장 침체기 거래소 실적에도 직격탄을 날리고 있습니다. 올해 3분기 국내 주요 거래소의 매출이 전년 대비 60% 이상 급감한 것에 비해, 사업 다각화를 이룬 해외 거래소 코인베이스의 매출 감소 폭은 35% 수준에 머물렀습니다. 전문가들은 글로벌 시장 흐름에 능동적으로 대응할 수 있도록 법인과 기관 투자자의 시장 참여를 확대하고 파생상품 도입 등 제도적 기반을 마련해야 한다고 지적합니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "업비트서 바이낸스로 반년간 4천억원 순유출…\"파생상품 수요\"",
-          "url": "https://www.yna.co.kr/view/AKR20261125137600002"
-        }
-      ],
-      "keywords": [
-        "업비트",
-        "바이낸스",
-        "가상자산",
-        "파생상품",
-        "제도 개선"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/reuters/2026/11/11/PRU20261111195101009_P2.jpg"
-    },
-    {
-      "id": "news-20261126-016",
-      "headline": "AI 시험 부정행위 장비 판매 지갑에 28억 원 상당 가상자산 유입…국내 유출입 가능성 상존",
-      "category": "IT/과학",
-      "categories": [
-        "경제",
-        "IT/과학"
-      ],
-      "summary": {
-        "overview": "시험 부정행위에 쓰이는 인공지능(AI) 전자기기를 판매하는 업자들의 가상자산 지갑으로 약 28억 원 규모의 스테이블코인 테더(USDT)가 유입된 사실이 확인됐습니다. 블록체인 분석업체 보난자팩토리가 장비 판매 텔레그램방과 관련된 가상자산 지갑 8개를 추적해 자금 흐름을 분석한 결과입니다.\n\n전체 유입액 가운데 장외환전용으로 추정되는 계좌를 제외하고, 장비 판매대금을 직접 받은 것으로 확인된 지갑 3개에는 약 1억 8천만 원(408건)이 들어왔습니다. 입금 내역 대부분은 판매 기기 가격에 해당하는 50~400테더 수준이었습니다. 지갑 주소를 확보하지 못한 판매처와 편의점 기프트카드, 알리페이 등 비블록체인 결제 수단까지 고려하면 실제 유통 규모는 더 클 수 있습니다.\n\n국내 주요 원화거래소에서 해당 지갑으로 직접 또는 중간 지갑을 거쳐 자금이 이동한 내역은 발견되지 않았습니다. 다만 국내 이용자가 국내 거래소에서 해외 거래소나 개인 지갑으로 자산을 이전한 뒤 결제했다면 블록체인상 추적이 끊기므로, 한국인 구매 가능성이 없다고 단정할 수는 없습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "AI 시험 부정행위 장비 판매 관련 지갑에 28억원어치 테더 유입",
-          "url": "https://www.yna.co.kr/view/AKR20261125177600002"
-        }
-      ],
-      "keywords": [
-        "AI 부정행위",
-        "테더",
-        "가상자산 지갑",
-        "보난자팩토리",
-        "블록체인 분석"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111610090001300_P2.jpg"
-    },
-    {
-      "id": "news-20261126-017",
-      "headline": "국토부, 제11회 국제주택도시금융포럼 개최…지역 주거 격차 완화 및 AI 활용 방안 논의",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "글로벌"
-      ],
-      "summary": {
-        "overview": "국토교통부가 서울 웨스틴조선호텔에서 '제11회 국제주택도시금융포럼'을 열고 지역 간 주거 격차 완화와 주택시장 안정을 위한 금융 혁신 방안을 논의합니다.\n\n이번 행사에는 국내외 주택·도시·금융 전문가 250여 명이 참여해 주택시장 불확실성과 지역 양극화, 가계부채 관리 등 주요 현안을 다룹니다. 이와 함께 인공지능(AI) 기술 발전에 따른 부동산 시장 변화와 주거복지 증진 방안도 모색합니다.\n\n등용행 미국 위스콘신-매디슨대 교수를 비롯한 글로벌 연구진은 각국 사례를 바탕으로 주택금융체계 개선안과 대출 상환유예 정책의 여파를 분석해 발표합니다. 포럼은 한국어와 영어 동시통역을 제공하며 주택도시보증공사(HUG) 유튜브 채널을 통해 생중계합니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "지역 간 주거 격차 완화 방안 모색…국제주택도시금융포럼",
-          "url": "https://www.yna.co.kr/view/AKR20261125127700003"
-        }
-      ],
-      "keywords": [
-        "국제주택도시금융포럼",
-        "국토교통부",
-        "주거격차",
-        "주택금융",
-        "인공지능"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125127700003_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261126-018",
-      "headline": "국민 84% \"서비스산업 중요\" 인식에도 취업 선호·경쟁력은 제조업에 밀려",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "국민 10명 중 8명 이상이 서비스산업을 국가 경제 성장의 핵심으로 파악하고 있지만, 정작 취업 선호도나 산업 경쟁력에 대한 체감도는 제조업보다 크게 낮은 것으로 조사됐습니다. 한국경제인협회가 성인 1천 명을 대상으로 실시한 인식조사 결과, 응답자의 84.4%가 서비스산업의 중요성에 공감했습니다.\n\n그러나 제조업 대비 서비스산업의 취업 선호도가 낮다는 응답은 50.5%로 높다는 응답(12.8%)을 압도했습니다. 응답자 절반가량은 일자리의 질과 임금 수준이 제조업에 미치지 못한다고 평가했으며, 주요 선진국과 비교한 국제 경쟁력도 열세라는 시각이 우세했습니다. 이는 그동안 내수 위주로 정체된 서비스산업의 구조적 한계와 낮은 정부 지원이 원인으로 분석됩니다.\n\n정부 지원이 부족하다고 답한 비율은 43.0%에 달했으며, 우선 추진 과제로는 전문인력 양성과 불합리한 규제 개선이 꼽혔습니다. 한경협은 서비스산업발전기본법 제정을 추진해 규제를 완화하고 기술혁신을 지원함으로써 서비스산업의 생산성을 높이고 양질의 일자리를 만들어내야 한다고 제언했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "국민 84% \"서비스산업 중요\"…취업 선호도는 제조업보다 낮아",
-          "url": "https://www.yna.co.kr/view/AKR20261125156200003"
-        }
-      ],
-      "keywords": [
-        "서비스산업",
-        "한국경제인협회",
-        "제조업",
-        "일자리",
-        "서비스산업발전기본법"
-      ],
-      "image_url": "https://img.yna.co.kr/photo/yna/YH/2026/07/06/PYH2026070600740001300_P2.jpg"
-    },
-    {
-      "id": "news-20261126-019",
-      "headline": "서울신용보증재단, 소상공인 규제혁신·금융지원 공로로 대통령 표창 수상",
-      "category": "경제",
-      "categories": [
-        "경제",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "서울신용보증재단이 중소벤처기업부 주관 '2026년 대한민국 규제혁신 대상' 시상식에서 최고 영예인 대통령 표창을 받았습니다. 재단은 소상공인의 현장 애로사항을 발굴하고 불합리한 금융 지원 규정을 적극 개선한 공로를 인정받았습니다.\n\n재단은 지난해 7월 서울 내 25개 지점을 소상공인 종합지원센터로 전환하고 규제혁신 전담 조직을 신설해 총 2만 1,813건의 현장 목소리를 수집했습니다. 이를 바탕으로 타 지역 신용보증재단에 보증 잔액이 있는 기업에도 잔액 차감 범위 내에서 신규 보증이 가능하도록 규정을 바꿨으며, 제도 개선 후 1년간 1,861개 업체에 413억 원 상당의 보증을 지원했습니다.\n\n또한 서류 제출이나 방문 없이 모바일로 1일 이내 승인받는 자영업자 전용 '서울형 안심통장'을 전국 최초로 도입했습니다. 재단은 해당 상품을 통해 기존 고금리 대출 이용자들의 이자 부담을 약 1,844억 원 절감한 것으로 파악했습니다."
-      },
-      "publishers": [
-        {
-          "name": "연합뉴스",
-          "title": "서울신용보증재단, 소상공인 규제혁신 공로 '대통령 표창' 수상",
-          "url": "https://www.yna.co.kr/view/AKR20261125166000004"
-        }
-      ],
-      "keywords": [
-        "서울신용보증재단",
-        "대통령 표창",
-        "규제혁신",
-        "소상공인 지원",
-        "서울형 안심통장"
-      ],
-      "image_url": "https://img.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125166000004_01_i_P2.jpg"
-    },
-    {
-      "id": "news-20261126-020",
-      "headline": "미 FCC, 스페이스X 우주 AI 데이터센터 위성 100만 기 승인…'트럼프 계좌' 주식 기부도 발표",
-      "category": "IT/과학",
-      "categories": [
-        "경제",
-        "IT/과학",
-        "글로벌",
-        "비즈니스"
-      ],
-      "summary": {
-        "overview": "스페이스X가 지구 궤도에 인공지능(AI) 데이터센터 구축을 위해 제출한 최대 100만 기 규모의 위성 발사 신청이 미국 연방통신위원회(FCC)의 최종 승인을 받았습니다. 이번 승인은 지상 데이터센터의 고질적인 전력 난과 냉각용 용수 부족 문제를 극복하기 위해 우주 공간으로 연산 능력을 확장하는 첫 공식 사례입니다.\n\n스페이스X는 24시간 태양광을 확보할 수 있는 궤도에 위성을 배치하고, 물 대신 열을 방출하는 복사 냉각 방식을 적용해 운영 비용과 환경 부담을 줄일 계획입니다. 아마존 창업자 제프 베이조스가 이끄는 블루오리진 역시 우주 데이터센터 승인을 신청하며 빅테크 간 우주 주도권 다툼이 치열해지고 있습니다.\n\n다만 상용화까지는 초대형 태양광 패널 제작과 대용량 데이터 통신 시스템 구축 등 기술적 난관이 뚜렷합니다. 100만 기에 달하는 위성 배치로 인한 궤도 충돌 위험과 천체 관측 방해를 우려하는 과학계의 반발도 넘어야 합니다.\n\n한편 스페이스X와 일론 머스크는 미국 신생아 및 어린이의 자산 형성을 지원하는 '트럼프 계좌'에 자사 주식을 기부하겠다고 발표했습니다. 7000만 개에 달하는 대상 계좌에 기부가 이뤄질 경우 전체 기부액은 약 178억 달러에 달할 전망입니다."
+        "overview": "겨울 출시를 앞둔 고성능 컨버터블 모델 '그란카브리오'가 강렬한 디자인과 폭발적인 주행 성능을 선보입니다. 영화나 드라마 속 매혹적인 캐릭터처럼 과감한 스타일을 앞세워 프리미엄 스포츠카 시장에 도전장을 내밀었습니다.\n\n이번 신형 모델은 럭셔리 오픈탑 특유의 미학을 고스란히 담아냈으며, 강력한 엔진 성능을 바탕으로 역동적인 드라이빙 경험을 전달합니다. 차량 전반에 적용한 정밀한 디자인과 특유의 감성적인 배기음은 도로 위에서 독보적인 존재감을 발휘합니다.\n\n계절에 구애받지 않는 오픈탑 기술과 최상위 편의 기능을 결합해 운전자의 드라이빙 감성을 충족하는 데 중점을 뒀습니다. 남다른 개성을 추구하는 자동차 매니아층에게 색다른 주행의 즐거움을 제공합니다."
       },
       "publishers": [
         {
           "name": "매일경제",
-          "title": "미 정부, 스페이스X의 우주 데이터센터 승인…‘트럼프 계좌’에 주식 기부도",
-          "url": "https://www.mk.co.kr/news/it/12218877"
+          "title": "“오빠, 왜 이 차만 타면 ‘나쁜 남자’ 돼”…도파민 폭발, 죽여주는 ‘19금 오픈카’ [카슐랭]",
+          "url": "https://www.mk.co.kr/news/business/12219801"
         }
       ],
       "keywords": [
-        "스페이스X",
-        "우주 데이터센터",
-        "FCC 승인",
-        "일론 머스크",
-        "트럼프 계좌"
+        "그란카브리오",
+        "오픈카",
+        "컨버터블",
+        "스포츠카",
+        "신차출시"
       ],
-      "image_url": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.3cfd1f7dd1b544858b0b7c43b2661b68_R.png"
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/27/news-p.v1.20261127.acb03368e5ad4ca59bfb49e38537fdf5_R.jpg"
+    },
+    {
+      "id": "news-20261127-020",
+      "headline": "미 무역대표부, 한국 반도체·자동차 육성책을 '과잉생산 관세' 근거로 지목",
+      "category": "경제",
+      "categories": [
+        "경제",
+        "글로벌"
+      ],
+      "summary": {
+        "overview": "미국 무역대표부가 한국 정부의 반도체 및 자동차 산업 육성 정책을 '과잉생산 관세' 부과의 핵심 근거로 지목했습니다.\n\n미국 측은 호남 반도체 클러스터 조성 계획과 150조 원 규모의 국민성장펀드 등을 대표적인 정부 지원 사례로 언급했습니다. 이러한 정책이 시장 내 과도한 공급을 유발한다는 주장을 펼치고 있습니다.\n\n국내 핵심 수출 산업인 반도체와 자동차 분야를 향한 통상 압박이 구체화함에 따라 향후 정부와 산업계의 세심한 대응책 마련이 필요합니다."
+      },
+      "publishers": [
+        {
+          "name": "매일경제",
+          "title": "매경이 전하는 세상의 지식 (매-세-지, 11월 27일)",
+          "url": "https://www.mk.co.kr/news/economy/12219800"
+        }
+      ],
+      "keywords": [
+        "미국 무역대표부",
+        "과잉생산 관세",
+        "반도체",
+        "자동차",
+        "국민성장펀드"
+      ],
+      "image_url": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.d15c3602a8d646908a66630e03f973a7_R.jpg"
     }
   ]
 }
